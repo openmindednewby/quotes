@@ -1,0 +1,203 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #0d1b2a, #1b263b);
+  font-family: 'Delius', sans-serif;
+  color: #e0e1dd;
+}
+
+.container {
+  background: rgba(27, 38, 59, 0.8);
+  backdrop-filter: blur(10px);
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+  text-align: center;
+  width: 80%;
+  max-width: 800px;
+  border: 1px solid #00ffff;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #00ffff;
+  text-shadow: 0 0 10px #00ffff;
+  margin-bottom: 1.5rem;
+  font-weight: normal;
+}
+
+#textInput {
+  padding: 0.8rem 1.5rem;
+  font-size: 1.2rem;
+  border: 2px solid #00ffff;
+  border-radius: 5px;
+  background: #1b263b;
+  color: #e0e1dd;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 10px #00ffff;
+  width: 60%;
+  max-width: 400px;
+}
+
+#textInput:focus {
+  outline: 3px solid #ff00ff;
+  outline-offset: 2px;
+  background: #00ffff;
+  color: #1b263b;
+  box-shadow: 0 0 20px #00ffff;
+}
+
+.generate-btn, .copy-btn {
+  background: #1b263b;
+  color: #00ffff;
+  padding: 0.8rem 1.5rem;
+  border: 2px solid #00ffff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 10px #00ffff;
+  margin: 5px;
+  display: inline-block;
+}
+
+.generate-btn:hover, .copy-btn:hover,
+.generate-btn:focus, .copy-btn:focus {
+  background: #00ffff;
+  color: #1b263b;
+  box-shadow: 0 0 20px #00ffff;
+  transform: scale(1.05);
+}
+
+.generate-btn:focus, .copy-btn:focus {
+  outline: 3px solid #ff00ff;
+  outline-offset: 2px;
+}
+
+.copy-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+  border-color: #ccc;
+  box-shadow: none;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.copy-btn::after {
+  content: 'Copy';
+  position: absolute;
+  top: -2.2rem;
+  right: -0.5rem;
+  background: rgba(0, 0, 0, 0.8);
+  color: #00ffff;
+  padding: 0.3rem 0.6rem;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.copy-btn.copied::after {
+  content: 'Copied!';
+  opacity: 1;
+}
+
+.copy-btn i {
+  font-size: 1.2rem;
+}
+
+.qrcode-output {
+  margin: 20px 0;
+  text-align: center;
+  display: inline-flex;
+}
+
+.qrcode-output canvas {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #00ffff;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);
+}
+
+.input-zone {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.output-container {
+  position: relative;
+  margin-top: 1rem;
+}
+
+.footer, .bottom-text {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #e0e1dd;
+  opacity: 1;
+}
+
+.footer a, .bottom-text a {
+  color: #00ffff;
+  text-decoration: none;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+.footer a:hover, .bottom-text a:hover,
+.footer a:focus, .bottom-text a:focus {
+  color: #ff00ff;
+  text-shadow: 0 0 10px #ff00ff;
+  text-decoration: underline;
+}
+
+.footer a:focus, .bottom-text a:focus {
+  outline: 3px solid #00ff00;
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #00ffff;
+  color: #1b263b;
+  padding: 8px;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}

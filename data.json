@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "quoteText": "ουδέν μονιμότερον του προσωρινού",
+        "quoteTextEN": "nothing is more permanent than the temporary",
+        "quoteDescription": "τίποτα δεν είναι μονιμότερο από το προσωρινό (nothing is more permanent than the temporary)",
+        "quoteMeaningAnalysis": "άποψη διατυπωμένη με υπερβολή προκειμένου για καταστάσεις που παρατείνονται από αμέλεια ή λόγω συμφέροντος",
+        "author": "Your Name",
+        "category": "Sample Category",
+        "tags": ["work", "life", "relationships"],
+        "resources": ["https://www.leksiko-ellinikon.gr/index.php?instance=categories&id=33&word_id=30491", "https://el.wikiquote.org/wiki/Οὐδὲν_μονιμότερον_τοῦ_προσωρινοῦ"]
+    },
+    {
+        "id": "2",
+        "quoteText": "carpe diem",
+        "quoteTextEN": "seize the day",
+        "quoteDescription": "απόλαυσε τη στιγμή, ζήσε τη μέρα",
+        "quoteMeaningAnalysis": "ενθάρρυνση να εκμεταλλευτεί κάποιος την παρούσα στιγμή χωρίς να ανησυχεί για το μέλλον",
+        "author": "Another Name",
+        "category": "Motivational",
+        "tags": ["motivation", "life", "inspiration"],
+        "resources": ["https://en.wikiquote.org/wiki/Carpe_diem", "https://www.goodreads.com/quotes/2443-carpe-diem-seize-the-day"]
+    },
+    {
+        "id": "3",
+        "quoteText": "veni, vidi, vici",
+        "quoteTextEN": "I came, I saw, I conquered",
+        "quoteDescription": "ήρθα, είδα, νίκησα",
+        "quoteMeaningAnalysis": "έκφραση που χρησιμοποιείται για να δηλώσει μια γρήγορη και αποφασιστική νίκη",
+        "author": "Famous Leader",
+        "category": "Historical",
+        "tags": ["history", "victory", "leadership"],
+        "resources": ["https://en.wikiquote.org/wiki/Veni,_vidi,_vici", "https://www.britannica.com/topic/Veni-vidi-vici"]
+    }
+]
