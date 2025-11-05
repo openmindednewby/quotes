@@ -41,6 +41,12 @@ async function loadQuotes() {
     quoteAuthorEl.textContent = '';
     quoteCultureEl.textContent = '';
     quoteCategoryEl.textContent = '';
+    renderTags([]);
+    renderResources([]);
+
+    clearTimeout(cycleTimer);
+    cycleTimer = null;
+    requestAnimationFrame(() => quoteCard.classList.add('visible'));
   }
 }
 
