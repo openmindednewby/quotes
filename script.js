@@ -5,6 +5,8 @@ const quoteMetaEl = document.getElementById('quoteMeta');
 
 const displayDuration = 8000; // time quote stays visible
 const transitionDuration = 600; // fade-out duration before switching
+const isFileProtocol = window.location.protocol === 'file:';
+const bundledQuotes = Array.isArray(window.QUOTES_DATA) ? window.QUOTES_DATA : null;
 let cycleTimer = null;
 let quotes = [];
 let currentIndex = 0;
@@ -15,21 +17,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuotes() {
   try {
+    if (isFileProtocol) {
+      if (!bundledQuotes) {
+        throw new Error('Local viewing requires the bundled quotes dataset.');
+      }
+      initializeQuotes(bundledQuotes);
+      return;
+    }
+
     const response = await fetch('data.json', { cache: 'no-cache' });
     if (!response.ok) {
       throw new Error(`Unable to load quotes: ${response.status} ${response.statusText}`);
     }
     const data = await response.json();
-    if (!Array.isArray(data) || data.length === 0) {
-      throw new Error('The quote collection is empty or malformed.');
-    }
-    quotes = shuffle(data.slice());
-    currentIndex = 0;
-    setQuoteContent(quotes[currentIndex]);
-    requestAnimationFrame(() => quoteContainer.classList.add('visible'));
-    scheduleNextQuote();
+    initializeQuotes(data);
   } catch (error) {
     console.error(error);
+
+    if (!isFileProtocol && bundledQuotes) {
+      console.warn('Falling back to bundled quotes dataset.');
+      initializeQuotes(bundledQuotes);
+      return;
+    }
+
     quoteOriginalEl.textContent = 'The whispers are silent for a moment.';
     quoteTranslationEl.textContent = '';
     quoteMetaEl.textContent = 'We could not open the book of wisdom. Please refresh to try again.';
@@ -38,6 +48,18 @@ async function loadQuotes() {
     cycleTimer = null;
     requestAnimationFrame(() => quoteContainer.classList.add('visible'));
   }
+}
+
+function initializeQuotes(data) {
+  if (!Array.isArray(data) || data.length === 0) {
+    throw new Error('The quote collection is empty or malformed.');
+  }
+
+  quotes = shuffle(data.slice());
+  currentIndex = 0;
+  setQuoteContent(quotes[currentIndex]);
+  requestAnimationFrame(() => quoteContainer.classList.add('visible'));
+  scheduleNextQuote();
 }
 
 function setQuoteContent(quote) {

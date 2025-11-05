@@ -42,7 +42,12 @@
   </main>
 
   <script>
-    if ('serviceWorker' in navigator) {
+    const isServiceWorkerAllowed =
+      ('isSecureContext' in window && window.isSecureContext) ||
+      window.location.protocol === 'https:' ||
+      window.location.hostname === 'localhost';
+
+    if ('serviceWorker' in navigator && isServiceWorkerAllowed) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('/service-worker.js')
           .then((registration) => {
@@ -54,6 +59,7 @@
       });
     }
   </script>
+  <script src="quotes-data.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

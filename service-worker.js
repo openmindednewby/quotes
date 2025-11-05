@@ -3,6 +3,7 @@ const urlsToCache = [
   '/index.html',
   '/styles.css',
   '/script.js',
+  '/quotes-data.js',
   'https://unpkg.com/tesseract.js@5.1.0/dist/tesseract.min.js',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css',
   'https://fonts.googleapis.com/css2?family=Delius&display=swap'
