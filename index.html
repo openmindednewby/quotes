@@ -35,37 +35,11 @@
 </head>
 
 <body>
-  <div class="atmosphere"></div>
-  <div class="app">
-    <header class="site-header" role="banner">
-      <h1>Sanctum of Wisdom</h1>
-      <p class="subtitle">A living library of quotes, teachings, and ideals to carry humanity forward.</p>
-    </header>
-
-    <main class="main-stage" role="main">
-      <section class="quote-stage" aria-live="polite" aria-atomic="true">
-        <article class="quote-card" id="quoteCard">
-          <p class="quote-original" id="quoteOriginal">Loading ancient whispers...</p>
-          <p class="quote-translation" id="quoteTranslation"></p>
-          <p class="quote-description" id="quoteDescription"></p>
-          <div class="quote-meta">
-            <span class="quote-author" id="quoteAuthor"></span>
-            <span class="meta-divider" aria-hidden="true">•</span>
-            <span class="quote-culture" id="quoteCulture"></span>
-            <span class="meta-divider" aria-hidden="true">•</span>
-            <span class="quote-category" id="quoteCategory"></span>
-          </div>
-          <ul class="quote-tags" id="quoteTags" aria-label="Themes"></ul>
-          <div class="quote-resources" id="quoteResources" aria-label="Further reading"></div>
-        </article>
-      </section>
-    </main>
-
-    <footer class="site-footer" role="contentinfo">
-      <p>Every quote is drawn from <code>data.json</code>, honoring the voices of many peoples and philosophies.</p>
-      <p>Curated with reverence by <a href="https://www.dloizides.com/" target="_blank" rel="noopener">openmindednewby</a>.</p>
-    </footer>
-  </div>
+  <main class="quote-container" role="main" aria-live="polite" aria-atomic="true">
+    <p class="quote-text" id="quoteOriginal">Loading ancient whispers...</p>
+    <p class="quote-translation" id="quoteTranslation"></p>
+    <p class="quote-meta" id="quoteMeta"></p>
+  </main>
 
   <script>
     if ('serviceWorker' in navigator) {
