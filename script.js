@@ -1,15 +1,10 @@
-const quoteCard = document.getElementById('quoteCard');
+const quoteContainer = document.querySelector('.quote-container');
 const quoteOriginalEl = document.getElementById('quoteOriginal');
 const quoteTranslationEl = document.getElementById('quoteTranslation');
-const quoteDescriptionEl = document.getElementById('quoteDescription');
-const quoteAuthorEl = document.getElementById('quoteAuthor');
-const quoteCultureEl = document.getElementById('quoteCulture');
-const quoteCategoryEl = document.getElementById('quoteCategory');
-const quoteTagsEl = document.getElementById('quoteTags');
-const quoteResourcesEl = document.getElementById('quoteResources');
+const quoteMetaEl = document.getElementById('quoteMeta');
 
-const displayDuration = 9000; // time quote stays visible
-const transitionDuration = 1200; // fade-out duration before switching
+const displayDuration = 8000; // time quote stays visible
+const transitionDuration = 600; // fade-out duration before switching
 let cycleTimer = null;
 let quotes = [];
 let currentIndex = 0;
@@ -31,22 +26,17 @@ async function loadQuotes() {
     quotes = shuffle(data.slice());
     currentIndex = 0;
     setQuoteContent(quotes[currentIndex]);
-    requestAnimationFrame(() => quoteCard.classList.add('visible'));
+    requestAnimationFrame(() => quoteContainer.classList.add('visible'));
     scheduleNextQuote();
   } catch (error) {
     console.error(error);
     quoteOriginalEl.textContent = 'The whispers are silent for a moment.';
     quoteTranslationEl.textContent = '';
-    quoteDescriptionEl.textContent = 'We could not open the book of wisdom. Please refresh to try again.';
-    quoteAuthorEl.textContent = '';
-    quoteCultureEl.textContent = '';
-    quoteCategoryEl.textContent = '';
-    renderTags([]);
-    renderResources([]);
+    quoteMetaEl.textContent = 'We could not open the book of wisdom. Please refresh to try again.';
 
     clearTimeout(cycleTimer);
     cycleTimer = null;
-    requestAnimationFrame(() => quoteCard.classList.add('visible'));
+    requestAnimationFrame(() => quoteContainer.classList.add('visible'));
   }
 }
 
@@ -55,51 +45,23 @@ function setQuoteContent(quote) {
   quoteTranslationEl.textContent = quote.quoteTextEN && quote.quoteTextEN !== quote.quoteText
     ? quote.quoteTextEN
     : '';
-  quoteDescriptionEl.textContent = quote.quoteDescription || '';
-  quoteAuthorEl.textContent = quote.author || '';
-  quoteCultureEl.textContent = quote.culture || '';
-  quoteCategoryEl.textContent = quote.category || '';
-
-  renderTags(Array.isArray(quote.tags) ? quote.tags : []);
-  renderResources(Array.isArray(quote.resources) ? quote.resources : []);
-}
-
-function renderTags(tags) {
-  quoteTagsEl.innerHTML = '';
-  tags.forEach((tag) => {
-    const item = document.createElement('li');
-    item.textContent = `#${tag}`;
-    quoteTagsEl.appendChild(item);
-  });
-}
-
-function renderResources(resources) {
-  quoteResourcesEl.innerHTML = '';
-  resources.forEach((link, index) => {
-    if (typeof link !== 'string') return;
-    const anchor = document.createElement('a');
-    anchor.href = link;
-    anchor.target = '_blank';
-    anchor.rel = 'noopener';
-    anchor.textContent = `Resource ${index + 1}`;
-    quoteResourcesEl.appendChild(anchor);
-  });
-  if (!quoteResourcesEl.children.length) {
-    quoteResourcesEl.innerHTML = '<span class="no-resources">No external references provided.</span>';
-  }
+  const metaParts = [quote.author, quote.culture, quote.category]
+    .map((part) => (typeof part === 'string' ? part.trim() : ''))
+    .filter(Boolean);
+  quoteMetaEl.textContent = metaParts.join(' • ');
 }
 
 function scheduleNextQuote() {
   clearTimeout(cycleTimer);
   cycleTimer = setTimeout(() => {
-    quoteCard.classList.remove('visible');
+    quoteContainer.classList.remove('visible');
     setTimeout(() => {
       currentIndex = (currentIndex + 1) % quotes.length;
       if (currentIndex === 0) {
         quotes = shuffle(quotes.slice());
       }
       setQuoteContent(quotes[currentIndex]);
-      requestAnimationFrame(() => quoteCard.classList.add('visible'));
+      requestAnimationFrame(() => quoteContainer.classList.add('visible'));
       scheduleNextQuote();
     }, transitionDuration);
   }, displayDuration);
