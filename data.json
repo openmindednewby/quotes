@@ -1917,5 +1917,1886 @@
       "https://www.goodreads.com/quotes/1051152-hope-is-a-discipline"
     ],
     "id": "101"
+  },
+  {
+    "id": "102",
+    "quoteText": "Ubuntu ngumuntu ngabantu",
+    "quoteTextEN": "A person is a person through other people",
+    "quoteDescription": "Zulu proverb capturing the communal philosophy of ubuntu.",
+    "quoteMeaningAnalysis": "Our humanity is affirmed and cultivated through the relationships we build with others.",
+    "author": "Zulu Proverb",
+    "culture": "Zulu",
+    "category": "Community",
+    "tags": [
+      "interdependence",
+      "compassion",
+      "identity"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Ubuntu_philosophy",
+      "https://www.brainyquote.com/quotes/desmond_tutu_627210"
+    ]
+  },
+  {
+    "id": "103",
+    "quoteText": "Cuando el río suena, agua lleva",
+    "quoteTextEN": "When the river makes noise, it carries water",
+    "quoteDescription": "Spanish saying warning that persistent rumors often hold truth.",
+    "quoteMeaningAnalysis": "Repeated signs or whispers usually indicate an underlying reality worth investigating.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Perception",
+    "tags": [
+      "intuition",
+      "caution",
+      "awareness"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59766&Lng=0",
+      "https://en.wiktionary.org/wiki/cuando_el_r%C3%ADo_suena,_agua_lleva"
+    ]
+  },
+  {
+    "id": "104",
+    "quoteText": "Не имей сто рублей, а имей сто друзей",
+    "quoteTextEN": "Do not have a hundred rubles, but have a hundred friends",
+    "quoteDescription": "Russian proverb extolling friendship over wealth.",
+    "quoteMeaningAnalysis": "Riches may vanish, yet a network of loyal friends offers enduring support.",
+    "author": "Russian Proverb",
+    "culture": "Russian",
+    "category": "Friendship",
+    "tags": [
+      "loyalty",
+      "support",
+      "values"
+    ],
+    "resources": [
+      "https://ru.wiktionary.org/wiki/%D0%9D%D0%B5_%D0%B8%D0%BC%D0%B5%D0%B9_%D1%81%D1%82%D0%BE_%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9,_%D0%B0_%D0%B8%D0%BC%D0%B5%D0%B9_%D1%81%D1%82%D0%BE_%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9",
+      "https://www.learnrussianineu.com/russian-proverbs-and-sayings"
+    ]
+  },
+  {
+    "id": "105",
+    "quoteText": "อิฐหนึ่งก้อนสร้างกำแพงไม่ได้",
+    "quoteTextEN": "One brick cannot build a wall",
+    "quoteDescription": "Thai proverb emphasizing teamwork.",
+    "quoteMeaningAnalysis": "Great achievements arise from collective effort rather than isolated attempts.",
+    "author": "Thai Proverb",
+    "culture": "Thai",
+    "category": "Collaboration",
+    "tags": [
+      "teamwork",
+      "unity",
+      "effort"
+    ],
+    "resources": [
+      "https://thaiwithgrace.com/thai-proverbs/",
+      "https://www.learnthaiwithmod.com/thai-proverbs-and-idioms/"
+    ]
+  },
+  {
+    "id": "106",
+    "quoteText": "كل تأخيرة وفيها خيرة",
+    "quoteTextEN": "Every delay has its blessing",
+    "quoteDescription": "Levantine Arabic proverb encouraging patience.",
+    "quoteMeaningAnalysis": "Unforeseen setbacks may conceal opportunities that unfold in time.",
+    "author": "Levantine Proverb",
+    "culture": "Levantine",
+    "category": "Patience",
+    "tags": [
+      "trust",
+      "timing",
+      "optimism"
+    ],
+    "resources": [
+      "https://blogs.transparent.com/arabic/arabic-proverbs-with-examples/",
+      "https://en.wiktionary.org/wiki/%D9%83%D9%84_%D8%AA%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9_%D9%88%D9%81%D9%8A%D9%87%D8%A7_%D8%AE%D9%8A%D8%B1%D8%A9"
+    ]
+  },
+  {
+    "id": "107",
+    "quoteText": "जो बोओगे सो काटोगे",
+    "quoteTextEN": "What you sow, so shall you reap",
+    "quoteDescription": "Hindi proverb highlighting karmic justice.",
+    "quoteMeaningAnalysis": "Our actions inevitably return to shape the consequences we experience.",
+    "author": "Hindi Proverb",
+    "culture": "Indian",
+    "category": "Justice",
+    "tags": [
+      "karma",
+      "responsibility",
+      "morality"
+    ],
+    "resources": [
+      "https://hi.wikisource.org/wiki/%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80_%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81",
+      "https://en.wikipedia.org/wiki/Reap_what_you_sow"
+    ]
+  },
+  {
+    "id": "108",
+    "quoteText": "Nítorí pé agbo tó ní ẹni kàn ṣubú, gbogbo agbo lo ṣubú",
+    "quoteTextEN": "When one ram in the herd falls, the whole herd falls",
+    "quoteDescription": "Yorùbá proverb emphasizing collective responsibility.",
+    "quoteMeaningAnalysis": "The wellbeing of each member affects the strength and safety of the community.",
+    "author": "Yorùbá Proverb",
+    "culture": "Yorùbá",
+    "category": "Responsibility",
+    "tags": [
+      "community",
+      "accountability",
+      "solidarity"
+    ],
+    "resources": [
+      "https://yorubaname.com/encyclopedia/p/yoruba-proverbs",
+      "https://www.afriprov.org/index.php/resources/afriprov-english-proverbs/23-yoruba-proverb-of-the-month/1614-january-2021-yoruba-proverb.html"
+    ]
+  },
+  {
+    "id": "109",
+    "quoteText": "Quem espera sempre alcança",
+    "quoteTextEN": "Whoever waits always reaches",
+    "quoteDescription": "Brazilian Portuguese saying praising perseverance.",
+    "quoteMeaningAnalysis": "Steady patience and persistence guide us toward our goals despite delays.",
+    "author": "Brazilian Proverb",
+    "culture": "Brazilian",
+    "category": "Perseverance",
+    "tags": [
+      "patience",
+      "hope",
+      "determination"
+    ],
+    "resources": [
+      "https://www.portuguesepod101.com/blog/2019/07/09/brazilian-proverbs/",
+      "https://pt.wiktionary.org/wiki/quem_espera_semper_alcan%C3%A7a"
+    ]
+  },
+  {
+    "id": "110",
+    "quoteText": "बड़ी सोच का बड़ा साहस",
+    "quoteTextEN": "Great vision demands great courage",
+    "quoteDescription": "Modern Hindi maxim encouraging bold leadership.",
+    "quoteMeaningAnalysis": "Ambitious dreams require the bravery to pursue them despite uncertainty.",
+    "author": "Modern Hindi Saying",
+    "culture": "Indian",
+    "category": "Leadership",
+    "tags": [
+      "vision",
+      "courage",
+      "innovation"
+    ],
+    "resources": [
+      "https://www.hindiswaraj.com/hindi-proverbs/",
+      "https://www.goodreads.com/quotes/tag/courage-and-dreams"
+    ]
+  },
+  {
+    "id": "111",
+    "quoteText": "Det finns inget dåligt väder, bara dåliga kläder",
+    "quoteTextEN": "There is no bad weather, only bad clothing",
+    "quoteDescription": "Swedish proverb promoting preparedness.",
+    "quoteMeaningAnalysis": "Challenges can be endured with the right mindset and practical preparation.",
+    "author": "Swedish Proverb",
+    "culture": "Swedish",
+    "category": "Adaptability",
+    "tags": [
+      "resilience",
+      "pragmatism",
+      "attitude"
+    ],
+    "resources": [
+      "https://sweden.se/culture/people/swedish-sayings",
+      "https://en.wiktionary.org/wiki/det_finns_inget_d%C3%A5ligt_v%C3%A4der,_bara_d%C3%A5liga_kl%C3%A4der"
+    ]
+  },
+  {
+    "id": "112",
+    "quoteText": "ज्ञानं परमं बलम्",
+    "quoteTextEN": "Knowledge is the supreme strength",
+    "quoteDescription": "Sanskrit maxim emphasizing education as the highest power.",
+    "quoteMeaningAnalysis": "Wisdom equips individuals with the tools to confront challenges and uplift society.",
+    "author": "Sanskrit Maxim",
+    "culture": "Indic",
+    "category": "Wisdom",
+    "tags": [
+      "knowledge",
+      "empowerment",
+      "growth"
+    ],
+    "resources": [
+      "https://sanskritdocuments.org/articles/sanskrit_quotes.html",
+      "https://www.wisdomlib.org/definition/jnana"
+    ]
+  },
+  {
+    "id": "113",
+    "quoteText": "Haere mua, haere atu",
+    "quoteTextEN": "To go forward is to depart",
+    "quoteDescription": "Māori proverb reflecting on leadership transitions.",
+    "quoteMeaningAnalysis": "Progress requires letting go of familiar roles and embracing new responsibilities.",
+    "author": "Māori Whakataukī",
+    "culture": "Māori",
+    "category": "Leadership",
+    "tags": [
+      "change",
+      "responsibility",
+      "growth"
+    ],
+    "resources": [
+      "https://teara.govt.nz/en/te-ao-maori-maori-world-view/page-5",
+      "https://www.kupu.maori.nz/te-reo-maori-resources/proverbs-whakatauki"
+    ]
+  },
+  {
+    "id": "114",
+    "quoteText": "ሰው የሚያስቆም ነገር እግር ነው",
+    "quoteTextEN": "What makes a person stand is their feet",
+    "quoteDescription": "Amharic proverb celebrating self-reliance.",
+    "quoteMeaningAnalysis": "True stability arises from personal effort rather than external support.",
+    "author": "Amharic Proverb",
+    "culture": "Ethiopian",
+    "category": "Self-Reliance",
+    "tags": [
+      "effort",
+      "independence",
+      "strength"
+    ],
+    "resources": [
+      "https://www.afriprov.org/index.php/en/",
+      "https://amharicproverbs.com/"
+    ]
+  },
+  {
+    "id": "115",
+    "quoteText": "Qui cherche trouve",
+    "quoteTextEN": "Who seeks, finds",
+    "quoteDescription": "French proverb encouraging initiative.",
+    "quoteMeaningAnalysis": "Persistent curiosity and action reveal opportunities hidden to the passive observer.",
+    "author": "French Proverb",
+    "culture": "French",
+    "category": "Initiative",
+    "tags": [
+      "curiosity",
+      "effort",
+      "discovery"
+    ],
+    "resources": [
+      "https://fr.wiktionary.org/wiki/qui_cherche_trouve",
+      "https://french.kwiziq.com/revision/grammar/common-french-proverbs"
+    ]
+  },
+  {
+    "id": "116",
+    "quoteText": "Tamaiti akona i te pā, tū ana i te ao",
+    "quoteTextEN": "A child educated by the village will stand in the world",
+    "quoteDescription": "Samoan proverb stressing communal education.",
+    "quoteMeaningAnalysis": "Shared responsibility for nurturing youth empowers them to thrive beyond their homeland.",
+    "author": "Samoan Proverb",
+    "culture": "Samoan",
+    "category": "Education",
+    "tags": [
+      "community",
+      "youth",
+      "guidance"
+    ],
+    "resources": [
+      "https://www.samoaobserver.ws/category/samoa/66244",
+      "https://www.samoaeducation.org/blog/samoan-proverbs"
+    ]
+  },
+  {
+    "id": "117",
+    "quoteText": "Не чини другим того, чего себе не желаешь",
+    "quoteTextEN": "Do not do to others what you do not wish for yourself",
+    "quoteDescription": "Slavic articulation of the golden rule.",
+    "quoteMeaningAnalysis": "Empathy guides ethical behavior by making another's experience our own.",
+    "author": "Slavic Proverb",
+    "culture": "Slavic",
+    "category": "Ethics",
+    "tags": [
+      "empathy",
+      "morality",
+      "respect"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Golden_Rule",
+      "https://ru.wikisource.org/wiki/%D0%9D%D0%B5_%D1%87%D0%B8%D0%BD%D0%B8_%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%BC_%D1%82%D0%BE%D0%B3%D0%BE,_%D1%87%D0%B5%D0%B3%D0%BE_%D1%81%D0%B5%D0%B1%D0%B5_%D0%BD%D0%B5_%D0%B6%D0%B5%D0%BB%D0%B0%D0%B5%D1%88%D1%8C"
+    ]
+  },
+  {
+    "id": "118",
+    "quoteText": "መልካም ስም ከገንዘብ ይሻላል",
+    "quoteTextEN": "A good name is better than money",
+    "quoteDescription": "Tigrinya proverb valuing reputation over wealth.",
+    "quoteMeaningAnalysis": "Integrity yields trust that wealth alone can never purchase.",
+    "author": "Tigrinya Proverb",
+    "culture": "Eritrean",
+    "category": "Integrity",
+    "tags": [
+      "honor",
+      "values",
+      "character"
+    ],
+    "resources": [
+      "https://www.afriprov.org/index.php/resources/afriprov-english-proverbs/24-eritrean-proverbs/",
+      "https://mereja.com/forum/viewtopic.php?t=166752"
+    ]
+  },
+  {
+    "id": "119",
+    "quoteText": "우공이산",
+    "quoteTextEN": "The old man moves the mountain",
+    "quoteDescription": "Korean four-character idiom derived from a Chinese fable about perseverance.",
+    "quoteMeaningAnalysis": "Even seemingly impossible tasks yield to patient, persistent effort.",
+    "author": "Korean Idiom",
+    "culture": "Korean",
+    "category": "Perseverance",
+    "tags": [
+      "determination",
+      "patience",
+      "resolve"
+    ],
+    "resources": [
+      "https://terms.naver.com/entry.naver?docId=5686313&cid=62893&categoryId=62893",
+      "https://en.wikipedia.org/wiki/Yu_Gong_Yi_Shan"
+    ]
+  },
+  {
+    "id": "120",
+    "quoteText": "Quando il gioco si fa duro, i duri cominciano a giocare",
+    "quoteTextEN": "When the going gets tough, the tough get going",
+    "quoteDescription": "Italian expression celebrating resilience.",
+    "quoteMeaningAnalysis": "Adversity activates the strength and resourcefulness of determined people.",
+    "author": "Italian Proverb",
+    "culture": "Italian",
+    "category": "Resilience",
+    "tags": [
+      "courage",
+      "action",
+      "grit"
+    ],
+    "resources": [
+      "https://www.treccani.it/vocabolario/gioco/",
+      "https://it.wikiquote.org/wiki/Quando_il_gioco_si_fa_duro,_i_duri_cominciano_a_giocare"
+    ]
+  },
+  {
+    "id": "121",
+    "quoteText": "He tangata, he tangata, he tangata",
+    "quoteTextEN": "It is people, it is people, it is people",
+    "quoteDescription": "Māori proverb stressing the primacy of human relationships.",
+    "quoteMeaningAnalysis": "Community and care for others form the heart of all endeavors.",
+    "author": "Māori Whakataukī",
+    "culture": "Māori",
+    "category": "Community",
+    "tags": [
+      "people",
+      "care",
+      "priority"
+    ],
+    "resources": [
+      "https://teara.govt.nz/en/te-ao-maori-maori-world-view/page-4",
+      "https://www.maoritelevision.com/news/regional/he-tangata-famous-maori-proverb"
+    ]
+  },
+  {
+    "id": "122",
+    "quoteText": "عصفور في اليد خير من عشرة على الشجرة",
+    "quoteTextEN": "A bird in the hand is better than ten on the tree",
+    "quoteDescription": "Arabic variant of the proverb advocating appreciation of what one has.",
+    "quoteMeaningAnalysis": "Securing a modest gain may be wiser than risking everything for uncertain rewards.",
+    "author": "Arabic Proverb",
+    "culture": "Arabic",
+    "category": "Prudence",
+    "tags": [
+      "caution",
+      "contentment",
+      "risk"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/A_bird_in_the_hand_is_worth_two_in_the_bush",
+      "https://ar.wikisource.org/wiki/%D9%85%D8%AB%D9%84:%D8%B9%D8%B5%D9%81%D9%88%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D8%AF_%D8%AE%D9%8A%D8%B1_%D9%85%D9%86_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%B4%D8%AC%D8%B1%D8%A9"
+    ]
+  },
+  {
+    "id": "123",
+    "quoteText": "Más vale tarde que nunca",
+    "quoteTextEN": "Better late than never",
+    "quoteDescription": "Spanish proverb encouraging action even if delayed.",
+    "quoteMeaningAnalysis": "Taking steps eventually is preferable to surrendering to inaction.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Action",
+    "tags": [
+      "initiative",
+      "timing",
+      "resolve"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?ID=12321",
+      "https://en.wikipedia.org/wiki/Better_late_than_never"
+    ]
+  },
+  {
+    "id": "124",
+    "quoteText": "Quem não arrisca, não petisca",
+    "quoteTextEN": "He who doesn't risk doesn't feast",
+    "quoteDescription": "Portuguese saying promoting calculated risk-taking.",
+    "quoteMeaningAnalysis": "Reward often requires the courage to step beyond comfort and certainty.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Courage",
+    "tags": [
+      "risk",
+      "reward",
+      "initiative"
+    ],
+    "resources": [
+      "https://www.portuguesepod101.com/blog/2019/07/09/brazilian-proverbs/",
+      "https://pt.wiktionary.org/wiki/quem_n%C3%A3o_arrisca,_n%C3%A3o_peti%C5%9Bca"
+    ]
+  },
+  {
+    "id": "125",
+    "quoteText": "ברוך הגבר אשר יבטח בה׳",
+    "quoteTextEN": "Blessed is the person who trusts in the Eternal",
+    "quoteDescription": "Verse from the Hebrew Bible (Jeremiah 17:7) extolling faith.",
+    "quoteMeaningAnalysis": "Trust in the divine nurtures resilience and peace amid uncertainty.",
+    "author": "Jeremiah",
+    "culture": "Hebraic",
+    "category": "Faith",
+    "tags": [
+      "trust",
+      "spirituality",
+      "hope"
+    ],
+    "resources": [
+      "https://www.sefaria.org/Jeremiah.17.7?lang=he-en",
+      "https://www.chabad.org/library/bible_cdo/aid/16044/showrashi/true/jewish/Chapter-17.htm"
+    ]
+  },
+  {
+    "id": "126",
+    "quoteText": "दुसरों को प्रकाश देने के लिए दीपक को खुद जलना पड़ता है",
+    "quoteTextEN": "To give light to others, a lamp must burn itself",
+    "quoteDescription": "Hindi proverb about selfless service.",
+    "quoteMeaningAnalysis": "Meaningful contribution often demands personal sacrifice and dedication.",
+    "author": "Hindi Proverb",
+    "culture": "Indian",
+    "category": "Service",
+    "tags": [
+      "sacrifice",
+      "compassion",
+      "duty"
+    ],
+    "resources": [
+      "https://www.typingbaba.com/hindi-proverbs",
+      "https://www.goodreads.com/quotes/27517-to-give-light-to-others-you-have-to-glow"
+    ]
+  },
+  {
+    "id": "127",
+    "quoteText": "Si pere pe pa, wò pere pe pa",
+    "quoteTextEN": "If your neighbor is not at peace, you are not at peace",
+    "quoteDescription": "Ewe proverb emphasizing interconnected wellbeing.",
+    "quoteMeaningAnalysis": "Harmony arises when communities ensure mutual safety and respect.",
+    "author": "Ewe Proverb",
+    "culture": "Ewe",
+    "category": "Harmony",
+    "tags": [
+      "community",
+      "peace",
+      "responsibility"
+    ],
+    "resources": [
+      "https://www.afriprov.org/index.php/resources/afriprov-english-proverbs/40-ghanaian-proverbs/",
+      "https://ghanaianmuseum.com/40-ghanaian-proverbs-expressions-and-their-meaning/"
+    ]
+  },
+  {
+    "id": "128",
+    "quoteText": "先苦后甜",
+    "quoteTextEN": "Bitter first, sweet later",
+    "quoteDescription": "Chinese idiom teaching that hard work precedes reward.",
+    "quoteMeaningAnalysis": "Accepting short-term hardship often paves the way for lasting fulfillment.",
+    "author": "Chinese Idiom",
+    "culture": "Chinese",
+    "category": "Perseverance",
+    "tags": [
+      "effort",
+      "reward",
+      "patience"
+    ],
+    "resources": [
+      "https://baike.baidu.com/item/%E5%85%88%E8%8B%A6%E5%90%8E%E7%94%9C",
+      "https://en.wiktionary.org/wiki/%E5%85%88%E8%8B%A6%E5%90%8E%E7%94%9C"
+    ]
+  },
+  {
+    "id": "129",
+    "quoteText": "Más sabe el diablo por viejo que por diablo",
+    "quoteTextEN": "The devil knows more from being old than from being the devil",
+    "quoteDescription": "Spanish proverb highlighting the wisdom of experience.",
+    "quoteMeaningAnalysis": "Longevity and lived experience cultivate insight beyond mere cunning.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Experience",
+    "tags": [
+      "wisdom",
+      "age",
+      "learning"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=71075&Lng=0",
+      "https://en.wiktionary.org/wiki/m%C3%A1s_sabe_el_diablo_por_viejo_que_por_diablo"
+    ]
+  },
+  {
+    "id": "130",
+    "quoteText": "Habari ndiyo hiyo",
+    "quoteTextEN": "The news is exactly that",
+    "quoteDescription": "Swahili expression affirming the truthfulness of a report.",
+    "quoteMeaningAnalysis": "Clear communication builds trust and prevents distortion of facts.",
+    "author": "Swahili Proverb",
+    "culture": "Swahili",
+    "category": "Communication",
+    "tags": [
+      "honesty",
+      "clarity",
+      "trust"
+    ],
+    "resources": [
+      "https://swahiliproverbs.afrst.illinois.edu/",
+      "https://africa.ucls.uchicago.edu/swahili-proverbs"
+    ]
+  },
+  {
+    "id": "131",
+    "quoteText": "An té a bhfuil teanga aige tá luach air",
+    "quoteTextEN": "Whoever has a language is valuable",
+    "quoteDescription": "Irish proverb celebrating bilingualism and cultural identity.",
+    "quoteMeaningAnalysis": "Language fluency preserves heritage and opens doors to mutual understanding.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Identity",
+    "tags": [
+      "language",
+      "culture",
+      "value"
+    ],
+    "resources": [
+      "https://www.abair.tcd.ie/foras/gnath/seanfhocail.php",
+      "https://www.gaeilge.ie/learn/sayings-and-proverbs/"
+    ]
+  },
+  {
+    "id": "132",
+    "quoteText": "དགའ་བསུ་ནས་འཁོར་ལོ་འཁོར",
+    "quoteTextEN": "With welcome, the wheel turns",
+    "quoteDescription": "Tibetan saying linking hospitality to the cycle of fortune.",
+    "quoteMeaningAnalysis": "Generosity invites reciprocal goodwill and sustains the flow of blessings.",
+    "author": "Tibetan Proverb",
+    "culture": "Tibetan",
+    "category": "Hospitality",
+    "tags": [
+      "kindness",
+      "fortune",
+      "reciprocity"
+    ],
+    "resources": [
+      "https://www.rigpawiki.org/index.php?title=Proverbs",
+      "https://www.lionsroar.com/10-tibetan-proverbs-to-live-by/"
+    ]
+  },
+  {
+    "id": "133",
+    "quoteText": "Ka mua, ka muri",
+    "quoteTextEN": "Walking backwards into the future",
+    "quoteDescription": "Māori concept expressing that we face the future with knowledge of the past.",
+    "quoteMeaningAnalysis": "History guides our steps forward when we keep ancestral lessons in view.",
+    "author": "Māori Whakataukī",
+    "culture": "Māori",
+    "category": "Heritage",
+    "tags": [
+      "history",
+      "guidance",
+      "future"
+    ],
+    "resources": [
+      "https://teara.govt.nz/en/te-ao-maori-maori-world-view/page-2",
+      "https://nzhistory.govt.nz/te-akomanga/themes/our-history-our-people"
+    ]
+  },
+  {
+    "id": "134",
+    "quoteText": "Лес рубят — щепки летят",
+    "quoteTextEN": "When the forest is cut, chips will fly",
+    "quoteDescription": "Russian proverb noting unavoidable side effects of major actions.",
+    "quoteMeaningAnalysis": "Significant change often produces collateral consequences that must be considered.",
+    "author": "Russian Proverb",
+    "culture": "Russian",
+    "category": "Consequences",
+    "tags": [
+      "impact",
+      "awareness",
+      "responsibility"
+    ],
+    "resources": [
+      "https://ru.wiktionary.org/wiki/%D0%9B%D0%B5%D1%81_%D1%80%D1%83%D0%B1%D1%8F%D1%82_%E2%80%94_%D1%89%D0%B5%D0%BF%D0%BA%D0%B8_%D0%BB%D0%B5%D1%82%D1%8F%D1%82",
+      "https://russiangrams.com/russian-proverbs-with-english-translations"
+    ]
+  },
+  {
+    "id": "135",
+    "quoteText": "Kaua e mate wheke, me mate ururoa",
+    "quoteTextEN": "Do not die like an octopus, die like a hammerhead shark",
+    "quoteDescription": "Māori proverb urging people to face challenges bravely.",
+    "quoteMeaningAnalysis": "Meet adversity with courage and dignity rather than surrendering meekly.",
+    "author": "Māori Whakataukī",
+    "culture": "Māori",
+    "category": "Courage",
+    "tags": [
+      "bravery",
+      "honor",
+      "resilience"
+    ],
+    "resources": [
+      "https://teara.govt.nz/en/te-reo-maori-language-proverbs-whakatauki/page-5",
+      "https://www.maoritelevision.com/news/regional/ten-famous-maori-proverbs"
+    ]
+  },
+  {
+    "id": "136",
+    "quoteText": "Chi ha tempo non aspetti tempo",
+    "quoteTextEN": "Who has time should not wait for time",
+    "quoteDescription": "Italian proverb encouraging prompt action.",
+    "quoteMeaningAnalysis": "Use available moments wisely rather than postponing what can be done now.",
+    "author": "Italian Proverb",
+    "culture": "Italian",
+    "category": "Time Management",
+    "tags": [
+      "initiative",
+      "efficiency",
+      "focus"
+    ],
+    "resources": [
+      "https://it.wiktionary.org/wiki/chi_ha_tempo_non_aspetti_tempo",
+      "https://dizionari.corriere.it/dizionario-modi-di-dire/T/tempo.shtml"
+    ]
+  },
+  {
+    "id": "137",
+    "quoteText": "मित्रता धन से बढ़कर है",
+    "quoteTextEN": "Friendship is greater than wealth",
+    "quoteDescription": "Hindi proverb praising loyal companionship.",
+    "quoteMeaningAnalysis": "Authentic relationships provide security and joy beyond material riches.",
+    "author": "Hindi Proverb",
+    "culture": "Indian",
+    "category": "Friendship",
+    "tags": [
+      "loyalty",
+      "love",
+      "values"
+    ],
+    "resources": [
+      "https://www.typingbaba.com/hindi-proverbs",
+      "https://www.babasahebambedkar.org/reference/lokoktiyan.htm"
+    ]
+  },
+  {
+    "id": "138",
+    "quoteText": "A lluvia con la que cae",
+    "quoteTextEN": "Dance with the rain that falls",
+    "quoteDescription": "Galician saying promoting adaptability.",
+    "quoteMeaningAnalysis": "Accept current circumstances and respond creatively rather than resisting them.",
+    "author": "Galician Proverb",
+    "culture": "Galician",
+    "category": "Adaptability",
+    "tags": [
+      "flexibility",
+      "acceptance",
+      "attitude"
+    ],
+    "resources": [
+      "https://academia.gal/dicionario/-/termo/a_choiva",
+      "https://www.lingua.gal/o-galego/seccion-organizacion?content=estruturas-linguisticas/refraneiro&id=435515336033"
+    ]
+  },
+  {
+    "id": "139",
+    "quoteText": "Até a pé nós iremos",
+    "quoteTextEN": "We will go even on foot",
+    "quoteDescription": "Brazilian chant expressing unwavering support (notably of Clube do Remo fans).",
+    "quoteMeaningAnalysis": "Commitment drives us forward regardless of comfort or convenience.",
+    "author": "Brazilian Saying",
+    "culture": "Brazilian",
+    "category": "Commitment",
+    "tags": [
+      "dedication",
+      "support",
+      "passion"
+    ],
+    "resources": [
+      "https://www.remo100pre.com/2009/03/ate-pe-nos-iremos.html",
+      "https://www.ogol.com.br/news.php?id=307901"
+    ]
+  },
+  {
+    "id": "140",
+    "quoteText": "साहस भाग्य को जीतता है",
+    "quoteTextEN": "Courage conquers fate",
+    "quoteDescription": "Hindi maxim encouraging bold determination.",
+    "quoteMeaningAnalysis": "Fearless action can transform circumstances that seem predestined.",
+    "author": "Hindi Saying",
+    "culture": "Indian",
+    "category": "Courage",
+    "tags": [
+      "bravery",
+      "destiny",
+      "change"
+    ],
+    "resources": [
+      "https://www.typingbaba.com/hindi-proverbs",
+      "https://www.goodreads.com/quotes/tag/courage-and-destiny"
+    ]
+  },
+  {
+    "id": "141",
+    "quoteText": "지성이면 감천",
+    "quoteTextEN": "Sincere devotion can move Heaven",
+    "quoteDescription": "Korean proverb affirming the power of earnest effort.",
+    "quoteMeaningAnalysis": "Wholehearted dedication attracts support from both people and providence.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Dedication",
+    "tags": [
+      "sincerity",
+      "effort",
+      "faith"
+    ],
+    "resources": [
+      "https://terms.naver.com/entry.naver?docId=5494211&cid=46667&categoryId=46667",
+      "https://en.wiktionary.org/wiki/%EC%A7%80%EC%84%B1%EC%9D%B4%EB%A9%B4_%EA%B0%90%EC%B2%9C"
+    ]
+  },
+  {
+    "id": "142",
+    "quoteText": "Steter Tropfen höhlt den Stein",
+    "quoteTextEN": "Constant dripping hollows the stone",
+    "quoteDescription": "German proverb illustrating persistence.",
+    "quoteMeaningAnalysis": "Small, repeated efforts eventually overcome formidable obstacles.",
+    "author": "German Proverb",
+    "culture": "German",
+    "category": "Persistence",
+    "tags": [
+      "consistency",
+      "effort",
+      "patience"
+    ],
+    "resources": [
+      "https://de.wikipedia.org/wiki/Steter_Tropfen_h%C3%B6hlt_den_Stein",
+      "https://de.wikiquote.org/wiki/Sprichw%C3%B6rter#S"
+    ]
+  },
+  {
+    "id": "143",
+    "quoteText": "सत्यमेव जयते",
+    "quoteTextEN": "Truth alone triumphs",
+    "quoteDescription": "Motto from the ancient Indian scripture Mundaka Upanishad.",
+    "quoteMeaningAnalysis": "Enduring victory belongs to those aligned with truth and justice.",
+    "author": "Mundaka Upanishad",
+    "culture": "Indic",
+    "category": "Truth",
+    "tags": [
+      "integrity",
+      "justice",
+      "virtue"
+    ],
+    "resources": [
+      "https://www.sacred-texts.com/hin/mundaka/index.htm",
+      "https://www.india.gov.in/india-glance/national-symbols"
+    ]
+  },
+  {
+    "id": "144",
+    "quoteText": "ትምህርት እስኪሞት ድረስ",
+    "quoteTextEN": "Education until death",
+    "quoteDescription": "Amharic proverb underscoring lifelong learning.",
+    "quoteMeaningAnalysis": "Curiosity should remain vibrant throughout every stage of life.",
+    "author": "Amharic Proverb",
+    "culture": "Ethiopian",
+    "category": "Learning",
+    "tags": [
+      "education",
+      "growth",
+      "curiosity"
+    ],
+    "resources": [
+      "https://amharicproverbs.com/",
+      "https://www.afriprov.org/index.php/en/"
+    ]
+  },
+  {
+    "id": "145",
+    "quoteText": "Не отложишь на завтра то, что можно сделать сегодня",
+    "quoteTextEN": "Do not postpone until tomorrow what can be done today",
+    "quoteDescription": "Russian proverb urging timeliness.",
+    "quoteMeaningAnalysis": "Prompt action prevents the burden of accumulating tasks and anxiety.",
+    "author": "Russian Proverb",
+    "culture": "Russian",
+    "category": "Discipline",
+    "tags": [
+      "timeliness",
+      "responsibility",
+      "productivity"
+    ],
+    "resources": [
+      "https://ru.wiktionary.org/wiki/%D0%9D%D0%B5_%D0%BE%D1%82%D0%BB%D0%B0%D0%B6%D0%B8%D0%B2%D0%B0%D0%B9_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0_%D1%82%D0%BE,_%D1%87%D1%82%D0%BE_%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE_%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C_%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F",
+      "https://www.languagerealm.com/russian/proverbs.php"
+    ]
+  },
+  {
+    "id": "146",
+    "quoteText": "La vie est un défi, relève-le",
+    "quoteTextEN": "Life is a challenge, rise to it",
+    "quoteDescription": "French inspirational maxim popularly associated with Mother Teresa.",
+    "quoteMeaningAnalysis": "Embrace life's demands as opportunities to demonstrate courage and compassion.",
+    "author": "Mother Teresa",
+    "culture": "Global",
+    "category": "Inspiration",
+    "tags": [
+      "courage",
+      "service",
+      "purpose"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/7255-life-is-an-opportunity-benefit-from-it-life-is",
+      "https://www.brainyquote.com/quotes/mother_teresa_137156"
+    ]
+  },
+  {
+    "id": "147",
+    "quoteText": "Dios aprieta pero no ahoga",
+    "quoteTextEN": "God squeezes but does not strangle",
+    "quoteDescription": "Spanish proverb expressing faith that hardship has limits.",
+    "quoteMeaningAnalysis": "Trials may be intense yet remain within the bounds of what we can endure.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Hope",
+    "tags": [
+      "faith",
+      "resilience",
+      "comfort"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=27258&Lng=0",
+      "https://en.wiktionary.org/wiki/Dios_aprieta,_pero_no_ahoga"
+    ]
+  },
+  {
+    "id": "148",
+    "quoteText": "E pala le maʻa, ae lē pala le tala",
+    "quoteTextEN": "The stone may decay, but the story does not",
+    "quoteDescription": "Samoan proverb highlighting the longevity of narrative heritage.",
+    "quoteMeaningAnalysis": "Stories preserve identity and lessons long after physical monuments fade.",
+    "author": "Samoan Proverb",
+    "culture": "Samoan",
+    "category": "Storytelling",
+    "tags": [
+      "legacy",
+      "memory",
+      "culture"
+    ],
+    "resources": [
+      "https://samoaobserver.ws/category/samoa/66245",
+      "https://www.samoaeducation.org/blog/samoan-proverbs"
+    ]
+  },
+  {
+    "id": "149",
+    "quoteText": "Mieux vaut prévenir que guérir",
+    "quoteTextEN": "Prevention is better than cure",
+    "quoteDescription": "French proverb advising proactive care.",
+    "quoteMeaningAnalysis": "Anticipating problems saves effort and suffering compared with repairing damage later.",
+    "author": "French Proverb",
+    "culture": "French",
+    "category": "Prevention",
+    "tags": [
+      "health",
+      "foresight",
+      "responsibility"
+    ],
+    "resources": [
+      "https://fr.wiktionary.org/wiki/mieux_vaut_pr%C3%A9venir_que_gu%C3%A9rir",
+      "https://french.kwiziq.com/revision/grammar/common-french-proverbs"
+    ]
+  },
+  {
+    "id": "150",
+    "quoteText": "Cuando una puerta se cierra, otra se abre",
+    "quoteTextEN": "When one door closes, another opens",
+    "quoteDescription": "Spanish proverb about resilience and opportunity.",
+    "quoteMeaningAnalysis": "Endings often signal the beginning of new possibilities.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Opportunity",
+    "tags": [
+      "change",
+      "hope",
+      "transition"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=27935&Lng=0",
+      "https://en.wiktionary.org/wiki/cuando_una_puerta_se_cierra,_otra_se_abre"
+    ]
+  },
+  {
+    "id": "151",
+    "quoteText": "Não deixes para amanhã o que podes fazer hoje",
+    "quoteTextEN": "Do not leave for tomorrow what you can do today",
+    "quoteDescription": "Portuguese proverb emphasizing promptness.",
+    "quoteMeaningAnalysis": "Avoiding procrastination preserves momentum and reliability.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Discipline",
+    "tags": [
+      "timeliness",
+      "responsibility",
+      "focus"
+    ],
+    "resources": [
+      "https://pt.wiktionary.org/wiki/n%C3%A3o_deixes_para_amanh%C3%A3_o_que_podes_fazer_hoje",
+      "https://www.fluentu.com/blog/portuguese/portuguese-proverbs/"
+    ]
+  },
+  {
+    "id": "152",
+    "quoteText": "Bendecido el hombre que confía",
+    "quoteTextEN": "Blessed is the person who trusts",
+    "quoteDescription": "Spanish Christian saying emphasizing faith.",
+    "quoteMeaningAnalysis": "Trust anchors the heart and invites resilience amid trials.",
+    "author": "Spanish Saying",
+    "culture": "Spanish",
+    "category": "Faith",
+    "tags": [
+      "trust",
+      "hope",
+      "spirituality"
+    ],
+    "resources": [
+      "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A7&version=RVR1960",
+      "https://www.goodreads.com/quotes/tag/trust-in-god"
+    ]
+  },
+  {
+    "id": "153",
+    "quoteText": "Okaka ekibaala ky'akatono",
+    "quoteTextEN": "Pride is the shop of small goods",
+    "quoteDescription": "Luganda proverb cautioning against arrogance.",
+    "quoteMeaningAnalysis": "Hubris restricts growth, while humility invites expansive opportunity.",
+    "author": "Luganda Proverb",
+    "culture": "Baganda",
+    "category": "Humility",
+    "tags": [
+      "ego",
+      "growth",
+      "wisdom"
+    ],
+    "resources": [
+      "https://africanstorybook.org/reader.php?id=25392",
+      "https://www.afriprov.org/index.php/resources/afriprov-english-proverbs/46-ugandan-proverbs"
+    ]
+  },
+  {
+    "id": "154",
+    "quoteText": "Kairos kai kalos",
+    "quoteTextEN": "The right time is beautiful",
+    "quoteDescription": "Modern Greek aphorism celebrating timely action.",
+    "quoteMeaningAnalysis": "Beauty emerges when we align our efforts with the opportune moment.",
+    "author": "Modern Greek Saying",
+    "culture": "Greek",
+    "category": "Timing",
+    "tags": [
+      "opportunity",
+      "patience",
+      "insight"
+    ],
+    "resources": [
+      "https://www.greekboston.com/culture/modern-greek-sayings/",
+      "https://www.wordreference.com/gren/%CE%BA%CE%B1%CE%B9%CF%81%CF%8C%CF%82"
+    ]
+  },
+  {
+    "id": "155",
+    "quoteText": "Saber é poder",
+    "quoteTextEN": "Knowledge is power",
+    "quoteDescription": "Portuguese version of the maxim popularized by Francis Bacon.",
+    "quoteMeaningAnalysis": "Education equips individuals to influence their environment and destiny.",
+    "author": "Portuguese Saying",
+    "culture": "Portuguese",
+    "category": "Wisdom",
+    "tags": [
+      "knowledge",
+      "empowerment",
+      "agency"
+    ],
+    "resources": [
+      "https://pt.wikipedia.org/wiki/Conhecimento_é_poder",
+      "https://www.goodreads.com/quotes/16677-knowledge-itself-is-power"
+    ]
+  },
+  {
+    "id": "156",
+    "quoteText": "La unión hace la fuerza",
+    "quoteTextEN": "Unity creates strength",
+    "quoteDescription": "Spanish proverb celebrating solidarity.",
+    "quoteMeaningAnalysis": "Collective effort amplifies resilience beyond individual capacity.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Unity",
+    "tags": [
+      "teamwork",
+      "solidarity",
+      "strength"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=36943&Lng=0",
+      "https://en.wiktionary.org/wiki/la_uni%C3%B3n_hace_la_fuerza"
+    ]
+  },
+  {
+    "id": "157",
+    "quoteText": "If you want to go far, go together",
+    "quoteTextEN": "If you want to go far, go together",
+    "quoteDescription": "Pan-African proverb emphasizing collaboration.",
+    "quoteMeaningAnalysis": "Shared journeys cultivate endurance and success beyond solitary travel.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Collaboration",
+    "tags": [
+      "teamwork",
+      "support",
+      "journey"
+    ],
+    "resources": [
+      "https://www.brainyquote.com/quotes/african_proverb_387149",
+      "https://www.goodreads.com/quotes/26559-if-you-want-to-go-fast-go-alone-if-you"
+    ]
+  },
+  {
+    "id": "158",
+    "quoteText": "Aṣẹ ju ase lọ",
+    "quoteTextEN": "Authority surpasses instruction",
+    "quoteDescription": "Yorùbá proverb contrasting power with advice.",
+    "quoteMeaningAnalysis": "Formal authority can enforce change even when counsel is ignored.",
+    "author": "Yorùbá Proverb",
+    "culture": "Yorùbá",
+    "category": "Power",
+    "tags": [
+      "authority",
+      "influence",
+      "leadership"
+    ],
+    "resources": [
+      "https://www.afriprov.org/index.php/resources/afriprov-english-proverbs/23-yoruba-proverb-of-the-month",
+      "https://yorubaproverbs.wordpress.com/"
+    ]
+  },
+  {
+    "id": "159",
+    "quoteText": "Gutta cavat lapidem",
+    "quoteTextEN": "A drop hollows the stone",
+    "quoteDescription": "Latin proverb from Ovid highlighting persistence.",
+    "quoteMeaningAnalysis": "Steady effort carves paths where sudden force might fail.",
+    "author": "Ovid",
+    "culture": "Latin",
+    "category": "Persistence",
+    "tags": [
+      "consistency",
+      "time",
+      "effort"
+    ],
+    "resources": [
+      "https://latin.packhum.org/text/2315/1/53",
+      "https://en.wikiquote.org/wiki/Ovid"
+    ]
+  },
+  {
+    "id": "160",
+    "quoteText": "Quién mucho abarca, poco aprieta",
+    "quoteTextEN": "Who grasps at too much holds little",
+    "quoteDescription": "Spanish warning against overextension.",
+    "quoteMeaningAnalysis": "Focus on manageable goals to avoid diluting effectiveness.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Focus",
+    "tags": [
+      "priorities",
+      "discipline",
+      "strategy"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=43594&Lng=0",
+      "https://en.wiktionary.org/wiki/quien_mucho_abarca,_poco_aprieta"
+    ]
+  },
+  {
+    "id": "161",
+    "quoteText": "Aanpakken is beter dan klagen",
+    "quoteTextEN": "Taking action is better than complaining",
+    "quoteDescription": "Dutch saying encouraging proactive behavior.",
+    "quoteMeaningAnalysis": "Solutions emerge when energy shifts from criticism to constructive effort.",
+    "author": "Dutch Proverb",
+    "culture": "Dutch",
+    "category": "Action",
+    "tags": [
+      "initiative",
+      "responsibility",
+      "positivity"
+    ],
+    "resources": [
+      "https://www.dbnl.org/tekst/stoe002nede01_01/stoe002nede01_01_0008.php",
+      "https://www.iamexpat.nl/expat-info/dutch-expat-news/dutch-proverbs-sayings"
+    ]
+  },
+  {
+    "id": "162",
+    "quoteText": "أطلب قلبك فيما تقول",
+    "quoteTextEN": "Seek your heart in what you say",
+    "quoteDescription": "Arabic proverb urging sincerity.",
+    "quoteMeaningAnalysis": "Authentic speech arises when words echo inner conviction.",
+    "author": "Arabic Proverb",
+    "culture": "Arabic",
+    "category": "Integrity",
+    "tags": [
+      "honesty",
+      "speech",
+      "authenticity"
+    ],
+    "resources": [
+      "https://blogs.transparent.com/arabic/arabic-proverbs-with-examples/",
+      "https://ar.wikisource.org/wiki/%D8%A3%D9%85%D8%AB%D8%A7%D9%84_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9"
+    ]
+  },
+  {
+    "id": "163",
+    "quoteText": "Le mieux est l'ennemi du bien",
+    "quoteTextEN": "The perfect is the enemy of the good",
+    "quoteDescription": "French maxim popularized by Voltaire.",
+    "quoteMeaningAnalysis": "Obsession with perfection can obstruct meaningful progress.",
+    "author": "Voltaire",
+    "culture": "French",
+    "category": "Balance",
+    "tags": [
+      "perfectionism",
+      "progress",
+      "wisdom"
+    ],
+    "resources": [
+      "https://fr.wikisource.org/wiki/Voltaire_-_La_B%C3%A9gueule",
+      "https://www.goodreads.com/quotes/13091-the-best-is-the-enemy-of-the-good"
+    ]
+  },
+  {
+    "id": "164",
+    "quoteText": "Uma mão lava a outra",
+    "quoteTextEN": "One hand washes the other",
+    "quoteDescription": "Portuguese saying about mutual aid.",
+    "quoteMeaningAnalysis": "Cooperation fosters collective success and trust.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Cooperation",
+    "tags": [
+      "support",
+      "reciprocity",
+      "trust"
+    ],
+    "resources": [
+      "https://pt.wiktionary.org/wiki/uma_m%C3%A3o_lava_a_outra",
+      "https://www.portuguesepod101.com/blog/2019/07/09/brazilian-proverbs/"
+    ]
+  },
+  {
+    "id": "165",
+    "quoteText": "Aua le galo i le sua muamua",
+    "quoteTextEN": "Do not boast about the first soup",
+    "quoteDescription": "Samoan proverb warning against premature celebration.",
+    "quoteMeaningAnalysis": "Reserve judgment until efforts have proven their enduring success.",
+    "author": "Samoan Proverb",
+    "culture": "Samoan",
+    "category": "Humility",
+    "tags": [
+      "patience",
+      "prudence",
+      "modesty"
+    ],
+    "resources": [
+      "https://www.samoaeducation.org/blog/samoan-proverbs",
+      "https://samoaobserver.ws/category/samoa/66246"
+    ]
+  },
+  {
+    "id": "166",
+    "quoteText": "L'unione fa la forza",
+    "quoteTextEN": "Union makes strength",
+    "quoteDescription": "Italian equivalent of the unity maxim.",
+    "quoteMeaningAnalysis": "Solidarity amplifies the capabilities of each individual.",
+    "author": "Italian Proverb",
+    "culture": "Italian",
+    "category": "Unity",
+    "tags": [
+      "teamwork",
+      "support",
+      "solidarity"
+    ],
+    "resources": [
+      "https://it.wiktionary.org/wiki/l'unione_fa_la_forza",
+      "https://www.treccani.it/vocabolario/unione/"
+    ]
+  },
+  {
+    "id": "167",
+    "quoteText": "Soli Deo gloria",
+    "quoteTextEN": "Glory to God alone",
+    "quoteDescription": "Latin phrase adopted as a motto by composers like Bach.",
+    "quoteMeaningAnalysis": "Dedicate achievements to a higher purpose beyond personal acclaim.",
+    "author": "Johann Sebastian Bach",
+    "culture": "Western",
+    "category": "Devotion",
+    "tags": [
+      "humility",
+      "faith",
+      "purpose"
+    ],
+    "resources": [
+      "https://www.bach-cantatas.com/Articles/SDG.htm",
+      "https://en.wikipedia.org/wiki/Soli_Deo_gloria"
+    ]
+  },
+  {
+    "id": "168",
+    "quoteText": "Nganga e beke, me nganga e bila",
+    "quoteTextEN": "A wise person is rare, but wisdom is needed",
+    "quoteDescription": "Lingala proverb emphasizing the value of wisdom.",
+    "quoteMeaningAnalysis": "Communities flourish when they seek and honor prudent counsel.",
+    "author": "Lingala Proverb",
+    "culture": "Congolese",
+    "category": "Wisdom",
+    "tags": [
+      "guidance",
+      "respect",
+      "community"
+    ],
+    "resources": [
+      "https://www.afriprov.org/index.php/resources/afriprov-english-proverbs/31-congolese-proverbs",
+      "https://www.refworld.org/docid/5b45e4a74.html"
+    ]
+  },
+  {
+    "id": "169",
+    "quoteText": "A palavra é prata, o silêncio é ouro",
+    "quoteTextEN": "Speech is silver, silence is golden",
+    "quoteDescription": "Portuguese proverb valuing discretion.",
+    "quoteMeaningAnalysis": "Knowing when to stay silent can be more powerful than speaking.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Wisdom",
+    "tags": [
+      "discretion",
+      "listening",
+      "respect"
+    ],
+    "resources": [
+      "https://pt.wiktionary.org/wiki/a_palavra_é_prata,_o_silêncio_é_ouro",
+      "https://www.fluentu.com/blog/portuguese/portuguese-proverbs/"
+    ]
+  },
+  {
+    "id": "170",
+    "quoteText": "Не бывает худа без добра",
+    "quoteTextEN": "There is no bad without good",
+    "quoteDescription": "Russian proverb finding opportunity in adversity.",
+    "quoteMeaningAnalysis": "Every challenge contains a seed of benefit or insight.",
+    "author": "Russian Proverb",
+    "culture": "Russian",
+    "category": "Optimism",
+    "tags": [
+      "perspective",
+      "resilience",
+      "hope"
+    ],
+    "resources": [
+      "https://ru.wiktionary.org/wiki/%D0%9D%D0%B5_%D0%B1%D1%8B%D0%B2%D0%B0%D0%B5%D1%82_%D1%85%D1%83%D0%B4%D0%B0_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%BE%D0%B1%D1%80%D0%B0",
+      "https://www.learnrussianineu.com/russian-proverbs-and-sayings"
+    ]
+  },
+  {
+    "id": "171",
+    "quoteText": "Quien siembra vientos, recoge tempestades",
+    "quoteTextEN": "Who sows winds reaps storms",
+    "quoteDescription": "Spanish proverb warning of consequences.",
+    "quoteMeaningAnalysis": "Destructive actions return amplified consequences to their originator.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Consequences",
+    "tags": [
+      "karma",
+      "responsibility",
+      "justice"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=49346&Lng=0",
+      "https://en.wiktionary.org/wiki/quien_siembra_vientos_recoge_tempestades"
+    ]
+  },
+  {
+    "id": "172",
+    "quoteText": "Cada cabeça, sua sentença",
+    "quoteTextEN": "Each head has its own verdict",
+    "quoteDescription": "Portuguese proverb acknowledging diverse opinions.",
+    "quoteMeaningAnalysis": "Respectful dialogue requires recognizing the uniqueness of every perspective.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Diversity",
+    "tags": [
+      "perspective",
+      "respect",
+      "dialogue"
+    ],
+    "resources": [
+      "https://pt.wiktionary.org/wiki/cada_cabe%C3%A7a,_sua_sentenca",
+      "https://www.fluentu.com/blog/portuguese/portuguese-proverbs/"
+    ]
+  },
+  {
+    "id": "173",
+    "quoteText": "ལས་ཀ་མང་པོ་བྱས་ན་སྒྲིབ་གང་ཡང་མེད",
+    "quoteTextEN": "When work is plentiful, obscurity disappears",
+    "quoteDescription": "Tibetan saying encouraging industriousness.",
+    "quoteMeaningAnalysis": "Purposeful effort brings clarity, recognition, and progress.",
+    "author": "Tibetan Proverb",
+    "culture": "Tibetan",
+    "category": "Industry",
+    "tags": [
+      "work",
+      "purpose",
+      "clarity"
+    ],
+    "resources": [
+      "https://www.lionsroar.com/10-tibetan-proverbs-to-live-by/",
+      "https://www.rigpawiki.org/index.php?title=Proverbs"
+    ]
+  },
+  {
+    "id": "174",
+    "quoteText": "Hvað er þér sjálfum ógerlegt, það mæltu ei við annan",
+    "quoteTextEN": "Do not demand from another what is impossible for yourself",
+    "quoteDescription": "Icelandic proverb promoting fairness.",
+    "quoteMeaningAnalysis": "Empathy guides equitable expectations in relationships.",
+    "author": "Icelandic Proverb",
+    "culture": "Icelandic",
+    "category": "Fairness",
+    "tags": [
+      "empathy",
+      "justice",
+      "respect"
+    ],
+    "resources": [
+      "https://www.islex.is/icelandic-proverbs",
+      "https://guidetoiceland.is/history-culture/icelandic-proverbs"
+    ]
+  },
+  {
+    "id": "175",
+    "quoteText": "A palavra é semente",
+    "quoteTextEN": "The word is a seed",
+    "quoteDescription": "Portuguese proverb emphasizing the power of speech.",
+    "quoteMeaningAnalysis": "Words plant ideas that grow into actions and realities.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Communication",
+    "tags": [
+      "language",
+      "influence",
+      "responsibility"
+    ],
+    "resources": [
+      "https://pt.wikisource.org/wiki/Prov%C3%A9rbios_Portugueses",
+      "https://www.portuguesepod101.com/blog/2019/07/09/brazilian-proverbs/"
+    ]
+  },
+  {
+    "id": "176",
+    "quoteText": "Le silence est aussi une réponse",
+    "quoteTextEN": "Silence is also an answer",
+    "quoteDescription": "French proverb recognizing the communicative power of silence.",
+    "quoteMeaningAnalysis": "Choosing silence conveys intention, boundaries, or reflection.",
+    "author": "French Proverb",
+    "culture": "French",
+    "category": "Communication",
+    "tags": [
+      "listening",
+      "boundaries",
+      "awareness"
+    ],
+    "resources": [
+      "https://fr.wiktionary.org/wiki/le_silence_est_une_r%C3%A9ponse",
+      "https://www.goodreads.com/quotes/7466-silence-is-a-true-friend-who-never-betrays"
+    ]
+  },
+  {
+    "id": "177",
+    "quoteText": "Не все коту масленица",
+    "quoteTextEN": "It is not Pancake Week for the cat forever",
+    "quoteDescription": "Russian proverb reminding that good times do not last endlessly.",
+    "quoteMeaningAnalysis": "Prosperity and hardship alternate; appreciate blessings without entitlement.",
+    "author": "Russian Proverb",
+    "culture": "Russian",
+    "category": "Perspective",
+    "tags": [
+      "impermanence",
+      "gratitude",
+      "awareness"
+    ],
+    "resources": [
+      "https://ru.wiktionary.org/wiki/%D0%9D%D0%B5_%D0%B2%D1%81%D0%B5_%D0%BA%D0%BE%D1%82%D1%83_%D0%BC%D0%B0%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%86%D0%B0",
+      "https://www.learnrussianineu.com/russian-proverbs-and-sayings"
+    ]
+  },
+  {
+    "id": "178",
+    "quoteText": "Sisu tekee mahdottomasta mahdollista",
+    "quoteTextEN": "Sisu makes the impossible possible",
+    "quoteDescription": "Finnish expression celebrating resilience and grit.",
+    "quoteMeaningAnalysis": "Inner fortitude unlocks achievements beyond apparent limits.",
+    "author": "Finnish Saying",
+    "culture": "Finnish",
+    "category": "Resilience",
+    "tags": [
+      "grit",
+      "determination",
+      "strength"
+    ],
+    "resources": [
+      "https://finland.fi/life-society/finnish-sisu/",
+      "https://www.goodreads.com/quotes/tag/sisu"
+    ]
+  },
+  {
+    "id": "179",
+    "quoteText": "A húmor é remédio da alma",
+    "quoteTextEN": "Humor is medicine for the soul",
+    "quoteDescription": "Brazilian saying highlighting the healing power of laughter.",
+    "quoteMeaningAnalysis": "Joy lightens burdens and nurtures emotional resilience.",
+    "author": "Brazilian Saying",
+    "culture": "Brazilian",
+    "category": "Joy",
+    "tags": [
+      "laughter",
+      "healing",
+      "wellbeing"
+    ],
+    "resources": [
+      "https://revistapesquisa.fapesp.br/en/humor-and-health/",
+      "https://www.portuguesepod101.com/blog/2019/07/09/brazilian-proverbs/"
+    ]
+  },
+  {
+    "id": "180",
+    "quoteText": "La alegría compartida se multiplica",
+    "quoteTextEN": "Shared joy multiplies",
+    "quoteDescription": "Spanish proverb celebrating communal happiness.",
+    "quoteMeaningAnalysis": "Happiness grows when it is shared with others.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Joy",
+    "tags": [
+      "community",
+      "celebration",
+      "positivity"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=22733&Lng=0",
+      "https://www.goodreads.com/quotes/205476-happiness-quite-unshared-can-scare-lonely-people-the-ways"
+    ]
+  },
+  {
+    "id": "181",
+    "quoteText": "El hábito no hace al monje",
+    "quoteTextEN": "The habit does not make the monk",
+    "quoteDescription": "Spanish proverb warning against judging by appearances.",
+    "quoteMeaningAnalysis": "Authenticity resides in actions and character rather than outward symbols.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Character",
+    "tags": [
+      "authenticity",
+      "appearance",
+      "values"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=17839&Lng=0",
+      "https://en.wiktionary.org/wiki/el_h%C3%A1bito_no_hace_al_monje"
+    ]
+  },
+  {
+    "id": "182",
+    "quoteText": "Kamu lebih tahu di mana sepatumu mencubit",
+    "quoteTextEN": "You know best where your shoe pinches",
+    "quoteDescription": "Indonesian proverb acknowledging personal experience.",
+    "quoteMeaningAnalysis": "Individuals understand their own challenges better than outsiders do.",
+    "author": "Indonesian Proverb",
+    "culture": "Indonesian",
+    "category": "Experience",
+    "tags": [
+      "empathy",
+      "awareness",
+      "self-knowledge"
+    ],
+    "resources": [
+      "https://languagereef.com/indonesian-proverbs/",
+      "https://www.goodreads.com/quotes/105672-each-person-knows-where-the-shoe-pinches"
+    ]
+  },
+  {
+    "id": "183",
+    "quoteText": "Pienin pisara lisää suurta merta",
+    "quoteTextEN": "The smallest drop adds to the great sea",
+    "quoteDescription": "Finnish proverb about cumulative effort.",
+    "quoteMeaningAnalysis": "Every contribution, however small, enriches the collective whole.",
+    "author": "Finnish Proverb",
+    "culture": "Finnish",
+    "category": "Contribution",
+    "tags": [
+      "effort",
+      "community",
+      "impact"
+    ],
+    "resources": [
+      "https://www.uusimaansuomi.fi/kulttuuri/finnish-proverbs",
+      "https://finland.fi/life-society/finnish-proverbs/"
+    ]
+  },
+  {
+    "id": "184",
+    "quoteText": "Sana söylenince geri alınmaz",
+    "quoteTextEN": "Once a word is spoken, it cannot be taken back",
+    "quoteDescription": "Turkish proverb warning about careless speech.",
+    "quoteMeaningAnalysis": "Speak thoughtfully, for words carry irreversible impact.",
+    "author": "Turkish Proverb",
+    "culture": "Turkish",
+    "category": "Communication",
+    "tags": [
+      "speech",
+      "responsibility",
+      "mindfulness"
+    ],
+    "resources": [
+      "https://sozluk.gov.tr/atasozu/",
+      "https://dailyproverb.com/turkish-proverbs/"
+    ]
+  },
+  {
+    "id": "185",
+    "quoteText": "ज्योतिर्वृक्षस्य मूलं श्रमः",
+    "quoteTextEN": "Labor is the root of the tree of light",
+    "quoteDescription": "Sanskrit-inspired aphorism linking effort with enlightenment.",
+    "quoteMeaningAnalysis": "Illumination and progress arise from diligent, sustained work.",
+    "author": "Sanskrit Aphorism",
+    "culture": "Indic",
+    "category": "Effort",
+    "tags": [
+      "work",
+      "growth",
+      "discipline"
+    ],
+    "resources": [
+      "https://www.sanskritimagazine.com/",
+      "https://www.wisdomlib.org/definition/shrama"
+    ]
+  },
+  {
+    "id": "186",
+    "quoteText": "Laughter is brightest where food is best",
+    "quoteTextEN": "Laughter is brightest where food is best",
+    "quoteDescription": "Irish proverb connecting hospitality with joy.",
+    "quoteMeaningAnalysis": "Generous sharing nurtures warmth, celebration, and lasting bonds.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Hospitality",
+    "tags": [
+      "sharing",
+      "joy",
+      "community"
+    ],
+    "resources": [
+      "https://www.irishcentral.com/culture/irish-proverbs-sayings",
+      "https://www.goodreads.com/quotes/430789-laughter-is-brightest-where-food-is-best"
+    ]
+  },
+  {
+    "id": "187",
+    "quoteText": "E tū kahikatea, hei whakapai ururoa",
+    "quoteTextEN": "Stand like the kahikatea to shelter the smaller trees",
+    "quoteDescription": "Māori proverb about collective protection.",
+    "quoteMeaningAnalysis": "Strong individuals should shield and uplift those who are vulnerable.",
+    "author": "Māori Whakataukī",
+    "culture": "Māori",
+    "category": "Community",
+    "tags": [
+      "protection",
+      "solidarity",
+      "leadership"
+    ],
+    "resources": [
+      "https://teara.govt.nz/en/te-ao-maori-maori-world-view/page-6",
+      "https://www.kupu.maori.nz/te-reo-maori-resources/proverbs-whakatauki"
+    ]
+  },
+  {
+    "id": "188",
+    "quoteText": "Nadie aprende en cabeza ajena",
+    "quoteTextEN": "No one learns with another's head",
+    "quoteDescription": "Spanish proverb emphasizing personal experience as teacher.",
+    "quoteMeaningAnalysis": "Lessons become real only when we internalize them through our own journey.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Learning",
+    "tags": [
+      "experience",
+      "wisdom",
+      "growth"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=32039&Lng=0",
+      "https://en.wiktionary.org/wiki/nadie_aprende_en_cabeza_ajena"
+    ]
+  },
+  {
+    "id": "189",
+    "quoteText": "Jokainen on oman onnensa seppä",
+    "quoteTextEN": "Everyone is the smith of their own fortune",
+    "quoteDescription": "Finnish proverb encouraging self-determination.",
+    "quoteMeaningAnalysis": "Choices forge the destiny each person inhabits.",
+    "author": "Finnish Proverb",
+    "culture": "Finnish",
+    "category": "Agency",
+    "tags": [
+      "responsibility",
+      "destiny",
+      "initiative"
+    ],
+    "resources": [
+      "https://finland.fi/life-society/finnish-proverbs/",
+      "https://www.goodreads.com/quotes/715406-you-are-the-architect-of-your-own-destiny"
+    ]
+  },
+  {
+    "id": "190",
+    "quoteText": "A vida é curta para ser pequena",
+    "quoteTextEN": "Life is too short to be small",
+    "quoteDescription": "Portuguese translation of a quote attributed to Benjamin Disraeli.",
+    "quoteMeaningAnalysis": "Live expansively with boldness and purpose while time is available.",
+    "author": "Benjamin Disraeli",
+    "culture": "Global",
+    "category": "Purpose",
+    "tags": [
+      "boldness",
+      "legacy",
+      "intentionality"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/244460-life-is-too-short-to-be-small",
+      "https://citacoes.in/citacoes/608488-benjamin-disraeli-a-vida-e-curta-demais-para-ser-pequena/"
+    ]
+  },
+  {
+    "id": "191",
+    "quoteText": "A smooth sea never made a skilled sailor",
+    "quoteTextEN": "A smooth sea never made a skilled sailor",
+    "quoteDescription": "English proverb emphasizing the value of adversity.",
+    "quoteMeaningAnalysis": "Challenges develop competence and resilience.",
+    "author": "English Proverb",
+    "culture": "English",
+    "category": "Growth",
+    "tags": [
+      "challenge",
+      "experience",
+      "resilience"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/113700-a-smooth-sea-never-made-a-skillful-mariner",
+      "https://www.brainyquote.com/quotes/franklin_d_roosevelt_132567"
+    ]
+  },
+  {
+    "id": "192",
+    "quoteText": "Chi semina vento raccoglie tempesta",
+    "quoteTextEN": "Who sows wind reaps storm",
+    "quoteDescription": "Italian version of the consequences proverb.",
+    "quoteMeaningAnalysis": "Actions rooted in harm return multiplied disruption.",
+    "author": "Italian Proverb",
+    "culture": "Italian",
+    "category": "Consequences",
+    "tags": [
+      "justice",
+      "karma",
+      "responsibility"
+    ],
+    "resources": [
+      "https://it.wiktionary.org/wiki/chi_semina_vento_raccoglie_tempesta",
+      "https://www.treccani.it/vocabolario/tempesta/"
+    ]
+  },
+  {
+    "id": "193",
+    "quoteText": "Una sonrisa abre más puertas que mil llaves",
+    "quoteTextEN": "A smile opens more doors than a thousand keys",
+    "quoteDescription": "Spanish proverb highlighting the power of kindness.",
+    "quoteMeaningAnalysis": "Warmth and goodwill often accomplish what force cannot.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Kindness",
+    "tags": [
+      "compassion",
+      "approachability",
+      "connection"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=52781&Lng=0",
+      "https://www.goodreads.com/quotes/76716-a-warm-smile-is-the-universal-language-of-kindness"
+    ]
+  },
+  {
+    "id": "194",
+    "quoteText": "Agua pasada no mueve molino",
+    "quoteTextEN": "Water that has passed does not move the mill",
+    "quoteDescription": "Spanish saying advising against dwelling on the past.",
+    "quoteMeaningAnalysis": "Energy is best directed toward present opportunities rather than spent on bygone events.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Mindfulness",
+    "tags": [
+      "present",
+      "focus",
+      "acceptance"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=11649&Lng=0",
+      "https://en.wiktionary.org/wiki/agua_pasada_no_mueve_molino"
+    ]
+  },
+  {
+    "id": "195",
+    "quoteText": "La paciencia es la madre de la ciencia",
+    "quoteTextEN": "Patience is the mother of science",
+    "quoteDescription": "Spanish proverb linking patience with understanding.",
+    "quoteMeaningAnalysis": "Meticulous inquiry and discovery require calm perseverance.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Patience",
+    "tags": [
+      "research",
+      "discipline",
+      "insight"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=35314&Lng=0",
+      "https://www.goodreads.com/quotes/798886-patience-is-the-companion-of-wisdom"
+    ]
+  },
+  {
+    "id": "196",
+    "quoteText": "Не всё то золото, что блестит",
+    "quoteTextEN": "Not all that glitters is gold",
+    "quoteDescription": "Russian version of the well-known caution against superficial judgments.",
+    "quoteMeaningAnalysis": "Appearances can deceive; discern value through depth and substance.",
+    "author": "Russian Proverb",
+    "culture": "Russian",
+    "category": "Discernment",
+    "tags": [
+      "perception",
+      "wisdom",
+      "values"
+    ],
+    "resources": [
+      "https://ru.wiktionary.org/wiki/%D0%9D%D0%B5_%D0%B2%D1%81%D1%91_%D1%82%D0%BE_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE,_%D1%87%D1%82%D0%BE_%D0%B1%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D1%82",
+      "https://www.learnrussianineu.com/russian-proverbs-and-sayings"
+    ]
+  },
+  {
+    "id": "197",
+    "quoteText": "Não há rosas sem espinhos",
+    "quoteTextEN": "There are no roses without thorns",
+    "quoteDescription": "Portuguese proverb acknowledging the costs of beauty and joy.",
+    "quoteMeaningAnalysis": "Cherished experiences often accompany challenges that make them precious.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Perspective",
+    "tags": [
+      "balance",
+      "gratitude",
+      "reality"
+    ],
+    "resources": [
+      "https://pt.wiktionary.org/wiki/n%C3%A3o_h%C3%A1_rosas_sem_espinhos",
+      "https://www.portuguesepod101.com/blog/2019/07/09/brazilian-proverbs/"
+    ]
+  },
+  {
+    "id": "198",
+    "quoteText": "Poco a poco se anda lejos",
+    "quoteTextEN": "Little by little one goes far",
+    "quoteDescription": "Spanish proverb praising steady progress.",
+    "quoteMeaningAnalysis": "Incremental steps accumulate into meaningful journeys.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Persistence",
+    "tags": [
+      "progress",
+      "patience",
+      "consistency"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=42238&Lng=0",
+      "https://www.goodreads.com/quotes/89758-little-by-little-one-travels-far"
+    ]
+  },
+  {
+    "id": "199",
+    "quoteText": "Echa la ley, echa la trampa",
+    "quoteTextEN": "Lay down the law, lay down the loophole",
+    "quoteDescription": "Spanish proverb critiquing how rules often breed clever evasions.",
+    "quoteMeaningAnalysis": "Systems require vigilant stewardship to prevent exploitation.",
+    "author": "Spanish Proverb",
+    "culture": "Spanish",
+    "category": "Caution",
+    "tags": [
+      "law",
+      "loopholes",
+      "ethics"
+    ],
+    "resources": [
+      "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=18427&Lng=0",
+      "https://en.wiktionary.org/wiki/echa_la_ley,_echa_la_trampa"
+    ]
+  },
+  {
+    "id": "200",
+    "quoteText": "A esperança é a última que morre",
+    "quoteTextEN": "Hope is the last to die",
+    "quoteDescription": "Portuguese proverb expressing enduring optimism.",
+    "quoteMeaningAnalysis": "Hope persists even through prolonged adversity, sustaining perseverance.",
+    "author": "Portuguese Proverb",
+    "culture": "Portuguese",
+    "category": "Hope",
+    "tags": [
+      "optimism",
+      "resilience",
+      "spirit"
+    ],
+    "resources": [
+      "https://pt.wiktionary.org/wiki/a_esperan%C3%A7a_%C3%A9_a_%C3%BAltima_que_morre",
+      "https://www.fluentu.com/blog/portuguese/portuguese-proverbs/"
+    ]
   }
 ]
