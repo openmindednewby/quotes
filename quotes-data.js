@@ -1917,5 +1917,119 @@ window.QUOTES_DATA = [
       "https://www.goodreads.com/quotes/1051152-hope-is-a-discipline"
     ],
     "id": "101"
+  },
+  {
+    "quoteText": "Ce qui se conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément.",
+    "quoteTextEN": "What is well conceived is clearly said, and the words to say it come easily.",
+    "quoteDescription": "Poet Nicolas Boileau championing clarity of thought and expression.",
+    "quoteMeaningAnalysis": "Careful reflection cultivates language that enlightens rather than obscures.",
+    "author": "Nicolas Boileau-Despréaux",
+    "culture": "French",
+    "category": "Communication",
+    "tags": [
+      "clarity",
+      "writing",
+      "communication"
+    ],
+    "resources": [
+      "https://www.britannica.com/biography/Nicolas-Boileau-Despreaux",
+      "https://gallica.bnf.fr/ark:/12148/bpt6k1040475k/f69.image"
+    ],
+    "id": "102"
+  },
+  {
+    "quoteText": "Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas, puede cambiar el mundo.",
+    "quoteTextEN": "Many small people, in small places, doing small things, can change the world.",
+    "quoteDescription": "Uruguayan writer Eduardo Galeano reflecting on the power of collective action.",
+    "quoteMeaningAnalysis": "Sustained grassroots efforts weave together to create transformative change.",
+    "author": "Eduardo Galeano",
+    "culture": "Latin American",
+    "category": "Collective Action",
+    "tags": [
+      "community",
+      "solidarity",
+      "justice"
+    ],
+    "resources": [
+      "https://www.eduardogaleano.org/",
+      "https://www.goodreads.com/quotes/1067893-many-small-people-in-small-places-doing-small-things"
+    ],
+    "id": "103"
+  },
+  {
+    "quoteText": "Ama sua, ama llulla, ama quella.",
+    "quoteTextEN": "Do not steal, do not lie, do not be lazy.",
+    "quoteDescription": "Inca moral triad guiding ethical conduct in Andean communities.",
+    "quoteMeaningAnalysis": "Integrity, honesty, and diligence sustain communal trust and resilience.",
+    "author": "Inca Wisdom",
+    "culture": "Quechua",
+    "category": "Ethics",
+    "tags": [
+      "ethics",
+      "integrity",
+      "community"
+    ],
+    "resources": [
+      "https://www.britannica.com/topic/Inca",
+      "https://encyclopedia.ushmm.org/content/en/article/andean-civilizations"
+    ],
+    "id": "104"
+  },
+  {
+    "quoteText": "Hay que endurecerse sin perder jamás la ternura.",
+    "quoteTextEN": "We must harden ourselves without ever losing tenderness.",
+    "quoteDescription": "Ernesto “Che” Guevara urging steadfast yet compassionate revolution.",
+    "quoteMeaningAnalysis": "Courage paired with empathy keeps struggles for justice deeply human.",
+    "author": "Ernesto Che Guevara",
+    "culture": "Latin American",
+    "category": "Resilience",
+    "tags": [
+      "resilience",
+      "compassion",
+      "justice"
+    ],
+    "resources": [
+      "https://www.marxists.org/reference/archive/guevara/1962/10/20.htm",
+      "https://www.cheguevara.org/en/che-guevara-quotes/"
+    ],
+    "id": "105"
+  },
+  {
+    "quoteText": "Egbe bere ugo bere.",
+    "quoteTextEN": "Let the kite perch and let the eagle perch.",
+    "quoteDescription": "Igbo proverb inviting mutual respect and coexistence.",
+    "quoteMeaningAnalysis": "Shared space and opportunity allow every community member to thrive.",
+    "author": "Igbo Proverb",
+    "culture": "Igbo",
+    "category": "Coexistence",
+    "tags": [
+      "respect",
+      "community",
+      "harmony"
+    ],
+    "resources": [
+      "https://afriprov.org/2006/09/01/egbe-bere-ugo-bere-let-the-kite-perch-and-let-the-eagle-perch/",
+      "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/igbo-cosmology-and-the-creation-of-igbo-identity/E3BB7EC1F3EAAE6642263F5A4F2CD20E"
+    ],
+    "id": "106"
+  },
+  {
+    "quoteText": "Många bäckar små blir en stor å.",
+    "quoteTextEN": "Many small streams make a mighty river.",
+    "quoteDescription": "Swedish proverb reminding us that incremental efforts accumulate into great impact.",
+    "quoteMeaningAnalysis": "Consistent modest contributions combine to create momentum and change.",
+    "author": "Swedish Proverb",
+    "culture": "Swedish",
+    "category": "Perseverance",
+    "tags": [
+      "perseverance",
+      "patience",
+      "collective"
+    ],
+    "resources": [
+      "https://www.isof.se/sprak/vagledningar/svenska-ordsprak",
+      "https://blogs.sweden.se/values/2012/11/15/swedish-proverbs/"
+    ],
+    "id": "107"
   }
 ];

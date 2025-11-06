@@ -1,1 +1,4 @@
-User-agent: * Allow: / Allow: /qr-code-generator Disallow: /private/ Sitemap: https://www.dloizides.com/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://quotes.dloizides.com/sitemap.xml
