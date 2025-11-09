@@ -16,10 +16,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuotes() {
   try {
-    if (!bundledQuotes || bundledQuotes.length === 0) {
+    const latestQuotes = await fetchLatestQuotes();
+    const dataToUse = Array.isArray(latestQuotes) && latestQuotes.length > 0
+      ? latestQuotes
+      : bundledQuotes;
+
+    if (!dataToUse || dataToUse.length === 0) {
       throw new Error('The bundled quote dataset is unavailable.');
     }
-    initializeQuotes(bundledQuotes);
+
+    initializeQuotes(dataToUse);
   } catch (error) {
     console.error(error);
 
@@ -30,6 +36,40 @@ async function loadQuotes() {
     clearTimeout(cycleTimer);
     cycleTimer = null;
     requestAnimationFrame(() => quoteContainer.classList.add('visible'));
+  }
+}
+
+async function fetchLatestQuotes() {
+  try {
+    const cacheBustingUrl = `quotes-data.js?refresh=${Date.now()}`;
+    const response = await fetch(cacheBustingUrl, { cache: 'no-store', credentials: 'same-origin' });
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch latest quotes dataset: ${response.status}`);
+    }
+
+    const datasetScript = await response.text();
+    const extractedQuotes = extractQuotesFromScript(datasetScript);
+
+    if (Array.isArray(extractedQuotes) && extractedQuotes.length > 0) {
+      window.QUOTES_DATA = extractedQuotes;
+      return extractedQuotes;
+    }
+  } catch (error) {
+    console.warn('Falling back to bundled quotes dataset.', error);
+  }
+
+  return null;
+}
+
+function extractQuotesFromScript(scriptText) {
+  try {
+    const sandboxWindow = {};
+    const scriptRunner = new Function('window', `${scriptText}; return window.QUOTES_DATA;`);
+    return scriptRunner(sandboxWindow);
+  } catch (error) {
+    console.warn('Unable to parse quotes dataset script.', error);
+    return null;
   }
 }
 
