@@ -5739,1902 +5739,1902 @@ window.QUOTES_DATA = [
   },
   {
     "id": "303",
-    "quoteText": "The curious brushstroke coaxes dreamers to let failure hum like music.",
-    "quoteTextEN": "The curious brushstroke coaxes dreamers to let failure hum like music.",
-    "quoteDescription": "Yumi Nakamori shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Yumi Nakamori",
-    "culture": "Kyoto Artisan Tradition",
-    "category": "Creativity",
+    "quoteText": "溫故而知新。",
+    "quoteTextEN": "Study the past if you would define the future.",
+    "quoteDescription": "From the Analects of Confucius.",
+    "quoteMeaningAnalysis": "Understanding what came before is the key to shaping what comes next.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "history",
+      "learning",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "304",
-    "quoteText": "The curious brushstroke coaxes dreamers to turn detours into new constellations.",
-    "quoteTextEN": "The curious brushstroke coaxes dreamers to turn detours into new constellations.",
-    "quoteDescription": "Kwame Adu shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Kwame Adu",
-    "culture": "Ashanti Craft Insight",
-    "category": "Creativity",
+    "quoteText": "學而不思則罔，思而不學則殆。",
+    "quoteTextEN": "Learning without thought is labour lost; thought without learning is perilous.",
+    "quoteDescription": "From the Analects of Confucius.",
+    "quoteMeaningAnalysis": "Knowledge and reflection must go together; either one alone leads us astray.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "learning",
+      "thinking",
+      "balance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "305",
-    "quoteText": "The curious brushstroke coaxes dreamers to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious brushstroke coaxes dreamers to paint tomorrow in borrowed light.",
-    "quoteDescription": "Leila Mansour shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Leila Mansour",
-    "culture": "Beirut Design Reflection",
-    "category": "Creativity",
+    "quoteText": "To see what is right and not to do it is want of courage.",
+    "quoteTextEN": "To see what is right and not to do it is want of courage.",
+    "quoteDescription": "From the Analects of Confucius.",
+    "quoteMeaningAnalysis": "Knowing the good is not enough; failing to act on it is moral cowardice.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "courage",
+      "integrity",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "306",
-    "quoteText": "The curious brushstroke coaxes dreamers to chisel silence into singing forms.",
-    "quoteTextEN": "The curious brushstroke coaxes dreamers to chisel silence into singing forms.",
-    "quoteDescription": "Omar Rahman shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Omar Rahman",
-    "culture": "Cairo Workshop Teaching",
-    "category": "Creativity",
+    "quoteText": "The superior man is modest in his speech but exceeds in his actions.",
+    "quoteTextEN": "The superior man is modest in his speech but exceeds in his actions.",
+    "quoteDescription": "From the Analects of Confucius.",
+    "quoteMeaningAnalysis": "Let your deeds outrun your words rather than the reverse.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "humility",
+      "action",
+      "character"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "307",
-    "quoteText": "The curious brushstroke dares apprentices to stitch questions into color.",
-    "quoteTextEN": "The curious brushstroke dares apprentices to stitch questions into color.",
-    "quoteDescription": "Ines Bauer shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Ines Bauer",
-    "culture": "Viennese Creativity Circle",
-    "category": "Creativity",
+    "quoteText": "Be content with what you have; when you realize nothing is lacking, the whole world belongs to you.",
+    "quoteTextEN": "Be content with what you have; when you realize nothing is lacking, the whole world belongs to you.",
+    "quoteDescription": "From the Tao Te Ching of Lao Tzu.",
+    "quoteMeaningAnalysis": "Contentment, not acquisition, is the secret to abundance.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "contentment",
+      "gratitude",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "308",
-    "quoteText": "The curious brushstroke dares apprentices to draw bridges from thin air.",
-    "quoteTextEN": "The curious brushstroke dares apprentices to draw bridges from thin air.",
-    "quoteDescription": "Nikhil Rao shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Nikhil Rao",
-    "culture": "Bengal Imagination School",
-    "category": "Creativity",
+    "quoteText": "Care about what other people think and you will always be their prisoner.",
+    "quoteTextEN": "Care about what other people think and you will always be their prisoner.",
+    "quoteDescription": "Attributed to Lao Tzu.",
+    "quoteMeaningAnalysis": "Excessive concern for others' opinions costs you your freedom.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "freedom",
+      "authenticity",
+      "self"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "309",
-    "quoteText": "The curious brushstroke dares apprentices to let failure hum like music.",
-    "quoteTextEN": "The curious brushstroke dares apprentices to let failure hum like music.",
-    "quoteDescription": "Saskia Vermeer shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Saskia Vermeer",
-    "culture": "Dutch Maker Stories",
-    "category": "Creativity",
+    "quoteText": "The way of learning is none other than finding the lost heart.",
+    "quoteTextEN": "The way of learning is none other than finding the lost heart.",
+    "quoteDescription": "From the writings of Mencius (Mengzi).",
+    "quoteMeaningAnalysis": "Real education is the recovery of our original goodness and sincerity.",
+    "author": "Mencius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "learning",
+      "sincerity",
+      "self"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mencius",
+      "https://en.wikipedia.org/wiki/Mencius"
     ]
   },
   {
     "id": "310",
-    "quoteText": "The curious brushstroke dares apprentices to turn detours into new constellations.",
-    "quoteTextEN": "The curious brushstroke dares apprentices to turn detours into new constellations.",
-    "quoteDescription": "Maya Chen shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Maya Chen",
-    "culture": "Taiwanese Craft Lore",
-    "category": "Creativity",
+    "quoteText": "The wise man looks into space and does not regard the small as too little, nor the great as too much.",
+    "quoteTextEN": "The wise man looks into space and does not regard the small as too little, nor the great as too much.",
+    "quoteDescription": "From Zhuangzi (Chuang Tzu), the Taoist philosopher.",
+    "quoteMeaningAnalysis": "Wisdom keeps perspective, weighing things by their true measure rather than appearance.",
+    "author": "Zhuangzi",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "perspective",
+      "wisdom",
+      "balance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Zhuangzi",
+      "https://en.wikipedia.org/wiki/Zhuangzi"
     ]
   },
   {
     "id": "311",
-    "quoteText": "The curious brushstroke dares apprentices to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious brushstroke dares apprentices to paint tomorrow in borrowed light.",
-    "quoteDescription": "Renata da Silva shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Renata da Silva",
-    "culture": "São Paulo Atelier Wisdom",
-    "category": "Creativity",
+    "quoteText": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "quoteTextEN": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "quoteDescription": "Chinese proverb.",
+    "quoteMeaningAnalysis": "It is never too late to begin; the most important time to start is the present.",
+    "author": "Chinese Proverb",
+    "culture": "Chinese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "beginnings",
+      "action",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Chinese_proverbs",
+      "https://en.wikipedia.org/wiki/Chinese_proverb"
     ]
   },
   {
     "id": "312",
-    "quoteText": "The curious brushstroke dares apprentices to chisel silence into singing forms.",
-    "quoteTextEN": "The curious brushstroke dares apprentices to chisel silence into singing forms.",
-    "quoteDescription": "Theo Laurent shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Theo Laurent",
-    "culture": "Parisian Studio Lore",
-    "category": "Creativity",
+    "quoteText": "Be not afraid of growing slowly; be afraid only of standing still.",
+    "quoteTextEN": "Be not afraid of growing slowly; be afraid only of standing still.",
+    "quoteDescription": "Chinese proverb.",
+    "quoteMeaningAnalysis": "Slow progress is still progress; stagnation is the only real danger.",
+    "author": "Chinese Proverb",
+    "culture": "Chinese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "perseverance",
+      "growth",
+      "patience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Chinese_proverbs",
+      "https://en.wikipedia.org/wiki/Chinese_proverb"
     ]
   },
   {
     "id": "313",
-    "quoteText": "The curious brushstroke invites makers to stitch questions into color.",
-    "quoteTextEN": "The curious brushstroke invites makers to stitch questions into color.",
-    "quoteDescription": "Yumi Nakamori shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Yumi Nakamori",
-    "culture": "Kyoto Artisan Tradition",
-    "category": "Creativity",
+    "quoteText": "Teachers open the door, but you must enter by yourself.",
+    "quoteTextEN": "Teachers open the door, but you must enter by yourself.",
+    "quoteDescription": "Chinese proverb.",
+    "quoteMeaningAnalysis": "Others can guide you, but real learning requires your own effort and will.",
+    "author": "Chinese Proverb",
+    "culture": "Chinese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "learning",
+      "responsibility",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Chinese_proverbs",
+      "https://en.wikipedia.org/wiki/Chinese_proverb"
     ]
   },
   {
     "id": "314",
-    "quoteText": "The curious brushstroke invites makers to draw bridges from thin air.",
-    "quoteTextEN": "The curious brushstroke invites makers to draw bridges from thin air.",
-    "quoteDescription": "Kwame Adu shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Kwame Adu",
-    "culture": "Ashanti Craft Insight",
-    "category": "Creativity",
+    "quoteText": "A gem cannot be polished without friction, nor a person perfected without trials.",
+    "quoteTextEN": "A gem cannot be polished without friction, nor a person perfected without trials.",
+    "quoteDescription": "Chinese proverb.",
+    "quoteMeaningAnalysis": "Hardship is what refines and improves us.",
+    "author": "Chinese Proverb",
+    "culture": "Chinese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "adversity",
+      "growth",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Chinese_proverbs",
+      "https://en.wikipedia.org/wiki/Chinese_proverb"
     ]
   },
   {
     "id": "315",
-    "quoteText": "The curious brushstroke invites makers to let failure hum like music.",
-    "quoteTextEN": "The curious brushstroke invites makers to let failure hum like music.",
-    "quoteDescription": "Leila Mansour shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Leila Mansour",
-    "culture": "Beirut Design Reflection",
-    "category": "Creativity",
+    "quoteText": "塵も積もれば山となる。",
+    "quoteTextEN": "Even dust, when piled up, becomes a mountain.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Small things accumulated over time amount to something great.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "patience",
+      "persistence",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "316",
-    "quoteText": "The curious brushstroke invites makers to turn detours into new constellations.",
-    "quoteTextEN": "The curious brushstroke invites makers to turn detours into new constellations.",
-    "quoteDescription": "Omar Rahman shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Omar Rahman",
-    "culture": "Cairo Workshop Teaching",
-    "category": "Creativity",
+    "quoteText": "物には裏がある。",
+    "quoteTextEN": "Everything has a reverse side.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Every matter has a hidden aspect; look beyond the obvious surface.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "perspective",
+      "wisdom",
+      "discernment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "317",
-    "quoteText": "The curious brushstroke invites makers to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious brushstroke invites makers to paint tomorrow in borrowed light.",
-    "quoteDescription": "Ines Bauer shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Ines Bauer",
-    "culture": "Viennese Creativity Circle",
-    "category": "Creativity",
+    "quoteText": "One kind word can warm three winter months.",
+    "quoteTextEN": "One kind word can warm three winter months.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "A single act of kindness has a warmth that lasts far longer than the moment.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "kindness",
+      "words",
+      "compassion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "318",
-    "quoteText": "The curious brushstroke invites makers to chisel silence into singing forms.",
-    "quoteTextEN": "The curious brushstroke invites makers to chisel silence into singing forms.",
-    "quoteDescription": "Nikhil Rao shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Nikhil Rao",
-    "culture": "Bengal Imagination School",
-    "category": "Creativity",
+    "quoteText": "Vision without action is a daydream; action without vision is a nightmare.",
+    "quoteTextEN": "Vision without action is a daydream; action without vision is a nightmare.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Purpose and effort must go together to achieve anything worthwhile.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "vision",
+      "action",
+      "purpose"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "319",
-    "quoteText": "The curious brushstroke nudges thinkers to stitch questions into color.",
-    "quoteTextEN": "The curious brushstroke nudges thinkers to stitch questions into color.",
-    "quoteDescription": "Saskia Vermeer shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Saskia Vermeer",
-    "culture": "Dutch Maker Stories",
-    "category": "Creativity",
+    "quoteText": "There is surely nothing other than the single purpose of the present moment.",
+    "quoteTextEN": "There is surely nothing other than the single purpose of the present moment.",
+    "quoteDescription": "From the Hagakure of Yamamoto Tsunetomo, the classic of the samurai.",
+    "quoteMeaningAnalysis": "Give your whole self to the present; the now is all we truly have.",
+    "author": "Yamamoto Tsunetomo",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "presence",
+      "focus",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Hagakure",
+      "https://en.wikipedia.org/wiki/Hagakure"
     ]
   },
   {
     "id": "320",
-    "quoteText": "The curious brushstroke nudges thinkers to draw bridges from thin air.",
-    "quoteTextEN": "The curious brushstroke nudges thinkers to draw bridges from thin air.",
-    "quoteDescription": "Maya Chen shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Maya Chen",
-    "culture": "Taiwanese Craft Lore",
-    "category": "Creativity",
+    "quoteText": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
+    "quoteTextEN": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
+    "quoteDescription": "From Shunryu Suzuki, 'Zen Mind, Beginner's Mind'.",
+    "quoteMeaningAnalysis": "Approaching life with openness and humility keeps more doors open than rigid expertise.",
+    "author": "Shunryu Suzuki",
+    "culture": "Japanese",
+    "category": "Zen",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "openness",
+      "humility",
+      "zen"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Shunry%C5%AB_Suzuki",
+      "https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki"
     ]
   },
   {
     "id": "321",
-    "quoteText": "The curious brushstroke nudges thinkers to let failure hum like music.",
-    "quoteTextEN": "The curious brushstroke nudges thinkers to let failure hum like music.",
-    "quoteDescription": "Renata da Silva shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Renata da Silva",
-    "culture": "São Paulo Atelier Wisdom",
-    "category": "Creativity",
+    "quoteText": "In this world we walk on the roof of hell, gazing at flowers.",
+    "quoteTextEN": "In this world we walk on the roof of hell, gazing at flowers.",
+    "quoteDescription": "A haiku by Kobayashi Issa, the beloved Japanese poet.",
+    "quoteMeaningAnalysis": "Beauty and suffering coexist; we find flowers to admire even amid life's dangers.",
+    "author": "Kobayashi Issa",
+    "culture": "Japanese",
+    "category": "Poetry",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "impermanence",
+      "beauty",
+      "acceptance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Kobayashi_Issa",
+      "https://en.wikipedia.org/wiki/Kobayashi_Issa"
     ]
   },
   {
     "id": "322",
-    "quoteText": "The curious brushstroke nudges thinkers to turn detours into new constellations.",
-    "quoteTextEN": "The curious brushstroke nudges thinkers to turn detours into new constellations.",
-    "quoteDescription": "Theo Laurent shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Theo Laurent",
-    "culture": "Parisian Studio Lore",
-    "category": "Creativity",
+    "quoteText": "We're fools whether we dance or not, so we might as well dance.",
+    "quoteTextEN": "We're fools whether we dance or not, so we might as well dance.",
+    "quoteDescription": "A traditional saying of the Awa Odori dance festival, Japan.",
+    "quoteMeaningAnalysis": "Since life is brief and uncertain, choose to embrace joy.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "joy",
+      "life",
+      "celebration"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "323",
-    "quoteText": "The curious brushstroke nudges thinkers to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious brushstroke nudges thinkers to paint tomorrow in borrowed light.",
-    "quoteDescription": "Yumi Nakamori shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Yumi Nakamori",
-    "culture": "Kyoto Artisan Tradition",
-    "category": "Creativity",
+    "quoteText": "Get beyond love and grief: exist for the good of others.",
+    "quoteTextEN": "Get beyond love and grief: exist for the good of others.",
+    "quoteDescription": "From the Hagakure of Yamamoto Tsunetomo.",
+    "quoteMeaningAnalysis": "Rise above private feeling to live in service of something larger than yourself.",
+    "author": "Yamamoto Tsunetomo",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "service",
+      "selflessness",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Hagakure",
+      "https://en.wikipedia.org/wiki/Hagakure"
     ]
   },
   {
     "id": "324",
-    "quoteText": "The curious brushstroke nudges thinkers to chisel silence into singing forms.",
-    "quoteTextEN": "The curious brushstroke nudges thinkers to chisel silence into singing forms.",
-    "quoteDescription": "Kwame Adu shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Kwame Adu",
-    "culture": "Ashanti Craft Insight",
-    "category": "Creativity",
+    "quoteText": "Each of you is perfect the way you are, and you can use a little improvement.",
+    "quoteTextEN": "Each of you is perfect the way you are, and you can use a little improvement.",
+    "quoteDescription": "From Shunryu Suzuki, the Zen teacher.",
+    "quoteMeaningAnalysis": "Accept yourself fully while still leaving room to grow.",
+    "author": "Shunryu Suzuki",
+    "culture": "Japanese",
+    "category": "Zen",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "acceptance",
+      "growth",
+      "self"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Shunry%C5%AB_Suzuki",
+      "https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki"
     ]
   },
   {
     "id": "325",
-    "quoteText": "The curious brushstroke beckons wanderers to stitch questions into color.",
-    "quoteTextEN": "The curious brushstroke beckons wanderers to stitch questions into color.",
-    "quoteDescription": "Leila Mansour shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Leila Mansour",
-    "culture": "Beirut Design Reflection",
-    "category": "Creativity",
+    "quoteText": "The reverse of fortune is fortune itself for those who can read it.",
+    "quoteTextEN": "Fall down seven times, get up eight — failure is only the road to mastery.",
+    "quoteDescription": "A reflection in the spirit of Japanese perseverance proverbs.",
+    "quoteMeaningAnalysis": "Setbacks are not the end but part of the path to mastery.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "resilience",
+      "mastery",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "326",
-    "quoteText": "The curious brushstroke beckons wanderers to draw bridges from thin air.",
-    "quoteTextEN": "The curious brushstroke beckons wanderers to draw bridges from thin air.",
-    "quoteDescription": "Omar Rahman shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Omar Rahman",
-    "culture": "Cairo Workshop Teaching",
-    "category": "Creativity",
+    "quoteText": "Knowledge without putting it into practice is like a candle that gives no light.",
+    "quoteTextEN": "Knowledge without putting it into practice is like a candle that gives no light.",
+    "quoteDescription": "A Japanese proverb on the union of learning and action.",
+    "quoteMeaningAnalysis": "Learning has value only when it is applied.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "knowledge",
+      "practice",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "327",
-    "quoteText": "The curious brushstroke beckons wanderers to let failure hum like music.",
-    "quoteTextEN": "The curious brushstroke beckons wanderers to let failure hum like music.",
-    "quoteDescription": "Ines Bauer shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Ines Bauer",
-    "culture": "Viennese Creativity Circle",
-    "category": "Creativity",
+    "quoteText": "If we could change ourselves, the tendencies in the world would also change.",
+    "quoteTextEN": "If we could change ourselves, the tendencies in the world would also change.",
+    "quoteDescription": "Mahatma Gandhi (the authentic source of the popular 'be the change' paraphrase).",
+    "quoteMeaningAnalysis": "Outer transformation begins with inner transformation in each of us.",
+    "author": "Mahatma Gandhi",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "change",
+      "self-improvement",
+      "responsibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+      "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     ]
   },
   {
     "id": "328",
-    "quoteText": "The curious brushstroke beckons wanderers to turn detours into new constellations.",
-    "quoteTextEN": "The curious brushstroke beckons wanderers to turn detours into new constellations.",
-    "quoteDescription": "Nikhil Rao shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Nikhil Rao",
-    "culture": "Bengal Imagination School",
-    "category": "Creativity",
+    "quoteText": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "quoteTextEN": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "quoteDescription": "Mahatma Gandhi.",
+    "quoteMeaningAnalysis": "Forgiveness requires more strength than revenge.",
+    "author": "Mahatma Gandhi",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "forgiveness",
+      "strength",
+      "peace"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+      "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     ]
   },
   {
     "id": "329",
-    "quoteText": "The curious brushstroke beckons wanderers to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious brushstroke beckons wanderers to paint tomorrow in borrowed light.",
-    "quoteDescription": "Saskia Vermeer shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Saskia Vermeer",
-    "culture": "Dutch Maker Stories",
-    "category": "Creativity",
+    "quoteText": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "quoteTextEN": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "quoteDescription": "Mahatma Gandhi.",
+    "quoteMeaningAnalysis": "True strength is a matter of resolve and spirit, not muscle.",
+    "author": "Mahatma Gandhi",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "strength",
+      "willpower",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+      "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     ]
   },
   {
     "id": "330",
-    "quoteText": "The curious brushstroke beckons wanderers to chisel silence into singing forms.",
-    "quoteTextEN": "The curious brushstroke beckons wanderers to chisel silence into singing forms.",
-    "quoteDescription": "Maya Chen shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Maya Chen",
-    "culture": "Taiwanese Craft Lore",
-    "category": "Creativity",
+    "quoteText": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "quoteTextEN": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "quoteDescription": "Attributed to Mahatma Gandhi.",
+    "quoteMeaningAnalysis": "Embrace each day fully while never ceasing to grow and learn.",
+    "author": "Mahatma Gandhi",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "learning",
+      "life",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+      "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     ]
   },
   {
     "id": "331",
-    "quoteText": "The curious brushstroke challenges artisans to stitch questions into color.",
-    "quoteTextEN": "The curious brushstroke challenges artisans to stitch questions into color.",
-    "quoteDescription": "Renata da Silva shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Renata da Silva",
-    "culture": "São Paulo Atelier Wisdom",
-    "category": "Creativity",
+    "quoteText": "The mind is restless and difficult to restrain, but it is subdued by practice.",
+    "quoteTextEN": "The mind is restless and difficult to restrain, but it is subdued by practice.",
+    "quoteDescription": "From the Bhagavad Gita (6.35).",
+    "quoteMeaningAnalysis": "Even the most unruly mind can be calmed through steady, patient discipline.",
+    "author": "Bhagavad Gita",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "mind",
+      "discipline",
+      "practice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Bhagavad_Gita",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     ]
   },
   {
     "id": "332",
-    "quoteText": "The curious brushstroke challenges artisans to draw bridges from thin air.",
-    "quoteTextEN": "The curious brushstroke challenges artisans to draw bridges from thin air.",
-    "quoteDescription": "Theo Laurent shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Theo Laurent",
-    "culture": "Parisian Studio Lore",
-    "category": "Creativity",
+    "quoteText": "When all the desires that dwell in the heart fall away, the mortal becomes immortal.",
+    "quoteTextEN": "When all the desires that dwell in the heart fall away, the mortal becomes immortal.",
+    "quoteDescription": "From the Katha Upanishad.",
+    "quoteMeaningAnalysis": "Freedom from craving is the doorway to the deathless and the eternal.",
+    "author": "Upanishads",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "desire",
+      "freedom",
+      "spirituality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Upanishads",
+      "https://en.wikipedia.org/wiki/Katha_Upanishad"
     ]
   },
   {
     "id": "333",
-    "quoteText": "The curious brushstroke challenges artisans to let failure hum like music.",
-    "quoteTextEN": "The curious brushstroke challenges artisans to let failure hum like music.",
-    "quoteDescription": "Yumi Nakamori shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Yumi Nakamori",
-    "culture": "Kyoto Artisan Tradition",
-    "category": "Creativity",
+    "quoteText": "योगश्चित्तवृत्तिनिरोधः।",
+    "quoteTextEN": "Yoga is the stilling of the fluctuations of the mind.",
+    "quoteDescription": "From the Yoga Sutras of Patanjali (1.2).",
+    "quoteMeaningAnalysis": "The aim of yoga is a quiet, settled mind freed from restless thought.",
+    "author": "Patanjali",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "meditation",
+      "mind",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Patanjali",
+      "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
     ]
   },
   {
     "id": "334",
-    "quoteText": "The curious brushstroke challenges artisans to turn detours into new constellations.",
-    "quoteTextEN": "The curious brushstroke challenges artisans to turn detours into new constellations.",
-    "quoteDescription": "Kwame Adu shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Kwame Adu",
-    "culture": "Ashanti Craft Insight",
-    "category": "Creativity",
+    "quoteText": "It is compassion, the most gracious of virtues, that moves the world.",
+    "quoteTextEN": "It is compassion, the most gracious of virtues, that moves the world.",
+    "quoteDescription": "From the Tirukkural of Thiruvalluvar, the classic Tamil text.",
+    "quoteMeaningAnalysis": "Compassion is the highest virtue and the force that sustains human life.",
+    "author": "Thiruvalluvar",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "compassion",
+      "virtue",
+      "humanity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Tirukkural",
+      "https://en.wikipedia.org/wiki/Tirukkural"
     ]
   },
   {
     "id": "335",
-    "quoteText": "The curious brushstroke challenges artisans to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious brushstroke challenges artisans to paint tomorrow in borrowed light.",
-    "quoteDescription": "Leila Mansour shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Leila Mansour",
-    "culture": "Beirut Design Reflection",
-    "category": "Creativity",
+    "quoteText": "Even the gods accept the rule of one who has conquered his own senses.",
+    "quoteTextEN": "Even the gods accept the rule of one who has conquered his own senses.",
+    "quoteDescription": "From the Tirukkural of Thiruvalluvar.",
+    "quoteMeaningAnalysis": "Self-mastery commands a respect that power over others never can.",
+    "author": "Thiruvalluvar",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "self-control",
+      "discipline",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Tirukkural",
+      "https://en.wikipedia.org/wiki/Tirukkural"
     ]
   },
   {
     "id": "336",
-    "quoteText": "The curious brushstroke challenges artisans to chisel silence into singing forms.",
-    "quoteTextEN": "The curious brushstroke challenges artisans to chisel silence into singing forms.",
-    "quoteDescription": "Omar Rahman shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Omar Rahman",
-    "culture": "Cairo Workshop Teaching",
-    "category": "Creativity",
+    "quoteText": "The butterfly counts not months but moments, and has time enough.",
+    "quoteTextEN": "The butterfly counts not months but moments, and has time enough.",
+    "quoteDescription": "From Rabindranath Tagore, 'Stray Birds'.",
+    "quoteMeaningAnalysis": "A life measured by the fullness of its moments lacks for nothing.",
+    "author": "Rabindranath Tagore",
+    "culture": "Indian",
+    "category": "Poetry",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "time",
+      "presence",
+      "joy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rabindranath_Tagore",
+      "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
     ]
   },
   {
     "id": "337",
-    "quoteText": "The curious midnight sketch coaxes dreamers to stitch questions into color.",
-    "quoteTextEN": "The curious midnight sketch coaxes dreamers to stitch questions into color.",
-    "quoteDescription": "Ines Bauer shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Ines Bauer",
-    "culture": "Viennese Creativity Circle",
-    "category": "Creativity",
+    "quoteText": "The world is real in experience but, like a dream, dissolves before true knowledge.",
+    "quoteTextEN": "The world is real in experience but, like a dream, dissolves before true knowledge.",
+    "quoteDescription": "A summary of the Advaita Vedanta of Adi Shankara.",
+    "quoteMeaningAnalysis": "What we take as ultimate reality is provisional; deeper knowing reveals a unity beneath it.",
+    "author": "Adi Shankara",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "reality",
+      "knowledge",
+      "spirituality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Adi_Shankara",
+      "https://en.wikipedia.org/wiki/Adi_Shankara"
     ]
   },
   {
     "id": "338",
-    "quoteText": "The curious midnight sketch coaxes dreamers to draw bridges from thin air.",
-    "quoteTextEN": "The curious midnight sketch coaxes dreamers to draw bridges from thin air.",
-    "quoteDescription": "Nikhil Rao shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Nikhil Rao",
-    "culture": "Bengal Imagination School",
-    "category": "Creativity",
+    "quoteText": "Set thy heart upon thy work, but never on its reward.",
+    "quoteTextEN": "Set thy heart upon thy work, but never on its reward.",
+    "quoteDescription": "From the Bhagavad Gita (Edwin Arnold's rendering of 2.47).",
+    "quoteMeaningAnalysis": "Pour yourself into the work itself and release anxiety about the outcome.",
+    "author": "Bhagavad Gita",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "duty",
+      "detachment",
+      "work"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Bhagavad_Gita",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     ]
   },
   {
     "id": "339",
-    "quoteText": "The curious midnight sketch coaxes dreamers to let failure hum like music.",
-    "quoteTextEN": "The curious midnight sketch coaxes dreamers to let failure hum like music.",
-    "quoteDescription": "Saskia Vermeer shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Saskia Vermeer",
-    "culture": "Dutch Maker Stories",
-    "category": "Creativity",
+    "quoteText": "In a gentle way, you can shake the world.",
+    "quoteTextEN": "In a gentle way, you can shake the world.",
+    "quoteDescription": "Attributed to Mahatma Gandhi.",
+    "quoteMeaningAnalysis": "Quiet, principled persistence can achieve enormous change.",
+    "author": "Mahatma Gandhi",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "nonviolence",
+      "change",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+      "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     ]
   },
   {
     "id": "340",
-    "quoteText": "The curious midnight sketch coaxes dreamers to turn detours into new constellations.",
-    "quoteTextEN": "The curious midnight sketch coaxes dreamers to turn detours into new constellations.",
-    "quoteDescription": "Maya Chen shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Maya Chen",
-    "culture": "Taiwanese Craft Lore",
-    "category": "Creativity",
+    "quoteText": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "quoteTextEN": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "quoteDescription": "Attributed to Mahatma Gandhi.",
+    "quoteMeaningAnalysis": "Integrity — the alignment of thought, word and deed — is the root of contentment.",
+    "author": "Mahatma Gandhi",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "integrity",
+      "happiness",
+      "harmony"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+      "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     ]
   },
   {
     "id": "341",
-    "quoteText": "The curious midnight sketch coaxes dreamers to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious midnight sketch coaxes dreamers to paint tomorrow in borrowed light.",
-    "quoteDescription": "Renata da Silva shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Renata da Silva",
-    "culture": "São Paulo Atelier Wisdom",
-    "category": "Creativity",
+    "quoteText": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
+    "quoteTextEN": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
+    "quoteDescription": "From Jalal ad-Din Rumi, the Persian Sufi poet.",
+    "quoteMeaningAnalysis": "True meeting and reconciliation lie beyond rigid judgements of right and wrong.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "reconciliation",
+      "love",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "342",
-    "quoteText": "The curious midnight sketch coaxes dreamers to chisel silence into singing forms.",
-    "quoteTextEN": "The curious midnight sketch coaxes dreamers to chisel silence into singing forms.",
-    "quoteDescription": "Theo Laurent shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Theo Laurent",
-    "culture": "Parisian Studio Lore",
-    "category": "Creativity",
+    "quoteText": "Don't grieve. Anything you lose comes round in another form.",
+    "quoteTextEN": "Don't grieve. Anything you lose comes round in another form.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Loss is not final; what departs returns transformed.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "loss",
+      "hope",
+      "transformation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "343",
-    "quoteText": "The curious midnight sketch dares apprentices to stitch questions into color.",
-    "quoteTextEN": "The curious midnight sketch dares apprentices to stitch questions into color.",
-    "quoteDescription": "Yumi Nakamori shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Yumi Nakamori",
-    "culture": "Kyoto Artisan Tradition",
-    "category": "Creativity",
+    "quoteText": "You were born with wings. Why prefer to crawl through life?",
+    "quoteTextEN": "You were born with wings. Why prefer to crawl through life?",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "We are made for more than we settle for; do not waste your given potential.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "potential",
+      "courage",
+      "freedom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "344",
-    "quoteText": "The curious midnight sketch dares apprentices to draw bridges from thin air.",
-    "quoteTextEN": "The curious midnight sketch dares apprentices to draw bridges from thin air.",
-    "quoteDescription": "Kwame Adu shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Kwame Adu",
-    "culture": "Ashanti Craft Insight",
-    "category": "Creativity",
+    "quoteText": "Let yourself be silently drawn by the strange pull of what you really love.",
+    "quoteTextEN": "Let yourself be silently drawn by the strange pull of what you really love.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Trust and follow your deepest loves; they will not lead you astray.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "love",
+      "purpose",
+      "trust"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "345",
-    "quoteText": "The curious midnight sketch dares apprentices to let failure hum like music.",
-    "quoteTextEN": "The curious midnight sketch dares apprentices to let failure hum like music.",
-    "quoteDescription": "Leila Mansour shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to let failure hum like music.",
-    "author": "Leila Mansour",
-    "culture": "Beirut Design Reflection",
-    "category": "Creativity",
+    "quoteText": "Have patience. All things are difficult before they become easy.",
+    "quoteTextEN": "Have patience. All things are difficult before they become easy.",
+    "quoteDescription": "From Saadi of Shiraz, 'The Gulistan'.",
+    "quoteMeaningAnalysis": "Mastery and ease arrive only after persevering through early difficulty.",
+    "author": "Saadi",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "patience",
+      "perseverance",
+      "mastery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Saadi_Shirazi",
+      "https://en.wikipedia.org/wiki/Saadi_Shirazi"
     ]
   },
   {
     "id": "346",
-    "quoteText": "The curious midnight sketch dares apprentices to turn detours into new constellations.",
-    "quoteTextEN": "The curious midnight sketch dares apprentices to turn detours into new constellations.",
-    "quoteDescription": "Omar Rahman shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to turn detours into new constellations.",
-    "author": "Omar Rahman",
-    "culture": "Cairo Workshop Teaching",
-    "category": "Creativity",
+    "quoteText": "Use your eyes — see far and wide, and learn from the experience of others.",
+    "quoteTextEN": "Use your eyes — see far and wide, and learn from the experience of others.",
+    "quoteDescription": "In the spirit of Ferdowsi's Shahnameh, the Persian epic.",
+    "quoteMeaningAnalysis": "Wisdom is gathered by observing widely and learning from those who came before.",
+    "author": "Ferdowsi",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "wisdom",
+      "learning",
+      "experience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Ferdowsi",
+      "https://en.wikipedia.org/wiki/Ferdowsi"
     ]
   },
   {
     "id": "347",
-    "quoteText": "The curious midnight sketch dares apprentices to paint tomorrow in borrowed light.",
-    "quoteTextEN": "The curious midnight sketch dares apprentices to paint tomorrow in borrowed light.",
-    "quoteDescription": "Ines Bauer shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to paint tomorrow in borrowed light.",
-    "author": "Ines Bauer",
-    "culture": "Viennese Creativity Circle",
-    "category": "Creativity",
+    "quoteText": "A single rose can be my garden; a single friend, my world.",
+    "quoteTextEN": "A single rose can be my garden; a single friend, my world.",
+    "quoteDescription": "Attributed to Nizami Ganjavi, the Persian poet.",
+    "quoteMeaningAnalysis": "Depth matters more than abundance; one true friend can be everything.",
+    "author": "Nizami Ganjavi",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "friendship",
+      "love",
+      "gratitude"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Nizami_Ganjavi",
+      "https://en.wikipedia.org/wiki/Nizami_Ganjavi"
     ]
   },
   {
     "id": "348",
-    "quoteText": "The curious midnight sketch dares apprentices to chisel silence into singing forms.",
-    "quoteTextEN": "The curious midnight sketch dares apprentices to chisel silence into singing forms.",
-    "quoteDescription": "Nikhil Rao shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to chisel silence into singing forms.",
-    "author": "Nikhil Rao",
-    "culture": "Bengal Imagination School",
-    "category": "Creativity",
+    "quoteText": "Stay close to anything that makes you glad you are alive.",
+    "quoteTextEN": "Stay close to anything that makes you glad you are alive.",
+    "quoteDescription": "Attributed to Hafiz of Shiraz.",
+    "quoteMeaningAnalysis": "Keep near the people, places and pursuits that affirm your life.",
+    "author": "Hafiz",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "joy",
+      "gratitude",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Hafez",
+      "https://en.wikipedia.org/wiki/Hafez"
     ]
   },
   {
     "id": "349",
-    "quoteText": "The curious midnight sketch invites makers to stitch questions into color.",
-    "quoteTextEN": "The curious midnight sketch invites makers to stitch questions into color.",
-    "quoteDescription": "Saskia Vermeer shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Saskia Vermeer",
-    "culture": "Dutch Maker Stories",
-    "category": "Creativity",
+    "quoteText": "The cure for pain is in the pain.",
+    "quoteTextEN": "The cure for pain is in the pain.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "We move through suffering by facing it, not by avoiding it.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "suffering",
+      "healing",
+      "courage"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "350",
-    "quoteText": "The curious midnight sketch invites makers to draw bridges from thin air.",
-    "quoteTextEN": "The curious midnight sketch invites makers to draw bridges from thin air.",
-    "quoteDescription": "Maya Chen shares a creativity image where a midnight sketch becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Maya Chen",
-    "culture": "Taiwanese Craft Lore",
-    "category": "Creativity",
+    "quoteText": "Be like the sun for grace and mercy; be like the night to cover others' faults.",
+    "quoteTextEN": "Be like the sun for grace and mercy; be like the night to cover others' faults.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Be generous and warm in kindness, and discreet and gentle with others' failings.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "kindness",
+      "generosity",
+      "compassion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "351",
-    "quoteText": "The steady lighthouse keeper shows caravans to share the map before the journey.",
-    "quoteTextEN": "The steady lighthouse keeper shows caravans to share the map before the journey.",
-    "quoteDescription": "Jamal Rivers shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Jamal Rivers",
-    "culture": "Gullah Leadership Teachings",
-    "category": "Leadership",
+    "quoteText": "אִם אֵין אֲנִי לִי, מִי לִי? וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי? וְאִם לֹא עַכְשָׁיו, אֵימָתַי?",
+    "quoteTextEN": "If I am not for myself, who will be for me? If I am only for myself, what am I? And if not now, when?",
+    "quoteDescription": "Hillel the Elder, Pirkei Avot 1:14.",
+    "quoteMeaningAnalysis": "Balance self-respect with responsibility to others, and do not postpone what is right.",
+    "author": "Hillel the Elder",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "responsibility",
+      "self",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Pirkei_Avot",
+      "https://en.wikipedia.org/wiki/Pirkei_Avot"
     ]
   },
   {
     "id": "352",
-    "quoteText": "The steady lighthouse keeper shows caravans to speak last and listen first.",
-    "quoteTextEN": "The steady lighthouse keeper shows caravans to speak last and listen first.",
-    "quoteDescription": "Ingrid Solberg shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Ingrid Solberg",
-    "culture": "Norwegian Stewardship Lore",
-    "category": "Leadership",
+    "quoteText": "That which is hateful to you, do not do to your fellow. That is the whole Torah; the rest is commentary.",
+    "quoteTextEN": "That which is hateful to you, do not do to your fellow. That is the whole Torah; the rest is commentary.",
+    "quoteDescription": "Hillel the Elder (Babylonian Talmud, Shabbat 31a).",
+    "quoteMeaningAnalysis": "The essence of ethics is not to inflict on others what you would hate to suffer.",
+    "author": "Hillel the Elder",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "ethics",
+      "compassion",
+      "golden-rule"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Hillel_the_Elder",
+      "https://en.wikipedia.org/wiki/Hillel_the_Elder"
     ]
   },
   {
     "id": "353",
-    "quoteText": "The steady lighthouse keeper shows caravans to lift the weary without applause.",
-    "quoteTextEN": "The steady lighthouse keeper shows caravans to lift the weary without applause.",
-    "quoteDescription": "Siti Rahmah shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Siti Rahmah",
-    "culture": "Malay Archipelago Wisdom",
-    "category": "Leadership",
+    "quoteText": "Who is wise? One who learns from every person.",
+    "quoteTextEN": "Who is wise? One who learns from every person.",
+    "quoteDescription": "Ben Zoma, Pirkei Avot 4:1.",
+    "quoteMeaningAnalysis": "Wisdom is the humility to learn from anyone, regardless of their station.",
+    "author": "Ben Zoma",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "wisdom",
+      "humility",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Pirkei_Avot",
+      "https://en.wikipedia.org/wiki/Pirkei_Avot"
     ]
   },
   {
     "id": "354",
-    "quoteText": "The steady lighthouse keeper shows caravans to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady lighthouse keeper shows caravans to guard the quiet voices in the room.",
-    "quoteDescription": "Diego Herrera shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Diego Herrera",
-    "culture": "Chilean Community Insight",
-    "category": "Leadership",
+    "quoteText": "Who is rich? One who is happy with his portion.",
+    "quoteTextEN": "Who is rich? One who is happy with his portion.",
+    "quoteDescription": "Ben Zoma, Pirkei Avot 4:1.",
+    "quoteMeaningAnalysis": "True wealth is contentment with what you already have.",
+    "author": "Ben Zoma",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "contentment",
+      "wealth",
+      "gratitude"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Pirkei_Avot",
+      "https://en.wikipedia.org/wiki/Pirkei_Avot"
     ]
   },
   {
     "id": "355",
-    "quoteText": "The steady lighthouse keeper shows caravans to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady lighthouse keeper shows caravans to walk at the pace of the slowest feet.",
-    "quoteDescription": "Hawa Diop shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Hawa Diop",
-    "culture": "Senegalese Leadership Tradition",
-    "category": "Leadership",
+    "quoteText": "It is not your duty to finish the work, but neither are you free to neglect it.",
+    "quoteTextEN": "It is not your duty to finish the work, but neither are you free to neglect it.",
+    "quoteDescription": "Rabbi Tarfon, Pirkei Avot 2:16.",
+    "quoteMeaningAnalysis": "You need not complete every task alone, but you must do your part.",
+    "author": "Rabbi Tarfon",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "responsibility",
+      "perseverance",
+      "duty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Pirkei_Avot",
+      "https://en.wikipedia.org/wiki/Pirkei_Avot"
     ]
   },
   {
     "id": "356",
-    "quoteText": "The steady lighthouse keeper shows caravans to carry the story when night is longest.",
-    "quoteTextEN": "The steady lighthouse keeper shows caravans to carry the story when night is longest.",
-    "quoteDescription": "Piotr Nowak shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Piotr Nowak",
-    "culture": "Polish Civic Reflection",
-    "category": "Leadership",
+    "quoteText": "Whoever saves a single life is considered to have saved an entire world.",
+    "quoteTextEN": "Whoever saves a single life is considered to have saved an entire world.",
+    "quoteDescription": "Mishnah, Sanhedrin 4:5.",
+    "quoteMeaningAnalysis": "Every individual life carries infinite worth.",
+    "author": "The Mishnah",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "compassion",
+      "life",
+      "humanity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Talmud",
+      "https://en.wikipedia.org/wiki/Sanhedrin_(tractate)"
     ]
   },
   {
     "id": "357",
-    "quoteText": "The steady lighthouse keeper asks the circle to share the map before the journey.",
-    "quoteTextEN": "The steady lighthouse keeper asks the circle to share the map before the journey.",
-    "quoteDescription": "Amelia Wright shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Amelia Wright",
-    "culture": "Appalachian Stewardship",
-    "category": "Leadership",
+    "quoteText": "To everything there is a season, and a time to every purpose under heaven.",
+    "quoteTextEN": "To everything there is a season, and a time to every purpose under heaven.",
+    "quoteDescription": "Ecclesiastes (Kohelet) 3:1.",
+    "quoteMeaningAnalysis": "Life moves in seasons; there is a fitting time for each thing.",
+    "author": "Ecclesiastes",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "time",
+      "acceptance",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Ecclesiastes",
+      "https://en.wikipedia.org/wiki/Ecclesiastes"
     ]
   },
   {
     "id": "358",
-    "quoteText": "The steady lighthouse keeper asks the circle to speak last and listen first.",
-    "quoteTextEN": "The steady lighthouse keeper asks the circle to speak last and listen first.",
-    "quoteDescription": "Chen Wei shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Chen Wei",
-    "culture": "Hakka Guidance Stories",
-    "category": "Leadership",
+    "quoteText": "Cast your bread upon the waters, for you will find it after many days.",
+    "quoteTextEN": "Cast your bread upon the waters, for you will find it after many days.",
+    "quoteDescription": "Ecclesiastes (Kohelet) 11:1.",
+    "quoteMeaningAnalysis": "Give generously and act with faith; good returns in time, often unexpectedly.",
+    "author": "Ecclesiastes",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "generosity",
+      "faith",
+      "patience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Ecclesiastes",
+      "https://en.wikipedia.org/wiki/Ecclesiastes"
     ]
   },
   {
     "id": "359",
-    "quoteText": "The steady lighthouse keeper asks the circle to lift the weary without applause.",
-    "quoteTextEN": "The steady lighthouse keeper asks the circle to lift the weary without applause.",
-    "quoteDescription": "Laila Osman shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Laila Osman",
-    "culture": "Red Sea Navigator Tales",
-    "category": "Leadership",
+    "quoteText": "As iron sharpens iron, so one person sharpens another.",
+    "quoteTextEN": "As iron sharpens iron, so one person sharpens another.",
+    "quoteDescription": "Book of Proverbs (Mishlei) 27:17.",
+    "quoteMeaningAnalysis": "We grow keener and stronger through challenging, honest companionship.",
+    "author": "Book of Proverbs",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "friendship",
+      "growth",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Book_of_Proverbs",
+      "https://en.wikipedia.org/wiki/Book_of_Proverbs"
     ]
   },
   {
     "id": "360",
-    "quoteText": "The steady lighthouse keeper asks the circle to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady lighthouse keeper asks the circle to guard the quiet voices in the room.",
-    "quoteDescription": "Batu Erdene shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Batu Erdene",
-    "culture": "Mongolian Steppe Counsel",
-    "category": "Leadership",
+    "quoteText": "A soft answer turns away wrath, but a harsh word stirs up anger.",
+    "quoteTextEN": "A soft answer turns away wrath, but a harsh word stirs up anger.",
+    "quoteDescription": "Book of Proverbs (Mishlei) 15:1.",
+    "quoteMeaningAnalysis": "Gentle speech defuses conflict that harsh words only inflame.",
+    "author": "Book of Proverbs",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "speech",
+      "peace",
+      "gentleness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Book_of_Proverbs",
+      "https://en.wikipedia.org/wiki/Book_of_Proverbs"
     ]
   },
   {
     "id": "361",
-    "quoteText": "The steady lighthouse keeper asks the circle to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady lighthouse keeper asks the circle to walk at the pace of the slowest feet.",
-    "quoteDescription": "Jamal Rivers shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Jamal Rivers",
-    "culture": "Gullah Leadership Teachings",
-    "category": "Leadership",
+    "quoteText": "The risk of a wrong decision is preferable to the terror of indecision.",
+    "quoteTextEN": "The risk of a wrong decision is preferable to the terror of indecision.",
+    "quoteDescription": "Attributed to Maimonides (Rambam), the medieval Jewish philosopher.",
+    "quoteMeaningAnalysis": "Acting and risking error is better than being paralyzed by doubt.",
+    "author": "Maimonides",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "decision",
+      "courage",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Maimonides",
+      "https://en.wikipedia.org/wiki/Maimonides"
     ]
   },
   {
     "id": "362",
-    "quoteText": "The steady lighthouse keeper asks the circle to carry the story when night is longest.",
-    "quoteTextEN": "The steady lighthouse keeper asks the circle to carry the story when night is longest.",
-    "quoteDescription": "Ingrid Solberg shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Ingrid Solberg",
-    "culture": "Norwegian Stewardship Lore",
-    "category": "Leadership",
+    "quoteText": "The highest form of charity is to help a person become self-sufficient.",
+    "quoteTextEN": "The highest form of charity is to help a person become self-sufficient.",
+    "quoteDescription": "Maimonides, on the levels of giving (Mishneh Torah).",
+    "quoteMeaningAnalysis": "The greatest kindness empowers people to no longer need help.",
+    "author": "Maimonides",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "charity",
+      "kindness",
+      "empowerment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Maimonides",
+      "https://en.wikipedia.org/wiki/Maimonides"
     ]
   },
   {
     "id": "363",
-    "quoteText": "The steady lighthouse keeper reminds the crew to share the map before the journey.",
-    "quoteTextEN": "The steady lighthouse keeper reminds the crew to share the map before the journey.",
-    "quoteDescription": "Siti Rahmah shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Siti Rahmah",
-    "culture": "Malay Archipelago Wisdom",
-    "category": "Leadership",
+    "quoteText": "Who is mighty? One who conquers his own impulse.",
+    "quoteTextEN": "Who is mighty? One who conquers his own impulse.",
+    "quoteDescription": "Ben Zoma, Pirkei Avot 4:1.",
+    "quoteMeaningAnalysis": "The greatest strength is mastery over oneself.",
+    "author": "Ben Zoma",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "self-control",
+      "strength",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Pirkei_Avot",
+      "https://en.wikipedia.org/wiki/Pirkei_Avot"
     ]
   },
   {
     "id": "364",
-    "quoteText": "The steady lighthouse keeper reminds the crew to speak last and listen first.",
-    "quoteTextEN": "The steady lighthouse keeper reminds the crew to speak last and listen first.",
-    "quoteDescription": "Diego Herrera shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Diego Herrera",
-    "culture": "Chilean Community Insight",
-    "category": "Leadership",
+    "quoteText": "Do not be daunted by the enormity of the world's grief. Do justly, now. Love mercy, now.",
+    "quoteTextEN": "Do not be daunted by the enormity of the world's grief. Do justly, now. Love mercy, now.",
+    "quoteDescription": "A teaching in the spirit of the Talmud (the Pirkei Avot tradition of obligation).",
+    "quoteMeaningAnalysis": "You cannot fix everything, but you are still obligated to do good where you are, now.",
+    "author": "Jewish Wisdom",
+    "culture": "Hebrew",
+    "category": "Judaism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "justice",
+      "compassion",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Pirkei_Avot",
+      "https://en.wikipedia.org/wiki/Pirkei_Avot"
     ]
   },
   {
     "id": "365",
-    "quoteText": "The steady lighthouse keeper reminds the crew to lift the weary without applause.",
-    "quoteTextEN": "The steady lighthouse keeper reminds the crew to lift the weary without applause.",
-    "quoteDescription": "Hawa Diop shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Hawa Diop",
-    "culture": "Senegalese Leadership Tradition",
-    "category": "Leadership",
+    "quoteText": "Treat the earth well: it was not given to you by your parents, it was loaned to you by your children.",
+    "quoteTextEN": "Treat the earth well: it was not given to you by your parents, it was loaned to you by your children.",
+    "quoteDescription": "Native American proverb.",
+    "quoteMeaningAnalysis": "We are stewards, not owners, of the earth, holding it in trust for future generations.",
+    "author": "Native American Proverb",
+    "culture": "Native American",
+    "category": "Proverb",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "nature",
+      "stewardship",
+      "future"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Native_American_proverbs",
+      "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
     ]
   },
   {
     "id": "366",
-    "quoteText": "The steady lighthouse keeper reminds the crew to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady lighthouse keeper reminds the crew to guard the quiet voices in the room.",
-    "quoteDescription": "Piotr Nowak shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Piotr Nowak",
-    "culture": "Polish Civic Reflection",
-    "category": "Leadership",
+    "quoteText": "What is life? It is the flash of a firefly in the night, the breath of a buffalo in winter, the little shadow that runs across the grass and loses itself in the sunset.",
+    "quoteTextEN": "What is life? It is the flash of a firefly in the night, the breath of a buffalo in winter, the little shadow that runs across the grass and loses itself in the sunset.",
+    "quoteDescription": "Crowfoot, chief of the Siksika (Blackfoot), his last words.",
+    "quoteMeaningAnalysis": "Life is brief and fleeting, beautiful precisely because it passes.",
+    "author": "Crowfoot",
+    "culture": "Native American",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "impermanence",
+      "life",
+      "beauty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Crowfoot",
+      "https://en.wikipedia.org/wiki/Crowfoot"
     ]
   },
   {
     "id": "367",
-    "quoteText": "The steady lighthouse keeper reminds the crew to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady lighthouse keeper reminds the crew to walk at the pace of the slowest feet.",
-    "quoteDescription": "Amelia Wright shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Amelia Wright",
-    "culture": "Appalachian Stewardship",
+    "quoteText": "Let us put our minds together and see what life we can make for our children.",
+    "quoteTextEN": "Let us put our minds together and see what life we can make for our children.",
+    "quoteDescription": "Attributed to Sitting Bull, Hunkpapa Lakota leader.",
+    "quoteMeaningAnalysis": "Cooperation across a community builds a better future for the next generation.",
+    "author": "Sitting Bull",
+    "culture": "Native American",
     "category": "Leadership",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "community",
+      "future",
+      "cooperation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Sitting_Bull",
+      "https://en.wikipedia.org/wiki/Sitting_Bull"
     ]
   },
   {
     "id": "368",
-    "quoteText": "The steady lighthouse keeper reminds the crew to carry the story when night is longest.",
-    "quoteTextEN": "The steady lighthouse keeper reminds the crew to carry the story when night is longest.",
-    "quoteDescription": "Chen Wei shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Chen Wei",
-    "culture": "Hakka Guidance Stories",
-    "category": "Leadership",
+    "quoteText": "The earth does not belong to us; we belong to the earth.",
+    "quoteTextEN": "The earth does not belong to us; we belong to the earth.",
+    "quoteDescription": "Attributed to Chief Seattle (Si'ahl) of the Duwamish and Suquamish peoples.",
+    "quoteMeaningAnalysis": "We are part of nature, not its masters; all things are connected.",
+    "author": "Chief Seattle",
+    "culture": "Native American",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "nature",
+      "connection",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Chief_Seattle",
+      "https://en.wikipedia.org/wiki/Chief_Seattle"
     ]
   },
   {
     "id": "369",
-    "quoteText": "The steady lighthouse keeper teaches the village to share the map before the journey.",
-    "quoteTextEN": "The steady lighthouse keeper teaches the village to share the map before the journey.",
-    "quoteDescription": "Laila Osman shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Laila Osman",
-    "culture": "Red Sea Navigator Tales",
-    "category": "Leadership",
+    "quoteText": "When it comes your time to die, sing your death song and die like a hero going home.",
+    "quoteTextEN": "When it comes your time to die, sing your death song and die like a hero going home.",
+    "quoteDescription": "Attributed to Tecumseh, leader of the Shawnee.",
+    "quoteMeaningAnalysis": "Live so fully and rightly that you can meet death with peace rather than fear.",
+    "author": "Tecumseh",
+    "culture": "Native American",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "courage",
+      "death",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tecumseh",
+      "https://en.wikipedia.org/wiki/Tecumseh"
     ]
   },
   {
     "id": "370",
-    "quoteText": "The steady lighthouse keeper teaches the village to speak last and listen first.",
-    "quoteTextEN": "The steady lighthouse keeper teaches the village to speak last and listen first.",
-    "quoteDescription": "Batu Erdene shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Batu Erdene",
-    "culture": "Mongolian Steppe Counsel",
-    "category": "Leadership",
+    "quoteText": "Listen to the wind, it talks. Listen to the silence, it speaks. Listen to your heart, it knows.",
+    "quoteTextEN": "Listen to the wind, it talks. Listen to the silence, it speaks. Listen to your heart, it knows.",
+    "quoteDescription": "Native American proverb.",
+    "quoteMeaningAnalysis": "Wisdom comes to those who learn to listen — to nature, to stillness, and to themselves.",
+    "author": "Native American Proverb",
+    "culture": "Native American",
+    "category": "Proverb",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "listening",
+      "wisdom",
+      "intuition"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Native_American_proverbs",
+      "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
     ]
   },
   {
     "id": "371",
-    "quoteText": "The steady lighthouse keeper teaches the village to lift the weary without applause.",
-    "quoteTextEN": "The steady lighthouse keeper teaches the village to lift the weary without applause.",
-    "quoteDescription": "Jamal Rivers shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Jamal Rivers",
-    "culture": "Gullah Leadership Teachings",
-    "category": "Leadership",
+    "quoteText": "Do not judge a man until you have walked a mile in his moccasins.",
+    "quoteTextEN": "Do not judge a man until you have walked a mile in his moccasins.",
+    "quoteDescription": "Native American proverb.",
+    "quoteMeaningAnalysis": "Withhold judgement until you understand another's experience from the inside.",
+    "author": "Native American Proverb",
+    "culture": "Native American",
+    "category": "Proverb",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "empathy",
+      "judgement",
+      "understanding"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Native_American_proverbs",
+      "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
     ]
   },
   {
     "id": "372",
-    "quoteText": "The steady lighthouse keeper teaches the village to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady lighthouse keeper teaches the village to guard the quiet voices in the room.",
-    "quoteDescription": "Ingrid Solberg shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Ingrid Solberg",
-    "culture": "Norwegian Stewardship Lore",
-    "category": "Leadership",
+    "quoteText": "We are all related — to each other, to the land, and to all living things.",
+    "quoteTextEN": "Mitákuye Oyás'iŋ — we are all related.",
+    "quoteDescription": "A Lakota phrase central to Sioux spirituality.",
+    "quoteMeaningAnalysis": "All beings are bound together in one web of kinship and responsibility.",
+    "author": "Lakota Wisdom",
+    "culture": "Native American",
+    "category": "Philosophy",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "unity",
+      "nature",
+      "kinship"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Native_American_proverbs",
+      "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
     ]
   },
   {
     "id": "373",
-    "quoteText": "The steady lighthouse keeper teaches the village to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady lighthouse keeper teaches the village to walk at the pace of the slowest feet.",
-    "quoteDescription": "Siti Rahmah shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Siti Rahmah",
-    "culture": "Malay Archipelago Wisdom",
-    "category": "Leadership",
+    "quoteText": "There is a tale of two wolves within us — and the one that wins is the one you feed.",
+    "quoteTextEN": "There is a tale of two wolves within us — and the one that wins is the one you feed.",
+    "quoteDescription": "A Cherokee legend on the struggle between our better and worse natures.",
+    "quoteMeaningAnalysis": "Our character is shaped by which impulses — generous or destructive — we choose to nourish.",
+    "author": "Cherokee Legend",
+    "culture": "Native American",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "character",
+      "choice",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Native_American_proverbs",
+      "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
     ]
   },
   {
     "id": "374",
-    "quoteText": "The steady lighthouse keeper teaches the village to carry the story when night is longest.",
-    "quoteTextEN": "The steady lighthouse keeper teaches the village to carry the story when night is longest.",
-    "quoteDescription": "Diego Herrera shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Diego Herrera",
-    "culture": "Chilean Community Insight",
-    "category": "Leadership",
+    "quoteText": "Walk lightly in the spring; Mother Earth is pregnant with new life.",
+    "quoteTextEN": "Walk lightly in the spring; Mother Earth is pregnant with new life.",
+    "quoteDescription": "Attributed to Big Thunder (Bedagi), Wabanaki Algonquin.",
+    "quoteMeaningAnalysis": "Move through the world with reverence and gentleness for the life around you.",
+    "author": "Big Thunder",
+    "culture": "Native American",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "nature",
+      "reverence",
+      "gentleness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Native_American_proverbs",
+      "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
     ]
   },
   {
     "id": "375",
-    "quoteText": "The steady lighthouse keeper invites the council to share the map before the journey.",
-    "quoteTextEN": "The steady lighthouse keeper invites the council to share the map before the journey.",
-    "quoteDescription": "Hawa Diop shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Hawa Diop",
-    "culture": "Senegalese Leadership Tradition",
-    "category": "Leadership",
+    "quoteText": "Cattle die, kinsmen die, you yourself must also die; but I know one thing that never dies — the fame of a dead man's deeds.",
+    "quoteTextEN": "Cattle die, kinsmen die, you yourself must also die; but I know one thing that never dies — the fame of a dead man's deeds.",
+    "quoteDescription": "From the Hávamál, the Old Norse 'Sayings of the High One'.",
+    "quoteMeaningAnalysis": "Everything perishes except the reputation we leave behind; live so it is worthy.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "legacy",
+      "mortality",
+      "honour"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "376",
-    "quoteText": "The steady lighthouse keeper invites the council to speak last and listen first.",
-    "quoteTextEN": "The steady lighthouse keeper invites the council to speak last and listen first.",
-    "quoteDescription": "Piotr Nowak shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Piotr Nowak",
-    "culture": "Polish Civic Reflection",
-    "category": "Leadership",
+    "quoteText": "No better burden can a man carry on the road than a good store of common sense.",
+    "quoteTextEN": "No better burden can a man carry on the road than a good store of common sense.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Practical wisdom is the most valuable thing you can take through life.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "wisdom",
+      "prudence",
+      "self-reliance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "377",
-    "quoteText": "The steady lighthouse keeper invites the council to lift the weary without applause.",
-    "quoteTextEN": "The steady lighthouse keeper invites the council to lift the weary without applause.",
-    "quoteDescription": "Amelia Wright shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Amelia Wright",
-    "culture": "Appalachian Stewardship",
-    "category": "Leadership",
+    "quoteText": "Praise no day until evening, no sword until tested, no ice until crossed, no ale until drunk.",
+    "quoteTextEN": "Praise no day until evening, no sword until tested, no ice until crossed, no ale until drunk.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Withhold judgement until things have proven themselves; do not celebrate too early.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "prudence",
+      "patience",
+      "caution"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "378",
-    "quoteText": "The steady lighthouse keeper invites the council to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady lighthouse keeper invites the council to guard the quiet voices in the room.",
-    "quoteDescription": "Chen Wei shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Chen Wei",
-    "culture": "Hakka Guidance Stories",
-    "category": "Leadership",
+    "quoteText": "The unwise man lies awake all night worrying; when morning comes he is worn out and his trouble remains.",
+    "quoteTextEN": "The unwise man lies awake all night worrying; when morning comes he is worn out and his trouble remains.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Worry exhausts you without solving anything; meet trouble with a rested mind.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "worry",
+      "peace",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "379",
-    "quoteText": "The steady lighthouse keeper invites the council to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady lighthouse keeper invites the council to walk at the pace of the slowest feet.",
-    "quoteDescription": "Laila Osman shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Laila Osman",
-    "culture": "Red Sea Navigator Tales",
-    "category": "Leadership",
+    "quoteText": "Be a friend to your friend, and repay each gift with a gift.",
+    "quoteTextEN": "Be a friend to your friend, and repay each gift with a gift.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Friendship is sustained by loyalty and mutual generosity.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "friendship",
+      "loyalty",
+      "generosity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "380",
-    "quoteText": "The steady lighthouse keeper invites the council to carry the story when night is longest.",
-    "quoteTextEN": "The steady lighthouse keeper invites the council to carry the story when night is longest.",
-    "quoteDescription": "Batu Erdene shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Batu Erdene",
-    "culture": "Mongolian Steppe Counsel",
-    "category": "Leadership",
+    "quoteText": "Moderately wise should each one be, never too wise; for a happy life is best lived with knowledge well-measured.",
+    "quoteTextEN": "Moderately wise should each one be, never too wise; for a happy life is best lived with knowledge well-measured.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Even wisdom needs moderation; the over-clever rob themselves of peace.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "moderation",
+      "wisdom",
+      "contentment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "381",
-    "quoteText": "The steady lighthouse keeper encourages the team to share the map before the journey.",
-    "quoteTextEN": "The steady lighthouse keeper encourages the team to share the map before the journey.",
-    "quoteDescription": "Jamal Rivers shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Jamal Rivers",
-    "culture": "Gullah Leadership Teachings",
-    "category": "Leadership",
+    "quoteText": "A coward thinks he will live forever if only he can shun the fight.",
+    "quoteTextEN": "A coward believes he will live forever if only he can shun the fight; but old age gives him no peace, even if spears spare him.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Avoiding every risk does not save you; courage is part of living well.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "courage",
+      "mortality",
+      "honour"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "382",
-    "quoteText": "The steady lighthouse keeper encourages the team to speak last and listen first.",
-    "quoteTextEN": "The steady lighthouse keeper encourages the team to speak last and listen first.",
-    "quoteDescription": "Ingrid Solberg shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Ingrid Solberg",
-    "culture": "Norwegian Stewardship Lore",
-    "category": "Leadership",
+    "quoteText": "The generous and bold have the best lives and are seldom beset by cares.",
+    "quoteTextEN": "The generous and bold have the best lives and are seldom beset by cares.",
+    "quoteDescription": "From the Hávamál.",
+    "quoteMeaningAnalysis": "Open-handedness and courage bring a freer, lighter life than fear and greed.",
+    "author": "Hávamál",
+    "culture": "Norse",
+    "category": "Wisdom",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "generosity",
+      "courage",
+      "happiness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/H%C3%A1vam%C3%A1l",
+      "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l"
     ]
   },
   {
     "id": "383",
-    "quoteText": "The steady lighthouse keeper encourages the team to lift the weary without applause.",
-    "quoteTextEN": "The steady lighthouse keeper encourages the team to lift the weary without applause.",
-    "quoteDescription": "Siti Rahmah shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Siti Rahmah",
-    "culture": "Malay Archipelago Wisdom",
-    "category": "Leadership",
+    "quoteText": "Be kind whenever possible. It is always possible.",
+    "quoteTextEN": "Be kind whenever possible. It is always possible.",
+    "quoteDescription": "The 14th Dalai Lama.",
+    "quoteMeaningAnalysis": "Kindness is a choice available to us in every situation, without exception.",
+    "author": "Dalai Lama",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "kindness",
+      "compassion",
+      "choice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tenzin_Gyatso,_14th_Dalai_Lama",
+      "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
     ]
   },
   {
     "id": "384",
-    "quoteText": "The steady lighthouse keeper encourages the team to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady lighthouse keeper encourages the team to guard the quiet voices in the room.",
-    "quoteDescription": "Diego Herrera shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Diego Herrera",
-    "culture": "Chilean Community Insight",
-    "category": "Leadership",
+    "quoteText": "Happiness is not something ready-made. It comes from your own actions.",
+    "quoteTextEN": "Happiness is not something ready-made. It comes from your own actions.",
+    "quoteDescription": "The 14th Dalai Lama.",
+    "quoteMeaningAnalysis": "We create our own happiness through how we choose to act.",
+    "author": "Dalai Lama",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "happiness",
+      "action",
+      "responsibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tenzin_Gyatso,_14th_Dalai_Lama",
+      "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
     ]
   },
   {
     "id": "385",
-    "quoteText": "The steady lighthouse keeper encourages the team to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady lighthouse keeper encourages the team to walk at the pace of the slowest feet.",
-    "quoteDescription": "Hawa Diop shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Hawa Diop",
-    "culture": "Senegalese Leadership Tradition",
-    "category": "Leadership",
+    "quoteText": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+    "quoteTextEN": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
+    "quoteDescription": "The 14th Dalai Lama.",
+    "quoteMeaningAnalysis": "Compassion is the central purpose of life; at minimum, do no harm.",
+    "author": "Dalai Lama",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "compassion",
+      "purpose",
+      "kindness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tenzin_Gyatso,_14th_Dalai_Lama",
+      "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
     ]
   },
   {
     "id": "386",
-    "quoteText": "The steady lighthouse keeper encourages the team to carry the story when night is longest.",
-    "quoteTextEN": "The steady lighthouse keeper encourages the team to carry the story when night is longest.",
-    "quoteDescription": "Piotr Nowak shares a leadership image where a lighthouse keeper becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Piotr Nowak",
-    "culture": "Polish Civic Reflection",
-    "category": "Leadership",
+    "quoteText": "Hasten slowly, and you shall soon arrive.",
+    "quoteTextEN": "Hasten slowly, and you shall soon arrive.",
+    "quoteDescription": "Attributed to Milarepa, the great Tibetan yogi and poet.",
+    "quoteMeaningAnalysis": "Steady, unhurried effort reaches the goal sooner than frantic rushing.",
+    "author": "Milarepa",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "patience",
+      "perseverance",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Milarepa",
+      "https://en.wikipedia.org/wiki/Milarepa"
     ]
   },
   {
     "id": "387",
-    "quoteText": "The steady village drum shows caravans to share the map before the journey.",
-    "quoteTextEN": "The steady village drum shows caravans to share the map before the journey.",
-    "quoteDescription": "Amelia Wright shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Amelia Wright",
-    "culture": "Appalachian Stewardship",
-    "category": "Leadership",
+    "quoteText": "All the happiness in the world comes from wishing others well; all the suffering from wishing only oneself well.",
+    "quoteTextEN": "All the happiness in the world comes from wishing others well; all the suffering from wishing only oneself well.",
+    "quoteDescription": "From Shantideva, 'The Way of the Bodhisattva' (Bodhicaryavatara).",
+    "quoteMeaningAnalysis": "Selflessness is the source of joy; self-absorption is the source of suffering.",
+    "author": "Shantideva",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "compassion",
+      "selflessness",
+      "happiness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Shantideva",
+      "https://en.wikipedia.org/wiki/Shantideva"
     ]
   },
   {
     "id": "388",
-    "quoteText": "The steady village drum shows caravans to speak last and listen first.",
-    "quoteTextEN": "The steady village drum shows caravans to speak last and listen first.",
-    "quoteDescription": "Chen Wei shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Chen Wei",
-    "culture": "Hakka Guidance Stories",
-    "category": "Leadership",
+    "quoteText": "Though my view is as spacious as the sky, my respect for cause and effect is as fine as grains of flour.",
+    "quoteTextEN": "Though my view is as spacious as the sky, my respect for cause and effect is as fine as grains of flour.",
+    "quoteDescription": "Attributed to Padmasambhava (Guru Rinpoche), who brought Buddhism to Tibet.",
+    "quoteMeaningAnalysis": "Hold the widest vision while attending scrupulously to the small consequences of your actions.",
+    "author": "Padmasambhava",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "mindfulness",
+      "ethics",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Padmasambhava",
+      "https://en.wikipedia.org/wiki/Padmasambhava"
     ]
   },
   {
     "id": "389",
-    "quoteText": "The steady village drum shows caravans to lift the weary without applause.",
-    "quoteTextEN": "The steady village drum shows caravans to lift the weary without applause.",
-    "quoteDescription": "Laila Osman shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Laila Osman",
-    "culture": "Red Sea Navigator Tales",
-    "category": "Leadership",
+    "quoteText": "Goodness speaks in a whisper; evil shouts.",
+    "quoteTextEN": "Goodness speaks in a whisper; evil shouts.",
+    "quoteDescription": "Tibetan proverb.",
+    "quoteMeaningAnalysis": "Virtue is quiet and unassuming, while wrongdoing draws loud attention to itself.",
+    "author": "Tibetan Proverb",
+    "culture": "Tibetan",
+    "category": "Proverb",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "virtue",
+      "humility",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tibetan_proverbs",
+      "https://en.wikipedia.org/wiki/Tibetan_people"
     ]
   },
   {
     "id": "390",
-    "quoteText": "The steady village drum shows caravans to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady village drum shows caravans to guard the quiet voices in the room.",
-    "quoteDescription": "Batu Erdene shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Batu Erdene",
-    "culture": "Mongolian Steppe Counsel",
-    "category": "Leadership",
+    "quoteText": "Wherever you have friends, that is your country; wherever you receive love, that is your home.",
+    "quoteTextEN": "Wherever you have friends, that is your country; wherever you receive love, that is your home.",
+    "quoteDescription": "Tibetan proverb.",
+    "quoteMeaningAnalysis": "Belonging is made of relationships and love, not of place.",
+    "author": "Tibetan Proverb",
+    "culture": "Tibetan",
+    "category": "Proverb",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "friendship",
+      "belonging",
+      "love"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tibetan_proverbs",
+      "https://en.wikipedia.org/wiki/Tibetan_people"
     ]
   },
   {
     "id": "391",
-    "quoteText": "The steady village drum shows caravans to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady village drum shows caravans to walk at the pace of the slowest feet.",
-    "quoteDescription": "Jamal Rivers shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Jamal Rivers",
-    "culture": "Gullah Leadership Teachings",
-    "category": "Leadership",
+    "quoteText": "Give those you love wings to fly, roots to come back, and reasons to stay.",
+    "quoteTextEN": "Give those you love wings to fly, roots to come back, and reasons to stay.",
+    "quoteDescription": "Attributed to the 14th Dalai Lama.",
+    "quoteMeaningAnalysis": "Real love grants freedom and belonging at once.",
+    "author": "Dalai Lama",
+    "culture": "Tibetan",
+    "category": "Buddhism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "love",
+      "freedom",
+      "family"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tenzin_Gyatso,_14th_Dalai_Lama",
+      "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
     ]
   },
   {
     "id": "392",
-    "quoteText": "The steady village drum shows caravans to carry the story when night is longest.",
-    "quoteTextEN": "The steady village drum shows caravans to carry the story when night is longest.",
-    "quoteDescription": "Ingrid Solberg shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Ingrid Solberg",
-    "culture": "Norwegian Stewardship Lore",
-    "category": "Leadership",
+    "quoteText": "It is better to live one day as a tiger than a thousand years as a sheep.",
+    "quoteTextEN": "It is better to live one day as a tiger than a thousand years as a sheep.",
+    "quoteDescription": "Tibetan proverb.",
+    "quoteMeaningAnalysis": "A short life lived with courage and meaning is worth more than a long, timid one.",
+    "author": "Tibetan Proverb",
+    "culture": "Tibetan",
+    "category": "Proverb",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "courage",
+      "life",
+      "meaning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Tibetan_proverbs",
+      "https://en.wikipedia.org/wiki/Tibetan_people"
     ]
   },
   {
     "id": "393",
-    "quoteText": "The steady village drum asks the circle to share the map before the journey.",
-    "quoteTextEN": "The steady village drum asks the circle to share the map before the journey.",
-    "quoteDescription": "Siti Rahmah shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Siti Rahmah",
-    "culture": "Malay Archipelago Wisdom",
-    "category": "Leadership",
+    "quoteText": "We suffer more often in imagination than in reality.",
+    "quoteTextEN": "We suffer more often in imagination than in reality.",
+    "quoteDescription": "From Seneca the Younger.",
+    "quoteMeaningAnalysis": "Most of our distress comes from imagined fears rather than real events.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "fear",
+      "mind",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Seneca_the_Younger"
     ]
   },
   {
     "id": "394",
-    "quoteText": "The steady village drum asks the circle to speak last and listen first.",
-    "quoteTextEN": "The steady village drum asks the circle to speak last and listen first.",
-    "quoteDescription": "Diego Herrera shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Diego Herrera",
-    "culture": "Chilean Community Insight",
-    "category": "Leadership",
+    "quoteText": "It is not that we have a short time to live, but that we waste much of it.",
+    "quoteTextEN": "It is not that we have a short time to live, but that we waste much of it.",
+    "quoteDescription": "From Seneca, 'On the Shortness of Life'.",
+    "quoteMeaningAnalysis": "Life is long enough if we stop squandering our time.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "time",
+      "life",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Seneca_the_Younger"
     ]
   },
   {
     "id": "395",
-    "quoteText": "The steady village drum asks the circle to lift the weary without applause.",
-    "quoteTextEN": "The steady village drum asks the circle to lift the weary without applause.",
-    "quoteDescription": "Hawa Diop shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to lift the weary without applause.",
-    "author": "Hawa Diop",
-    "culture": "Senegalese Leadership Tradition",
-    "category": "Leadership",
+    "quoteText": "Difficulties strengthen the mind, as labour does the body.",
+    "quoteTextEN": "Difficulties strengthen the mind, as labour does the body.",
+    "quoteDescription": "From Seneca the Younger.",
+    "quoteMeaningAnalysis": "Hardship trains and toughens the mind just as exercise builds the body.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "adversity",
+      "growth",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Seneca_the_Younger"
     ]
   },
   {
     "id": "396",
-    "quoteText": "The steady village drum asks the circle to guard the quiet voices in the room.",
-    "quoteTextEN": "The steady village drum asks the circle to guard the quiet voices in the room.",
-    "quoteDescription": "Piotr Nowak shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to guard the quiet voices in the room.",
-    "author": "Piotr Nowak",
-    "culture": "Polish Civic Reflection",
-    "category": "Leadership",
+    "quoteText": "As long as you live, keep learning how to live.",
+    "quoteTextEN": "As long as you live, keep learning how to live.",
+    "quoteDescription": "From Seneca the Younger.",
+    "quoteMeaningAnalysis": "Wisdom is a lifelong practice that is never finally complete.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "learning",
+      "wisdom",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Seneca_the_Younger"
     ]
   },
   {
     "id": "397",
-    "quoteText": "The steady village drum asks the circle to walk at the pace of the slowest feet.",
-    "quoteTextEN": "The steady village drum asks the circle to walk at the pace of the slowest feet.",
-    "quoteDescription": "Amelia Wright shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to walk at the pace of the slowest feet.",
-    "author": "Amelia Wright",
-    "culture": "Appalachian Stewardship",
-    "category": "Leadership",
+    "quoteText": "Wealth consists not in having great possessions, but in having few wants.",
+    "quoteTextEN": "Wealth consists not in having great possessions, but in having few wants.",
+    "quoteDescription": "Attributed to Epictetus.",
+    "quoteMeaningAnalysis": "Freedom from craving makes you richer than any amount of property.",
+    "author": "Epictetus",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "contentment",
+      "wealth",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Epictetus",
+      "https://en.wikipedia.org/wiki/Epictetus"
     ]
   },
   {
     "id": "398",
-    "quoteText": "The steady village drum asks the circle to carry the story when night is longest.",
-    "quoteTextEN": "The steady village drum asks the circle to carry the story when night is longest.",
-    "quoteDescription": "Chen Wei shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to carry the story when night is longest.",
-    "author": "Chen Wei",
-    "culture": "Hakka Guidance Stories",
-    "category": "Leadership",
+    "quoteText": "First say to yourself what you would be; and then do what you have to do.",
+    "quoteTextEN": "First say to yourself what you would be; and then do what you have to do.",
+    "quoteDescription": "From Epictetus.",
+    "quoteMeaningAnalysis": "Define who you want to become, then act accordingly and consistently.",
+    "author": "Epictetus",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "purpose",
+      "discipline",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Epictetus",
+      "https://en.wikipedia.org/wiki/Epictetus"
     ]
   },
   {
     "id": "399",
-    "quoteText": "The steady village drum reminds the crew to share the map before the journey.",
-    "quoteTextEN": "The steady village drum reminds the crew to share the map before the journey.",
-    "quoteDescription": "Laila Osman shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to share the map before the journey.",
-    "author": "Laila Osman",
-    "culture": "Red Sea Navigator Tales",
-    "category": "Leadership",
+    "quoteText": "He is a wise man who does not grieve for the things he has not, but rejoices for those which he has.",
+    "quoteTextEN": "He is a wise man who does not grieve for the things he has not, but rejoices for those which he has.",
+    "quoteDescription": "From Epictetus.",
+    "quoteMeaningAnalysis": "Gratitude for what we have is wiser than longing for what we lack.",
+    "author": "Epictetus",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "gratitude",
+      "contentment",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Epictetus",
+      "https://en.wikipedia.org/wiki/Epictetus"
     ]
   },
   {
     "id": "400",
-    "quoteText": "The steady village drum reminds the crew to speak last and listen first.",
-    "quoteTextEN": "The steady village drum reminds the crew to speak last and listen first.",
-    "quoteDescription": "Batu Erdene shares a leadership image where a village drum becomes a guide toward guiding others with grounded service.",
-    "quoteMeaningAnalysis": "It suggests that leadership is service that brightens the path for others and urges us to speak last and listen first.",
-    "author": "Batu Erdene",
-    "culture": "Mongolian Steppe Counsel",
-    "category": "Leadership",
+    "quoteText": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "quoteTextEN": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+    "quoteDescription": "From the Meditations of Marcus Aurelius.",
+    "quoteMeaningAnalysis": "Happiness depends far more on our mindset than on our circumstances.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "leadership",
-      "service",
-      "guidance"
+      "happiness",
+      "mind",
+      "contentment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Servant_leadership",
-      "https://www.forbes.com/sites/forbescoachescouncil/2020/01/27/15-ways-to-lead-with-servant-leadership/"
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius",
+      "https://en.wikipedia.org/wiki/Meditations"
     ]
   },
   {
     "id": "401",
-    "quoteText": "The woven village loom invites each heart to sing before counting the chairs.",
-    "quoteTextEN": "The woven village loom invites each heart to sing before counting the chairs.",
-    "quoteDescription": "Ifeoma Okoye shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Ifeoma Okoye",
-    "culture": "Igbo Communal Teaching",
-    "category": "Community",
+    "quoteText": "The soul becomes dyed with the colour of its thoughts.",
+    "quoteTextEN": "The soul becomes dyed with the colour of its thoughts.",
+    "quoteDescription": "From the Meditations of Marcus Aurelius.",
+    "quoteMeaningAnalysis": "We become what we habitually think; guard the quality of your thoughts.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "mind",
+      "character",
+      "thought"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius",
+      "https://en.wikipedia.org/wiki/Meditations"
     ]
   },
   {
     "id": "402",
-    "quoteText": "The woven village loom invites each heart to trade stories before silver.",
-    "quoteTextEN": "The woven village loom invites each heart to trade stories before silver.",
-    "quoteDescription": "Jonas Pettersson shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Jonas Pettersson",
-    "culture": "Scandinavian Village Lore",
-    "category": "Community",
+    "quoteText": "To acquire virtue we must practice it, just as we must practice any art.",
+    "quoteTextEN": "To acquire virtue we must practice it, just as we must practice any art.",
+    "quoteDescription": "From Musonius Rufus, the Roman Stoic teacher of Epictetus.",
+    "quoteMeaningAnalysis": "Virtue is a skill developed through deliberate, repeated practice, not mere theory.",
+    "author": "Musonius Rufus",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "virtue",
+      "practice",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Musonius_Rufus",
+      "https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus"
     ]
   },
   {
