@@ -3801,1940 +3801,1940 @@ window.QUOTES_DATA = [
   },
   {
     "id": "201",
-    "quoteText": "The patient river teaches us to rise after every storm.",
-    "quoteTextEN": "The patient river teaches us to rise after every storm.",
-    "quoteDescription": "Amina al-Karim shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Amina al-Karim",
-    "culture": "Levantine Wisdom",
-    "category": "Resilience",
+    "quoteText": "Ὁμολογουμένως τῇ φύσει ζῆν.",
+    "quoteTextEN": "To live in agreement with nature.",
+    "quoteDescription": "The defining goal (telos) of Stoicism, founded by Zeno of Citium of Kition (modern Larnaca), Cyprus.",
+    "quoteMeaningAnalysis": "A good life is one lived in harmony with nature and reason rather than against them.",
+    "author": "Zeno of Citium",
+    "culture": "Cypriot",
+    "category": "Stoicism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "nature",
+      "virtue",
+      "stoicism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zeno_of_Citium",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
     ]
   },
   {
     "id": "202",
-    "quoteText": "The patient river teaches us to mend what the winds have frayed.",
-    "quoteTextEN": "The patient river teaches us to mend what the winds have frayed.",
-    "quoteDescription": "Tenzin Dorje shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Tenzin Dorje",
-    "culture": "Tibetan Teaching",
-    "category": "Resilience",
+    "quoteText": "We have two ears and one mouth, so we should listen more than we say.",
+    "quoteTextEN": "We have two ears and one mouth, so we should listen more than we say.",
+    "quoteDescription": "Attributed to Zeno of Citium, the Cypriot-born founder of Stoicism.",
+    "quoteMeaningAnalysis": "Listening attentively teaches us more than speaking; restraint of the tongue is wisdom.",
+    "author": "Zeno of Citium",
+    "culture": "Cypriot",
+    "category": "Stoicism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "listening",
+      "silence",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zeno_of_Citium",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
     ]
   },
   {
     "id": "203",
-    "quoteText": "The patient river teaches us to breathe through the longest night.",
-    "quoteTextEN": "The patient river teaches us to breathe through the longest night.",
-    "quoteDescription": "María Quispe shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "María Quispe",
-    "culture": "Andean Reflection",
-    "category": "Resilience",
+    "quoteText": "Man conquers the world by conquering himself.",
+    "quoteTextEN": "Man conquers the world by conquering himself.",
+    "quoteDescription": "Attributed to Zeno of Citium of Kition, Cyprus.",
+    "quoteMeaningAnalysis": "True mastery is self-mastery; govern yourself before seeking to govern circumstances.",
+    "author": "Zeno of Citium",
+    "culture": "Cypriot",
+    "category": "Stoicism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "self-control",
+      "mastery",
+      "stoicism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zeno_of_Citium",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
     ]
   },
   {
     "id": "204",
-    "quoteText": "The patient river teaches us to wait until the dawn appears.",
-    "quoteTextEN": "The patient river teaches us to wait until the dawn appears.",
-    "quoteDescription": "Sefu Ndlovu shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Sefu Ndlovu",
-    "culture": "Southern African Insight",
-    "category": "Resilience",
+    "quoteText": "Well-being is realized by small steps, but is truly no small thing.",
+    "quoteTextEN": "Well-being is realized by small steps, but is truly no small thing.",
+    "quoteDescription": "Attributed to Zeno of Citium, founder of the Stoa.",
+    "quoteMeaningAnalysis": "Lasting contentment is built gradually through small, consistent acts of virtue.",
+    "author": "Zeno of Citium",
+    "culture": "Cypriot",
+    "category": "Stoicism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "patience",
+      "virtue",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zeno_of_Citium",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
     ]
   },
   {
     "id": "205",
-    "quoteText": "The patient river teaches us to bend without ever breaking.",
-    "quoteTextEN": "The patient river teaches us to bend without ever breaking.",
-    "quoteDescription": "Maeve O'Sullivan shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Maeve O'Sullivan",
-    "culture": "Irish Reflection",
-    "category": "Resilience",
+    "quoteText": "Steel your sensibilities, so that life shall hurt you as little as possible.",
+    "quoteTextEN": "Steel your sensibilities, so that life shall hurt you as little as possible.",
+    "quoteDescription": "Attributed to Zeno of Citium of Cyprus.",
+    "quoteMeaningAnalysis": "By training the mind to remain calm, we reduce the power of misfortune to wound us.",
+    "author": "Zeno of Citium",
+    "culture": "Cypriot",
+    "category": "Stoicism",
     "tags": [
       "resilience",
-      "perseverance",
-      "strength"
+      "stoicism",
+      "mind"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zeno_of_Citium",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
     ]
   },
   {
     "id": "206",
-    "quoteText": "The patient river teaches us to listen for the promise of spring.",
-    "quoteTextEN": "The patient river teaches us to listen for the promise of spring.",
-    "quoteDescription": "Koji Tanaka shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Koji Tanaka",
-    "culture": "Japanese Proverbial Lore",
-    "category": "Resilience",
+    "quoteText": "The goal of life is happiness, and happiness comes from virtue alone.",
+    "quoteTextEN": "The goal of life is happiness, and happiness comes from virtue alone.",
+    "quoteDescription": "A summary of Zeno of Citium's Stoic ethics, the Cyprus-born school of philosophy.",
+    "quoteMeaningAnalysis": "Happiness does not depend on fortune or possessions but on living virtuously.",
+    "author": "Zeno of Citium",
+    "culture": "Cypriot",
+    "category": "Stoicism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "happiness",
+      "virtue",
+      "stoicism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zeno_of_Citium",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
     ]
   },
   {
     "id": "207",
-    "quoteText": "The patient river reminds hearts to rise after every storm.",
-    "quoteTextEN": "The patient river reminds hearts to rise after every storm.",
-    "quoteDescription": "Anika Sharma shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Anika Sharma",
-    "culture": "Himalayan Folklore",
-    "category": "Resilience",
+    "quoteText": "Άκουε πολλά, λάλε λλία.",
+    "quoteTextEN": "Listen a lot, speak little.",
+    "quoteDescription": "Cypriot proverb.",
+    "quoteMeaningAnalysis": "Wisdom comes from attentive listening rather than constant talking.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "listening",
+      "humility",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
     "id": "208",
-    "quoteText": "The patient river reminds hearts to mend what the winds have frayed.",
-    "quoteTextEN": "The patient river reminds hearts to mend what the winds have frayed.",
-    "quoteDescription": "Ibrahim al-Hadid shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Ibrahim al-Hadid",
-    "culture": "Bedouin Tradition",
-    "category": "Resilience",
+    "quoteText": "Ο καλός ο γείτονας έν' καλύττερος που τον μακρινόν συγγενήν.",
+    "quoteTextEN": "A good neighbour is better than a distant relative.",
+    "quoteDescription": "Cypriot proverb.",
+    "quoteMeaningAnalysis": "Those near who help you matter more than kin who are far away.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "community",
+      "friendship",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
     "id": "209",
-    "quoteText": "The patient river reminds hearts to breathe through the longest night.",
-    "quoteTextEN": "The patient river reminds hearts to breathe through the longest night.",
-    "quoteDescription": "Greta Holm shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "Greta Holm",
-    "culture": "Nordic Perspective",
-    "category": "Resilience",
+    "quoteText": "Κάμε το καλόν τζιαι ρίξ' το στον γιαλόν.",
+    "quoteTextEN": "Do good and cast it into the sea.",
+    "quoteDescription": "Cypriot proverb.",
+    "quoteMeaningAnalysis": "Do good for its own sake, without expecting recognition or reward.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "kindness",
+      "selflessness",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
     "id": "210",
-    "quoteText": "The patient river reminds hearts to wait until the dawn appears.",
-    "quoteTextEN": "The patient river reminds hearts to wait until the dawn appears.",
-    "quoteDescription": "Naledi Mokoena shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Naledi Mokoena",
-    "culture": "Batswana Wisdom",
-    "category": "Resilience",
+    "quoteText": "Όποιος φυλάει τα ρούχα του, έσιει τα μισά.",
+    "quoteTextEN": "Whoever guards his clothes keeps half of them.",
+    "quoteDescription": "Cypriot proverb.",
+    "quoteMeaningAnalysis": "Prudence and care protect what you have from needless loss.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "prudence",
+      "caution",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
     "id": "211",
-    "quoteText": "The patient river reminds hearts to bend without ever breaking.",
-    "quoteTextEN": "The patient river reminds hearts to bend without ever breaking.",
-    "quoteDescription": "Amina al-Karim shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Amina al-Karim",
-    "culture": "Levantine Wisdom",
-    "category": "Resilience",
+    "quoteText": "Μέτρον ἄριστον.",
+    "quoteTextEN": "Moderation is best.",
+    "quoteDescription": "Maxim of Cleobulus of Lindos, one of the Seven Sages of Greece.",
+    "quoteMeaningAnalysis": "Balance and measure in all things lead to the best outcomes.",
+    "author": "Cleobulus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "moderation",
+      "balance",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Cleobulus",
+      "https://en.wikipedia.org/wiki/Cleobulus"
     ]
   },
   {
     "id": "212",
-    "quoteText": "The patient river reminds hearts to listen for the promise of spring.",
-    "quoteTextEN": "The patient river reminds hearts to listen for the promise of spring.",
-    "quoteDescription": "Tenzin Dorje shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Tenzin Dorje",
-    "culture": "Tibetan Teaching",
-    "category": "Resilience",
+    "quoteText": "Καιρὸν γνῶθι.",
+    "quoteTextEN": "Know your opportunity.",
+    "quoteDescription": "Maxim of Pittacus of Mytilene, one of the Seven Sages.",
+    "quoteMeaningAnalysis": "Recognise the right moment to act; timing is a form of wisdom.",
+    "author": "Pittacus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "timing",
+      "opportunity",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Pittacus_of_Mytilene",
+      "https://en.wikipedia.org/wiki/Pittacus_of_Mytilene"
     ]
   },
   {
     "id": "213",
-    "quoteText": "The patient river whispers that we must rise after every storm.",
-    "quoteTextEN": "The patient river whispers that we must rise after every storm.",
-    "quoteDescription": "María Quispe shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "María Quispe",
-    "culture": "Andean Reflection",
-    "category": "Resilience",
+    "quoteText": "Οἱ πλεῖστοι ἄνθρωποι κακοί.",
+    "quoteTextEN": "Most people are bad.",
+    "quoteDescription": "Maxim of Bias of Priene, one of the Seven Sages.",
+    "quoteMeaningAnalysis": "A sober reminder to keep clear judgement about human nature and choose company wisely.",
+    "author": "Bias of Priene",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "human-nature",
+      "judgement",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Bias_of_Priene",
+      "https://en.wikipedia.org/wiki/Bias_of_Priene"
     ]
   },
   {
     "id": "214",
-    "quoteText": "The patient river whispers that we must mend what the winds have frayed.",
-    "quoteTextEN": "The patient river whispers that we must mend what the winds have frayed.",
-    "quoteDescription": "Sefu Ndlovu shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Sefu Ndlovu",
-    "culture": "Southern African Insight",
-    "category": "Resilience",
+    "quoteText": "Μελέτη τὸ πᾶν.",
+    "quoteTextEN": "Practice is everything.",
+    "quoteDescription": "Maxim of Periander of Corinth, one of the Seven Sages.",
+    "quoteMeaningAnalysis": "Diligent practice and forethought are the keys to mastering anything.",
+    "author": "Periander",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "practice",
+      "discipline",
+      "mastery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Periander",
+      "https://en.wikipedia.org/wiki/Periander"
     ]
   },
   {
     "id": "215",
-    "quoteText": "The patient river whispers that we must breathe through the longest night.",
-    "quoteTextEN": "The patient river whispers that we must breathe through the longest night.",
-    "quoteDescription": "Maeve O'Sullivan shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "Maeve O'Sullivan",
-    "culture": "Irish Reflection",
-    "category": "Resilience",
+    "quoteText": "Ἐγγύα, πάρα δ' ἄτα.",
+    "quoteTextEN": "A pledge, and ruin is near.",
+    "quoteDescription": "Maxim of Thales of Miletus, one of the Seven Sages and a founder of philosophy.",
+    "quoteMeaningAnalysis": "Beware of standing surety for others; rash guarantees invite disaster.",
+    "author": "Thales",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "prudence",
+      "caution",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Thales",
+      "https://en.wikipedia.org/wiki/Thales_of_Miletus"
     ]
   },
   {
     "id": "216",
-    "quoteText": "The patient river whispers that we must wait until the dawn appears.",
-    "quoteTextEN": "The patient river whispers that we must wait until the dawn appears.",
-    "quoteDescription": "Koji Tanaka shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Koji Tanaka",
-    "culture": "Japanese Proverbial Lore",
-    "category": "Resilience",
+    "quoteText": "Hope is the only good that is common to all men; those who have nothing else possess hope still.",
+    "quoteTextEN": "Hope is the only good that is common to all men; those who have nothing else possess hope still.",
+    "quoteDescription": "Attributed to Thales of Miletus.",
+    "quoteMeaningAnalysis": "Hope is the universal possession that sustains even those who have lost everything else.",
+    "author": "Thales",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
+      "hope",
       "resilience",
-      "perseverance",
-      "strength"
+      "humanity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Thales",
+      "https://en.wikipedia.org/wiki/Thales_of_Miletus"
     ]
   },
   {
     "id": "217",
-    "quoteText": "The patient river whispers that we must bend without ever breaking.",
-    "quoteTextEN": "The patient river whispers that we must bend without ever breaking.",
-    "quoteDescription": "Anika Sharma shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Anika Sharma",
-    "culture": "Himalayan Folklore",
-    "category": "Resilience",
+    "quoteText": "The Mind orders all things and is the cause of all.",
+    "quoteTextEN": "The Mind orders all things and is the cause of all.",
+    "quoteDescription": "A core idea of the pre-Socratic philosopher Anaxagoras, who held that 'Nous' (Mind) arranges the cosmos.",
+    "quoteMeaningAnalysis": "An ordering intelligence underlies the structure of the universe.",
+    "author": "Anaxagoras",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "mind",
+      "cosmos",
+      "reason"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Anaxagoras",
+      "https://en.wikipedia.org/wiki/Anaxagoras"
     ]
   },
   {
     "id": "218",
-    "quoteText": "The patient river whispers that we must listen for the promise of spring.",
-    "quoteTextEN": "The patient river whispers that we must listen for the promise of spring.",
-    "quoteDescription": "Ibrahim al-Hadid shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Ibrahim al-Hadid",
-    "culture": "Bedouin Tradition",
-    "category": "Resilience",
+    "quoteText": "Mortals imagine the gods to be born, and to have clothes and voices and shapes like their own.",
+    "quoteTextEN": "Mortals imagine the gods to be born, and to have clothes and voices and shapes like their own.",
+    "quoteDescription": "From the pre-Socratic philosopher Xenophanes, an early critic of anthropomorphic religion.",
+    "quoteMeaningAnalysis": "We tend to remake the divine and the unknown in our own image rather than seeing it as it is.",
+    "author": "Xenophanes",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "perception",
+      "humility",
+      "religion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Xenophanes",
+      "https://en.wikipedia.org/wiki/Xenophanes"
     ]
   },
   {
     "id": "219",
-    "quoteText": "The patient river shows wanderers how to rise after every storm.",
-    "quoteTextEN": "The patient river shows wanderers how to rise after every storm.",
-    "quoteDescription": "Greta Holm shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Greta Holm",
-    "culture": "Nordic Perspective",
-    "category": "Resilience",
+    "quoteText": "There is nothing permanent except change.",
+    "quoteTextEN": "There is nothing permanent except change.",
+    "quoteDescription": "A summary of the philosophy of Heraclitus of Ephesus.",
+    "quoteMeaningAnalysis": "Change is the only constant; everything is in perpetual flux.",
+    "author": "Heraclitus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "change",
+      "impermanence",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Heraclitus",
+      "https://en.wikipedia.org/wiki/Heraclitus"
     ]
   },
   {
     "id": "220",
-    "quoteText": "The patient river shows wanderers how to mend what the winds have frayed.",
-    "quoteTextEN": "The patient river shows wanderers how to mend what the winds have frayed.",
-    "quoteDescription": "Naledi Mokoena shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Naledi Mokoena",
-    "culture": "Batswana Wisdom",
-    "category": "Resilience",
+    "quoteText": "By convention sweet, by convention bitter; but in reality atoms and void.",
+    "quoteTextEN": "By convention sweet, by convention bitter; but in reality atoms and void.",
+    "quoteDescription": "From Democritus, the pre-Socratic 'laughing philosopher' and atomist.",
+    "quoteMeaningAnalysis": "Our sensory qualities are conventions; the underlying reality is atoms moving in empty space.",
+    "author": "Democritus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "reality",
+      "science",
+      "perception"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Democritus",
+      "https://en.wikipedia.org/wiki/Democritus"
     ]
   },
   {
     "id": "221",
-    "quoteText": "The patient river shows wanderers how to breathe through the longest night.",
-    "quoteTextEN": "The patient river shows wanderers how to breathe through the longest night.",
-    "quoteDescription": "Amina al-Karim shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "Amina al-Karim",
-    "culture": "Levantine Wisdom",
-    "category": "Resilience",
+    "quoteText": "Happiness resides not in possessions and gold; happiness dwells in the soul.",
+    "quoteTextEN": "Happiness resides not in possessions and gold; happiness dwells in the soul.",
+    "quoteDescription": "Attributed to Democritus of Abdera.",
+    "quoteMeaningAnalysis": "Contentment is an inner state, not a product of external wealth.",
+    "author": "Democritus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "happiness",
+      "soul",
+      "contentment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Democritus",
+      "https://en.wikipedia.org/wiki/Democritus"
     ]
   },
   {
     "id": "222",
-    "quoteText": "The patient river shows wanderers how to wait until the dawn appears.",
-    "quoteTextEN": "The patient river shows wanderers how to wait until the dawn appears.",
-    "quoteDescription": "Tenzin Dorje shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Tenzin Dorje",
-    "culture": "Tibetan Teaching",
-    "category": "Resilience",
+    "quoteText": "Give me a fruitful error any time, full of seeds, bursting with its own corrections.",
+    "quoteTextEN": "Give me a fruitful error any time, full of seeds, bursting with its own corrections.",
+    "quoteDescription": "Attributed to the spirit of pre-Socratic inquiry (Anaximander's bold cosmology).",
+    "quoteMeaningAnalysis": "An honest mistake that advances understanding is worth more than a barren, cautious truth.",
+    "author": "Anaximander",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "inquiry",
+      "mistakes",
+      "science"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Anaximander",
+      "https://en.wikipedia.org/wiki/Anaximander"
     ]
   },
   {
     "id": "223",
-    "quoteText": "The patient river shows wanderers how to bend without ever breaking.",
-    "quoteTextEN": "The patient river shows wanderers how to bend without ever breaking.",
-    "quoteDescription": "María Quispe shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "María Quispe",
-    "culture": "Andean Reflection",
-    "category": "Resilience",
+    "quoteText": "千里之行，始於足下。",
+    "quoteTextEN": "A journey of a thousand miles begins with a single step.",
+    "quoteDescription": "From the Tao Te Ching of Lao Tzu.",
+    "quoteMeaningAnalysis": "Even the greatest undertakings start with one small action taken now.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
+      "beginnings",
       "perseverance",
-      "strength"
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "224",
-    "quoteText": "The patient river shows wanderers how to listen for the promise of spring.",
-    "quoteTextEN": "The patient river shows wanderers how to listen for the promise of spring.",
-    "quoteDescription": "Sefu Ndlovu shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Sefu Ndlovu",
-    "culture": "Southern African Insight",
-    "category": "Resilience",
+    "quoteText": "知人者智，自知者明。",
+    "quoteTextEN": "Knowing others is wisdom; knowing yourself is enlightenment.",
+    "quoteDescription": "From the Tao Te Ching of Lao Tzu.",
+    "quoteMeaningAnalysis": "Understanding others is valuable, but self-knowledge is the higher and rarer insight.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "self-knowledge",
+      "wisdom",
+      "enlightenment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "225",
-    "quoteText": "The patient river invites travelers to rise after every storm.",
-    "quoteTextEN": "The patient river invites travelers to rise after every storm.",
-    "quoteDescription": "Maeve O'Sullivan shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Maeve O'Sullivan",
-    "culture": "Irish Reflection",
-    "category": "Resilience",
+    "quoteText": "知足者富。",
+    "quoteTextEN": "He who knows he has enough is rich.",
+    "quoteDescription": "From the Tao Te Ching of Lao Tzu.",
+    "quoteMeaningAnalysis": "True wealth is contentment with what one has, not the endless pursuit of more.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "contentment",
+      "wealth",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "226",
-    "quoteText": "The patient river invites travelers to mend what the winds have frayed.",
-    "quoteTextEN": "The patient river invites travelers to mend what the winds have frayed.",
-    "quoteDescription": "Koji Tanaka shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Koji Tanaka",
-    "culture": "Japanese Proverbial Lore",
-    "category": "Resilience",
+    "quoteText": "Nature does not hurry, yet everything is accomplished.",
+    "quoteTextEN": "Nature does not hurry, yet everything is accomplished.",
+    "quoteDescription": "Attributed to Lao Tzu, founder of Taoism.",
+    "quoteMeaningAnalysis": "Patience and natural timing achieve more than anxious striving.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "patience",
+      "nature",
+      "wu-wei"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "227",
-    "quoteText": "The patient river invites travelers to breathe through the longest night.",
-    "quoteTextEN": "The patient river invites travelers to breathe through the longest night.",
-    "quoteDescription": "Anika Sharma shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "Anika Sharma",
-    "culture": "Himalayan Folklore",
-    "category": "Resilience",
+    "quoteText": "When I let go of what I am, I become what I might be.",
+    "quoteTextEN": "When I let go of what I am, I become what I might be.",
+    "quoteDescription": "Attributed to Lao Tzu.",
+    "quoteMeaningAnalysis": "Releasing fixed ideas of ourselves opens the way to growth and possibility.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "change",
+      "growth",
+      "letting-go"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Tao_Te_Ching",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "228",
-    "quoteText": "The patient river invites travelers to wait until the dawn appears.",
-    "quoteTextEN": "The patient river invites travelers to wait until the dawn appears.",
-    "quoteDescription": "Ibrahim al-Hadid shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Ibrahim al-Hadid",
-    "culture": "Bedouin Tradition",
-    "category": "Resilience",
+    "quoteText": "It does not matter how slowly you go as long as you do not stop.",
+    "quoteTextEN": "It does not matter how slowly you go as long as you do not stop.",
+    "quoteDescription": "Attributed to Confucius.",
+    "quoteMeaningAnalysis": "Persistence matters more than speed; steady progress eventually arrives.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "resilience",
       "perseverance",
-      "strength"
+      "patience",
+      "progress"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "229",
-    "quoteText": "The patient river invites travelers to bend without ever breaking.",
-    "quoteTextEN": "The patient river invites travelers to bend without ever breaking.",
-    "quoteDescription": "Greta Holm shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Greta Holm",
-    "culture": "Nordic Perspective",
-    "category": "Resilience",
+    "quoteText": "Real knowledge is to know the extent of one's ignorance.",
+    "quoteTextEN": "Real knowledge is to know the extent of one's ignorance.",
+    "quoteDescription": "From the Analects of Confucius.",
+    "quoteMeaningAnalysis": "Wisdom begins with honestly recognising the limits of what we know.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "humility",
+      "knowledge",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "230",
-    "quoteText": "The patient river invites travelers to listen for the promise of spring.",
-    "quoteTextEN": "The patient river invites travelers to listen for the promise of spring.",
-    "quoteDescription": "Naledi Mokoena shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Naledi Mokoena",
-    "culture": "Batswana Wisdom",
-    "category": "Resilience",
+    "quoteText": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "quoteTextEN": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "quoteDescription": "Attributed to Confucius.",
+    "quoteMeaningAnalysis": "Resilience, not the absence of failure, is the true measure of character.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
       "resilience",
       "perseverance",
-      "strength"
+      "character"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "231",
-    "quoteText": "The patient river encourages kin to rise after every storm.",
-    "quoteTextEN": "The patient river encourages kin to rise after every storm.",
-    "quoteDescription": "Amina al-Karim shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Amina al-Karim",
-    "culture": "Levantine Wisdom",
-    "category": "Resilience",
+    "quoteText": "The man who moves a mountain begins by carrying away small stones.",
+    "quoteTextEN": "The man who moves a mountain begins by carrying away small stones.",
+    "quoteDescription": "Attributed to Confucius.",
+    "quoteMeaningAnalysis": "Vast tasks are accomplished through patient, incremental effort.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "persistence",
+      "patience",
+      "effort"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "232",
-    "quoteText": "The patient river encourages kin to mend what the winds have frayed.",
-    "quoteTextEN": "The patient river encourages kin to mend what the winds have frayed.",
-    "quoteDescription": "Tenzin Dorje shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Tenzin Dorje",
-    "culture": "Tibetan Teaching",
-    "category": "Resilience",
+    "quoteText": "When you know a thing, hold that you know it; when you do not, allow that you do not — this is knowledge.",
+    "quoteTextEN": "When you know a thing, hold that you know it; when you do not, allow that you do not — this is knowledge.",
+    "quoteDescription": "From the Analects of Confucius.",
+    "quoteMeaningAnalysis": "Intellectual honesty about what we know and do not know is itself true knowledge.",
+    "author": "Confucius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "honesty",
+      "knowledge",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Confucius",
+      "https://en.wikipedia.org/wiki/Confucius"
     ]
   },
   {
     "id": "233",
-    "quoteText": "The patient river encourages kin to breathe through the longest night.",
-    "quoteTextEN": "The patient river encourages kin to breathe through the longest night.",
-    "quoteDescription": "María Quispe shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "María Quispe",
-    "culture": "Andean Reflection",
-    "category": "Resilience",
+    "quoteText": "The supreme art of war is to subdue the enemy without fighting.",
+    "quoteTextEN": "The supreme art of war is to subdue the enemy without fighting.",
+    "quoteDescription": "From The Art of War by Sun Tzu.",
+    "quoteMeaningAnalysis": "The highest skill is to win through strategy and position rather than costly conflict.",
+    "author": "Sun Tzu",
+    "culture": "Chinese",
+    "category": "Strategy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "strategy",
+      "wisdom",
+      "conflict"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://en.wikipedia.org/wiki/The_Art_of_War"
     ]
   },
   {
     "id": "234",
-    "quoteText": "The patient river encourages kin to wait until the dawn appears.",
-    "quoteTextEN": "The patient river encourages kin to wait until the dawn appears.",
-    "quoteDescription": "Sefu Ndlovu shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Sefu Ndlovu",
-    "culture": "Southern African Insight",
-    "category": "Resilience",
+    "quoteText": "Know yourself and know your enemy, and you will never be defeated.",
+    "quoteTextEN": "Know yourself and know your enemy, and you will never be defeated.",
+    "quoteDescription": "From The Art of War by Sun Tzu.",
+    "quoteMeaningAnalysis": "Clear knowledge of both your own strengths and your opponent's is the foundation of success.",
+    "author": "Sun Tzu",
+    "culture": "Chinese",
+    "category": "Strategy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "strategy",
+      "self-knowledge",
+      "preparation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://en.wikipedia.org/wiki/The_Art_of_War"
     ]
   },
   {
     "id": "235",
-    "quoteText": "The patient river encourages kin to bend without ever breaking.",
-    "quoteTextEN": "The patient river encourages kin to bend without ever breaking.",
-    "quoteDescription": "Maeve O'Sullivan shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Maeve O'Sullivan",
-    "culture": "Irish Reflection",
-    "category": "Resilience",
+    "quoteText": "In the midst of chaos, there is also opportunity.",
+    "quoteTextEN": "In the midst of chaos, there is also opportunity.",
+    "quoteDescription": "From The Art of War by Sun Tzu.",
+    "quoteMeaningAnalysis": "Disorder and difficulty conceal openings for those alert enough to seize them.",
+    "author": "Sun Tzu",
+    "culture": "Chinese",
+    "category": "Strategy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "opportunity",
+      "adversity",
+      "strategy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://en.wikipedia.org/wiki/The_Art_of_War"
     ]
   },
   {
     "id": "236",
-    "quoteText": "The patient river encourages kin to listen for the promise of spring.",
-    "quoteTextEN": "The patient river encourages kin to listen for the promise of spring.",
-    "quoteDescription": "Koji Tanaka shares a resilience image where a river becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Koji Tanaka",
-    "culture": "Japanese Proverbial Lore",
-    "category": "Resilience",
+    "quoteText": "Opportunities multiply as they are seized.",
+    "quoteTextEN": "Opportunities multiply as they are seized.",
+    "quoteDescription": "From The Art of War by Sun Tzu.",
+    "quoteMeaningAnalysis": "Taking action on one opportunity tends to create further ones.",
+    "author": "Sun Tzu",
+    "culture": "Chinese",
+    "category": "Strategy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "opportunity",
+      "action",
+      "momentum"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://en.wikipedia.org/wiki/The_Art_of_War"
     ]
   },
   {
     "id": "237",
-    "quoteText": "The patient mountain path teaches us to rise after every storm.",
-    "quoteTextEN": "The patient mountain path teaches us to rise after every storm.",
-    "quoteDescription": "Anika Sharma shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Anika Sharma",
-    "culture": "Himalayan Folklore",
-    "category": "Resilience",
+    "quoteText": "The great man is he who does not lose his child's heart.",
+    "quoteTextEN": "The great man is he who does not lose his child's heart.",
+    "quoteDescription": "From the writings of Mencius (Mengzi), the great Confucian philosopher.",
+    "quoteMeaningAnalysis": "Greatness keeps the sincerity, wonder and goodness of a child's heart.",
+    "author": "Mencius",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "sincerity",
+      "character",
+      "innocence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Mencius",
+      "https://en.wikipedia.org/wiki/Mencius"
     ]
   },
   {
     "id": "238",
-    "quoteText": "The patient mountain path teaches us to mend what the winds have frayed.",
-    "quoteTextEN": "The patient mountain path teaches us to mend what the winds have frayed.",
-    "quoteDescription": "Ibrahim al-Hadid shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Ibrahim al-Hadid",
-    "culture": "Bedouin Tradition",
-    "category": "Resilience",
+    "quoteText": "Flow with whatever may happen, and let your mind be free.",
+    "quoteTextEN": "Flow with whatever may happen, and let your mind be free.",
+    "quoteDescription": "Attributed to Zhuangzi (Chuang Tzu), the Taoist philosopher.",
+    "quoteMeaningAnalysis": "Inner freedom comes from accepting events rather than resisting them.",
+    "author": "Zhuangzi",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "acceptance",
+      "freedom",
+      "flow"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zhuangzi",
+      "https://en.wikipedia.org/wiki/Zhuangzi"
     ]
   },
   {
     "id": "239",
-    "quoteText": "The patient mountain path teaches us to breathe through the longest night.",
-    "quoteTextEN": "The patient mountain path teaches us to breathe through the longest night.",
-    "quoteDescription": "Greta Holm shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "Greta Holm",
-    "culture": "Nordic Perspective",
-    "category": "Resilience",
+    "quoteText": "Happiness is the absence of the striving for happiness.",
+    "quoteTextEN": "Happiness is the absence of the striving for happiness.",
+    "quoteDescription": "Attributed to Zhuangzi (Chuang Tzu).",
+    "quoteMeaningAnalysis": "Chasing happiness drives it away; it arrives when we stop grasping for it.",
+    "author": "Zhuangzi",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "happiness",
+      "contentment",
+      "letting-go"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Zhuangzi",
+      "https://en.wikipedia.org/wiki/Zhuangzi"
     ]
   },
   {
     "id": "240",
-    "quoteText": "The patient mountain path teaches us to wait until the dawn appears.",
-    "quoteTextEN": "The patient mountain path teaches us to wait until the dawn appears.",
-    "quoteDescription": "Naledi Mokoena shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Naledi Mokoena",
-    "culture": "Batswana Wisdom",
-    "category": "Resilience",
+    "quoteText": "七転び八起き",
+    "quoteTextEN": "Fall down seven times, stand up eight.",
+    "quoteDescription": "Japanese proverb (nana korobi ya oki).",
+    "quoteMeaningAnalysis": "No matter how often you fail, what matters is that you keep getting back up.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
       "resilience",
       "perseverance",
-      "strength"
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "241",
-    "quoteText": "The patient mountain path teaches us to bend without ever breaking.",
-    "quoteTextEN": "The patient mountain path teaches us to bend without ever breaking.",
-    "quoteDescription": "Amina al-Karim shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Amina al-Karim",
-    "culture": "Levantine Wisdom",
-    "category": "Resilience",
+    "quoteText": "猿も木から落ちる",
+    "quoteTextEN": "Even monkeys fall from trees.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Even the most skilled and experienced sometimes make mistakes.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "humility",
+      "mistakes",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "242",
-    "quoteText": "The patient mountain path teaches us to listen for the promise of spring.",
-    "quoteTextEN": "The patient mountain path teaches us to listen for the promise of spring.",
-    "quoteDescription": "Tenzin Dorje shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Tenzin Dorje",
-    "culture": "Tibetan Teaching",
-    "category": "Resilience",
+    "quoteText": "出る杭は打たれる",
+    "quoteTextEN": "The stake that sticks out gets hammered down.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Standing out from the group can invite criticism — a comment on social conformity.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "society",
+      "conformity",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "243",
-    "quoteText": "The patient mountain path reminds hearts to rise after every storm.",
-    "quoteTextEN": "The patient mountain path reminds hearts to rise after every storm.",
-    "quoteDescription": "María Quispe shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "María Quispe",
-    "culture": "Andean Reflection",
-    "category": "Resilience",
+    "quoteText": "石の上にも三年",
+    "quoteTextEN": "Three years on a cold stone.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Perseverance through hardship eventually brings results; endure and you will warm the stone.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "resilience",
+      "patience",
       "perseverance",
-      "strength"
+      "endurance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "244",
-    "quoteText": "The patient mountain path reminds hearts to mend what the winds have frayed.",
-    "quoteTextEN": "The patient mountain path reminds hearts to mend what the winds have frayed.",
-    "quoteDescription": "Sefu Ndlovu shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Sefu Ndlovu",
-    "culture": "Southern African Insight",
-    "category": "Resilience",
+    "quoteText": "井の中の蛙大海を知らず",
+    "quoteTextEN": "A frog in a well does not know the great ocean.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "A narrow experience breeds a narrow view; there is always a wider world to learn.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "perspective",
+      "humility",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "245",
-    "quoteText": "The patient mountain path reminds hearts to breathe through the longest night.",
-    "quoteTextEN": "The patient mountain path reminds hearts to breathe through the longest night.",
-    "quoteDescription": "Maeve O'Sullivan shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to breathe through the longest night.",
-    "author": "Maeve O'Sullivan",
-    "culture": "Irish Reflection",
-    "category": "Resilience",
+    "quoteText": "急がば回れ",
+    "quoteTextEN": "If you are in a hurry, take the long way round.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "The safe, steady route is often faster in the end than a reckless shortcut.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "patience",
+      "prudence",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "246",
-    "quoteText": "The patient mountain path reminds hearts to wait until the dawn appears.",
-    "quoteTextEN": "The patient mountain path reminds hearts to wait until the dawn appears.",
-    "quoteDescription": "Koji Tanaka shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to wait until the dawn appears.",
-    "author": "Koji Tanaka",
-    "culture": "Japanese Proverbial Lore",
-    "category": "Resilience",
+    "quoteText": "継続は力なり",
+    "quoteTextEN": "Continuity is power.",
+    "quoteDescription": "Japanese proverb.",
+    "quoteMeaningAnalysis": "Consistent, sustained effort is itself a source of strength and achievement.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "consistency",
+      "discipline",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "247",
-    "quoteText": "The patient mountain path reminds hearts to bend without ever breaking.",
-    "quoteTextEN": "The patient mountain path reminds hearts to bend without ever breaking.",
-    "quoteDescription": "Anika Sharma shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to bend without ever breaking.",
-    "author": "Anika Sharma",
-    "culture": "Himalayan Folklore",
-    "category": "Resilience",
+    "quoteText": "Do not seek to follow in the footsteps of the wise; seek what they sought.",
+    "quoteTextEN": "Do not seek to follow in the footsteps of the wise; seek what they sought.",
+    "quoteDescription": "Attributed to Matsuo Bashō, the great haiku poet.",
+    "quoteMeaningAnalysis": "Imitate the aim and spirit of the masters, not merely their outward forms.",
+    "author": "Matsuo Bashō",
+    "culture": "Japanese",
+    "category": "Poetry",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "wisdom",
+      "authenticity",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Matsuo_Bash%C5%8D",
+      "https://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D"
     ]
   },
   {
     "id": "248",
-    "quoteText": "The patient mountain path reminds hearts to listen for the promise of spring.",
-    "quoteTextEN": "The patient mountain path reminds hearts to listen for the promise of spring.",
-    "quoteDescription": "Ibrahim al-Hadid shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to listen for the promise of spring.",
-    "author": "Ibrahim al-Hadid",
-    "culture": "Bedouin Tradition",
-    "category": "Resilience",
+    "quoteText": "Every day is a journey, and the journey itself is home.",
+    "quoteTextEN": "Every day is a journey, and the journey itself is home.",
+    "quoteDescription": "From Matsuo Bashō, 'The Narrow Road to the Deep North'.",
+    "quoteMeaningAnalysis": "Life is found in the travelling itself, not only in arriving at a destination.",
+    "author": "Matsuo Bashō",
+    "culture": "Japanese",
+    "category": "Poetry",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "journey",
+      "presence",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Matsuo_Bash%C5%8D",
+      "https://en.wikipedia.org/wiki/Oku_no_Hosomichi"
     ]
   },
   {
     "id": "249",
-    "quoteText": "The patient mountain path whispers that we must rise after every storm.",
-    "quoteTextEN": "The patient mountain path whispers that we must rise after every storm.",
-    "quoteDescription": "Greta Holm shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to rise after every storm.",
-    "author": "Greta Holm",
-    "culture": "Nordic Perspective",
-    "category": "Resilience",
+    "quoteText": "Think lightly of yourself and deeply of the world.",
+    "quoteTextEN": "Think lightly of yourself and deeply of the world.",
+    "quoteDescription": "From the Dokkōdō ('The Path of Aloneness') of Miyamoto Musashi.",
+    "quoteMeaningAnalysis": "Set ego aside and give your full attention to understanding the world around you.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "humility",
+      "focus",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Miyamoto_Musashi",
+      "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
     ]
   },
   {
     "id": "250",
-    "quoteText": "The patient mountain path whispers that we must mend what the winds have frayed.",
-    "quoteTextEN": "The patient mountain path whispers that we must mend what the winds have frayed.",
-    "quoteDescription": "Naledi Mokoena shares a resilience image where a mountain path becomes a guide toward meeting hardship with steady resolve.",
-    "quoteMeaningAnalysis": "It suggests that resilience is cultivated through steady patience and urges us to mend what the winds have frayed.",
-    "author": "Naledi Mokoena",
-    "culture": "Batswana Wisdom",
-    "category": "Resilience",
+    "quoteText": "Do nothing that is of no use.",
+    "quoteTextEN": "Do nothing that is of no use.",
+    "quoteDescription": "From the Dokkōdō of Miyamoto Musashi.",
+    "quoteMeaningAnalysis": "Strip away wasted effort and act only with purpose.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "resilience",
-      "perseverance",
-      "strength"
+      "focus",
+      "discipline",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Resilience_(positive_psychology)",
-      "https://www.psychologytoday.com/us/basics/resilience"
+      "https://en.wikiquote.org/wiki/Miyamoto_Musashi",
+      "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
     ]
   },
   {
     "id": "251",
-    "quoteText": "The open hearth teaches friends to hold one another with gentle strength.",
-    "quoteTextEN": "The open hearth teaches friends to hold one another with gentle strength.",
-    "quoteDescription": "Soraya Haddad shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Soraya Haddad",
-    "culture": "Maghreb Reflection",
-    "category": "Compassion",
+    "quoteText": "Accept everything just the way it is.",
+    "quoteTextEN": "Accept everything just the way it is.",
+    "quoteDescription": "From the Dokkōdō of Miyamoto Musashi.",
+    "quoteMeaningAnalysis": "Peace begins with accepting reality as it is rather than as we wish it to be.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "acceptance",
+      "peace",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Miyamoto_Musashi",
+      "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
     ]
   },
   {
     "id": "252",
-    "quoteText": "The open hearth teaches friends to offer warmth before being asked.",
-    "quoteTextEN": "The open hearth teaches friends to offer warmth before being asked.",
-    "quoteDescription": "Gabriel Monteiro shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Gabriel Monteiro",
-    "culture": "Brazilian Wisdom",
-    "category": "Compassion",
+    "quoteText": "To study the self is to forget the self.",
+    "quoteTextEN": "To study the self is to forget the self.",
+    "quoteDescription": "From Dōgen Zenji, founder of the Sōtō school of Zen.",
+    "quoteMeaningAnalysis": "Deep self-inquiry dissolves the ego and opens us to a wider awareness.",
+    "author": "Dōgen",
+    "culture": "Japanese",
+    "category": "Zen",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "zen",
+      "self-knowledge",
+      "mindfulness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/D%C5%8Dgen",
+      "https://en.wikipedia.org/wiki/D%C5%8Dgen"
     ]
   },
   {
     "id": "253",
-    "quoteText": "The open hearth teaches friends to listen past the edge of silence.",
-    "quoteTextEN": "The open hearth teaches friends to listen past the edge of silence.",
-    "quoteDescription": "Nyima Lhamo shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Nyima Lhamo",
-    "culture": "Tibetan Compassion Teachings",
-    "category": "Compassion",
+    "quoteText": "When walking, just walk. When sitting, just sit. Above all, don't wobble.",
+    "quoteTextEN": "When walking, just walk. When sitting, just sit. Above all, don't wobble.",
+    "quoteDescription": "A Zen teaching attributed to the master Yunmen, central to Japanese Zen practice.",
+    "quoteMeaningAnalysis": "Give yourself completely to whatever you are doing; presence is the heart of practice.",
+    "author": "Zen Saying",
+    "culture": "Japanese",
+    "category": "Zen",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "mindfulness",
+      "presence",
+      "zen"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Zen",
+      "https://en.wikipedia.org/wiki/Zen"
     ]
   },
   {
     "id": "254",
-    "quoteText": "The open hearth teaches friends to share bread even with trembling hands.",
-    "quoteTextEN": "The open hearth teaches friends to share bread even with trembling hands.",
-    "quoteDescription": "Fatima Noor shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Fatima Noor",
-    "culture": "Somali Tradition",
-    "category": "Compassion",
+    "quoteText": "Fall down is the chance to look at the sky.",
+    "quoteTextEN": "Fall down is the chance to look at the sky.",
+    "quoteDescription": "A Japanese-style Zen reflection on adversity.",
+    "quoteMeaningAnalysis": "Setbacks can change our perspective and reveal what we would otherwise miss.",
+    "author": "Zen Saying",
+    "culture": "Japanese",
+    "category": "Zen",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "adversity",
+      "perspective",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Zen",
+      "https://en.wikipedia.org/wiki/Zen"
     ]
   },
   {
     "id": "255",
-    "quoteText": "The open hearth teaches friends to welcome tears as honored guests.",
-    "quoteTextEN": "The open hearth teaches friends to welcome tears as honored guests.",
-    "quoteDescription": "Arjun Patel shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Arjun Patel",
-    "culture": "Gujarati Insight",
-    "category": "Compassion",
+    "quoteText": "The bamboo that bends is stronger than the oak that resists.",
+    "quoteTextEN": "The bamboo that bends is stronger than the oak that resists.",
+    "quoteDescription": "A Japanese proverb on flexibility.",
+    "quoteMeaningAnalysis": "Yielding and adapting to force often outlasts rigid resistance.",
+    "author": "Japanese Proverb",
+    "culture": "Japanese",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "adaptability",
+      "resilience",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Japanese_proverbs",
+      "https://en.wikipedia.org/wiki/Japanese_proverbs"
     ]
   },
   {
     "id": "256",
-    "quoteText": "The open hearth teaches friends to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open hearth teaches friends to speak kindness into the coldest rooms.",
-    "quoteDescription": "Lucia Moretti shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Lucia Moretti",
-    "culture": "Mediterranean Reflection",
-    "category": "Compassion",
+    "quoteText": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+    "quoteTextEN": "You have a right to your actions, but never to the fruits of your actions.",
+    "quoteDescription": "From the Bhagavad Gita (2.47).",
+    "quoteMeaningAnalysis": "Act with full effort and devotion, but release attachment to the results.",
+    "author": "Bhagavad Gita",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "duty",
+      "detachment",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Bhagavad_Gita",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     ]
   },
   {
     "id": "257",
-    "quoteText": "The open hearth invites strangers to hold one another with gentle strength.",
-    "quoteTextEN": "The open hearth invites strangers to hold one another with gentle strength.",
-    "quoteDescription": "Eleni Papadopoulos shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Eleni Papadopoulos",
-    "culture": "Aegean Teaching",
-    "category": "Compassion",
+    "quoteText": "The soul is neither born, nor does it ever die.",
+    "quoteTextEN": "The soul is neither born, nor does it ever die.",
+    "quoteDescription": "From the Bhagavad Gita (2.20).",
+    "quoteMeaningAnalysis": "The essential self is eternal; only the body is subject to birth and death.",
+    "author": "Bhagavad Gita",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "soul",
+      "eternity",
+      "spirituality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Bhagavad_Gita",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     ]
   },
   {
     "id": "258",
-    "quoteText": "The open hearth invites strangers to offer warmth before being asked.",
-    "quoteTextEN": "The open hearth invites strangers to offer warmth before being asked.",
-    "quoteDescription": "Samuel Green shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Samuel Green",
-    "culture": "Quaker Reflection",
-    "category": "Compassion",
+    "quoteText": "A man is made by his belief. As he believes, so he becomes.",
+    "quoteTextEN": "A man is made by his belief. As he believes, so he becomes.",
+    "quoteDescription": "From the Bhagavad Gita.",
+    "quoteMeaningAnalysis": "Our deepest beliefs shape our character and ultimately our destiny.",
+    "author": "Bhagavad Gita",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "belief",
+      "character",
+      "self"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Bhagavad_Gita",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     ]
   },
   {
     "id": "259",
-    "quoteText": "The open hearth invites strangers to listen past the edge of silence.",
-    "quoteTextEN": "The open hearth invites strangers to listen past the edge of silence.",
-    "quoteDescription": "Yara al-Salem shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Yara al-Salem",
-    "culture": "Levantine Heart Wisdom",
-    "category": "Compassion",
+    "quoteText": "असतो मा सद्गमय।",
+    "quoteTextEN": "Lead me from the unreal to the real.",
+    "quoteDescription": "From the Brihadaranyaka Upanishad (the Pavamana mantra).",
+    "quoteMeaningAnalysis": "A prayer to move from illusion to truth, from darkness to light, from death to immortality.",
+    "author": "Upanishads",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "truth",
+      "spirituality",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Upanishads",
+      "https://en.wikipedia.org/wiki/Brihadaranyaka_Upanishad"
     ]
   },
   {
     "id": "260",
-    "quoteText": "The open hearth invites strangers to share bread even with trembling hands.",
-    "quoteTextEN": "The open hearth invites strangers to share bread even with trembling hands.",
-    "quoteDescription": "Chloe Dubois shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Chloe Dubois",
-    "culture": "Acadian Perspective",
-    "category": "Compassion",
+    "quoteText": "You are what your deep, driving desire is.",
+    "quoteTextEN": "You are what your deep, driving desire is.",
+    "quoteDescription": "From the Brihadaranyaka Upanishad.",
+    "quoteMeaningAnalysis": "Our deepest desires shape our will, our deeds, and the people we become.",
+    "author": "Upanishads",
+    "culture": "Indian",
+    "category": "Hinduism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "desire",
+      "self",
+      "destiny"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Upanishads",
+      "https://en.wikipedia.org/wiki/Upanishads"
     ]
   },
   {
     "id": "261",
-    "quoteText": "The open hearth invites strangers to welcome tears as honored guests.",
-    "quoteTextEN": "The open hearth invites strangers to welcome tears as honored guests.",
-    "quoteDescription": "Soraya Haddad shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Soraya Haddad",
-    "culture": "Maghreb Reflection",
-    "category": "Compassion",
+    "quoteText": "All that we are is the result of what we have thought.",
+    "quoteTextEN": "All that we are is the result of what we have thought.",
+    "quoteDescription": "From the Dhammapada, the sayings of the Buddha.",
+    "quoteMeaningAnalysis": "Our minds shape our lives; thoughts are the seeds of who we become.",
+    "author": "Buddha",
+    "culture": "Indian",
+    "category": "Buddhism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "mind",
+      "thought",
+      "character"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Dhammapada",
+      "https://en.wikipedia.org/wiki/Dhammapada"
     ]
   },
   {
     "id": "262",
-    "quoteText": "The open hearth invites strangers to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open hearth invites strangers to speak kindness into the coldest rooms.",
-    "quoteDescription": "Gabriel Monteiro shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Gabriel Monteiro",
-    "culture": "Brazilian Wisdom",
-    "category": "Compassion",
+    "quoteText": "Better than a thousand hollow words is one word that brings peace.",
+    "quoteTextEN": "Better than a thousand hollow words is one word that brings peace.",
+    "quoteDescription": "From the Dhammapada.",
+    "quoteMeaningAnalysis": "A single sincere, meaningful word is worth more than endless empty talk.",
+    "author": "Buddha",
+    "culture": "Indian",
+    "category": "Buddhism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "speech",
+      "peace",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Dhammapada",
+      "https://en.wikipedia.org/wiki/Dhammapada"
     ]
   },
   {
     "id": "263",
-    "quoteText": "The open hearth reminds families to hold one another with gentle strength.",
-    "quoteTextEN": "The open hearth reminds families to hold one another with gentle strength.",
-    "quoteDescription": "Nyima Lhamo shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Nyima Lhamo",
-    "culture": "Tibetan Compassion Teachings",
-    "category": "Compassion",
+    "quoteText": "Holding on to anger is like grasping a hot coal with the intent of harming another; you are the one who gets burned.",
+    "quoteTextEN": "Holding on to anger is like grasping a hot coal with the intent of harming another; you are the one who gets burned.",
+    "quoteDescription": "Attributed to the Buddha.",
+    "quoteMeaningAnalysis": "Resentment injures the one who holds it far more than its intended target.",
+    "author": "Buddha",
+    "culture": "Indian",
+    "category": "Buddhism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "anger",
+      "forgiveness",
+      "peace"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Gautama_Buddha",
+      "https://en.wikipedia.org/wiki/Gautama_Buddha"
     ]
   },
   {
     "id": "264",
-    "quoteText": "The open hearth reminds families to offer warmth before being asked.",
-    "quoteTextEN": "The open hearth reminds families to offer warmth before being asked.",
-    "quoteDescription": "Fatima Noor shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Fatima Noor",
-    "culture": "Somali Tradition",
-    "category": "Compassion",
+    "quoteText": "Peace comes from within. Do not seek it without.",
+    "quoteTextEN": "Peace comes from within. Do not seek it without.",
+    "quoteDescription": "Attributed to the Buddha.",
+    "quoteMeaningAnalysis": "Lasting peace is cultivated internally, not found in external circumstances.",
+    "author": "Buddha",
+    "culture": "Indian",
+    "category": "Buddhism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "peace",
+      "mindfulness",
+      "inner-life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Gautama_Buddha",
+      "https://en.wikipedia.org/wiki/Gautama_Buddha"
     ]
   },
   {
     "id": "265",
-    "quoteText": "The open hearth reminds families to listen past the edge of silence.",
-    "quoteTextEN": "The open hearth reminds families to listen past the edge of silence.",
-    "quoteDescription": "Arjun Patel shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Arjun Patel",
-    "culture": "Gujarati Insight",
-    "category": "Compassion",
+    "quoteText": "Before you start some work, always ask yourself three questions: Why am I doing it, what the results might be, and will I be successful.",
+    "quoteTextEN": "Before you start some work, always ask yourself three questions: Why am I doing it, what the results might be, and will I be successful.",
+    "quoteDescription": "From Chanakya, the ancient Indian teacher and strategist (Chanakya Niti).",
+    "quoteMeaningAnalysis": "Reflection on purpose, consequences and feasibility should precede any serious undertaking.",
+    "author": "Chanakya",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "planning",
+      "wisdom",
+      "strategy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Chanakya",
+      "https://en.wikipedia.org/wiki/Chanakya"
     ]
   },
   {
     "id": "266",
-    "quoteText": "The open hearth reminds families to share bread even with trembling hands.",
-    "quoteTextEN": "The open hearth reminds families to share bread even with trembling hands.",
-    "quoteDescription": "Lucia Moretti shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Lucia Moretti",
-    "culture": "Mediterranean Reflection",
-    "category": "Compassion",
+    "quoteText": "You can't cross the sea merely by standing and staring at the water.",
+    "quoteTextEN": "You can't cross the sea merely by standing and staring at the water.",
+    "quoteDescription": "From Rabindranath Tagore, the Bengali poet and first non-European Nobel laureate in Literature.",
+    "quoteMeaningAnalysis": "Dreams and goals require action; contemplation alone achieves nothing.",
+    "author": "Rabindranath Tagore",
+    "culture": "Indian",
+    "category": "Poetry",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "action",
+      "courage",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rabindranath_Tagore",
+      "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
     ]
   },
   {
     "id": "267",
-    "quoteText": "The open hearth reminds families to welcome tears as honored guests.",
-    "quoteTextEN": "The open hearth reminds families to welcome tears as honored guests.",
-    "quoteDescription": "Eleni Papadopoulos shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Eleni Papadopoulos",
-    "culture": "Aegean Teaching",
-    "category": "Compassion",
+    "quoteText": "Faith is the bird that feels the light when the dawn is still dark.",
+    "quoteTextEN": "Faith is the bird that feels the light when the dawn is still dark.",
+    "quoteDescription": "From Rabindranath Tagore.",
+    "quoteMeaningAnalysis": "Faith senses the coming of better things even before they are visible.",
+    "author": "Rabindranath Tagore",
+    "culture": "Indian",
+    "category": "Poetry",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "faith",
+      "hope",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rabindranath_Tagore",
+      "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
     ]
   },
   {
     "id": "268",
-    "quoteText": "The open hearth reminds families to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open hearth reminds families to speak kindness into the coldest rooms.",
-    "quoteDescription": "Samuel Green shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Samuel Green",
-    "culture": "Quaker Reflection",
-    "category": "Compassion",
+    "quoteText": "Arise, awake, and stop not till the goal is reached.",
+    "quoteTextEN": "Arise, awake, and stop not till the goal is reached.",
+    "quoteDescription": "Swami Vivekananda's rendering of a verse from the Katha Upanishad.",
+    "quoteMeaningAnalysis": "A call to wake from complacency and persevere with full effort until your aim is achieved.",
+    "author": "Swami Vivekananda",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "determination",
+      "perseverance",
+      "awakening"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Swami_Vivekananda",
+      "https://en.wikipedia.org/wiki/Swami_Vivekananda"
     ]
   },
   {
     "id": "269",
-    "quoteText": "The open hearth encourages neighbors to hold one another with gentle strength.",
-    "quoteTextEN": "The open hearth encourages neighbors to hold one another with gentle strength.",
-    "quoteDescription": "Yara al-Salem shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Yara al-Salem",
-    "culture": "Levantine Heart Wisdom",
-    "category": "Compassion",
+    "quoteText": "The greatest religion is to be true to your own nature. Have faith in yourselves.",
+    "quoteTextEN": "The greatest religion is to be true to your own nature. Have faith in yourselves.",
+    "quoteDescription": "From Swami Vivekananda.",
+    "quoteMeaningAnalysis": "Authenticity and self-belief are the foundation of a meaningful life.",
+    "author": "Swami Vivekananda",
+    "culture": "Indian",
+    "category": "Philosophy",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "authenticity",
+      "self-belief",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Swami_Vivekananda",
+      "https://en.wikipedia.org/wiki/Swami_Vivekananda"
     ]
   },
   {
     "id": "270",
-    "quoteText": "The open hearth encourages neighbors to offer warmth before being asked.",
-    "quoteTextEN": "The open hearth encourages neighbors to offer warmth before being asked.",
-    "quoteDescription": "Chloe Dubois shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Chloe Dubois",
-    "culture": "Acadian Perspective",
-    "category": "Compassion",
+    "quoteText": "Wherever you are is the entry point.",
+    "quoteTextEN": "Wherever you are is the entry point.",
+    "quoteDescription": "Attributed to Kabir, the 15th-century Indian mystic poet.",
+    "quoteMeaningAnalysis": "The spiritual path begins exactly where you stand now, not somewhere else.",
+    "author": "Kabir",
+    "culture": "Indian",
+    "category": "Mysticism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "presence",
+      "spirituality",
+      "beginnings"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Kabir",
+      "https://en.wikipedia.org/wiki/Kabir"
     ]
   },
   {
     "id": "271",
-    "quoteText": "The open hearth encourages neighbors to listen past the edge of silence.",
-    "quoteTextEN": "The open hearth encourages neighbors to listen past the edge of silence.",
-    "quoteDescription": "Soraya Haddad shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Soraya Haddad",
-    "culture": "Maghreb Reflection",
-    "category": "Compassion",
+    "quoteText": "The river that flows in you also flows in me.",
+    "quoteTextEN": "The river that flows in you also flows in me.",
+    "quoteDescription": "A reflection in the spirit of Kabir's mystic poetry on shared humanity.",
+    "quoteMeaningAnalysis": "The same life and spirit runs through all of us; we are deeply connected.",
+    "author": "Kabir",
+    "culture": "Indian",
+    "category": "Mysticism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "unity",
+      "humanity",
+      "spirituality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Kabir",
+      "https://en.wikipedia.org/wiki/Kabir"
     ]
   },
   {
     "id": "272",
-    "quoteText": "The open hearth encourages neighbors to share bread even with trembling hands.",
-    "quoteTextEN": "The open hearth encourages neighbors to share bread even with trembling hands.",
-    "quoteDescription": "Gabriel Monteiro shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Gabriel Monteiro",
-    "culture": "Brazilian Wisdom",
-    "category": "Compassion",
+    "quoteText": "The wound is the place where the Light enters you.",
+    "quoteTextEN": "The wound is the place where the Light enters you.",
+    "quoteDescription": "Attributed to Jalal ad-Din Rumi, the 13th-century Persian Sufi poet.",
+    "quoteMeaningAnalysis": "Our injuries and griefs can become the very openings through which wisdom and grace arrive.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "suffering",
+      "healing",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "273",
-    "quoteText": "The open hearth encourages neighbors to welcome tears as honored guests.",
-    "quoteTextEN": "The open hearth encourages neighbors to welcome tears as honored guests.",
-    "quoteDescription": "Nyima Lhamo shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Nyima Lhamo",
-    "culture": "Tibetan Compassion Teachings",
-    "category": "Compassion",
+    "quoteText": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+    "quoteTextEN": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "True wisdom turns the work of transformation inward, on oneself.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "wisdom",
+      "self-improvement",
+      "change"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "274",
-    "quoteText": "The open hearth encourages neighbors to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open hearth encourages neighbors to speak kindness into the coldest rooms.",
-    "quoteDescription": "Fatima Noor shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Fatima Noor",
-    "culture": "Somali Tradition",
-    "category": "Compassion",
+    "quoteText": "What you seek is seeking you.",
+    "quoteTextEN": "What you seek is seeking you.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Our deepest longings are mutual; what we truly pursue is drawn toward us in turn.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "longing",
+      "love",
+      "destiny"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "275",
-    "quoteText": "The open hearth whispers to wanderers to hold one another with gentle strength.",
-    "quoteTextEN": "The open hearth whispers to wanderers to hold one another with gentle strength.",
-    "quoteDescription": "Arjun Patel shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Arjun Patel",
-    "culture": "Gujarati Insight",
-    "category": "Compassion",
+    "quoteText": "Raise your words, not your voice. It is rain that grows flowers, not thunder.",
+    "quoteTextEN": "Raise your words, not your voice. It is rain that grows flowers, not thunder.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Gentle, well-chosen speech persuades and nurtures; mere loudness does not.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "speech",
+      "gentleness",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "276",
-    "quoteText": "The open hearth whispers to wanderers to offer warmth before being asked.",
-    "quoteTextEN": "The open hearth whispers to wanderers to offer warmth before being asked.",
-    "quoteDescription": "Lucia Moretti shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Lucia Moretti",
-    "culture": "Mediterranean Reflection",
-    "category": "Compassion",
+    "quoteText": "The quieter you become, the more you are able to hear.",
+    "quoteTextEN": "The quieter you become, the more you are able to hear.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Inner stillness deepens our capacity to perceive and understand.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "silence",
+      "listening",
+      "mindfulness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "277",
-    "quoteText": "The open hearth whispers to wanderers to listen past the edge of silence.",
-    "quoteTextEN": "The open hearth whispers to wanderers to listen past the edge of silence.",
-    "quoteDescription": "Eleni Papadopoulos shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Eleni Papadopoulos",
-    "culture": "Aegean Teaching",
-    "category": "Compassion",
+    "quoteText": "Even after all this time the sun never says to the earth, 'You owe me.'",
+    "quoteTextEN": "Even after all this time the sun never says to the earth, 'You owe me.'",
+    "quoteDescription": "Attributed to Hafiz, the 14th-century Persian poet of Shiraz.",
+    "quoteMeaningAnalysis": "True love and generosity give freely, without keeping accounts.",
+    "author": "Hafiz",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "love",
+      "generosity",
+      "selflessness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Hafez",
+      "https://en.wikipedia.org/wiki/Hafez"
     ]
   },
   {
     "id": "278",
-    "quoteText": "The open hearth whispers to wanderers to share bread even with trembling hands.",
-    "quoteTextEN": "The open hearth whispers to wanderers to share bread even with trembling hands.",
-    "quoteDescription": "Samuel Green shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Samuel Green",
-    "culture": "Quaker Reflection",
-    "category": "Compassion",
+    "quoteText": "I wish I could show you, when you are lonely or in darkness, the astonishing light of your own being.",
+    "quoteTextEN": "I wish I could show you, when you are lonely or in darkness, the astonishing light of your own being.",
+    "quoteDescription": "Attributed to Hafiz of Shiraz.",
+    "quoteMeaningAnalysis": "Each person carries an inner light that loneliness and despair can hide but never extinguish.",
+    "author": "Hafiz",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "self-worth",
+      "hope",
+      "light"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Hafez",
+      "https://en.wikipedia.org/wiki/Hafez"
     ]
   },
   {
     "id": "279",
-    "quoteText": "The open hearth whispers to wanderers to welcome tears as honored guests.",
-    "quoteTextEN": "The open hearth whispers to wanderers to welcome tears as honored guests.",
-    "quoteDescription": "Yara al-Salem shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Yara al-Salem",
-    "culture": "Levantine Heart Wisdom",
-    "category": "Compassion",
+    "quoteText": "Be happy for this moment. This moment is your life.",
+    "quoteTextEN": "Be happy for this moment. This moment is your life.",
+    "quoteDescription": "Attributed to Omar Khayyam, the Persian polymath and poet of the Rubaiyat.",
+    "quoteMeaningAnalysis": "Life is lived in the present moment; do not postpone joy to some imagined future.",
+    "author": "Omar Khayyam",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "present",
+      "joy",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Omar_Khayyam",
+      "https://en.wikipedia.org/wiki/Omar_Khayyam"
     ]
   },
   {
     "id": "280",
-    "quoteText": "The open hearth whispers to wanderers to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open hearth whispers to wanderers to speak kindness into the coldest rooms.",
-    "quoteDescription": "Chloe Dubois shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Chloe Dubois",
-    "culture": "Acadian Perspective",
-    "category": "Compassion",
+    "quoteText": "The moving finger writes; and, having writ, moves on.",
+    "quoteTextEN": "The moving finger writes; and, having writ, moves on.",
+    "quoteDescription": "From the Rubaiyat of Omar Khayyam (Fitzgerald's translation).",
+    "quoteMeaningAnalysis": "What is done cannot be undone; accept the past and move forward.",
+    "author": "Omar Khayyam",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "time",
+      "acceptance",
+      "fate"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Omar_Khayyam",
+      "https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam"
     ]
   },
   {
     "id": "281",
-    "quoteText": "The open hearth asks every soul to hold one another with gentle strength.",
-    "quoteTextEN": "The open hearth asks every soul to hold one another with gentle strength.",
-    "quoteDescription": "Soraya Haddad shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Soraya Haddad",
-    "culture": "Maghreb Reflection",
-    "category": "Compassion",
+    "quoteText": "بنی‌آدم اعضای یکدیگرند.",
+    "quoteTextEN": "Human beings are members of one another, created from a single essence.",
+    "quoteDescription": "From the Gulistan of Saadi of Shiraz — verses inscribed at the entrance of the United Nations.",
+    "quoteMeaningAnalysis": "All humanity shares one nature; the suffering of one part should move the whole.",
+    "author": "Saadi",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
+      "humanity",
       "compassion",
-      "empathy",
-      "kindness"
+      "unity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Saadi_Shirazi",
+      "https://en.wikipedia.org/wiki/Saadi_Shirazi"
     ]
   },
   {
     "id": "282",
-    "quoteText": "The open hearth asks every soul to offer warmth before being asked.",
-    "quoteTextEN": "The open hearth asks every soul to offer warmth before being asked.",
-    "quoteDescription": "Gabriel Monteiro shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Gabriel Monteiro",
-    "culture": "Brazilian Wisdom",
-    "category": "Compassion",
+    "quoteText": "A traveler without observation is a bird without wings.",
+    "quoteTextEN": "A traveler without observation is a bird without wings.",
+    "quoteDescription": "From Saadi of Shiraz, 'The Gulistan'.",
+    "quoteMeaningAnalysis": "Travel and experience are worthless without attentive, reflective observation.",
+    "author": "Saadi",
+    "culture": "Persian",
+    "category": "Poetry",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "observation",
+      "travel",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Saadi_Shirazi",
+      "https://en.wikipedia.org/wiki/Saadi_Shirazi"
     ]
   },
   {
     "id": "283",
-    "quoteText": "The open hearth asks every soul to listen past the edge of silence.",
-    "quoteTextEN": "The open hearth asks every soul to listen past the edge of silence.",
-    "quoteDescription": "Nyima Lhamo shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Nyima Lhamo",
-    "culture": "Tibetan Compassion Teachings",
-    "category": "Compassion",
+    "quoteText": "Do not grieve over what is past. Whatever you need will come to you at the right time.",
+    "quoteTextEN": "Do not grieve over what is past. Whatever you need will come to you at the right time.",
+    "quoteDescription": "In the spirit of Attar of Nishapur, author of 'The Conference of the Birds'.",
+    "quoteMeaningAnalysis": "Release regret for the past and trust the unfolding of life in its own time.",
+    "author": "Attar of Nishapur",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "acceptance",
+      "patience",
+      "trust"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Attar_of_Nishapur",
+      "https://en.wikipedia.org/wiki/Attar_of_Nishapur"
     ]
   },
   {
     "id": "284",
-    "quoteText": "The open hearth asks every soul to share bread even with trembling hands.",
-    "quoteTextEN": "The open hearth asks every soul to share bread even with trembling hands.",
-    "quoteDescription": "Fatima Noor shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Fatima Noor",
-    "culture": "Somali Tradition",
-    "category": "Compassion",
+    "quoteText": "Love is the bridge between you and everything.",
+    "quoteTextEN": "Love is the bridge between you and everything.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Love connects us to others and to the whole of existence.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "love",
+      "connection",
+      "unity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "285",
-    "quoteText": "The open hearth asks every soul to welcome tears as honored guests.",
-    "quoteTextEN": "The open hearth asks every soul to welcome tears as honored guests.",
-    "quoteDescription": "Arjun Patel shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Arjun Patel",
-    "culture": "Gujarati Insight",
-    "category": "Compassion",
+    "quoteText": "Set your life on fire. Seek those who fan your flames.",
+    "quoteTextEN": "Set your life on fire. Seek those who fan your flames.",
+    "quoteDescription": "Attributed to Rumi.",
+    "quoteMeaningAnalysis": "Live with passion and surround yourself with people who encourage your best self.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "passion",
+      "friendship",
+      "purpose"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "286",
-    "quoteText": "The open hearth asks every soul to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open hearth asks every soul to speak kindness into the coldest rooms.",
-    "quoteDescription": "Lucia Moretti shares a compassion image where a hearth becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Lucia Moretti",
-    "culture": "Mediterranean Reflection",
-    "category": "Compassion",
+    "quoteText": "If you want to go fast, go alone. If you want to go far, go together.",
+    "quoteTextEN": "If you want to go fast, go alone. If you want to go far, go together.",
+    "quoteDescription": "African proverb.",
+    "quoteMeaningAnalysis": "Solitary effort is quick, but lasting achievement depends on community and cooperation.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "community",
+      "cooperation",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "287",
-    "quoteText": "The open evening lamp teaches friends to hold one another with gentle strength.",
-    "quoteTextEN": "The open evening lamp teaches friends to hold one another with gentle strength.",
-    "quoteDescription": "Eleni Papadopoulos shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Eleni Papadopoulos",
-    "culture": "Aegean Teaching",
-    "category": "Compassion",
+    "quoteText": "It takes a village to raise a child.",
+    "quoteTextEN": "It takes a village to raise a child.",
+    "quoteDescription": "African proverb (widely cited among Igbo and Yoruba peoples of Nigeria).",
+    "quoteMeaningAnalysis": "Raising a person well is the shared responsibility of a whole community.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "community",
+      "family",
+      "responsibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "288",
-    "quoteText": "The open evening lamp teaches friends to offer warmth before being asked.",
-    "quoteTextEN": "The open evening lamp teaches friends to offer warmth before being asked.",
-    "quoteDescription": "Samuel Green shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Samuel Green",
-    "culture": "Quaker Reflection",
-    "category": "Compassion",
+    "quoteText": "However long the night, the dawn will break.",
+    "quoteTextEN": "However long the night, the dawn will break.",
+    "quoteDescription": "African proverb.",
+    "quoteMeaningAnalysis": "No hardship lasts forever; better times eventually come.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "hope",
+      "resilience",
+      "patience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "289",
-    "quoteText": "The open evening lamp teaches friends to listen past the edge of silence.",
-    "quoteTextEN": "The open evening lamp teaches friends to listen past the edge of silence.",
-    "quoteDescription": "Yara al-Salem shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Yara al-Salem",
-    "culture": "Levantine Heart Wisdom",
-    "category": "Compassion",
+    "quoteText": "Smooth seas do not make skillful sailors.",
+    "quoteTextEN": "Smooth seas do not make skillful sailors.",
+    "quoteDescription": "African proverb.",
+    "quoteMeaningAnalysis": "Skill and strength are forged through difficulty, not ease.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "adversity",
+      "growth",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "290",
-    "quoteText": "The open evening lamp teaches friends to share bread even with trembling hands.",
-    "quoteTextEN": "The open evening lamp teaches friends to share bread even with trembling hands.",
-    "quoteDescription": "Chloe Dubois shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Chloe Dubois",
-    "culture": "Acadian Perspective",
-    "category": "Compassion",
+    "quoteText": "Until the lion learns how to write, every story will glorify the hunter.",
+    "quoteTextEN": "Until the lion learns how to write, every story will glorify the hunter.",
+    "quoteDescription": "African proverb (popularized by the Nigerian writer Chinua Achebe).",
+    "quoteMeaningAnalysis": "Whoever tells the story controls its meaning; the powerless need their own voice.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "justice",
+      "voice",
+      "history"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "291",
-    "quoteText": "The open evening lamp teaches friends to welcome tears as honored guests.",
-    "quoteTextEN": "The open evening lamp teaches friends to welcome tears as honored guests.",
-    "quoteDescription": "Soraya Haddad shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Soraya Haddad",
-    "culture": "Maghreb Reflection",
-    "category": "Compassion",
+    "quoteText": "Wisdom is like a baobab tree; no one individual can embrace it.",
+    "quoteTextEN": "Wisdom is like a baobab tree; no one individual can embrace it.",
+    "quoteDescription": "Akan / Ewe proverb (Ghana).",
+    "quoteMeaningAnalysis": "Wisdom is too vast for any single person; we all hold a part of it.",
+    "author": "Akan Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "wisdom",
+      "humility",
+      "community"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "292",
-    "quoteText": "The open evening lamp teaches friends to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open evening lamp teaches friends to speak kindness into the coldest rooms.",
-    "quoteDescription": "Gabriel Monteiro shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Gabriel Monteiro",
-    "culture": "Brazilian Wisdom",
-    "category": "Compassion",
+    "quoteText": "When the music changes, so does the dance.",
+    "quoteTextEN": "When the music changes, so does the dance.",
+    "quoteDescription": "Hausa proverb (Nigeria).",
+    "quoteMeaningAnalysis": "Adapt your actions when circumstances change.",
+    "author": "Hausa Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "adaptability",
+      "change",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "293",
-    "quoteText": "The open evening lamp invites strangers to hold one another with gentle strength.",
-    "quoteTextEN": "The open evening lamp invites strangers to hold one another with gentle strength.",
-    "quoteDescription": "Nyima Lhamo shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Nyima Lhamo",
-    "culture": "Tibetan Compassion Teachings",
-    "category": "Compassion",
+    "quoteText": "Rain does not fall on one roof alone.",
+    "quoteTextEN": "Rain does not fall on one roof alone.",
+    "quoteDescription": "Cameroonian proverb.",
+    "quoteMeaningAnalysis": "Hardship and fortune are shared; no one is singled out forever.",
+    "author": "Cameroonian Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "community",
+      "solidarity",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "294",
-    "quoteText": "The open evening lamp invites strangers to offer warmth before being asked.",
-    "quoteTextEN": "The open evening lamp invites strangers to offer warmth before being asked.",
-    "quoteDescription": "Fatima Noor shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Fatima Noor",
-    "culture": "Somali Tradition",
-    "category": "Compassion",
+    "quoteText": "The child who is not embraced by the village will burn it down to feel its warmth.",
+    "quoteTextEN": "The child who is not embraced by the village will burn it down to feel its warmth.",
+    "quoteDescription": "African proverb.",
+    "quoteMeaningAnalysis": "People excluded from belonging may turn against the community that rejected them.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "belonging",
+      "community",
+      "compassion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "295",
-    "quoteText": "The open evening lamp invites strangers to listen past the edge of silence.",
-    "quoteTextEN": "The open evening lamp invites strangers to listen past the edge of silence.",
-    "quoteDescription": "Arjun Patel shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to listen past the edge of silence.",
-    "author": "Arjun Patel",
-    "culture": "Gujarati Insight",
-    "category": "Compassion",
+    "quoteText": "Knowledge is like a garden: if it is not cultivated, it cannot be harvested.",
+    "quoteTextEN": "Knowledge is like a garden: if it is not cultivated, it cannot be harvested.",
+    "quoteDescription": "Guinean proverb.",
+    "quoteMeaningAnalysis": "Learning must be tended and practiced before it can bear fruit.",
+    "author": "Guinean Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "knowledge",
+      "discipline",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "296",
-    "quoteText": "The open evening lamp invites strangers to share bread even with trembling hands.",
-    "quoteTextEN": "The open evening lamp invites strangers to share bread even with trembling hands.",
-    "quoteDescription": "Lucia Moretti shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to share bread even with trembling hands.",
-    "author": "Lucia Moretti",
-    "culture": "Mediterranean Reflection",
-    "category": "Compassion",
+    "quoteText": "The lion does not turn around when a small dog barks.",
+    "quoteTextEN": "The lion does not turn around when a small dog barks.",
+    "quoteDescription": "African proverb.",
+    "quoteMeaningAnalysis": "The truly secure remain unmoved by petty provocation.",
+    "author": "African Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "confidence",
+      "composure",
+      "strength"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "297",
-    "quoteText": "The open evening lamp invites strangers to welcome tears as honored guests.",
-    "quoteTextEN": "The open evening lamp invites strangers to welcome tears as honored guests.",
-    "quoteDescription": "Eleni Papadopoulos shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to welcome tears as honored guests.",
-    "author": "Eleni Papadopoulos",
-    "culture": "Aegean Teaching",
-    "category": "Compassion",
+    "quoteText": "He who learns, teaches.",
+    "quoteTextEN": "He who learns, teaches.",
+    "quoteDescription": "Ethiopian (Amharic) proverb.",
+    "quoteMeaningAnalysis": "Knowledge carries a duty to pass it on to others.",
+    "author": "Ethiopian Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "learning",
+      "teaching",
+      "generosity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "298",
-    "quoteText": "The open evening lamp invites strangers to speak kindness into the coldest rooms.",
-    "quoteTextEN": "The open evening lamp invites strangers to speak kindness into the coldest rooms.",
-    "quoteDescription": "Samuel Green shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to speak kindness into the coldest rooms.",
-    "author": "Samuel Green",
-    "culture": "Quaker Reflection",
-    "category": "Compassion",
+    "quoteText": "Umuntu ngumuntu ngabantu — I am because we are.",
+    "quoteTextEN": "A person is a person through other people — I am because we are.",
+    "quoteDescription": "The Nguni Bantu philosophy of Ubuntu (Southern Africa).",
+    "quoteMeaningAnalysis": "Our humanity is realized through our relationships and belonging with others.",
+    "author": "Ubuntu Philosophy",
+    "culture": "African",
+    "category": "Philosophy",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "ubuntu",
+      "community",
+      "humanity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Ubuntu_philosophy",
+      "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     ]
   },
   {
     "id": "299",
-    "quoteText": "The open evening lamp reminds families to hold one another with gentle strength.",
-    "quoteTextEN": "The open evening lamp reminds families to hold one another with gentle strength.",
-    "quoteDescription": "Yara al-Salem shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to hold one another with gentle strength.",
-    "author": "Yara al-Salem",
-    "culture": "Levantine Heart Wisdom",
-    "category": "Compassion",
+    "quoteText": "It always seems impossible until it's done.",
+    "quoteTextEN": "It always seems impossible until it's done.",
+    "quoteDescription": "Nelson Mandela, the South African anti-apartheid leader and statesman.",
+    "quoteMeaningAnalysis": "Great goals look unattainable right up to the moment they are achieved.",
+    "author": "Nelson Mandela",
+    "culture": "African",
+    "category": "Leadership",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "perseverance",
+      "courage",
+      "hope"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Nelson_Mandela",
+      "https://en.wikipedia.org/wiki/Nelson_Mandela"
     ]
   },
   {
     "id": "300",
-    "quoteText": "The open evening lamp reminds families to offer warmth before being asked.",
-    "quoteTextEN": "The open evening lamp reminds families to offer warmth before being asked.",
-    "quoteDescription": "Chloe Dubois shares a compassion image where a evening lamp becomes a guide toward the tenderness of shared humanity.",
-    "quoteMeaningAnalysis": "It suggests that compassion deepens when we see ourselves in one another and urges us to offer warmth before being asked.",
-    "author": "Chloe Dubois",
-    "culture": "Acadian Perspective",
-    "category": "Compassion",
+    "quoteText": "Education is the most powerful weapon which you can use to change the world.",
+    "quoteTextEN": "Education is the most powerful weapon which you can use to change the world.",
+    "quoteDescription": "Nelson Mandela.",
+    "quoteMeaningAnalysis": "Education is the most effective force for lasting social transformation.",
+    "author": "Nelson Mandela",
+    "culture": "African",
+    "category": "Leadership",
     "tags": [
-      "compassion",
-      "empathy",
-      "kindness"
+      "education",
+      "change",
+      "empowerment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Compassion",
-      "https://greatergood.berkeley.edu/topic/compassion"
+      "https://en.wikiquote.org/wiki/Nelson_Mandela",
+      "https://en.wikipedia.org/wiki/Nelson_Mandela"
     ]
   },
   {
     "id": "301",
-    "quoteText": "The curious brushstroke coaxes dreamers to stitch questions into color.",
-    "quoteTextEN": "The curious brushstroke coaxes dreamers to stitch questions into color.",
-    "quoteDescription": "Renata da Silva shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to stitch questions into color.",
-    "author": "Renata da Silva",
-    "culture": "São Paulo Atelier Wisdom",
-    "category": "Creativity",
+    "quoteText": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+    "quoteTextEN": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+    "quoteDescription": "Archbishop Desmond Tutu of South Africa.",
+    "quoteMeaningAnalysis": "Small acts of goodness, multiplied across many people, transform the world.",
+    "author": "Desmond Tutu",
+    "culture": "African",
+    "category": "Leadership",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "kindness",
+      "hope",
+      "community"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Desmond_Tutu",
+      "https://en.wikipedia.org/wiki/Desmond_Tutu"
     ]
   },
   {
     "id": "302",
-    "quoteText": "The curious brushstroke coaxes dreamers to draw bridges from thin air.",
-    "quoteTextEN": "The curious brushstroke coaxes dreamers to draw bridges from thin air.",
-    "quoteDescription": "Theo Laurent shares a creativity image where a brushstroke becomes a guide toward inviting imagination into daily practice.",
-    "quoteMeaningAnalysis": "It suggests that creativity thrives when curiosity and courage collaborate and urges us to draw bridges from thin air.",
-    "author": "Theo Laurent",
-    "culture": "Parisian Studio Lore",
-    "category": "Creativity",
+    "quoteText": "You cannot get through a single day without having an impact on the world around you.",
+    "quoteTextEN": "You cannot get through a single day without having an impact on the world around you.",
+    "quoteDescription": "Wangari Maathai, the Kenyan environmentalist and first African woman to win the Nobel Peace Prize.",
+    "quoteMeaningAnalysis": "Everything we do leaves a mark; we are responsible for the kind of mark it is.",
+    "author": "Wangari Maathai",
+    "culture": "African",
+    "category": "Leadership",
     "tags": [
-      "creativity",
-      "imagination",
-      "expression"
+      "responsibility",
+      "environment",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Creativity",
-      "https://www.creativeboom.com/inspiration/"
+      "https://en.wikiquote.org/wiki/Wangari_Maathai",
+      "https://en.wikipedia.org/wiki/Wangari_Maathai"
     ]
   },
   {
