@@ -18998,5 +18998,1962 @@ window.QUOTES_DATA = [
       "https://en.wikipedia.org/wiki/Wisdom",
       "https://plato.stanford.edu/entries/wisdom/"
     ]
+  },
+  {
+    "id": "1001",
+    "quoteText": "Vita, si uti scias, longa est.",
+    "quoteTextEN": "Life, if you know how to use it, is long.",
+    "quoteDescription": "Από το De Brevitate Vitae του Σενέκα.",
+    "quoteMeaningAnalysis": "Δεν είναι η διάρκεια της ζωής που μετράει αλλά το πώς την αξιοποιείς· ο χρόνος αρκεί για όποιον τον χρησιμοποιεί σοφά.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "time",
+      "life",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/De_Brevitate_Vitae"
+    ]
+  },
+  {
+    "id": "1002",
+    "quoteText": "Errare humanum est, perseverare autem diabolicum.",
+    "quoteTextEN": "To err is human, but to persist in error is diabolical.",
+    "quoteDescription": "Γνωμικό που αποδίδεται στον Σενέκα.",
+    "quoteMeaningAnalysis": "Το λάθος είναι ανθρώπινο· το να επιμένεις στο λάθος όμως είναι η πραγματική αμαρτία.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Wisdom",
+    "tags": [
+      "mistakes",
+      "humility",
+      "growth"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Lucius_Annaeus_Seneca"
+    ]
+  },
+  {
+    "id": "1003",
+    "quoteText": "Per aspera ad astra.",
+    "quoteTextEN": "Through hardships to the stars.",
+    "quoteDescription": "Λατινική ρήση εμπνευσμένη από τον Σενέκα (Hercules Furens).",
+    "quoteMeaningAnalysis": "Τα μεγάλα επιτεύγματα κατακτώνται μόνο μέσα από δυσκολίες και αγώνα.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Motivational",
+    "tags": [
+      "perseverance",
+      "hardship",
+      "ambition"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Per_aspera_ad_astra"
+    ]
+  },
+  {
+    "id": "1004",
+    "quoteText": "Otium sine litteris mors est et hominis vivi sepultura.",
+    "quoteTextEN": "Leisure without study is death and a tomb for the living.",
+    "quoteDescription": "Από τις Επιστολές του Σενέκα.",
+    "quoteMeaningAnalysis": "Ο ελεύθερος χρόνος χωρίς μάθηση και καλλιέργεια του νου ισοδυναμεί με πνευματικό θάνατο.",
+    "author": "Seneca the Younger",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "learning",
+      "leisure",
+      "mind"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "https://en.wikipedia.org/wiki/Epistulae_Morales_ad_Lucilium"
+    ]
+  },
+  {
+    "id": "1005",
+    "quoteText": "Waste no more time arguing about what a good man should be. Be one.",
+    "quoteTextEN": "Waste no more time arguing about what a good man should be. Be one.",
+    "quoteDescription": "Από τα Εις Εαυτόν (Στοχασμοί) του Μάρκου Αυρηλίου.",
+    "quoteMeaningAnalysis": "Η αρετή δεν είναι θέμα θεωρίας αλλά πράξης· γίνε αυτό που πρεσβεύεις αντί να το συζητάς.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "virtue",
+      "action",
+      "character"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius",
+      "https://en.wikipedia.org/wiki/Meditations"
+    ]
+  },
+  {
+    "id": "1006",
+    "quoteText": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "quoteTextEN": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "quoteDescription": "Από τα Εις Εαυτόν του Μάρκου Αυρηλίου.",
+    "quoteMeaningAnalysis": "Η δύναμη βρίσκεται στον έλεγχο των σκέψεων μας, όχι στον έλεγχο των γεγονότων που μας συμβαίνουν.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "mind",
+      "control",
+      "strength"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius",
+      "https://en.wikipedia.org/wiki/Meditations"
+    ]
+  },
+  {
+    "id": "1007",
+    "quoteText": "The best revenge is not to be like your enemy.",
+    "quoteTextEN": "The best revenge is not to be like your enemy.",
+    "quoteDescription": "Στοχασμοί 6.6 του Μάρκου Αυρηλίου.",
+    "quoteMeaningAnalysis": "Η ανωτερότητα φαίνεται όταν αρνείσαι να κατέβεις στο επίπεδο εκείνου που σε αδίκησε.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "revenge",
+      "virtue",
+      "self-control"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius",
+      "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    ]
+  },
+  {
+    "id": "1008",
+    "quoteText": "Dum spiro, spero.",
+    "quoteTextEN": "While I breathe, I hope.",
+    "quoteDescription": "Λατινική ρήση που αποδίδεται στον Κικέρωνα.",
+    "quoteMeaningAnalysis": "Όσο υπάρχει ζωή υπάρχει και ελπίδα· δεν εγκαταλείπουμε ποτέ.",
+    "author": "Cicero",
+    "culture": "Roman",
+    "category": "Motivational",
+    "tags": [
+      "hope",
+      "resilience",
+      "life"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Cicero",
+      "https://en.wikipedia.org/wiki/Dum_spiro,_spero"
+    ]
+  },
+  {
+    "id": "1009",
+    "quoteText": "Historia magistra vitae.",
+    "quoteTextEN": "History is the teacher of life.",
+    "quoteDescription": "Από το De Oratore του Κικέρωνα.",
+    "quoteMeaningAnalysis": "Μαθαίνουμε από το παρελθόν για να μην επαναλαμβάνουμε τα λάθη του.",
+    "author": "Cicero",
+    "culture": "Roman",
+    "category": "Wisdom",
+    "tags": [
+      "history",
+      "learning",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Cicero",
+      "https://en.wikipedia.org/wiki/De_Oratore"
+    ]
+  },
+  {
+    "id": "1010",
+    "quoteText": "Salus populi suprema lex esto.",
+    "quoteTextEN": "Let the welfare of the people be the supreme law.",
+    "quoteDescription": "Από το De Legibus του Κικέρωνα.",
+    "quoteMeaningAnalysis": "Το ύψιστο κριτήριο κάθε εξουσίας πρέπει να είναι το κοινό καλό.",
+    "author": "Cicero",
+    "culture": "Roman",
+    "category": "Politics",
+    "tags": [
+      "justice",
+      "law",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Cicero",
+      "https://en.wikipedia.org/wiki/De_Legibus"
+    ]
+  },
+  {
+    "id": "1011",
+    "quoteText": "Audentes fortuna iuvat.",
+    "quoteTextEN": "Fortune favors the bold.",
+    "quoteDescription": "Από την Αινειάδα του Βιργιλίου.",
+    "quoteMeaningAnalysis": "Η τύχη ευνοεί εκείνους που τολμούν να δράσουν αποφασιστικά.",
+    "author": "Virgil",
+    "culture": "Roman",
+    "category": "Motivational",
+    "tags": [
+      "courage",
+      "fortune",
+      "action"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Virgil",
+      "https://en.wikipedia.org/wiki/Aeneid"
+    ]
+  },
+  {
+    "id": "1012",
+    "quoteText": "Amor vincit omnia.",
+    "quoteTextEN": "Love conquers all.",
+    "quoteDescription": "Από τις Εκλογές του Βιργιλίου.",
+    "quoteMeaningAnalysis": "Δεν υπάρχει εμπόδιο που η αγάπη να μην μπορεί να ξεπεράσει.",
+    "author": "Virgil",
+    "culture": "Roman",
+    "category": "Love",
+    "tags": [
+      "love",
+      "perseverance",
+      "hope"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Virgil",
+      "https://en.wikipedia.org/wiki/Eclogues"
+    ]
+  },
+  {
+    "id": "1013",
+    "quoteText": "Sapere aude.",
+    "quoteTextEN": "Dare to know.",
+    "quoteDescription": "Από τις Επιστολές του Οράτιου, αργότερα σύνθημα του Διαφωτισμού.",
+    "quoteMeaningAnalysis": "Έχε το θάρρος να σκέφτεσαι μόνος σου και να αναζητάς τη γνώση.",
+    "author": "Horace",
+    "culture": "Roman",
+    "category": "Philosophy",
+    "tags": [
+      "wisdom",
+      "courage",
+      "knowledge"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Horace",
+      "https://en.wikipedia.org/wiki/Sapere_aude"
+    ]
+  },
+  {
+    "id": "1014",
+    "quoteText": "Carpe diem, quam minimum credula postero.",
+    "quoteTextEN": "Seize the day, trusting as little as possible in the future.",
+    "quoteDescription": "Από τις Ωδές του Οράτιου.",
+    "quoteMeaningAnalysis": "Αξιοποίησε το παρόν, γιατί το μέλλον είναι αβέβαιο.",
+    "author": "Horace",
+    "culture": "Roman",
+    "category": "Motivational",
+    "tags": [
+      "present",
+      "life",
+      "action"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Horace",
+      "https://en.wikipedia.org/wiki/Carpe_diem"
+    ]
+  },
+  {
+    "id": "1015",
+    "quoteText": "Gutta cavat lapidem, non vi sed saepe cadendo.",
+    "quoteTextEN": "The drop hollows the stone not by force but by falling often.",
+    "quoteDescription": "Από τις Epistulae ex Ponto του Οβιδίου.",
+    "quoteMeaningAnalysis": "Η σταθερή, υπομονετική επιμονή πετυχαίνει αυτό που η ωμή δύναμη δεν μπορεί.",
+    "author": "Ovid",
+    "culture": "Roman",
+    "category": "Wisdom",
+    "tags": [
+      "persistence",
+      "patience",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Ovid",
+      "https://en.wikipedia.org/wiki/Ovid"
+    ]
+  },
+  {
+    "id": "1016",
+    "quoteText": "Amici probantur rebus adversis.",
+    "quoteTextEN": "Friends are proven in adversity.",
+    "quoteDescription": "Γνωμικό που αποδίδεται στον Πούβλιο Σύρο.",
+    "quoteMeaningAnalysis": "Οι αληθινοί φίλοι αναγνωρίζονται στις δύσκολες στιγμές, όχι στις καλές.",
+    "author": "Publilius Syrus",
+    "culture": "Roman",
+    "category": "Wisdom",
+    "tags": [
+      "friendship",
+      "adversity",
+      "loyalty"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Publilius_Syrus",
+      "https://en.wikipedia.org/wiki/Publilius_Syrus"
+    ]
+  },
+  {
+    "id": "1017",
+    "quoteText": "Omne ignotum pro magnifico.",
+    "quoteTextEN": "Everything unknown is taken to be magnificent.",
+    "quoteDescription": "Από το Agricola του Τάκιτου.",
+    "quoteMeaningAnalysis": "Ό,τι δεν γνωρίζουμε μας φαίνεται μεγαλύτερο και σπουδαιότερο απ' ό,τι είναι.",
+    "author": "Tacitus",
+    "culture": "Roman",
+    "category": "Wisdom",
+    "tags": [
+      "perception",
+      "mystery",
+      "truth"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Tacitus",
+      "https://en.wikipedia.org/wiki/Agricola_(book)"
+    ]
+  },
+  {
+    "id": "1018",
+    "quoteText": "Sustine et abstine.",
+    "quoteTextEN": "Bear and forbear.",
+    "quoteDescription": "Δίδυμη αρχή του Στωικού Επίκτητου.",
+    "quoteMeaningAnalysis": "Άντεξε ό,τι δεν ελέγχεις και απέχε από ό,τι σε βλάπτει· εκεί βρίσκεται η εσωτερική ελευθερία.",
+    "author": "Epictetus",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "self-control",
+      "endurance",
+      "freedom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Epictetus",
+      "https://en.wikipedia.org/wiki/Epictetus"
+    ]
+  },
+  {
+    "id": "1019",
+    "quoteText": "It's not what happens to you, but how you react to it that matters.",
+    "quoteTextEN": "It's not what happens to you, but how you react to it that matters.",
+    "quoteDescription": "Διδασκαλία του Στωικού φιλοσόφου Επίκτητου.",
+    "quoteMeaningAnalysis": "Δεν ελέγχουμε τα γεγονότα, αλλά ελέγχουμε τη στάση μας απέναντί τους.",
+    "author": "Epictetus",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "mindset",
+      "resilience",
+      "control"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Epictetus",
+      "https://en.wikipedia.org/wiki/Enchiridion_of_Epictetus"
+    ]
+  },
+  {
+    "id": "1020",
+    "quoteText": "Simplicity is the ultimate sophistication.",
+    "quoteTextEN": "Simplicity is the ultimate sophistication.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Η αληθινή τελειότητα βρίσκεται στην απλότητα, όχι στην περιπλοκότητα.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Art",
+    "tags": [
+      "simplicity",
+      "design",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1021",
+    "quoteText": "Learning never exhausts the mind.",
+    "quoteTextEN": "Learning never exhausts the mind.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Όσο περισσότερο μαθαίνεις, τόσο πιο ικανός γίνεται ο νους· η γνώση δεν κουράζει, ανανεώνει.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Knowledge",
+    "tags": [
+      "learning",
+      "curiosity",
+      "mind"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1022",
+    "quoteText": "Obstacles cannot crush me; every obstacle yields to stern resolve.",
+    "quoteTextEN": "Obstacles cannot crush me; every obstacle yields to stern resolve.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Η σταθερή αποφασιστικότητα διαλύει κάθε εμπόδιο που στέκεται στον δρόμο σου.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Motivational",
+    "tags": [
+      "determination",
+      "obstacles",
+      "willpower"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1023",
+    "quoteText": "Art is never finished, only abandoned.",
+    "quoteTextEN": "Art is never finished, only abandoned.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Καμιά δημιουργία δεν είναι ποτέ τέλεια· κάποτε απλώς αποφασίζεις να τη σταματήσεις.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Art",
+    "tags": [
+      "art",
+      "perfectionism",
+      "creativity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1024",
+    "quoteText": "The noblest pleasure is the joy of understanding.",
+    "quoteTextEN": "The noblest pleasure is the joy of understanding.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Η βαθύτερη χαρά πηγάζει από την κατανόηση του κόσμου γύρω μας.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Knowledge",
+    "tags": [
+      "understanding",
+      "joy",
+      "curiosity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1025",
+    "quoteText": "He who loves practice without theory is like the sailor who boards a ship without rudder and compass and never knows where he may cast.",
+    "quoteTextEN": "He who loves practice without theory is like the sailor who boards a ship without rudder and compass and never knows where he may cast.",
+    "quoteDescription": "Από τα σημειωματάρια του Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Η πράξη χωρίς θεωρητική κατανόηση είναι τυφλή· χρειάζεσαι και τα δύο για να κατευθυνθείς σωστά.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Knowledge",
+    "tags": [
+      "theory",
+      "practice",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1026",
+    "quoteText": "As a well-spent day brings happy sleep, so a life well used brings happy death.",
+    "quoteTextEN": "As a well-spent day brings happy sleep, so a life well used brings happy death.",
+    "quoteDescription": "Από τα σημειωματάρια του Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Μια ζωή που αξιοποιήθηκε με νόημα φέρνει γαλήνη στο τέλος της, όπως μια γεμάτη μέρα φέρνει ήσυχο ύπνο.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Wisdom",
+    "tags": [
+      "life",
+      "meaning",
+      "time"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1027",
+    "quoteText": "Iron rusts from disuse; even so does inaction sap the vigor of the mind.",
+    "quoteTextEN": "Iron rusts from disuse; even so does inaction sap the vigor of the mind.",
+    "quoteDescription": "Από τα σημειωματάρια του Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Όπως το σίδερο σκουριάζει όταν δεν χρησιμοποιείται, έτσι και ο νους ατονεί στην απραξία.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Motivational",
+    "tags": [
+      "activity",
+      "mind",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1028",
+    "quoteText": "Water is the driving force of all nature.",
+    "quoteTextEN": "Water is the driving force of all nature.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Παρατήρηση για τη θεμελιώδη δύναμη του νερού στη ζωή και τη φύση.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Nature",
+    "tags": [
+      "nature",
+      "water",
+      "observation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1029",
+    "quoteText": "Time stays long enough for anyone who will use it.",
+    "quoteTextEN": "Time stays long enough for anyone who will use it.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Λεονάρντο ντα Βίντσι.",
+    "quoteMeaningAnalysis": "Ο χρόνος επαρκεί για όποιον τον αξιοποιεί· το πρόβλημα δεν είναι η έλλειψη χρόνου αλλά η σπατάλη του.",
+    "author": "Leonardo da Vinci",
+    "culture": "Italian Renaissance",
+    "category": "Motivational",
+    "tags": [
+      "time",
+      "productivity",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    ]
+  },
+  {
+    "id": "1030",
+    "quoteText": "Ὁ βίος βραχύς, ἡ δὲ τέχνη μακρή.",
+    "quoteTextEN": "Life is short, and the art long.",
+    "quoteDescription": "Πρώτος αφορισμός του Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Η μάθηση και η τέχνη απαιτούν περισσότερο χρόνο απ' όσο διαθέτει μια ανθρώπινη ζωή· γι' αυτό κάθε στιγμή μετράει.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "life",
+      "art",
+      "learning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Aphorisms_(Hippocrates)"
+    ]
+  },
+  {
+    "id": "1031",
+    "quoteText": "Ὠφελέειν ἢ μὴ βλάπτειν.",
+    "quoteTextEN": "To help, or at least to do no harm.",
+    "quoteDescription": "Αρχή από τα Επιδημικά του Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Η θεμελιώδης ηθική αρχή της ιατρικής: πρώτα μη βλάπτεις.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "ethics",
+      "medicine",
+      "care"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Primum_non_nocere"
+    ]
+  },
+  {
+    "id": "1032",
+    "quoteText": "Let food be thy medicine and medicine be thy food.",
+    "quoteTextEN": "Let food be thy medicine and medicine be thy food.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Η σωστή διατροφή είναι η βάση της υγείας και της πρόληψης.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "health",
+      "nutrition",
+      "prevention"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Hippocrates"
+    ]
+  },
+  {
+    "id": "1033",
+    "quoteText": "Walking is man's best medicine.",
+    "quoteTextEN": "Walking is man's best medicine.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Η τακτική σωματική κίνηση είναι από τα ισχυρότερα φάρμακα για το σώμα και το πνεύμα.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "health",
+      "exercise",
+      "wellbeing"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Hippocrates"
+    ]
+  },
+  {
+    "id": "1034",
+    "quoteText": "Healing is a matter of time, but it is sometimes also a matter of opportunity.",
+    "quoteTextEN": "Healing is a matter of time, but it is sometimes also a matter of opportunity.",
+    "quoteDescription": "Από τα έργα του Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Η θεραπεία χρειάζεται χρόνο, αλλά απαιτεί και να αξιοποιήσεις τη σωστή στιγμή.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "healing",
+      "patience",
+      "timing"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Hippocrates"
+    ]
+  },
+  {
+    "id": "1035",
+    "quoteText": "Wherever the art of medicine is loved, there is also a love of humanity.",
+    "quoteTextEN": "Wherever the art of medicine is loved, there is also a love of humanity.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Η αληθινή ιατρική πηγάζει από αγάπη και φροντίδα για τον άνθρωπο.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "humanity",
+      "compassion",
+      "medicine"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Hippocrates"
+    ]
+  },
+  {
+    "id": "1036",
+    "quoteText": "Extreme remedies are most appropriate for extreme diseases.",
+    "quoteTextEN": "Extreme remedies are most appropriate for extreme diseases.",
+    "quoteDescription": "Από τους Αφορισμούς του Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Τα σοβαρά προβλήματα απαιτούν αντίστοιχα αποφασιστικές λύσεις.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "decision",
+      "problem-solving",
+      "medicine"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Aphorisms_(Hippocrates)"
+    ]
+  },
+  {
+    "id": "1037",
+    "quoteText": "Natural forces within us are the true healers of disease.",
+    "quoteTextEN": "Natural forces within us are the true healers of disease.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Ιπποκράτη.",
+    "quoteMeaningAnalysis": "Το σώμα έχει εγγενή ικανότητα αυτοθεραπείας· ο ρόλος του γιατρού είναι να τη βοηθήσει.",
+    "author": "Hippocrates",
+    "culture": "Ancient Greek",
+    "category": "Medicine",
+    "tags": [
+      "healing",
+      "nature",
+      "body"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Hippocrates",
+      "https://en.wikipedia.org/wiki/Hippocrates"
+    ]
+  },
+  {
+    "id": "1038",
+    "quoteText": "Ἓν οἶδα ὅτι οὐδὲν οἶδα.",
+    "quoteTextEN": "I know one thing, that I know nothing.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Η αρχή της σοφίας είναι η επίγνωση της άγνοιάς μας.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "humility",
+      "wisdom",
+      "knowledge"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1039",
+    "quoteText": "Ὁ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ.",
+    "quoteTextEN": "The unexamined life is not worth living.",
+    "quoteDescription": "Από την Απολογία Σωκράτους του Πλάτωνα.",
+    "quoteMeaningAnalysis": "Μια ζωή χωρίς αυτογνωσία και αναστοχασμό στερείται νοήματος.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "self-knowledge",
+      "reflection",
+      "meaning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Apology_(Plato)"
+    ]
+  },
+  {
+    "id": "1040",
+    "quoteText": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
+    "quoteTextEN": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Η πραγματική αλλαγή έρχεται όταν χτίζεις το νέο αντί να πολεμάς το παλιό.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "change",
+      "focus",
+      "growth"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1041",
+    "quoteText": "Γνῶθι σαυτόν.",
+    "quoteTextEN": "Know thyself.",
+    "quoteDescription": "Δελφικό παράγγελμα, στενά συνδεδεμένο με τη σωκρατική φιλοσοφία.",
+    "quoteMeaningAnalysis": "Η αυτογνωσία είναι η αφετηρία κάθε σοφίας και αρετής.",
+    "author": "Delphic Maxim",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "self-knowledge",
+      "wisdom",
+      "introspection"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Delphic_maxims",
+      "https://en.wikipedia.org/wiki/Know_thyself"
+    ]
+  },
+  {
+    "id": "1042",
+    "quoteText": "Μηδὲν ἄγαν.",
+    "quoteTextEN": "Nothing in excess.",
+    "quoteDescription": "Δελφικό παράγγελμα που αποδίδεται και στον Σόλωνα.",
+    "quoteMeaningAnalysis": "Το μέτρο και η ισορροπία σε όλα είναι το κλειδί μιας καλής ζωής.",
+    "author": "Solon",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "moderation",
+      "balance",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Solon",
+      "https://en.wikipedia.org/wiki/Nothing_in_excess"
+    ]
+  },
+  {
+    "id": "1043",
+    "quoteText": "The beginning is the most important part of the work.",
+    "quoteTextEN": "The beginning is the most important part of the work.",
+    "quoteDescription": "Από την Πολιτεία του Πλάτωνα.",
+    "quoteMeaningAnalysis": "Το ξεκίνημα θέτει τα θεμέλια· κάνε το σωστά και τα υπόλοιπα ακολουθούν.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "beginnings",
+      "discipline",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Republic_(Plato)"
+    ]
+  },
+  {
+    "id": "1044",
+    "quoteText": "At the touch of love everyone becomes a poet.",
+    "quoteTextEN": "At the touch of love everyone becomes a poet.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πλάτωνα.",
+    "quoteMeaningAnalysis": "Η αγάπη ξυπνά τη δημιουργικότητα και την ευαισθησία μέσα μας.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Love",
+    "tags": [
+      "love",
+      "creativity",
+      "emotion"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1045",
+    "quoteText": "Knowing yourself is the beginning of all wisdom.",
+    "quoteTextEN": "Knowing yourself is the beginning of all wisdom.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Αριστοτέλη.",
+    "quoteMeaningAnalysis": "Δεν μπορείς να κατανοήσεις τον κόσμο πριν κατανοήσεις τον εαυτό σου.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "self-knowledge",
+      "wisdom",
+      "growth"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Aristotle"
+    ]
+  },
+  {
+    "id": "1046",
+    "quoteText": "We are what we repeatedly do; excellence, then, is not an act but a habit.",
+    "quoteTextEN": "We are what we repeatedly do; excellence, then, is not an act but a habit.",
+    "quoteDescription": "Σύνοψη της διδασκαλίας του Αριστοτέλη για την αρετή (Will Durant).",
+    "quoteMeaningAnalysis": "Η αριστεία δεν είναι μεμονωμένη πράξη αλλά αποτέλεσμα καθημερινής συνήθειας.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "habit",
+      "excellence",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Nicomachean_Ethics"
+    ]
+  },
+  {
+    "id": "1047",
+    "quoteText": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "quoteTextEN": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Αριστοτέλη.",
+    "quoteMeaningAnalysis": "Η πραγματική παιδεία επιτρέπει να εξετάζεις μια ιδέα χωρίς να την υιοθετείς αβίαστα.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "education",
+      "critical-thinking",
+      "open-mindedness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Aristotle"
+    ]
+  },
+  {
+    "id": "1048",
+    "quoteText": "The whole is greater than the sum of its parts.",
+    "quoteTextEN": "The whole is greater than the sum of its parts.",
+    "quoteDescription": "Από τα Μετά τα Φυσικά του Αριστοτέλη.",
+    "quoteMeaningAnalysis": "Η συνεργασία και η σύνθεση δημιουργούν κάτι μεγαλύτερο από τα επιμέρους στοιχεία.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "synergy",
+      "wholeness",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)"
+    ]
+  },
+  {
+    "id": "1049",
+    "quoteText": "Τὰ πάντα ῥεῖ.",
+    "quoteTextEN": "Everything flows.",
+    "quoteDescription": "Θεμελιώδης αρχή της φιλοσοφίας του Ηράκλειτου.",
+    "quoteMeaningAnalysis": "Τα πάντα βρίσκονται σε διαρκή μεταβολή· τίποτα δεν μένει σταθερό.",
+    "author": "Heraclitus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "change",
+      "impermanence",
+      "nature"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Heraclitus",
+      "https://en.wikipedia.org/wiki/Heraclitus"
+    ]
+  },
+  {
+    "id": "1050",
+    "quoteText": "No man ever steps in the same river twice.",
+    "quoteTextEN": "No man ever steps in the same river twice.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Ηράκλειτο.",
+    "quoteMeaningAnalysis": "Και ο άνθρωπος και ο κόσμος αλλάζουν συνεχώς· κάθε στιγμή είναι μοναδική.",
+    "author": "Heraclitus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "change",
+      "time",
+      "impermanence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Heraclitus",
+      "https://en.wikipedia.org/wiki/Heraclitus"
+    ]
+  },
+  {
+    "id": "1051",
+    "quoteText": " Ἦθος ἀνθρώπῳ δαίμων.",
+    "quoteTextEN": "Character is destiny.",
+    "quoteDescription": "Απόφθεγμα του Ηράκλειτου.",
+    "quoteMeaningAnalysis": "Ο χαρακτήρας μας διαμορφώνει τη μοίρα μας· δεν είμαστε έρμαια της τύχης.",
+    "author": "Heraclitus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "character",
+      "destiny",
+      "virtue"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Heraclitus",
+      "https://en.wikipedia.org/wiki/Heraclitus"
+    ]
+  },
+  {
+    "id": "1052",
+    "quoteText": "Not what we have but what we enjoy constitutes our abundance.",
+    "quoteTextEN": "Not what we have but what we enjoy constitutes our abundance.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Επίκουρο.",
+    "quoteMeaningAnalysis": "Ο πλούτος δεν μετριέται στα αποκτήματα αλλά στην ικανότητα να απολαμβάνεις.",
+    "author": "Epicurus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "happiness",
+      "gratitude",
+      "simplicity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Epicurus",
+      "https://en.wikipedia.org/wiki/Epicurus"
+    ]
+  },
+  {
+    "id": "1053",
+    "quoteText": "Λάθε βιώσας.",
+    "quoteTextEN": "Live unnoticed.",
+    "quoteDescription": "Επικούρεια προτροπή.",
+    "quoteMeaningAnalysis": "Η γαλήνη βρίσκεται στην απλή, διακριτική ζωή μακριά από τη ματαιοδοξία.",
+    "author": "Epicurus",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "simplicity",
+      "peace",
+      "contentment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Epicurus",
+      "https://en.wikipedia.org/wiki/Epicurus"
+    ]
+  },
+  {
+    "id": "1054",
+    "quoteText": "Number rules the universe.",
+    "quoteTextEN": "Number rules the universe.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πυθαγόρα.",
+    "quoteMeaningAnalysis": "Η μαθηματική τάξη και αρμονία διέπει όλη τη φύση.",
+    "author": "Pythagoras",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "mathematics",
+      "order",
+      "nature"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Pythagoras",
+      "https://en.wikipedia.org/wiki/Pythagoras"
+    ]
+  },
+  {
+    "id": "1055",
+    "quoteText": "No man is free who cannot command himself.",
+    "quoteTextEN": "No man is free who cannot command himself.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πυθαγόρα.",
+    "quoteMeaningAnalysis": "Η αληθινή ελευθερία ξεκινά από την κυριαρχία επί του εαυτού μας.",
+    "author": "Pythagoras",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "self-control",
+      "freedom",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Pythagoras",
+      "https://en.wikipedia.org/wiki/Pythagoras"
+    ]
+  },
+  {
+    "id": "1056",
+    "quoteText": "Man is the measure of all things.",
+    "quoteTextEN": "Man is the measure of all things.",
+    "quoteDescription": "Θέση του σοφιστή Πρωταγόρα.",
+    "quoteMeaningAnalysis": "Η ανθρώπινη αντίληψη είναι το μέτρο με το οποίο κρίνουμε την πραγματικότητα.",
+    "author": "Protagoras",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "perception",
+      "relativism",
+      "humanity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Protagoras",
+      "https://en.wikipedia.org/wiki/Protagoras"
+    ]
+  },
+  {
+    "id": "1057",
+    "quoteText": "Stand a little out of my sun.",
+    "quoteTextEN": "Stand a little out of my sun.",
+    "quoteDescription": "Η περίφημη απάντηση του Διογένη στον Μέγα Αλέξανδρο.",
+    "quoteMeaningAnalysis": "Η αυτάρκεια και η αξιοπρέπεια του σοφού δεν εξαρτώνται από την εξουσία ή τα πλούτη.",
+    "author": "Diogenes",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "independence",
+      "simplicity",
+      "dignity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Diogenes_of_Sinope",
+      "https://en.wikipedia.org/wiki/Diogenes"
+    ]
+  },
+  {
+    "id": "1058",
+    "quoteText": "Call no man happy until he is dead.",
+    "quoteTextEN": "Call no man happy until he is dead.",
+    "quoteDescription": "Συμβουλή του Σόλωνα προς τον Κροίσο (Ηρόδοτος).",
+    "quoteMeaningAnalysis": "Δεν μπορούμε να κρίνουμε αν μια ζωή ήταν ευτυχισμένη παρά μόνο όταν ολοκληρωθεί.",
+    "author": "Solon",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "fortune",
+      "humility",
+      "life"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Solon",
+      "https://en.wikipedia.org/wiki/Solon"
+    ]
+  },
+  {
+    "id": "1059",
+    "quoteText": "Η γλώσσα κόκκαλα εν έσιει τζιαι κόκκαλα τσακκίζει.",
+    "quoteTextEN": "The tongue has no bones, yet it breaks bones.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Τα λόγια μπορεί να πληγώσουν βαθιά, παρότι η γλώσσα δεν έχει κόκκαλα· πρόσεχε τι λες.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "words",
+      "caution",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1060",
+    "quoteText": "Ο σιύλος που γαβκίζει εν δαγκάννει.",
+    "quoteTextEN": "The dog that barks does not bite.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Όποιος φωνάζει και απειλεί πολύ, συνήθως δεν είναι πραγματικά επικίνδυνος.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "bluffing",
+      "courage",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1061",
+    "quoteText": "Όποιος πάει στον μύλον, αλευρώννεται.",
+    "quoteTextEN": "Whoever goes to the mill gets covered in flour.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Παίρνεις τα χαρακτηριστικά της παρέας και του περιβάλλοντος με το οποίο συναναστρέφεσαι.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "company",
+      "influence",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1062",
+    "quoteText": "Κάλλιο πέντε τζιαι στο σιέριν, παρά δέκα τζιαι καρτέρα.",
+    "quoteTextEN": "Better five in the hand than ten and waiting.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Προτίμησε το σίγουρο και άμεσο από το αβέβαιο μεγαλύτερο όφελος στο μέλλον.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "pragmatism",
+      "certainty",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1063",
+    "quoteText": "Όποιος εν δουλεύκει, εν τρώει.",
+    "quoteTextEN": "Whoever does not work, does not eat.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η αμοιβή και τα αγαθά κερδίζονται με τον κόπο και την εργασία.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "work",
+      "effort",
+      "responsibility"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1064",
+    "quoteText": "Που μιαν αρκήν, εγίνην αρκούδα.",
+    "quoteTextEN": "From a small beginning, it became a bear.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Μικρά πράγματα ή ασήμαντες αφορμές μπορούν να μεγαλώσουν δυσανάλογα.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "beginnings",
+      "consequences",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1065",
+    "quoteText": "Νηστικόν αρκούιν χορόν εν χορεύκει.",
+    "quoteTextEN": "A hungry bear does not dance.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Κανείς δεν αποδίδει ή δεν έχει διάθεση όταν του λείπουν τα βασικά.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "needs",
+      "motivation",
+      "realism"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1066",
+    "quoteText": "Ο πελλός είδεν τον πελλόν τζι εχάρηκεν.",
+    "quoteTextEN": "The fool saw the fool and rejoiced.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Οι όμοιοι αναγνωρίζουν και έλκουν τους ομοίους τους.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "similarity",
+      "company",
+      "humor"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1067",
+    "quoteText": "Σπίτιν που εν έσιει γέρον, αγόρασε τζι ας έν' ακριβόν.",
+    "quoteTextEN": "A house without an old person — buy one even if it is costly.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η πείρα και η σοφία των ηλικιωμένων είναι ανεκτίμητη αξία για κάθε οικογένεια.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "elders",
+      "wisdom",
+      "experience"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1068",
+    "quoteText": "Όποιος εν θέλει να ζυμώσει, δέκα μέρες κοσιινίζει.",
+    "quoteTextEN": "Whoever does not want to knead sifts for ten days.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Όποιος αποφεύγει τη δουλειά βρίσκει συνεχώς δικαιολογίες για να την καθυστερεί.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "excuses",
+      "procrastination",
+      "work"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1069",
+    "quoteText": "Όποιος ανακατώννεται με τα πίτουρα, τον τρων οι όρνιθες.",
+    "quoteTextEN": "Whoever mingles with the bran gets eaten by the hens.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Αν χαμηλώσεις το επίπεδό σου ή μπλέξεις σε ταπεινές υποθέσεις, θα υποστείς τις συνέπειες.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "caution",
+      "dignity",
+      "consequences"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1070",
+    "quoteText": "Τα πολλά λόγια εν φτώσιεια.",
+    "quoteTextEN": "Many words are poverty.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η πολυλογία δεν έχει αξία· η ουσία βρίσκεται στα έργα, όχι στα λόγια.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "brevity",
+      "action",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1071",
+    "quoteText": "Ο καλός ο μήνας που την αρκήν φαίνεται.",
+    "quoteTextEN": "A good month shows itself from its beginning.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η φύση και η έκβαση των πραγμάτων διακρίνονται από τα πρώτα κιόλας σημάδια.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "beginnings",
+      "signs",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1072",
+    "quoteText": "Καλάμιν που λυίζει εν τσακκίζει.",
+    "quoteTextEN": "A reed that bends does not break.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η ευλυγισία και η προσαρμοστικότητα σε προστατεύουν στις δυσκολίες.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "adaptability",
+      "resilience",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1073",
+    "quoteText": "Όταν ακούεις πολλά κεράσια, βάστα τζιαι μιτσιόν κανίστριν.",
+    "quoteTextEN": "When you hear of many cherries, carry a small basket too.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Μην εμπιστεύεσαι τυφλά τις μεγάλες υποσχέσεις· κράτα μετρημένες προσδοκίες.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "expectations",
+      "skepticism",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1074",
+    "quoteText": "Φασούλιν το φασούλιν, γεμώννει το σακκούλιν.",
+    "quoteTextEN": "Bean by bean, the sack gets filled.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Οι μικρές, σταθερές προσπάθειες και οικονομίες οδηγούν με τον καιρό σε μεγάλο αποτέλεσμα.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "patience",
+      "saving",
+      "persistence"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1075",
+    "quoteText": "Ό,τι σπείρεις, θα θερίσεις.",
+    "quoteTextEN": "Whatever you sow, you shall reap.",
+    "quoteDescription": "Κυπριακή (και πανελλήνια) παροιμία.",
+    "quoteMeaningAnalysis": "Οι πράξεις μας καθορίζουν τα αποτελέσματα που θα συναντήσουμε.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "consequences",
+      "responsibility",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1076",
+    "quoteText": "Η πομονή ούλλα τα νικά.",
+    "quoteTextEN": "Patience conquers all.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Με υπομονή και επιμονή ξεπερνιούνται και οι μεγαλύτερες δυσκολίες.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "patience",
+      "perseverance",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1077",
+    "quoteText": "Έναν χέριν νίφκει τ' άλλον τζιαι τα δκυο το πρόσωπον.",
+    "quoteTextEN": "One hand washes the other, and both wash the face.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η αμοιβαία βοήθεια ωφελεί όλους· η συνεργασία φέρνει καλύτερο αποτέλεσμα.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "cooperation",
+      "reciprocity",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1078",
+    "quoteText": "Όπου λαλούν πολλοί κοκόροι, αρκεί να ξημερώσει.",
+    "quoteTextEN": "Where many roosters crow, dawn is slow to come.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Όταν υπάρχουν πολλοί που θέλουν να διατάζουν, τα πράγματα καθυστερούν και μπερδεύονται.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "leadership",
+      "order",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1079",
+    "quoteText": "Έν' σαν να κουβαλάς νερόν με το καλάθιν.",
+    "quoteTextEN": "It is like carrying water in a basket.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Λέγεται για μάταιη προσπάθεια που δεν οδηγεί πουθενά.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "futility",
+      "effort",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1080",
+    "quoteText": "Άλλα τα μάθκια τ' αρκού τζι άλλα τ' αρκαντζιελλού.",
+    "quoteTextEN": "The eyes of the bear are one thing, the eyes of the bear-cub another.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Δηλώνει την προφανή διαφορά μεταξύ δύο πραγμάτων που κάποιος προσπαθεί να συγκρίνει ή να μπερδέψει.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "difference",
+      "clarity",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1081",
+    "quoteText": "Ψιλά ψιλά σιει ο Θεός τ' αλεύρα του.",
+    "quoteTextEN": "God grinds his flour fine and slow.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η θεία δικαιοσύνη ή η τάξη των πραγμάτων αργεί αλλά τελικά αποδίδει με ακρίβεια.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "justice",
+      "patience",
+      "faith"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1082",
+    "quoteText": "Όποιος κοιμάται, ψάρκα εν πιάννει.",
+    "quoteTextEN": "Whoever sleeps catches no fish.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Η οκνηρία δεν φέρνει αποτέλεσμα· χρειάζεται προσπάθεια και εγρήγορση.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "diligence",
+      "effort",
+      "opportunity"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1083",
+    "quoteText": "Φάε σιεις, φάε σου διά, τζι ύστερα ξερόψουμον.",
+    "quoteTextEN": "Eat today, eat well today, and tomorrow dry bread.",
+    "quoteDescription": "Κυπριακή παροιμία.",
+    "quoteMeaningAnalysis": "Προειδοποίηση κατά της σπατάλης: όποιος δεν προνοεί, αύριο θα στερηθεί.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
+    "tags": [
+      "thrift",
+      "foresight",
+      "wisdom"
+    ],
+    "resources": [
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
+    ]
+  },
+  {
+    "id": "1084",
+    "quoteText": "Necessity is the mother of invention.",
+    "quoteTextEN": "Necessity is the mother of invention.",
+    "quoteDescription": "Ιδέα από την Πολιτεία του Πλάτωνα.",
+    "quoteMeaningAnalysis": "Η ανάγκη μάς ωθεί να επινοούμε λύσεις που αλλιώς δεν θα σκεφτόμασταν.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "necessity",
+      "creativity",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Republic_(Plato)"
+    ]
+  },
+  {
+    "id": "1085",
+    "quoteText": "Wise men speak because they have something to say; fools because they have to say something.",
+    "quoteTextEN": "Wise men speak because they have something to say; fools because they have to say something.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πλάτωνα.",
+    "quoteMeaningAnalysis": "Ο σοφός μιλά όταν έχει ουσία· ο ανόητος μιλά απλώς για να ακούγεται.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "speech",
+      "wisdom",
+      "silence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1086",
+    "quoteText": "The measure of a man is what he does with power.",
+    "quoteTextEN": "The measure of a man is what he does with power.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πλάτωνα.",
+    "quoteMeaningAnalysis": "Ο πραγματικός χαρακτήρας ενός ανθρώπου φανερώνεται από τον τρόπο που χειρίζεται την εξουσία.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "power",
+      "character",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1087",
+    "quoteText": "Music gives a soul to the universe, wings to the mind, flight to the imagination.",
+    "quoteTextEN": "Music gives a soul to the universe, wings to the mind, flight to the imagination.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πλάτωνα.",
+    "quoteMeaningAnalysis": "Η μουσική αγγίζει βαθιά την ψυχή και απελευθερώνει τη φαντασία και το πνεύμα.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Art",
+    "tags": [
+      "music",
+      "imagination",
+      "soul"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1088",
+    "quoteText": "Courage is knowing what not to fear.",
+    "quoteTextEN": "Courage is knowing what not to fear.",
+    "quoteDescription": "Ιδέα από τους διαλόγους του Πλάτωνα.",
+    "quoteMeaningAnalysis": "Η αληθινή ανδρεία είναι η σοφία να ξεχωρίζεις τι αξίζει να φοβάσαι και τι όχι.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "courage",
+      "wisdom",
+      "fear"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1089",
+    "quoteText": "The price good men pay for indifference to public affairs is to be ruled by evil men.",
+    "quoteTextEN": "The price good men pay for indifference to public affairs is to be ruled by evil men.",
+    "quoteDescription": "Ιδέα από την Πολιτεία του Πλάτωνα.",
+    "quoteMeaningAnalysis": "Όταν οι άξιοι αδιαφορούν για τα κοινά, την εξουσία αναλαμβάνουν οι ανάξιοι.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Politics",
+    "tags": [
+      "politics",
+      "responsibility",
+      "civic-duty"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Republic_(Plato)"
+    ]
+  },
+  {
+    "id": "1090",
+    "quoteText": "Human behavior flows from three main sources: desire, emotion, and knowledge.",
+    "quoteTextEN": "Human behavior flows from three main sources: desire, emotion, and knowledge.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Πλάτωνα.",
+    "quoteMeaningAnalysis": "Οι πράξεις μας πηγάζουν από την επιθυμία, το συναίσθημα και τη γνώση που τα ισορροπεί.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "psychology",
+      "human-nature",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1091",
+    "quoteText": "Ignorance, the root and stem of every evil.",
+    "quoteTextEN": "Ignorance, the root and stem of every evil.",
+    "quoteDescription": "Ιδέα από τους διαλόγους του Πλάτωνα.",
+    "quoteMeaningAnalysis": "Το κακό γεννιέται κυρίως από την άγνοια· η γνώση είναι η θεραπεία του.",
+    "author": "Plato",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "ignorance",
+      "knowledge",
+      "ethics"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Plato",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "id": "1092",
+    "quoteText": "There is only one good, knowledge, and one evil, ignorance.",
+    "quoteTextEN": "There is only one good, knowledge, and one evil, ignorance.",
+    "quoteDescription": "Διδασκαλία του Σωκράτη.",
+    "quoteMeaningAnalysis": "Η γνώση οδηγεί στην αρετή· η άγνοια είναι η ρίζα κάθε κακού.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "knowledge",
+      "virtue",
+      "ignorance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1093",
+    "quoteText": "Wonder is the beginning of wisdom.",
+    "quoteTextEN": "Wonder is the beginning of wisdom.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Ο θαυμασμός και η απορία είναι η αφετηρία κάθε αληθινής γνώσης.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "curiosity",
+      "wonder",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1094",
+    "quoteText": "I cannot teach anybody anything; I can only make them think.",
+    "quoteTextEN": "I cannot teach anybody anything; I can only make them think.",
+    "quoteDescription": "Διδασκαλία του Σωκράτη (μαιευτική μέθοδος).",
+    "quoteMeaningAnalysis": "Ο αληθινός δάσκαλος δεν παραδίδει έτοιμες απαντήσεις αλλά ξυπνά τη σκέψη.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "teaching",
+      "thinking",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1095",
+    "quoteText": "Let him who would move the world first move himself.",
+    "quoteTextEN": "Let him who would move the world first move himself.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Η αλλαγή του κόσμου ξεκινά πάντα από την αλλαγή του ίδιου μας του εαυτού.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "self-improvement",
+      "change",
+      "responsibility"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1096",
+    "quoteText": "He who is not contented with what he has would not be contented with what he would like to have.",
+    "quoteTextEN": "He who is not contented with what he has would not be contented with what he would like to have.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Η ευτυχία πηγάζει από την εσωτερική ικανοποίηση, όχι από τα αποκτήματα.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "contentment",
+      "happiness",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1097",
+    "quoteText": "The greatest way to live with honour is to be what we pretend to be.",
+    "quoteTextEN": "The greatest way to live with honour is to be what we pretend to be.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Η ακεραιότητα σημαίνει να γίνεσαι πραγματικά αυτό που δείχνεις στους άλλους.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "integrity",
+      "honesty",
+      "character"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1098",
+    "quoteText": "To find yourself, think for yourself.",
+    "quoteTextEN": "To find yourself, think for yourself.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Η αυτογνωσία απαιτεί ανεξάρτητη, προσωπική σκέψη και όχι τυφλή υιοθέτηση γνωμών.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "independence",
+      "self-knowledge",
+      "thinking"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1099",
+    "quoteText": "Be slow to fall into friendship; but when thou art in, continue firm and constant.",
+    "quoteTextEN": "Be slow to fall into friendship; but when thou art in, continue firm and constant.",
+    "quoteDescription": "Ρήση που αποδίδεται στον Σωκράτη.",
+    "quoteMeaningAnalysis": "Διάλεξε προσεκτικά τους φίλους σου, αλλά μόλις τους εμπιστευτείς, μείνε πιστός.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "friendship",
+      "loyalty",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Socrates",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "id": "1100",
+    "quoteText": "Δῶς μοι πᾶ στῶ καὶ τὰν γᾶν κινάσω.",
+    "quoteTextEN": "Give me a place to stand and I will move the earth.",
+    "quoteDescription": "Ρήση του Αρχιμήδη για την αρχή του μοχλού.",
+    "quoteMeaningAnalysis": "Με τον σωστό μοχλό και ένα σταθερό σημείο στήριξης, μπορεί κανείς να επιτύχει το αδύνατο.",
+    "author": "Archimedes",
+    "culture": "Ancient Greek",
+    "category": "Science",
+    "tags": [
+      "physics",
+      "leverage",
+      "ingenuity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Archimedes",
+      "https://en.wikipedia.org/wiki/Archimedes"
+    ]
+  },
+  {
+    "id": "1101",
+    "quoteText": "Εὕρηκα!",
+    "quoteTextEN": "Eureka! (I have found it!)",
+    "quoteDescription": "Η περίφημη κραυγή του Αρχιμήδη όταν ανακάλυψε την αρχή της άνωσης.",
+    "quoteMeaningAnalysis": "Η στιγμή της ξαφνικής έμπνευσης και ανακάλυψης που λύνει ένα πρόβλημα.",
+    "author": "Archimedes",
+    "culture": "Ancient Greek",
+    "category": "Science",
+    "tags": [
+      "discovery",
+      "inspiration",
+      "science"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Archimedes",
+      "https://en.wikipedia.org/wiki/Eureka_(word)"
+    ]
+  },
+  {
+    "id": "1102",
+    "quoteText": "Μή μου τοὺς κύκλους τάραττε.",
+    "quoteTextEN": "Do not disturb my circles.",
+    "quoteDescription": "Τα φερόμενα ως τελευταία λόγια του Αρχιμήδη προς έναν Ρωμαίο στρατιώτη.",
+    "quoteMeaningAnalysis": "Η απόλυτη αφοσίωση στη γνώση και τη μελέτη, ακόμη και μπροστά στον κίνδυνο.",
+    "author": "Archimedes",
+    "culture": "Ancient Greek",
+    "category": "Science",
+    "tags": [
+      "dedication",
+      "focus",
+      "science"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Archimedes",
+      "https://en.wikipedia.org/wiki/Archimedes"
+    ]
+  },
+  {
+    "id": "1103",
+    "quoteText": "The shortest distance between two points is a straight line.",
+    "quoteTextEN": "The shortest distance between two points is a straight line.",
+    "quoteDescription": "Αρχή που αποδίδεται στα γεωμετρικά έργα του Αρχιμήδη.",
+    "quoteMeaningAnalysis": "Η απλούστερη και πιο άμεση διαδρομή είναι συχνά η πιο αποτελεσματική.",
+    "author": "Archimedes",
+    "culture": "Ancient Greek",
+    "category": "Science",
+    "tags": [
+      "geometry",
+      "simplicity",
+      "logic"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Archimedes",
+      "https://en.wikipedia.org/wiki/Archimedes"
+    ]
   }
 ];
