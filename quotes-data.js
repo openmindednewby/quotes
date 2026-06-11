@@ -7639,1712 +7639,1712 @@ window.QUOTES_DATA = [
   },
   {
     "id": "403",
-    "quoteText": "The woven village loom invites each heart to mend fences with patient laughter.",
-    "quoteTextEN": "The woven village loom invites each heart to mend fences with patient laughter.",
-    "quoteDescription": "Priya Menon shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Priya Menon",
-    "culture": "Kerala Coastal Wisdom",
-    "category": "Community",
+    "quoteText": "Be not arrogant because of your knowledge, but confer with the ignorant as with the learned.",
+    "quoteTextEN": "Be not arrogant because of your knowledge, but confer with the ignorant as with the learned.",
+    "quoteDescription": "From the Maxims of Ptahhotep, ancient Egypt (c. 2400 BCE), among the oldest wisdom texts.",
+    "quoteMeaningAnalysis": "True knowledge is humble; wisdom can be found even in the unlearned.",
+    "author": "Ptahhotep",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "humility",
+      "knowledge",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Ptahhotep",
+      "https://en.wikipedia.org/wiki/The_Maxims_of_Ptahhotep"
     ]
   },
   {
     "id": "404",
-    "quoteText": "The woven village loom invites each heart to share shade as freely as bread.",
-    "quoteTextEN": "The woven village loom invites each heart to share shade as freely as bread.",
-    "quoteDescription": "Elijah Brooks shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Elijah Brooks",
-    "culture": "Harlem Community Insight",
-    "category": "Community",
+    "quoteText": "Good speech is more hidden than the precious greenstone, yet it is found with the maidservants at the millstones.",
+    "quoteTextEN": "Good speech is more hidden than the precious greenstone, yet it is found with the maidservants at the millstones.",
+    "quoteDescription": "From the Maxims of Ptahhotep.",
+    "quoteMeaningAnalysis": "Wisdom is rare and precious, yet it can be found among the humblest of people.",
+    "author": "Ptahhotep",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "wisdom",
+      "humility",
+      "speech"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Ptahhotep",
+      "https://en.wikipedia.org/wiki/The_Maxims_of_Ptahhotep"
     ]
   },
   {
     "id": "405",
-    "quoteText": "The woven village loom invites each heart to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven village loom invites each heart to carry festivals in ordinary days.",
-    "quoteDescription": "Sofia Dimitrova shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Sofia Dimitrova",
-    "culture": "Balkan Hearth Stories",
-    "category": "Community",
+    "quoteText": "Follow your heart as long as you live; do more than is commanded of you.",
+    "quoteTextEN": "Follow your heart as long as you live; do more than is commanded of you.",
+    "quoteDescription": "From the Maxims of Ptahhotep, ancient Egypt.",
+    "quoteMeaningAnalysis": "Live according to your inner truth and give generously beyond mere obligation.",
+    "author": "Ptahhotep",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "authenticity",
+      "generosity",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Ptahhotep",
+      "https://en.wikipedia.org/wiki/The_Maxims_of_Ptahhotep"
     ]
   },
   {
     "id": "406",
-    "quoteText": "The woven village loom invites each heart to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven village loom invites each heart to plant tomorrow in today’s soil.",
-    "quoteDescription": "Layla Farouk shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Layla Farouk",
-    "culture": "Alexandrian Neighborhood Tales",
-    "category": "Community",
+    "quoteText": "Wrongdoing has never brought its venture safely to port.",
+    "quoteTextEN": "Wrongdoing has never brought its venture safely to port.",
+    "quoteDescription": "From the Maxims of Ptahhotep.",
+    "quoteMeaningAnalysis": "Injustice may seem to succeed for a while, but it never truly arrives at a good end.",
+    "author": "Ptahhotep",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "justice",
+      "integrity",
+      "consequences"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Ptahhotep",
+      "https://en.wikipedia.org/wiki/The_Maxims_of_Ptahhotep"
     ]
   },
   {
     "id": "407",
-    "quoteText": "The woven village loom reminds the hands to sing before counting the chairs.",
-    "quoteTextEN": "The woven village loom reminds the hands to sing before counting the chairs.",
-    "quoteDescription": "Tala Reyes shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Tala Reyes",
-    "culture": "Tagalog Bayanihan Lore",
-    "category": "Community",
+    "quoteText": "Speak Maat, do Maat — for it is mighty, lasting, and leads to the blessed state.",
+    "quoteTextEN": "Speak truth and justice (Maat), and do them — for they are mighty and enduring.",
+    "quoteDescription": "Based on the ancient Egyptian principle of Maat (truth, balance, order).",
+    "quoteMeaningAnalysis": "Living in harmony with truth and justice is the foundation of a worthy life.",
+    "author": "Ancient Egyptian Wisdom",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "truth",
+      "justice",
+      "balance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Maat",
+      "https://en.wikipedia.org/wiki/Maat"
     ]
   },
   {
     "id": "408",
-    "quoteText": "The woven village loom reminds the hands to trade stories before silver.",
-    "quoteTextEN": "The woven village loom reminds the hands to trade stories before silver.",
-    "quoteDescription": "Yonas Berhane shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Yonas Berhane",
-    "culture": "Ethiopian Coffee House Wisdom",
-    "category": "Community",
+    "quoteText": "Better is bread when the heart is happy than riches with sorrow.",
+    "quoteTextEN": "Better is bread when the heart is happy than riches with sorrow.",
+    "quoteDescription": "From the Instruction of Amenemope, ancient Egyptian wisdom literature.",
+    "quoteMeaningAnalysis": "Contentment with little is worth more than wealth weighed down by grief.",
+    "author": "Amenemope",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "contentment",
+      "happiness",
+      "wealth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Instruction_of_Amenemope",
+      "https://en.wikipedia.org/wiki/Instruction_of_Amenemope"
     ]
   },
   {
     "id": "409",
-    "quoteText": "The woven village loom reminds the hands to mend fences with patient laughter.",
-    "quoteTextEN": "The woven village loom reminds the hands to mend fences with patient laughter.",
-    "quoteDescription": "Grecia Valdez shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Grecia Valdez",
-    "culture": "Oaxacan Fiesta Tradition",
-    "category": "Community",
+    "quoteText": "Do not set your heart on seeking riches, for there is no one who can ignore Fate and Fortune.",
+    "quoteTextEN": "Do not set your heart on seeking riches, for there is no one who can ignore Fate and Fortune.",
+    "quoteDescription": "From the Instruction of Amenemope.",
+    "quoteMeaningAnalysis": "Chasing wealth above all is folly; much in life lies beyond our control.",
+    "author": "Amenemope",
+    "culture": "Egyptian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "wealth",
+      "humility",
+      "fate"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Instruction_of_Amenemope",
+      "https://en.wikipedia.org/wiki/Instruction_of_Amenemope"
     ]
   },
   {
     "id": "410",
-    "quoteText": "The woven village loom reminds the hands to share shade as freely as bread.",
-    "quoteTextEN": "The woven village loom reminds the hands to share shade as freely as bread.",
-    "quoteDescription": "Ruqayya Khan shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Ruqayya Khan",
-    "culture": "Hyderabadi Courtyard Memories",
-    "category": "Community",
+    "quoteText": "Let your belly be full, enjoy yourself always; make merry by day and by night — for this too is the lot of man.",
+    "quoteTextEN": "Let your belly be full, enjoy yourself always; make merry by day and by night — for this too is the lot of man.",
+    "quoteDescription": "Siduri's counsel to Gilgamesh in the Epic of Gilgamesh, ancient Mesopotamia.",
+    "quoteMeaningAnalysis": "Since life is finite, find joy in its simple pleasures and the people you love.",
+    "author": "Epic of Gilgamesh",
+    "culture": "Mesopotamian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "mortality",
+      "joy",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Epic_of_Gilgamesh",
+      "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
     ]
   },
   {
     "id": "411",
-    "quoteText": "The woven village loom reminds the hands to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven village loom reminds the hands to carry festivals in ordinary days.",
-    "quoteDescription": "Ifeoma Okoye shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Ifeoma Okoye",
-    "culture": "Igbo Communal Teaching",
-    "category": "Community",
+    "quoteText": "Only the gods live forever; as for us men, our days are numbered, our occupations a breath of wind.",
+    "quoteTextEN": "Only the gods live forever; as for us men, our days are numbered, our occupations a breath of wind.",
+    "quoteDescription": "From the Epic of Gilgamesh.",
+    "quoteMeaningAnalysis": "Accepting our mortality frees us to live our brief days with meaning.",
+    "author": "Epic of Gilgamesh",
+    "culture": "Mesopotamian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "mortality",
+      "humility",
+      "meaning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Epic_of_Gilgamesh",
+      "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
     ]
   },
   {
     "id": "412",
-    "quoteText": "The woven village loom reminds the hands to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven village loom reminds the hands to plant tomorrow in today’s soil.",
-    "quoteDescription": "Jonas Pettersson shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Jonas Pettersson",
-    "culture": "Scandinavian Village Lore",
-    "category": "Community",
+    "quoteText": "He who possesses much barley may be glad; he who has nothing at all may sleep.",
+    "quoteTextEN": "He who possesses much silver may be happy, he who possesses much barley may be glad, but he who has nothing at all can sleep.",
+    "quoteDescription": "Ancient Sumerian proverb.",
+    "quoteMeaningAnalysis": "Possessions bring their own anxieties; sometimes having little brings peace.",
+    "author": "Sumerian Proverb",
+    "culture": "Mesopotamian",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "contentment",
+      "simplicity",
+      "peace"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Sumerian_literature",
+      "https://en.wikipedia.org/wiki/Sumerian_proverbs"
     ]
   },
   {
     "id": "413",
-    "quoteText": "The woven village loom teaches the children to sing before counting the chairs.",
-    "quoteTextEN": "The woven village loom teaches the children to sing before counting the chairs.",
-    "quoteDescription": "Priya Menon shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Priya Menon",
-    "culture": "Kerala Coastal Wisdom",
-    "category": "Community",
+    "quoteText": "Do not return evil to your adversary; requite with kindness the one who does evil to you.",
+    "quoteTextEN": "Do not return evil to your adversary; requite with kindness the one who does evil to you.",
+    "quoteDescription": "From the Babylonian 'Counsels of Wisdom', ancient Mesopotamia.",
+    "quoteMeaningAnalysis": "Answer wrongdoing with kindness rather than perpetuating the cycle of harm.",
+    "author": "Babylonian Wisdom",
+    "culture": "Mesopotamian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "forgiveness",
+      "kindness",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Babylonian_literature",
+      "https://en.wikipedia.org/wiki/Akkadian_literature"
     ]
   },
   {
     "id": "414",
-    "quoteText": "The woven village loom teaches the children to trade stories before silver.",
-    "quoteTextEN": "The woven village loom teaches the children to trade stories before silver.",
-    "quoteDescription": "Elijah Brooks shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Elijah Brooks",
-    "culture": "Harlem Community Insight",
-    "category": "Community",
+    "quoteText": "Friendship lasts a day; kinship endures forever.",
+    "quoteTextEN": "Friendship lasts a day; kinship endures forever.",
+    "quoteDescription": "Ancient Sumerian proverb.",
+    "quoteMeaningAnalysis": "Bonds of deep loyalty outlast fleeting, casual connections.",
+    "author": "Sumerian Proverb",
+    "culture": "Mesopotamian",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "friendship",
+      "family",
+      "loyalty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Sumerian_literature",
+      "https://en.wikipedia.org/wiki/Sumerian_proverbs"
     ]
   },
   {
     "id": "415",
-    "quoteText": "The woven village loom teaches the children to mend fences with patient laughter.",
-    "quoteTextEN": "The woven village loom teaches the children to mend fences with patient laughter.",
-    "quoteDescription": "Sofia Dimitrova shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Sofia Dimitrova",
-    "culture": "Balkan Hearth Stories",
-    "category": "Community",
+    "quoteText": "Tell a lie and then tell the truth: it will be counted as a lie.",
+    "quoteTextEN": "Tell a lie and then tell the truth: it will be counted as a lie.",
+    "quoteDescription": "Ancient Sumerian proverb.",
+    "quoteMeaningAnalysis": "Once trust is broken by dishonesty, even your truths fall under suspicion.",
+    "author": "Sumerian Proverb",
+    "culture": "Mesopotamian",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "honesty",
+      "trust",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Sumerian_literature",
+      "https://en.wikipedia.org/wiki/Sumerian_proverbs"
     ]
   },
   {
     "id": "416",
-    "quoteText": "The woven village loom teaches the children to share shade as freely as bread.",
-    "quoteTextEN": "The woven village loom teaches the children to share shade as freely as bread.",
-    "quoteDescription": "Layla Farouk shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Layla Farouk",
-    "culture": "Alexandrian Neighborhood Tales",
-    "category": "Community",
+    "quoteText": "Who has not supported a wife or child has not borne a leash through his nose.",
+    "quoteTextEN": "Whoever has not supported a wife or child has never carried a leash through his nose.",
+    "quoteDescription": "Ancient Sumerian proverb on responsibility.",
+    "quoteMeaningAnalysis": "Those who carry real responsibilities understand life's burdens in a way others cannot.",
+    "author": "Sumerian Proverb",
+    "culture": "Mesopotamian",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "responsibility",
+      "family",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Sumerian_literature",
+      "https://en.wikipedia.org/wiki/Sumerian_proverbs"
     ]
   },
   {
     "id": "417",
-    "quoteText": "The woven village loom teaches the children to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven village loom teaches the children to carry festivals in ordinary days.",
-    "quoteDescription": "Tala Reyes shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Tala Reyes",
-    "culture": "Tagalog Bayanihan Lore",
-    "category": "Community",
+    "quoteText": "Ar scáth a chéile a mhaireann na daoine.",
+    "quoteTextEN": "It is in the shelter of each other that the people live.",
+    "quoteDescription": "Irish (Gaelic) proverb.",
+    "quoteMeaningAnalysis": "We survive and thrive through mutual support and community, not alone.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Proverb",
     "tags": [
       "community",
-      "belonging",
-      "cooperation"
+      "solidarity",
+      "support"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "418",
-    "quoteText": "The woven village loom teaches the children to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven village loom teaches the children to plant tomorrow in today’s soil.",
-    "quoteDescription": "Yonas Berhane shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Yonas Berhane",
-    "culture": "Ethiopian Coffee House Wisdom",
-    "category": "Community",
+    "quoteText": "Both your friend and your enemy think you will never die.",
+    "quoteTextEN": "Both your friend and your enemy think you will never die.",
+    "quoteDescription": "Irish proverb.",
+    "quoteMeaningAnalysis": "People act as if life is endless; remember its brevity and live accordingly.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "mortality",
+      "wisdom",
+      "perspective"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "419",
-    "quoteText": "The woven village loom encourages the elders to sing before counting the chairs.",
-    "quoteTextEN": "The woven village loom encourages the elders to sing before counting the chairs.",
-    "quoteDescription": "Grecia Valdez shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Grecia Valdez",
-    "culture": "Oaxacan Fiesta Tradition",
-    "category": "Community",
+    "quoteText": "A good word never broke a tooth.",
+    "quoteTextEN": "A good word never broke a tooth.",
+    "quoteDescription": "Irish proverb.",
+    "quoteMeaningAnalysis": "Kind and courteous speech costs nothing and harms no one.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "kindness",
+      "speech",
+      "courtesy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "420",
-    "quoteText": "The woven village loom encourages the elders to trade stories before silver.",
-    "quoteTextEN": "The woven village loom encourages the elders to trade stories before silver.",
-    "quoteDescription": "Ruqayya Khan shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Ruqayya Khan",
-    "culture": "Hyderabadi Courtyard Memories",
-    "category": "Community",
+    "quoteText": "A friend's eye is a good mirror.",
+    "quoteTextEN": "A friend's eye is a good mirror.",
+    "quoteDescription": "Irish (Gaelic) proverb.",
+    "quoteMeaningAnalysis": "A true friend shows you yourself honestly, helping you see what you cannot.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "friendship",
+      "honesty",
+      "self-knowledge"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "421",
-    "quoteText": "The woven village loom encourages the elders to mend fences with patient laughter.",
-    "quoteTextEN": "The woven village loom encourages the elders to mend fences with patient laughter.",
-    "quoteDescription": "Ifeoma Okoye shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Ifeoma Okoye",
-    "culture": "Igbo Communal Teaching",
-    "category": "Community",
+    "quoteText": "Praise the young and they will flourish.",
+    "quoteTextEN": "Praise the young and they will flourish.",
+    "quoteDescription": "Irish proverb.",
+    "quoteMeaningAnalysis": "Encouragement helps people grow into their potential.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "encouragement",
+      "growth",
+      "youth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "422",
-    "quoteText": "The woven village loom encourages the elders to share shade as freely as bread.",
-    "quoteTextEN": "The woven village loom encourages the elders to share shade as freely as bread.",
-    "quoteDescription": "Jonas Pettersson shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Jonas Pettersson",
-    "culture": "Scandinavian Village Lore",
-    "category": "Community",
+    "quoteText": "What fills the eye fills the heart.",
+    "quoteTextEN": "What fills the eye fills the heart.",
+    "quoteDescription": "Irish proverb.",
+    "quoteMeaningAnalysis": "What we behold and dwell upon shapes our deepest feelings.",
+    "author": "Irish Proverb",
+    "culture": "Irish",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "perception",
+      "love",
+      "attention"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "423",
-    "quoteText": "The woven village loom encourages the elders to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven village loom encourages the elders to carry festivals in ordinary days.",
-    "quoteDescription": "Priya Menon shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Priya Menon",
-    "culture": "Kerala Coastal Wisdom",
-    "category": "Community",
+    "quoteText": "May the road rise up to meet you, and the wind be always at your back.",
+    "quoteTextEN": "May the road rise up to meet you, and the wind be always at your back.",
+    "quoteDescription": "Traditional Irish blessing.",
+    "quoteMeaningAnalysis": "A wish that life's path be smooth and its forces work in your favour.",
+    "author": "Irish Blessing",
+    "culture": "Irish",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "hope",
+      "blessing",
+      "journey"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Irish_proverbs",
+      "https://en.wikipedia.org/wiki/Irish_proverbs"
     ]
   },
   {
     "id": "424",
-    "quoteText": "The woven village loom encourages the elders to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven village loom encourages the elders to plant tomorrow in today’s soil.",
-    "quoteDescription": "Elijah Brooks shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Elijah Brooks",
-    "culture": "Harlem Community Insight",
-    "category": "Community",
+    "quoteText": "Cenedl heb iaith, cenedl heb galon.",
+    "quoteTextEN": "A nation without a language is a nation without a heart.",
+    "quoteDescription": "Welsh proverb.",
+    "quoteMeaningAnalysis": "Language carries the soul of a people; to lose it is to lose one's heart.",
+    "author": "Welsh Proverb",
+    "culture": "Welsh",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "language",
+      "identity",
+      "heritage"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Welsh_proverbs",
+      "https://en.wikipedia.org/wiki/Welsh_language"
     ]
   },
   {
     "id": "425",
-    "quoteText": "The woven village loom calls the travelers to sing before counting the chairs.",
-    "quoteTextEN": "The woven village loom calls the travelers to sing before counting the chairs.",
-    "quoteDescription": "Sofia Dimitrova shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Sofia Dimitrova",
-    "culture": "Balkan Hearth Stories",
-    "category": "Community",
+    "quoteText": "Nature, time and patience are the three great physicians.",
+    "quoteTextEN": "Nature, time and patience are the three great physicians.",
+    "quoteDescription": "Celtic / Gaelic proverb.",
+    "quoteMeaningAnalysis": "Healing and resolution often come simply through nature, patience and the passing of time.",
+    "author": "Celtic Proverb",
+    "culture": "Celtic",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "patience",
+      "healing",
+      "nature"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Celtic_mythology",
+      "https://en.wikipedia.org/wiki/Proverb"
     ]
   },
   {
     "id": "426",
-    "quoteText": "The woven village loom calls the travelers to trade stories before silver.",
-    "quoteTextEN": "The woven village loom calls the travelers to trade stories before silver.",
-    "quoteDescription": "Layla Farouk shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Layla Farouk",
-    "culture": "Alexandrian Neighborhood Tales",
-    "category": "Community",
+    "quoteText": "시작이 반이다.",
+    "quoteTextEN": "Starting is half the task.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "The hardest part of any task is beginning; once you start, you are halfway there.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "beginnings",
+      "action",
+      "motivation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "427",
-    "quoteText": "The woven village loom calls the travelers to mend fences with patient laughter.",
-    "quoteTextEN": "The woven village loom calls the travelers to mend fences with patient laughter.",
-    "quoteDescription": "Tala Reyes shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Tala Reyes",
-    "culture": "Tagalog Bayanihan Lore",
-    "category": "Community",
+    "quoteText": "하늘이 무너져도 솟아날 구멍이 있다.",
+    "quoteTextEN": "Even if the sky falls, there is a hole to rise through.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "No matter how hopeless things seem, there is always a way out.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "hope",
+      "resilience",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "428",
-    "quoteText": "The woven village loom calls the travelers to share shade as freely as bread.",
-    "quoteTextEN": "The woven village loom calls the travelers to share shade as freely as bread.",
-    "quoteDescription": "Yonas Berhane shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Yonas Berhane",
-    "culture": "Ethiopian Coffee House Wisdom",
-    "category": "Community",
+    "quoteText": "가는 말이 고와야 오는 말이 곱다.",
+    "quoteTextEN": "Kind words going out bring kind words coming back.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "Treat others with courtesy and you will receive courtesy in return.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "kindness",
+      "reciprocity",
+      "speech"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "429",
-    "quoteText": "The woven village loom calls the travelers to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven village loom calls the travelers to carry festivals in ordinary days.",
-    "quoteDescription": "Grecia Valdez shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Grecia Valdez",
-    "culture": "Oaxacan Fiesta Tradition",
-    "category": "Community",
+    "quoteText": "티끌 모아 태산.",
+    "quoteTextEN": "Gather specks of dust to make a great mountain.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "Small things saved and accumulated patiently become something great.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "patience",
+      "saving",
+      "persistence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "430",
-    "quoteText": "The woven village loom calls the travelers to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven village loom calls the travelers to plant tomorrow in today’s soil.",
-    "quoteDescription": "Ruqayya Khan shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Ruqayya Khan",
-    "culture": "Hyderabadi Courtyard Memories",
-    "category": "Community",
+    "quoteText": "개구리 올챙이 적 생각 못 한다.",
+    "quoteTextEN": "The frog forgets it was once a tadpole.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "People who succeed often forget the humble beginnings they came from.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "humility",
+      "memory",
+      "gratitude"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "431",
-    "quoteText": "The woven village loom asks the newcomers to sing before counting the chairs.",
-    "quoteTextEN": "The woven village loom asks the newcomers to sing before counting the chairs.",
-    "quoteDescription": "Ifeoma Okoye shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Ifeoma Okoye",
-    "culture": "Igbo Communal Teaching",
-    "category": "Community",
+    "quoteText": "비 온 뒤에 땅이 굳어진다.",
+    "quoteTextEN": "After the rain, the ground hardens.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "Hardship endured together leaves relationships and character stronger.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "adversity",
+      "resilience",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "432",
-    "quoteText": "The woven village loom asks the newcomers to trade stories before silver.",
-    "quoteTextEN": "The woven village loom asks the newcomers to trade stories before silver.",
-    "quoteDescription": "Jonas Pettersson shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Jonas Pettersson",
-    "culture": "Scandinavian Village Lore",
-    "category": "Community",
+    "quoteText": "백지장도 맞들면 낫다.",
+    "quoteTextEN": "Even a sheet of paper is lighter when two lift it together.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "Even easy tasks go better with cooperation; shared effort lightens every load.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "cooperation",
+      "teamwork",
+      "community"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "433",
-    "quoteText": "The woven village loom asks the newcomers to mend fences with patient laughter.",
-    "quoteTextEN": "The woven village loom asks the newcomers to mend fences with patient laughter.",
-    "quoteDescription": "Priya Menon shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Priya Menon",
-    "culture": "Kerala Coastal Wisdom",
-    "category": "Community",
+    "quoteText": "윗물이 맑아야 아랫물이 맑다.",
+    "quoteTextEN": "The lower stream is clean only when the upper stream is clean.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "Those at the top set the example; integrity must flow from leadership down.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "leadership",
+      "integrity",
+      "example"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "434",
-    "quoteText": "The woven village loom asks the newcomers to share shade as freely as bread.",
-    "quoteTextEN": "The woven village loom asks the newcomers to share shade as freely as bread.",
-    "quoteDescription": "Elijah Brooks shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Elijah Brooks",
-    "culture": "Harlem Community Insight",
-    "category": "Community",
+    "quoteText": "말 한마디에 천 냥 빚을 갚는다.",
+    "quoteTextEN": "One word can repay a debt of a thousand pieces of gold.",
+    "quoteDescription": "Korean proverb.",
+    "quoteMeaningAnalysis": "The right words, kindly spoken, have enormous power to mend and to heal.",
+    "author": "Korean Proverb",
+    "culture": "Korean",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "words",
+      "kindness",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Korean_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Korea"
     ]
   },
   {
     "id": "435",
-    "quoteText": "The woven village loom asks the newcomers to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven village loom asks the newcomers to carry festivals in ordinary days.",
-    "quoteDescription": "Sofia Dimitrova shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Sofia Dimitrova",
-    "culture": "Balkan Hearth Stories",
-    "category": "Community",
+    "quoteText": "Ăn quả nhớ kẻ trồng cây.",
+    "quoteTextEN": "When eating a fruit, remember the one who planted the tree.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "Be grateful to those whose earlier work made your blessings possible.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "gratitude",
+      "respect",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "436",
-    "quoteText": "The woven village loom asks the newcomers to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven village loom asks the newcomers to plant tomorrow in today’s soil.",
-    "quoteDescription": "Layla Farouk shares a community image where a village loom becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Layla Farouk",
-    "culture": "Alexandrian Neighborhood Tales",
-    "category": "Community",
+    "quoteText": "Gần mực thì đen, gần đèn thì sáng.",
+    "quoteTextEN": "Near ink you turn black; near a lamp you grow bright.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "We are shaped by our company; choose your influences with care.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "company",
+      "influence",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "437",
-    "quoteText": "The woven evening market invites each heart to sing before counting the chairs.",
-    "quoteTextEN": "The woven evening market invites each heart to sing before counting the chairs.",
-    "quoteDescription": "Tala Reyes shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Tala Reyes",
-    "culture": "Tagalog Bayanihan Lore",
-    "category": "Community",
+    "quoteText": "Có công mài sắt, có ngày nên kim.",
+    "quoteTextEN": "With effort grinding iron, one day it becomes a needle.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "Patient, persistent effort can accomplish even the seemingly impossible.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "perseverance",
+      "patience",
+      "effort"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "438",
-    "quoteText": "The woven evening market invites each heart to trade stories before silver.",
-    "quoteTextEN": "The woven evening market invites each heart to trade stories before silver.",
-    "quoteDescription": "Yonas Berhane shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Yonas Berhane",
-    "culture": "Ethiopian Coffee House Wisdom",
-    "category": "Community",
+    "quoteText": "Lá lành đùm lá rách.",
+    "quoteTextEN": "The whole leaf shelters the torn leaf.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "Those who are well-off should protect and help those in difficulty.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "compassion",
+      "solidarity",
+      "community"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "439",
-    "quoteText": "The woven evening market invites each heart to mend fences with patient laughter.",
-    "quoteTextEN": "The woven evening market invites each heart to mend fences with patient laughter.",
-    "quoteDescription": "Grecia Valdez shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Grecia Valdez",
-    "culture": "Oaxacan Fiesta Tradition",
-    "category": "Community",
+    "quoteText": "Uống nước nhớ nguồn.",
+    "quoteTextEN": "When drinking water, remember its source.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "Never forget the origins and the people to whom you owe your good fortune.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "gratitude",
+      "heritage",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "440",
-    "quoteText": "The woven evening market invites each heart to share shade as freely as bread.",
-    "quoteTextEN": "The woven evening market invites each heart to share shade as freely as bread.",
-    "quoteDescription": "Ruqayya Khan shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Ruqayya Khan",
-    "culture": "Hyderabadi Courtyard Memories",
-    "category": "Community",
+    "quoteText": "Anh em như thể tay chân.",
+    "quoteTextEN": "Brothers and sisters are like hands and feet.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "Family members are parts of one body; they belong together and support one another.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "family",
+      "loyalty",
+      "unity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "441",
-    "quoteText": "The woven evening market invites each heart to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven evening market invites each heart to carry festivals in ordinary days.",
-    "quoteDescription": "Ifeoma Okoye shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Ifeoma Okoye",
-    "culture": "Igbo Communal Teaching",
-    "category": "Community",
+    "quoteText": "Tốt gỗ hơn tốt nước sơn.",
+    "quoteTextEN": "Good timber is better than a good coat of paint.",
+    "quoteDescription": "Vietnamese proverb.",
+    "quoteMeaningAnalysis": "Genuine substance and character matter more than outward appearance.",
+    "author": "Vietnamese Proverb",
+    "culture": "Vietnamese",
+    "category": "Proverb",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "character",
+      "authenticity",
+      "substance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Vietnamese_proverbs",
+      "https://en.wikipedia.org/wiki/Culture_of_Vietnam"
     ]
   },
   {
     "id": "442",
-    "quoteText": "The woven evening market invites each heart to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven evening market invites each heart to plant tomorrow in today’s soil.",
-    "quoteDescription": "Jonas Pettersson shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Jonas Pettersson",
-    "culture": "Scandinavian Village Lore",
-    "category": "Community",
+    "quoteText": "We are all visitors to this time, this place. We are just passing through.",
+    "quoteTextEN": "We are all visitors to this time, this place. We are just passing through. Our purpose is to observe, to learn, to grow, to love — and then we return home.",
+    "quoteDescription": "Aboriginal Australian proverb.",
+    "quoteMeaningAnalysis": "Life is a brief journey whose purpose is to learn and to love before we move on.",
+    "author": "Aboriginal Proverb",
+    "culture": "Aboriginal Australian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "life",
+      "purpose",
+      "love"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Australian_Aboriginal_culture",
+      "https://en.wikipedia.org/wiki/The_Dreaming"
     ]
   },
   {
     "id": "443",
-    "quoteText": "The woven evening market reminds the hands to sing before counting the chairs.",
-    "quoteTextEN": "The woven evening market reminds the hands to sing before counting the chairs.",
-    "quoteDescription": "Priya Menon shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Priya Menon",
-    "culture": "Kerala Coastal Wisdom",
-    "category": "Community",
+    "quoteText": "Those who lose dreaming are lost.",
+    "quoteTextEN": "Those who lose dreaming are lost.",
+    "quoteDescription": "Aboriginal Australian proverb, referring to the Dreaming (Tjukurpa).",
+    "quoteMeaningAnalysis": "To lose your connection to story, land and meaning is to lose your way in life.",
+    "author": "Aboriginal Proverb",
+    "culture": "Aboriginal Australian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "identity",
+      "heritage",
+      "meaning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Australian_Aboriginal_culture",
+      "https://en.wikipedia.org/wiki/The_Dreaming"
     ]
   },
   {
     "id": "444",
-    "quoteText": "The woven evening market reminds the hands to trade stories before silver.",
-    "quoteTextEN": "The woven evening market reminds the hands to trade stories before silver.",
-    "quoteDescription": "Elijah Brooks shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Elijah Brooks",
-    "culture": "Harlem Community Insight",
-    "category": "Community",
+    "quoteText": "The more you know, the less you need.",
+    "quoteTextEN": "The more you know, the less you need.",
+    "quoteDescription": "Aboriginal Australian proverb.",
+    "quoteMeaningAnalysis": "Real knowledge of how to live reduces our dependence on possessions.",
+    "author": "Aboriginal Proverb",
+    "culture": "Aboriginal Australian",
+    "category": "Wisdom",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "knowledge",
+      "simplicity",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Australian_Aboriginal_culture",
+      "https://en.wikipedia.org/wiki/The_Dreaming"
     ]
   },
   {
     "id": "445",
-    "quoteText": "The woven evening market reminds the hands to mend fences with patient laughter.",
-    "quoteTextEN": "The woven evening market reminds the hands to mend fences with patient laughter.",
-    "quoteDescription": "Sofia Dimitrova shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to mend fences with patient laughter.",
-    "author": "Sofia Dimitrova",
-    "culture": "Balkan Hearth Stories",
-    "category": "Community",
+    "quoteText": "If you are coming to help me, you are wasting your time. But if your liberation is bound up with mine, then let us work together.",
+    "quoteTextEN": "If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together.",
+    "quoteDescription": "Attributed to Lilla Watson and Aboriginal activist groups, Queensland.",
+    "quoteMeaningAnalysis": "True solidarity recognizes that our freedom and wellbeing are deeply intertwined.",
+    "author": "Lilla Watson",
+    "culture": "Aboriginal Australian",
+    "category": "Wisdom",
     "tags": [
+      "solidarity",
       "community",
-      "belonging",
-      "cooperation"
+      "justice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Lilla_Watson",
+      "https://en.wikipedia.org/wiki/Lilla_Watson"
     ]
   },
   {
     "id": "446",
-    "quoteText": "The woven evening market reminds the hands to share shade as freely as bread.",
-    "quoteTextEN": "The woven evening market reminds the hands to share shade as freely as bread.",
-    "quoteDescription": "Layla Farouk shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to share shade as freely as bread.",
-    "author": "Layla Farouk",
-    "culture": "Alexandrian Neighborhood Tales",
-    "category": "Community",
+    "quoteText": "We cultivate the land not as owners but as part of it.",
+    "quoteTextEN": "We do not own the land; the land owns us, and we belong to it.",
+    "quoteDescription": "A reflection of Aboriginal Australian relationship to Country.",
+    "quoteMeaningAnalysis": "We belong to the land rather than the land belonging to us; our duty is care, not possession.",
+    "author": "Aboriginal Wisdom",
+    "culture": "Aboriginal Australian",
+    "category": "Wisdom",
     "tags": [
-      "community",
+      "nature",
       "belonging",
-      "cooperation"
+      "stewardship"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikipedia.org/wiki/Australian_Aboriginal_culture",
+      "https://en.wikipedia.org/wiki/The_Dreaming"
     ]
   },
   {
     "id": "447",
-    "quoteText": "The woven evening market reminds the hands to carry festivals in ordinary days.",
-    "quoteTextEN": "The woven evening market reminds the hands to carry festivals in ordinary days.",
-    "quoteDescription": "Tala Reyes shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to carry festivals in ordinary days.",
-    "author": "Tala Reyes",
-    "culture": "Tagalog Bayanihan Lore",
-    "category": "Community",
+    "quoteText": "Your children are not your children. They are the sons and daughters of Life's longing for itself.",
+    "quoteTextEN": "Your children are not your children. They are the sons and daughters of Life's longing for itself.",
+    "quoteDescription": "From 'The Prophet' by Kahlil Gibran, the Lebanese-American poet.",
+    "quoteMeaningAnalysis": "Children come through us but belong to life itself; love them without possessing them.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "parenting",
+      "love",
+      "freedom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "448",
-    "quoteText": "The woven evening market reminds the hands to plant tomorrow in today’s soil.",
-    "quoteTextEN": "The woven evening market reminds the hands to plant tomorrow in today’s soil.",
-    "quoteDescription": "Yonas Berhane shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to plant tomorrow in today’s soil.",
-    "author": "Yonas Berhane",
-    "culture": "Ethiopian Coffee House Wisdom",
-    "category": "Community",
+    "quoteText": "Work is love made visible.",
+    "quoteTextEN": "Work is love made visible.",
+    "quoteDescription": "From 'The Prophet' by Kahlil Gibran.",
+    "quoteMeaningAnalysis": "When we work with care and devotion, our labour becomes an expression of love.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "work",
+      "love",
+      "purpose"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "449",
-    "quoteText": "The woven evening market teaches the children to sing before counting the chairs.",
-    "quoteTextEN": "The woven evening market teaches the children to sing before counting the chairs.",
-    "quoteDescription": "Grecia Valdez shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to sing before counting the chairs.",
-    "author": "Grecia Valdez",
-    "culture": "Oaxacan Fiesta Tradition",
-    "category": "Community",
+    "quoteText": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "quoteTextEN": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "quoteDescription": "Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Hardship, painful as it is, can forge depth, strength and greatness of character.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "suffering",
+      "strength",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "450",
-    "quoteText": "The woven evening market teaches the children to trade stories before silver.",
-    "quoteTextEN": "The woven evening market teaches the children to trade stories before silver.",
-    "quoteDescription": "Ruqayya Khan shares a community image where a evening market becomes a guide toward weaving neighbors into kinship.",
-    "quoteMeaningAnalysis": "It suggests that community flourishes through shared responsibility and joy and urges us to trade stories before silver.",
-    "author": "Ruqayya Khan",
-    "culture": "Hyderabadi Courtyard Memories",
-    "category": "Community",
+    "quoteText": "You give but little when you give of your possessions. It is when you give of yourself that you truly give.",
+    "quoteTextEN": "You give but little when you give of your possessions. It is when you give of yourself that you truly give.",
+    "quoteDescription": "From 'The Prophet' by Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Real generosity is the giving of oneself — time, presence, love — not merely things.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "community",
-      "belonging",
-      "cooperation"
+      "generosity",
+      "love",
+      "giving"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Community",
-      "https://www.strongtowns.org/journal/2018/3/26/strong-citizens"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "451",
-    "quoteText": "The whispering forest path teaches wanderers to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering forest path teaches wanderers to walk softly across borrowed earth.",
-    "quoteDescription": "Kaia Ikkuma shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Kaia Ikkuma",
-    "culture": "Inupiaq Earth Stories",
-    "category": "Nature",
+    "quoteText": "Let there be spaces in your togetherness.",
+    "quoteTextEN": "Let there be spaces in your togetherness, and let the winds of the heavens dance between you.",
+    "quoteDescription": "From 'The Prophet' by Kahlil Gibran, on marriage.",
+    "quoteMeaningAnalysis": "Love thrives when it allows each person room to remain wholly themselves.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "love",
+      "freedom",
+      "relationships"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "452",
-    "quoteText": "The whispering forest path teaches wanderers to read the constellations of moss.",
-    "quoteTextEN": "The whispering forest path teaches wanderers to read the constellations of moss.",
-    "quoteDescription": "Rafael Campos shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Rafael Campos",
-    "culture": "Amazonian Canopy Lore",
-    "category": "Nature",
+    "quoteText": "The deeper that sorrow carves into your being, the more joy you can contain.",
+    "quoteTextEN": "The deeper that sorrow carves into your being, the more joy you can contain.",
+    "quoteDescription": "From 'The Prophet' by Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Our capacity for joy is enlarged by the depth of sorrow we have known.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "sorrow",
+      "joy",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "453",
-    "quoteText": "The whispering forest path teaches wanderers to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering forest path teaches wanderers to taste rain before the drought arrives.",
-    "quoteDescription": "Noor El-Baz shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Noor El-Baz",
-    "culture": "Sinai Desert Wisdom",
-    "category": "Nature",
+    "quoteText": "Tenderness and kindness are not signs of weakness, but manifestations of strength and resolution.",
+    "quoteTextEN": "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.",
+    "quoteDescription": "Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Gentleness takes more strength than harshness; kindness is a form of courage.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "kindness",
+      "strength",
+      "compassion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "454",
-    "quoteText": "The whispering forest path teaches wanderers to protect roots they will never see.",
-    "quoteTextEN": "The whispering forest path teaches wanderers to protect roots they will never see.",
-    "quoteDescription": "Willow Hart shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Willow Hart",
-    "culture": "Pacific Northwest Teachings",
-    "category": "Nature",
+    "quoteText": "Faith is a knowledge within the heart, beyond the reach of proof.",
+    "quoteTextEN": "Faith is a knowledge within the heart, beyond the reach of proof.",
+    "quoteDescription": "Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Some of the deepest things we know are felt in the heart rather than proven by argument.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "faith",
+      "heart",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "455",
-    "quoteText": "The whispering forest path teaches wanderers to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering forest path teaches wanderers to rest when the owls begin their rounds.",
-    "quoteDescription": "Gideon Maseko shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Gideon Maseko",
-    "culture": "Zulu Land Stewardship",
-    "category": "Nature",
+    "quoteText": "Yesterday is but today's memory, and tomorrow is today's dream.",
+    "quoteTextEN": "Yesterday is but today's memory, and tomorrow is today's dream.",
+    "quoteDescription": "From 'The Prophet' by Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Past and future live only within the present moment; this is where life happens.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "time",
+      "presence",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "456",
-    "quoteText": "The whispering forest path teaches wanderers to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering forest path teaches wanderers to hear the mountains breathing underneath.",
-    "quoteDescription": "Anahera Rangi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Anahera Rangi",
-    "culture": "Maori Forest Lore",
-    "category": "Nature",
+    "quoteText": "Keep me away from the wisdom which does not cry, the philosophy which does not laugh.",
+    "quoteTextEN": "Keep me away from the wisdom which does not cry, the philosophy which does not laugh, and the greatness which does not bow before children.",
+    "quoteDescription": "Kahlil Gibran.",
+    "quoteMeaningAnalysis": "True wisdom is warm and human — it feels, it laughs, and it stays humble.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "wisdom",
+      "humility",
+      "humanity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "457",
-    "quoteText": "The whispering forest path asks the listeners to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering forest path asks the listeners to walk softly across borrowed earth.",
-    "quoteDescription": "Lorenzo Bianchi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Lorenzo Bianchi",
-    "culture": "Dolomite Trail Reflections",
-    "category": "Nature",
+    "quoteText": "Trust the dreams, for in them is hidden the gate to eternity.",
+    "quoteTextEN": "Trust the dreams, for in them is hidden the gate to eternity.",
+    "quoteDescription": "Kahlil Gibran.",
+    "quoteMeaningAnalysis": "Our dreams and aspirations point us toward what is deepest and most lasting in us.",
+    "author": "Kahlil Gibran",
+    "culture": "Lebanese",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "dreams",
+      "hope",
+      "spirituality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+      "https://en.wikipedia.org/wiki/Kahlil_Gibran"
     ]
   },
   {
     "id": "458",
-    "quoteText": "The whispering forest path asks the listeners to read the constellations of moss.",
-    "quoteTextEN": "The whispering forest path asks the listeners to read the constellations of moss.",
-    "quoteDescription": "Sakura Fujimoto shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Sakura Fujimoto",
-    "culture": "Shinrin-yoku Tradition",
-    "category": "Nature",
+    "quoteText": "My heart has become capable of every form; I follow the religion of Love, wherever its caravan turns.",
+    "quoteTextEN": "My heart has become capable of every form; I follow the religion of Love, wherever its caravan turns.",
+    "quoteDescription": "From Ibn Arabi, the Andalusian Sufi mystic and philosopher.",
+    "quoteMeaningAnalysis": "A heart open to love can embrace all of creation without exclusion.",
+    "author": "Ibn Arabi",
+    "culture": "Arabic",
+    "category": "Sufism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "love",
+      "openness",
+      "spirituality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Ibn_Arabi",
+      "https://en.wikipedia.org/wiki/Ibn_Arabi"
     ]
   },
   {
     "id": "459",
-    "quoteText": "The whispering forest path asks the listeners to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering forest path asks the listeners to taste rain before the drought arrives.",
-    "quoteDescription": "Yara Benali shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Yara Benali",
-    "culture": "Atlas Mountain Lessons",
-    "category": "Nature",
+    "quoteText": "Knowledge without action is wastefulness, and action without knowledge is foolishness.",
+    "quoteTextEN": "Knowledge without action is wastefulness, and action without knowledge is foolishness.",
+    "quoteDescription": "From Al-Ghazali, the Persian theologian and Sufi.",
+    "quoteMeaningAnalysis": "Learning and doing must go together; each is incomplete and even harmful without the other.",
+    "author": "Al-Ghazali",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "knowledge",
+      "action",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Al-Ghazali",
+      "https://en.wikipedia.org/wiki/Al-Ghazali"
     ]
   },
   {
     "id": "460",
-    "quoteText": "The whispering forest path asks the listeners to protect roots they will never see.",
-    "quoteTextEN": "The whispering forest path asks the listeners to protect roots they will never see.",
-    "quoteDescription": "Mateo Salcedo shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Mateo Salcedo",
-    "culture": "Patagonian Wind Teachings",
-    "category": "Nature",
+    "quoteText": "I love God: I have no time left in which to hate the devil.",
+    "quoteTextEN": "I love God: I have no time left in which to hate the devil.",
+    "quoteDescription": "From Rabia al-Adawiyya (Rabia of Basra), the early woman Sufi saint.",
+    "quoteMeaningAnalysis": "A heart filled with love has no room for hatred.",
+    "author": "Rabia al-Basri",
+    "culture": "Arabic",
+    "category": "Sufism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "love",
+      "devotion",
+      "peace"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Rabia_of_Basra",
+      "https://en.wikipedia.org/wiki/Rabia_of_Basra"
     ]
   },
   {
     "id": "461",
-    "quoteText": "The whispering forest path asks the listeners to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering forest path asks the listeners to rest when the owls begin their rounds.",
-    "quoteDescription": "Kaia Ikkuma shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Kaia Ikkuma",
-    "culture": "Inupiaq Earth Stories",
-    "category": "Nature",
+    "quoteText": "Declare your war on the enemies you cannot see — pride, greed, anger, lying, and gossip.",
+    "quoteTextEN": "Declare your war on the enemies you cannot see — among them pride, greed, anger, intolerance, lying, and gossip.",
+    "quoteDescription": "Attributed to Al-Ghazali on the inner struggle (the greater jihad).",
+    "quoteMeaningAnalysis": "The hardest and most important battles are the ones we wage against our own faults.",
+    "author": "Al-Ghazali",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "self-control",
+      "virtue",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Al-Ghazali",
+      "https://en.wikipedia.org/wiki/Al-Ghazali"
     ]
   },
   {
     "id": "462",
-    "quoteText": "The whispering forest path asks the listeners to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering forest path asks the listeners to hear the mountains breathing underneath.",
-    "quoteDescription": "Rafael Campos shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Rafael Campos",
-    "culture": "Amazonian Canopy Lore",
-    "category": "Nature",
+    "quoteText": "In your light I learn how to love; in your beauty, how to make poems.",
+    "quoteTextEN": "In your light I learn how to love; in your beauty, how to make poems. You dance inside my chest, where no one sees you.",
+    "quoteDescription": "Attributed to Rumi; in the wider Sufi tradition of divine love.",
+    "quoteMeaningAnalysis": "Encountering beauty and love awakens our own capacity to love and create.",
+    "author": "Rumi",
+    "culture": "Persian",
+    "category": "Sufism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "love",
+      "beauty",
+      "creativity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Rumi",
+      "https://en.wikipedia.org/wiki/Rumi"
     ]
   },
   {
     "id": "463",
-    "quoteText": "The whispering forest path reminds children to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering forest path reminds children to walk softly across borrowed earth.",
-    "quoteDescription": "Noor El-Baz shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Noor El-Baz",
-    "culture": "Sinai Desert Wisdom",
-    "category": "Nature",
+    "quoteText": "Patience is not the ability to wait, but the ability to keep a good attitude while waiting.",
+    "quoteTextEN": "Patience is not the ability to wait, but the ability to keep a good attitude while waiting.",
+    "quoteDescription": "A teaching in the spirit of the Sufi path (sabr, patience).",
+    "quoteMeaningAnalysis": "True patience is composure and grace during the wait, not mere endurance of time.",
+    "author": "Sufi Wisdom",
+    "culture": "Arabic",
+    "category": "Sufism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "patience",
+      "attitude",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikipedia.org/wiki/Sabr_(Islamic_term)",
+      "https://en.wikipedia.org/wiki/Sufism"
     ]
   },
   {
     "id": "464",
-    "quoteText": "The whispering forest path reminds children to read the constellations of moss.",
-    "quoteTextEN": "The whispering forest path reminds children to read the constellations of moss.",
-    "quoteDescription": "Willow Hart shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Willow Hart",
-    "culture": "Pacific Northwest Teachings",
-    "category": "Nature",
+    "quoteText": "When resting in safety, the superior man does not forget that danger may come.",
+    "quoteTextEN": "When resting in safety, the superior man does not forget that danger may come.",
+    "quoteDescription": "From the I Ching (Book of Changes), ancient China.",
+    "quoteMeaningAnalysis": "Wisdom prepares for difficulty even in good times, so it is never caught off guard.",
+    "author": "I Ching",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "prudence",
+      "foresight",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/I_Ching",
+      "https://en.wikipedia.org/wiki/I_Ching"
     ]
   },
   {
     "id": "465",
-    "quoteText": "The whispering forest path reminds children to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering forest path reminds children to taste rain before the drought arrives.",
-    "quoteDescription": "Gideon Maseko shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Gideon Maseko",
-    "culture": "Zulu Land Stewardship",
-    "category": "Nature",
+    "quoteText": "窮則變，變則通。",
+    "quoteTextEN": "When a thing reaches its limit, it changes; having changed, it passes through.",
+    "quoteDescription": "From the I Ching (Book of Changes).",
+    "quoteMeaningAnalysis": "When a situation becomes impossible, change opens the way forward.",
+    "author": "I Ching",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "change",
+      "adaptability",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/I_Ching",
+      "https://en.wikipedia.org/wiki/I_Ching"
     ]
   },
   {
     "id": "466",
-    "quoteText": "The whispering forest path reminds children to protect roots they will never see.",
-    "quoteTextEN": "The whispering forest path reminds children to protect roots they will never see.",
-    "quoteDescription": "Anahera Rangi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Anahera Rangi",
-    "culture": "Maori Forest Lore",
-    "category": "Nature",
+    "quoteText": "Learning should never cease.",
+    "quoteTextEN": "Learning should never cease.",
+    "quoteDescription": "From Xunzi, the Confucian philosopher of ancient China.",
+    "quoteMeaningAnalysis": "Education is a lifelong process; we must keep growing as long as we live.",
+    "author": "Xunzi",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "learning",
+      "growth",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Xunzi",
+      "https://en.wikipedia.org/wiki/Xunzi_(philosopher)"
     ]
   },
   {
     "id": "467",
-    "quoteText": "The whispering forest path reminds children to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering forest path reminds children to rest when the owls begin their rounds.",
-    "quoteDescription": "Lorenzo Bianchi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Lorenzo Bianchi",
-    "culture": "Dolomite Trail Reflections",
-    "category": "Nature",
+    "quoteText": "Not knowing is not as good as knowing; knowing is not as good as doing.",
+    "quoteTextEN": "Not knowing is not as good as knowing; knowing is not as good as doing it.",
+    "quoteDescription": "From Xunzi.",
+    "quoteMeaningAnalysis": "Knowledge reaches its purpose only when it is put into action.",
+    "author": "Xunzi",
+    "culture": "Chinese",
+    "category": "Confucianism",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "knowledge",
+      "action",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Xunzi",
+      "https://en.wikipedia.org/wiki/Xunzi_(philosopher)"
     ]
   },
   {
     "id": "468",
-    "quoteText": "The whispering forest path reminds children to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering forest path reminds children to hear the mountains breathing underneath.",
-    "quoteDescription": "Sakura Fujimoto shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Sakura Fujimoto",
-    "culture": "Shinrin-yoku Tradition",
-    "category": "Nature",
+    "quoteText": "A journey is best measured in friends, rather than miles.",
+    "quoteTextEN": "A journey is best measured in friends, rather than miles.",
+    "quoteDescription": "Chinese proverb.",
+    "quoteMeaningAnalysis": "The relationships we form matter more than the distance we cover.",
+    "author": "Chinese Proverb",
+    "culture": "Chinese",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "friendship",
+      "journey",
+      "values"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Chinese_proverbs",
+      "https://en.wikipedia.org/wiki/Chinese_proverb"
     ]
   },
   {
     "id": "469",
-    "quoteText": "The whispering forest path invites elders to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering forest path invites elders to walk softly across borrowed earth.",
-    "quoteDescription": "Yara Benali shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Yara Benali",
-    "culture": "Atlas Mountain Lessons",
-    "category": "Nature",
+    "quoteText": "Dig the well before you are thirsty.",
+    "quoteTextEN": "Dig the well before you are thirsty.",
+    "quoteDescription": "Chinese proverb.",
+    "quoteMeaningAnalysis": "Prepare for needs in advance rather than waiting until the crisis is upon you.",
+    "author": "Chinese Proverb",
+    "culture": "Chinese",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "foresight",
+      "preparation",
+      "prudence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Chinese_proverbs",
+      "https://en.wikipedia.org/wiki/Chinese_proverb"
     ]
   },
   {
     "id": "470",
-    "quoteText": "The whispering forest path invites elders to read the constellations of moss.",
-    "quoteTextEN": "The whispering forest path invites elders to read the constellations of moss.",
-    "quoteDescription": "Mateo Salcedo shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Mateo Salcedo",
-    "culture": "Patagonian Wind Teachings",
-    "category": "Nature",
+    "quoteText": "No act of kindness, no matter how small, is ever wasted.",
+    "quoteTextEN": "No act of kindness, no matter how small, is ever wasted.",
+    "quoteDescription": "From Aesop's Fables (The Lion and the Mouse).",
+    "quoteMeaningAnalysis": "Even the smallest kindness has value and may return to you when least expected.",
+    "author": "Aesop",
+    "culture": "Ancient Greek",
+    "category": "Fable",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "kindness",
+      "compassion",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aesop",
+      "https://en.wikipedia.org/wiki/Aesop%27s_Fables"
     ]
   },
   {
     "id": "471",
-    "quoteText": "The whispering forest path invites elders to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering forest path invites elders to taste rain before the drought arrives.",
-    "quoteDescription": "Kaia Ikkuma shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Kaia Ikkuma",
-    "culture": "Inupiaq Earth Stories",
-    "category": "Nature",
+    "quoteText": "Slow and steady wins the race.",
+    "quoteTextEN": "Slow and steady wins the race.",
+    "quoteDescription": "The moral of Aesop's fable 'The Tortoise and the Hare'.",
+    "quoteMeaningAnalysis": "Consistent, patient effort beats hasty, overconfident bursts.",
+    "author": "Aesop",
+    "culture": "Ancient Greek",
+    "category": "Fable",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "perseverance",
+      "patience",
+      "consistency"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aesop",
+      "https://en.wikipedia.org/wiki/Aesop%27s_Fables"
     ]
   },
   {
     "id": "472",
-    "quoteText": "The whispering forest path invites elders to protect roots they will never see.",
-    "quoteTextEN": "The whispering forest path invites elders to protect roots they will never see.",
-    "quoteDescription": "Rafael Campos shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Rafael Campos",
-    "culture": "Amazonian Canopy Lore",
-    "category": "Nature",
+    "quoteText": "United we stand, divided we fall.",
+    "quoteTextEN": "United we stand, divided we fall.",
+    "quoteDescription": "The moral of Aesop's fable 'The Bundle of Sticks'.",
+    "quoteMeaningAnalysis": "Together we are strong and unbreakable; apart we are easily overcome.",
+    "author": "Aesop",
+    "culture": "Ancient Greek",
+    "category": "Fable",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "unity",
+      "cooperation",
+      "strength"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aesop",
+      "https://en.wikipedia.org/wiki/Aesop%27s_Fables"
     ]
   },
   {
     "id": "473",
-    "quoteText": "The whispering forest path invites elders to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering forest path invites elders to rest when the owls begin their rounds.",
-    "quoteDescription": "Noor El-Baz shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Noor El-Baz",
-    "culture": "Sinai Desert Wisdom",
-    "category": "Nature",
+    "quoteText": "The mind is not a vessel to be filled, but a fire to be kindled.",
+    "quoteTextEN": "The mind is not a vessel to be filled, but a fire to be kindled.",
+    "quoteDescription": "From Plutarch, the Greek biographer and philosopher.",
+    "quoteMeaningAnalysis": "True education awakens curiosity and thought rather than merely depositing facts.",
+    "author": "Plutarch",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "education",
+      "curiosity",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Plutarch",
+      "https://en.wikipedia.org/wiki/Plutarch"
     ]
   },
   {
     "id": "474",
-    "quoteText": "The whispering forest path invites elders to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering forest path invites elders to hear the mountains breathing underneath.",
-    "quoteDescription": "Willow Hart shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Willow Hart",
-    "culture": "Pacific Northwest Teachings",
-    "category": "Nature",
+    "quoteText": "What we achieve inwardly will change outer reality.",
+    "quoteTextEN": "What we achieve inwardly will change outer reality.",
+    "quoteDescription": "Attributed to Plutarch.",
+    "quoteMeaningAnalysis": "Inner growth and transformation eventually reshape the world around us.",
+    "author": "Plutarch",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "growth",
+      "change",
+      "self"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Plutarch",
+      "https://en.wikipedia.org/wiki/Plutarch"
     ]
   },
   {
     "id": "475",
-    "quoteText": "The whispering forest path guides poets to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering forest path guides poets to walk softly across borrowed earth.",
-    "quoteDescription": "Gideon Maseko shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Gideon Maseko",
-    "culture": "Zulu Land Stewardship",
-    "category": "Nature",
+    "quoteText": "What you leave behind is not what is engraved in stone, but what is woven into the lives of others.",
+    "quoteTextEN": "What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others.",
+    "quoteDescription": "Attributed to Pericles, the Athenian statesman.",
+    "quoteMeaningAnalysis": "Our true legacy lives in the people we have touched, not in monuments.",
+    "author": "Pericles",
+    "culture": "Ancient Greek",
+    "category": "Wisdom",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "legacy",
+      "service",
+      "meaning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Pericles",
+      "https://en.wikipedia.org/wiki/Pericles"
     ]
   },
   {
     "id": "476",
-    "quoteText": "The whispering forest path guides poets to read the constellations of moss.",
-    "quoteTextEN": "The whispering forest path guides poets to read the constellations of moss.",
-    "quoteDescription": "Anahera Rangi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Anahera Rangi",
-    "culture": "Maori Forest Lore",
-    "category": "Nature",
+    "quoteText": "From a small seed a mighty trunk may grow.",
+    "quoteTextEN": "From a small seed a mighty trunk may grow.",
+    "quoteDescription": "From Aeschylus, the founding tragedian of ancient Greece.",
+    "quoteMeaningAnalysis": "Great things have humble beginnings; do not despise small starts.",
+    "author": "Aeschylus",
+    "culture": "Ancient Greek",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "beginnings",
+      "growth",
+      "potential"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aeschylus",
+      "https://en.wikipedia.org/wiki/Aeschylus"
     ]
   },
   {
     "id": "477",
-    "quoteText": "The whispering forest path guides poets to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering forest path guides poets to taste rain before the drought arrives.",
-    "quoteDescription": "Lorenzo Bianchi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Lorenzo Bianchi",
-    "culture": "Dolomite Trail Reflections",
-    "category": "Nature",
+    "quoteText": "It is in the character of very few men to honour without envy a friend who has prospered.",
+    "quoteTextEN": "It is in the character of very few men to honour without envy a friend who has prospered.",
+    "quoteDescription": "From Aeschylus.",
+    "quoteMeaningAnalysis": "Rejoicing sincerely in a friend's success, free of envy, is rare and noble.",
+    "author": "Aeschylus",
+    "culture": "Ancient Greek",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "friendship",
+      "envy",
+      "character"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aeschylus",
+      "https://en.wikipedia.org/wiki/Aeschylus"
     ]
   },
   {
     "id": "478",
-    "quoteText": "The whispering forest path guides poets to protect roots they will never see.",
-    "quoteTextEN": "The whispering forest path guides poets to protect roots they will never see.",
-    "quoteDescription": "Sakura Fujimoto shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Sakura Fujimoto",
-    "culture": "Shinrin-yoku Tradition",
-    "category": "Nature",
+    "quoteText": "A day can lay low and lift up again all human things.",
+    "quoteTextEN": "One day can lay low and lift up again all human things.",
+    "quoteDescription": "From Sophocles, the Athenian tragedian.",
+    "quoteMeaningAnalysis": "Fortune turns swiftly; neither despair nor pride should be founded on a single day.",
+    "author": "Sophocles",
+    "culture": "Ancient Greek",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "fortune",
+      "humility",
+      "change"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Sophocles",
+      "https://en.wikipedia.org/wiki/Sophocles"
     ]
   },
   {
     "id": "479",
-    "quoteText": "The whispering forest path guides poets to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering forest path guides poets to rest when the owls begin their rounds.",
-    "quoteDescription": "Yara Benali shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Yara Benali",
-    "culture": "Atlas Mountain Lessons",
-    "category": "Nature",
+    "quoteText": "There is no success without hardship.",
+    "quoteTextEN": "There is no success without hardship.",
+    "quoteDescription": "From Sophocles.",
+    "quoteMeaningAnalysis": "Worthwhile achievement is always won through struggle and difficulty.",
+    "author": "Sophocles",
+    "culture": "Ancient Greek",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "adversity",
+      "success",
+      "perseverance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Sophocles",
+      "https://en.wikipedia.org/wiki/Sophocles"
     ]
   },
   {
     "id": "480",
-    "quoteText": "The whispering forest path guides poets to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering forest path guides poets to hear the mountains breathing underneath.",
-    "quoteDescription": "Mateo Salcedo shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Mateo Salcedo",
-    "culture": "Patagonian Wind Teachings",
-    "category": "Nature",
+    "quoteText": "Waste not fresh tears over old griefs.",
+    "quoteTextEN": "Waste not fresh tears over old griefs.",
+    "quoteDescription": "From Euripides, the Athenian tragedian.",
+    "quoteMeaningAnalysis": "Do not keep renewing your sorrow over what is past and cannot be changed.",
+    "author": "Euripides",
+    "culture": "Ancient Greek",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "grief",
+      "acceptance",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Euripides",
+      "https://en.wikipedia.org/wiki/Euripides"
     ]
   },
   {
     "id": "481",
-    "quoteText": "The whispering forest path encourages guardians to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering forest path encourages guardians to walk softly across borrowed earth.",
-    "quoteDescription": "Kaia Ikkuma shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Kaia Ikkuma",
-    "culture": "Inupiaq Earth Stories",
-    "category": "Nature",
+    "quoteText": "The good and the wise lead quiet lives.",
+    "quoteTextEN": "The good and the wise lead quiet lives.",
+    "quoteDescription": "From Euripides.",
+    "quoteMeaningAnalysis": "Wisdom and virtue tend toward calm and modesty rather than noise and display.",
+    "author": "Euripides",
+    "culture": "Ancient Greek",
+    "category": "Poetry",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "wisdom",
+      "humility",
+      "peace"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Euripides",
+      "https://en.wikipedia.org/wiki/Euripides"
     ]
   },
   {
     "id": "482",
-    "quoteText": "The whispering forest path encourages guardians to read the constellations of moss.",
-    "quoteTextEN": "The whispering forest path encourages guardians to read the constellations of moss.",
-    "quoteDescription": "Rafael Campos shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Rafael Campos",
-    "culture": "Amazonian Canopy Lore",
-    "category": "Nature",
+    "quoteText": "Haraka haraka haina baraka.",
+    "quoteTextEN": "Hurry, hurry has no blessing.",
+    "quoteDescription": "Swahili proverb (East Africa).",
+    "quoteMeaningAnalysis": "Rushing carelessly rarely leads to good results; good things take their time.",
+    "author": "Swahili Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "patience",
+      "prudence",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Swahili_proverbs",
+      "https://en.wikipedia.org/wiki/Swahili_proverbs"
     ]
   },
   {
     "id": "483",
-    "quoteText": "The whispering forest path encourages guardians to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering forest path encourages guardians to taste rain before the drought arrives.",
-    "quoteDescription": "Noor El-Baz shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Noor El-Baz",
-    "culture": "Sinai Desert Wisdom",
-    "category": "Nature",
+    "quoteText": "Haba na haba hujaza kibaba.",
+    "quoteTextEN": "Little by little fills the measure.",
+    "quoteDescription": "Swahili proverb.",
+    "quoteMeaningAnalysis": "Small, steady contributions accumulate into something substantial.",
+    "author": "Swahili Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "patience",
+      "persistence",
+      "saving"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Swahili_proverbs",
+      "https://en.wikipedia.org/wiki/Swahili_proverbs"
     ]
   },
   {
     "id": "484",
-    "quoteText": "The whispering forest path encourages guardians to protect roots they will never see.",
-    "quoteTextEN": "The whispering forest path encourages guardians to protect roots they will never see.",
-    "quoteDescription": "Willow Hart shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Willow Hart",
-    "culture": "Pacific Northwest Teachings",
-    "category": "Nature",
+    "quoteText": "Umoja ni nguvu, utengano ni udhaifu.",
+    "quoteTextEN": "Unity is strength, division is weakness.",
+    "quoteDescription": "Swahili proverb.",
+    "quoteMeaningAnalysis": "People accomplish far more together than divided against one another.",
+    "author": "Swahili Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "unity",
+      "cooperation",
+      "strength"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Swahili_proverbs",
+      "https://en.wikipedia.org/wiki/Swahili_proverbs"
     ]
   },
   {
     "id": "485",
-    "quoteText": "The whispering forest path encourages guardians to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering forest path encourages guardians to rest when the owls begin their rounds.",
-    "quoteDescription": "Gideon Maseko shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Gideon Maseko",
-    "culture": "Zulu Land Stewardship",
-    "category": "Nature",
+    "quoteText": "When spiderwebs unite, they can tie up a lion.",
+    "quoteTextEN": "When spiderwebs unite, they can tie up a lion.",
+    "quoteDescription": "Ethiopian proverb.",
+    "quoteMeaningAnalysis": "Small forces joined together can overcome even the mightiest obstacle.",
+    "author": "Ethiopian Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "unity",
+      "cooperation",
+      "strength"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "486",
-    "quoteText": "The whispering forest path encourages guardians to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering forest path encourages guardians to hear the mountains breathing underneath.",
-    "quoteDescription": "Anahera Rangi shares a nature image where a forest path becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Anahera Rangi",
-    "culture": "Maori Forest Lore",
-    "category": "Nature",
+    "quoteText": "However far the stream flows, it never forgets its source.",
+    "quoteTextEN": "However far the stream flows, it never forgets its source.",
+    "quoteDescription": "Yoruba proverb (Nigeria).",
+    "quoteMeaningAnalysis": "No matter how far we go in life, we should remember our origins.",
+    "author": "Yoruba Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "gratitude",
+      "heritage",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "487",
-    "quoteText": "The whispering tidal pool teaches wanderers to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering tidal pool teaches wanderers to walk softly across borrowed earth.",
-    "quoteDescription": "Lorenzo Bianchi shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Lorenzo Bianchi",
-    "culture": "Dolomite Trail Reflections",
-    "category": "Nature",
+    "quoteText": "By the time the fool has learned the game, the players have dispersed.",
+    "quoteTextEN": "By the time the fool has learned the game, the players have dispersed.",
+    "quoteDescription": "Ashanti proverb (Ghana).",
+    "quoteMeaningAnalysis": "Hesitation and slowness to learn can cause us to miss the moment entirely.",
+    "author": "Ashanti Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "timing",
+      "learning",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "488",
-    "quoteText": "The whispering tidal pool teaches wanderers to read the constellations of moss.",
-    "quoteTextEN": "The whispering tidal pool teaches wanderers to read the constellations of moss.",
-    "quoteDescription": "Sakura Fujimoto shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Sakura Fujimoto",
-    "culture": "Shinrin-yoku Tradition",
-    "category": "Nature",
+    "quoteText": "The eye that has seen the ocean cannot be satisfied by a lagoon.",
+    "quoteTextEN": "The eye that has seen the ocean cannot be satisfied by a lagoon.",
+    "quoteDescription": "Maasai proverb (East Africa).",
+    "quoteMeaningAnalysis": "Once we have known something greater, lesser things no longer content us.",
+    "author": "Maasai Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "aspiration",
+      "experience",
+      "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "489",
-    "quoteText": "The whispering tidal pool teaches wanderers to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering tidal pool teaches wanderers to taste rain before the drought arrives.",
-    "quoteDescription": "Yara Benali shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Yara Benali",
-    "culture": "Atlas Mountain Lessons",
-    "category": "Nature",
+    "quoteText": "Having a good discussion is like having riches.",
+    "quoteTextEN": "Having a good discussion is like having riches.",
+    "quoteDescription": "Kenyan (Kikuyu) proverb.",
+    "quoteMeaningAnalysis": "Genuine dialogue and shared understanding are a true form of wealth.",
+    "author": "Kenyan Proverb",
+    "culture": "African",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "dialogue",
+      "community",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/African_proverbs",
+      "https://en.wikipedia.org/wiki/African_philosophy"
     ]
   },
   {
     "id": "490",
-    "quoteText": "The whispering tidal pool teaches wanderers to protect roots they will never see.",
-    "quoteTextEN": "The whispering tidal pool teaches wanderers to protect roots they will never see.",
-    "quoteDescription": "Mateo Salcedo shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Mateo Salcedo",
-    "culture": "Patagonian Wind Teachings",
-    "category": "Nature",
+    "quoteText": "Όποιος εν καρτερεί, εν θερίζει.",
+    "quoteTextEN": "Whoever does not wait does not reap.",
+    "quoteDescription": "Cypriot proverb.",
+    "quoteMeaningAnalysis": "Good results require patience; rushing the harvest yields nothing.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "patience",
+      "perseverance",
+      "wisdom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
     "id": "491",
-    "quoteText": "The whispering tidal pool teaches wanderers to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering tidal pool teaches wanderers to rest when the owls begin their rounds.",
-    "quoteDescription": "Kaia Ikkuma shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Kaia Ikkuma",
-    "culture": "Inupiaq Earth Stories",
-    "category": "Nature",
+    "quoteText": "Το μήλον κάτω που τη μηλιάν πέφτει.",
+    "quoteTextEN": "The apple falls beneath the apple tree.",
+    "quoteDescription": "Cypriot proverb.",
+    "quoteMeaningAnalysis": "Children tend to resemble their parents in character and habits.",
+    "author": "Cypriot Proverb",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "family",
+      "character",
+      "heritage"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
     "id": "492",
-    "quoteText": "The whispering tidal pool teaches wanderers to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering tidal pool teaches wanderers to hear the mountains breathing underneath.",
-    "quoteDescription": "Rafael Campos shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Rafael Campos",
-    "culture": "Amazonian Canopy Lore",
-    "category": "Nature",
+    "quoteText": "Φως τζιαι αλήθκεια.",
+    "quoteTextEN": "Light and truth.",
+    "quoteDescription": "A Cypriot expression valuing honesty and clarity.",
+    "quoteMeaningAnalysis": "Live openly and truthfully, with nothing to hide.",
+    "author": "Cypriot Saying",
+    "culture": "Cypriot",
+    "category": "Proverb",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "truth",
+      "honesty",
+      "integrity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://el.wikiquote.org/wiki/Κυπριακές_παροιμίες",
+      "https://en.wikipedia.org/wiki/Cypriot_Greek"
     ]
   },
   {
