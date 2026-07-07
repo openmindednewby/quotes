@@ -20955,5 +20955,5896 @@ window.QUOTES_DATA = [
       "https://en.wikiquote.org/wiki/Archimedes",
       "https://en.wikipedia.org/wiki/Archimedes"
     ]
+  },
+  {
+    "id": "1104",
+    "quoteText": "The art of war is of vital importance to the State.",
+    "quoteTextEN": "The art of war is of vital importance to the State.",
+    "quoteDescription": "Warfare is a matter that decides a nation's survival.",
+    "quoteMeaningAnalysis": "Sun Tzu opens by refusing to treat military affairs as a specialist hobby: they touch the whole community's fate, so they deserve the ruler's most serious study rather than delegation to chance or bravado.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "war",
+      "statecraft",
+      "importance",
+      "strategy"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1105",
+    "quoteText": "It is a matter of life and death, a road either to safety or to ruin.",
+    "quoteTextEN": "It is a matter of life and death, a road either to safety or to ruin.",
+    "quoteDescription": "War offers no neutral outcome; it leads either to preservation or destruction.",
+    "quoteMeaningAnalysis": "Because the stakes are total, there is no room for half-measures or vanity projects; every decision in conflict is weighed on a scale where the counterweight is annihilation.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "war",
+      "consequences",
+      "survival",
+      "seriousness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1106",
+    "quoteText": "All warfare is based on deception.",
+    "quoteTextEN": "All warfare is based on deception.",
+    "quoteDescription": "Misleading the enemy is the foundation of military success.",
+    "quoteMeaningAnalysis": "The single most quoted line of the book reduces strategy to information control: victory is engineered by shaping what the enemy believes, not merely by out-muscling him on the field.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "war",
+      "strategy",
+      "misdirection"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1107",
+    "quoteText": "When able to attack, we must seem unable; when using our forces, we must seem inactive.",
+    "quoteTextEN": "When able to attack, we must seem unable; when using our forces, we must seem inactive.",
+    "quoteDescription": "Hide your true capability and readiness from the enemy.",
+    "quoteMeaningAnalysis": "Capability advertised is capability defended against, so the effective commander projects the opposite of his real strength to keep the enemy calibrating against a phantom.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "concealment",
+      "readiness",
+      "surprise"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1108",
+    "quoteText": "When we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.",
+    "quoteTextEN": "When we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.",
+    "quoteDescription": "Distort the enemy's sense of your position and distance.",
+    "quoteMeaningAnalysis": "Distance governs where an opponent invests his defenses, so scrambling his read of it forces him to guard the wrong ground while you arrive at the right one.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "positioning",
+      "misdirection",
+      "surprise"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1109",
+    "quoteText": "Hold out baits to entice the enemy. Feign disorder, and crush him.",
+    "quoteTextEN": "Hold out baits to entice the enemy. Feign disorder, and crush him.",
+    "quoteDescription": "Lure a greedy enemy with apparent weakness, then strike.",
+    "quoteMeaningAnalysis": "The tactic weaponizes an opponent's appetite: a staged collapse invites him to overcommit, converting his own aggression into the opening that destroys him.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "bait",
+      "trap",
+      "counterattack"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1110",
+    "quoteText": "If he is secure at all points, be prepared for him. If he is in superior strength, evade him.",
+    "quoteTextEN": "If he is secure at all points, be prepared for him. If he is in superior strength, evade him.",
+    "quoteDescription": "Match your response to the enemy's actual condition.",
+    "quoteMeaningAnalysis": "Strategy here is entirely reactive to reality rather than pride: a solid enemy is met with readiness and a stronger one is simply avoided, because refusing an unwinnable fight is itself a move.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "adaptation",
+      "avoidance",
+      "assessment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1111",
+    "quoteText": "If your opponent is of choleric temper, seek to irritate him.",
+    "quoteTextEN": "If your opponent is of choleric temper, seek to irritate him.",
+    "quoteDescription": "Provoke a hot-tempered rival into a mistake.",
+    "quoteMeaningAnalysis": "A known temperament is an exploitable seam, and deliberately baiting an angry man's self-control turns his emotion into a lever you operate against him.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "provocation",
+      "psychology",
+      "temperament"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1112",
+    "quoteText": "Pretend to be weak, that he may grow arrogant.",
+    "quoteTextEN": "Pretend to be weak, that he may grow arrogant.",
+    "quoteDescription": "Feign inferiority to inflate the enemy's overconfidence.",
+    "quoteMeaningAnalysis": "Arrogance dulls vigilance, so a performance of weakness is really an investment in the enemy's carelessness, harvested later when his guard is down.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "humility",
+      "arrogance",
+      "manipulation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1113",
+    "quoteText": "If he is taking his ease, give him no rest.",
+    "quoteTextEN": "If he is taking his ease, give him no rest.",
+    "quoteDescription": "Deny a comfortable enemy the chance to settle.",
+    "quoteMeaningAnalysis": "Momentum belongs to whoever refuses the other side recovery; harassing an enemy at rest keeps him reacting and never lets his advantages consolidate.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "pressure",
+      "initiative",
+      "harassment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1114",
+    "quoteText": "Attack him where he is unprepared, appear where you are not expected.",
+    "quoteTextEN": "Attack him where he is unprepared, appear where you are not expected.",
+    "quoteDescription": "Direct force against the enemy's blind spots.",
+    "quoteMeaningAnalysis": "The whole calculus of surprise is compressed here: effort spent finding the enemy's gaps buys far more than the same effort thrown at his defended front.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "surprise",
+      "timing",
+      "opportunism",
+      "strategy"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1115",
+    "quoteText": "These military devices, leading to victory, must not be divulged beforehand.",
+    "quoteTextEN": "These military devices, leading to victory, must not be divulged beforehand.",
+    "quoteDescription": "A winning plan loses its power once revealed.",
+    "quoteMeaningAnalysis": "Secrecy is not caution but a component of the weapon itself, since a stratagem the enemy can anticipate has already been disarmed.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "secrecy",
+      "deception",
+      "planning",
+      "surprise"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1116",
+    "quoteText": "The general who wins a battle makes many calculations in his temple ere the battle is fought.",
+    "quoteTextEN": "The general who wins a battle makes many calculations in his temple ere the battle is fought.",
+    "quoteDescription": "Victory is decided by thorough planning before combat begins.",
+    "quoteMeaningAnalysis": "Battles are won on the reckoning table before a sword is drawn; the volume and care of pre-war calculation is itself a leading indicator of the result.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "planning",
+      "preparation",
+      "calculation",
+      "foresight"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1117",
+    "quoteText": "The general who loses a battle makes but few calculations beforehand.",
+    "quoteTextEN": "The general who loses a battle makes but few calculations beforehand.",
+    "quoteDescription": "Defeat follows from shallow preparation.",
+    "quoteMeaningAnalysis": "The mirror of careful planning is casual planning, and Sun Tzu treats a thin analysis as an early confession of the coming loss.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "planning",
+      "defeat",
+      "negligence",
+      "foresight"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1118",
+    "quoteText": "The moral law causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives.",
+    "quoteTextEN": "The moral law causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives.",
+    "quoteDescription": "Shared conviction binds people to their leader unto death.",
+    "quoteMeaningAnalysis": "Legitimacy, not coercion, is what makes an army willing to die; when people believe the cause is just, obedience stops being enforced and becomes chosen.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "morale",
+      "unity",
+      "conviction"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1119",
+    "quoteText": "There is no instance of a country having benefited from prolonged warfare.",
+    "quoteTextEN": "There is no instance of a country having benefited from prolonged warfare.",
+    "quoteDescription": "Drawn-out wars ruin even the victor.",
+    "quoteMeaningAnalysis": "Sun Tzu treats duration itself as the enemy of the state, since a conflict that drags on drains treasure and legitimacy faster than any battlefield loss.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "war",
+      "economy",
+      "speed",
+      "attrition"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1120",
+    "quoteText": "In war, then, let your great object be victory, not lengthy campaigns.",
+    "quoteTextEN": "In war, then, let your great object be victory, not lengthy campaigns.",
+    "quoteDescription": "Aim for a decisive result, not a prolonged effort.",
+    "quoteMeaningAnalysis": "The point of fighting is the outcome, not the activity of fighting, and confusing endurance with achievement is how commanders bleed a nation dry while feeling busy.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "victory",
+      "efficiency",
+      "focus",
+      "speed"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1121",
+    "quoteText": "Though we have heard of stupid haste in war, cleverness has never been seen associated with long delays.",
+    "quoteTextEN": "Though we have heard of stupid haste in war, cleverness has never been seen associated with long delays.",
+    "quoteDescription": "Reckless speed is foolish, but slowness is never clever.",
+    "quoteMeaningAnalysis": "Sun Tzu concedes that haste can be stupid, yet insists delay is never wise, drawing a sharp line between prudent quickness and the false sophistication of dragging things out.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "speed",
+      "timing",
+      "decisiveness",
+      "efficiency"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1122",
+    "quoteText": "The skilful soldier does not raise a second levy, neither are his supply-wagons loaded more than twice.",
+    "quoteTextEN": "The skilful soldier does not raise a second levy, neither are his supply-wagons loaded more than twice.",
+    "quoteDescription": "A good commander wins before resources must be replenished.",
+    "quoteMeaningAnalysis": "Excellence is measured by economy of means: needing repeated conscription and resupply signals a campaign that has already lost its efficiency and its edge.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "logistics",
+      "efficiency",
+      "resources",
+      "planning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1123",
+    "quoteText": "The wise general makes a point of foraging on the enemy.",
+    "quoteTextEN": "The wise general makes a point of foraging on the enemy.",
+    "quoteDescription": "Sustain your force from the enemy's supplies.",
+    "quoteMeaningAnalysis": "Every measure taken from the enemy's stores does double duty, feeding your own effort while starving his, which is why living off the opponent is worth many times its weight hauled from home.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "logistics",
+      "resources",
+      "efficiency",
+      "attrition"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1124",
+    "quoteText": "In war, let your great object be victory, not lengthy campaigns; for no country has ever profited from protracted warfare.",
+    "quoteTextEN": "In war, let your great object be victory, not lengthy campaigns; for no country has ever profited from protracted warfare.",
+    "quoteDescription": "Pursue a swift win because long wars impoverish all sides.",
+    "quoteMeaningAnalysis": "The maxim ties tempo directly to national health, arguing that the commander who cannot finish quickly is spending his country's future to buy time on the battlefield.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "victory",
+      "speed",
+      "economy",
+      "attrition"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1125",
+    "quoteText": "In the practical art of war, the best thing of all is to take the enemy's country whole and intact.",
+    "quoteTextEN": "In the practical art of war, the best thing of all is to take the enemy's country whole and intact.",
+    "quoteDescription": "Winning a prize undamaged beats winning it ruined.",
+    "quoteMeaningAnalysis": "Destruction is the crude path; the master's aim is to capture the enemy's value rather than smash it, since a shattered prize barely rewards the effort of taking it.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "restraint",
+      "conquest",
+      "preservation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1126",
+    "quoteText": "To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.",
+    "quoteTextEN": "To fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.",
+    "quoteDescription": "The highest skill wins without needing to fight at all.",
+    "quoteMeaningAnalysis": "Sun Tzu demotes even a perfect win record beneath the bloodless victory, because a battle avoided costs nothing and risks nothing while still achieving the aim.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "victory",
+      "restraint",
+      "wisdom"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1127",
+    "quoteText": "The highest form of generalship is to balk the enemy's plans.",
+    "quoteTextEN": "The highest form of generalship is to balk the enemy's plans.",
+    "quoteDescription": "The best move is to foil the enemy's intentions before they mature.",
+    "quoteMeaningAnalysis": "Attacking strategy itself is more surgical than attacking armies, because dismantling the enemy's design collapses everything downstream of it before force is ever needed.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "prevention",
+      "generalship",
+      "foresight"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1128",
+    "quoteText": "The next best is to prevent the junction of the enemy's forces.",
+    "quoteTextEN": "The next best is to prevent the junction of the enemy's forces.",
+    "quoteDescription": "Keep the enemy's units from combining their strength.",
+    "quoteMeaningAnalysis": "Concentration is what turns scattered troops into a threat, so a force kept divided is a force kept manageable, and severing its links is nearly as good as defeating it.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "division",
+      "isolation",
+      "maneuver"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1129",
+    "quoteText": "The worst policy of all is to besiege walled cities.",
+    "quoteTextEN": "The worst policy of all is to besiege walled cities.",
+    "quoteDescription": "Attacking fortified positions is the costliest, least efficient option.",
+    "quoteMeaningAnalysis": "Sun Tzu ranks the frontal assault on prepared defenses dead last precisely because it trades the most lives and time for the least certainty of gain.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "cost",
+      "patience",
+      "avoidance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1130",
+    "quoteText": "He will win who knows when to fight and when not to fight.",
+    "quoteTextEN": "He will win who knows when to fight and when not to fight.",
+    "quoteDescription": "Victory belongs to those who choose their battles wisely.",
+    "quoteMeaningAnalysis": "Judgment about whether to engage precedes any skill in engaging, and Sun Tzu makes this discrimination the first named ingredient of a winner.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "judgment",
+      "timing",
+      "restraint",
+      "victory"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1131",
+    "quoteText": "He will win who knows how to handle both superior and inferior forces.",
+    "quoteTextEN": "He will win who knows how to handle both superior and inferior forces.",
+    "quoteDescription": "Mastery means adapting to any balance of numbers.",
+    "quoteMeaningAnalysis": "A commander is not defined by fighting from strength alone; the mark of the winner is fluency in both overwhelming and being overwhelmed, adjusting method to the ratio at hand.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "adaptation",
+      "flexibility",
+      "command",
+      "victory"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1132",
+    "quoteText": "He will win whose army is animated by the same spirit throughout all its ranks.",
+    "quoteTextEN": "He will win whose army is animated by the same spirit throughout all its ranks.",
+    "quoteDescription": "Unity of purpose from top to bottom secures victory.",
+    "quoteMeaningAnalysis": "A shared spirit makes an army move as one organism rather than a stack of conflicting interests, and that internal coherence is treated as a direct predictor of winning.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "unity",
+      "morale",
+      "cohesion",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1133",
+    "quoteText": "He will win who, prepared himself, waits to take the enemy unprepared.",
+    "quoteTextEN": "He will win who, prepared himself, waits to take the enemy unprepared.",
+    "quoteDescription": "Readiness plus patience for the enemy's lapse yields victory.",
+    "quoteMeaningAnalysis": "The winning stance couples two states that seem opposite: total preparation and patient waiting, so that when the enemy finally slips, you are already poised to convert his lapse.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "preparation",
+      "patience",
+      "timing",
+      "opportunism"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1134",
+    "quoteText": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+    "quoteTextEN": "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+    "quoteDescription": "Complete knowledge of both sides removes fear of any outcome.",
+    "quoteMeaningAnalysis": "This most famous of the maxims makes fear a symptom of ignorance; when both the opponent and your own limits are fully mapped, uncertainty shrinks and with it the dread of defeat.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "self-knowledge",
+      "intelligence",
+      "confidence",
+      "assessment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1135",
+    "quoteText": "If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.",
+    "quoteTextEN": "If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.",
+    "quoteDescription": "Self-awareness without enemy intelligence yields only even odds.",
+    "quoteMeaningAnalysis": "Half of the knowledge equation buys only half the result, leaving you trading wins for losses because your own competence cannot compensate for a blind spot the size of your opponent.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "self-knowledge",
+      "intelligence",
+      "limits",
+      "assessment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1136",
+    "quoteText": "If you know neither the enemy nor yourself, you will succumb in every battle.",
+    "quoteTextEN": "If you know neither the enemy nor yourself, you will succumb in every battle.",
+    "quoteDescription": "Total ignorance guarantees total defeat.",
+    "quoteMeaningAnalysis": "With neither variable known, every engagement becomes a gamble with no information, and Sun Tzu closes the triad by making unrelieved ignorance a sentence of certain ruin.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "ignorance",
+      "self-knowledge",
+      "defeat",
+      "assessment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1137",
+    "quoteText": "There are three ways in which a ruler can bring misfortune upon his army.",
+    "quoteTextEN": "There are three ways in which a ruler can bring misfortune upon his army.",
+    "quoteDescription": "A meddling sovereign can undo his own forces.",
+    "quoteMeaningAnalysis": "The warning turns inward, naming the ruler himself as a threat when he commands what he does not understand, and framing interference from above as a self-inflicted wound.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "interference",
+      "autonomy",
+      "command"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1138",
+    "quoteText": "He who is prudent and lies in wait for an enemy who is not, will be victorious.",
+    "quoteTextEN": "He who is prudent and lies in wait for an enemy who is not, will be victorious.",
+    "quoteDescription": "Caution facing carelessness wins.",
+    "quoteMeaningAnalysis": "Victory is framed as a mismatch of vigilance: the disciplined patience of one side simply outlasts the negligence of the other until the careless expose themselves.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "prudence",
+      "patience",
+      "vigilance",
+      "opportunism"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1139",
+    "quoteText": "The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.",
+    "quoteTextEN": "The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.",
+    "quoteDescription": "Secure yourself first, then look for a chance to win.",
+    "quoteMeaningAnalysis": "The sequence is deliberate: defense of your own position comes before offense, because you can guarantee your own invulnerability but must wait on the enemy to supply your victory.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "defense",
+      "patience",
+      "security",
+      "opportunism"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1140",
+    "quoteText": "To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.",
+    "quoteTextEN": "To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.",
+    "quoteDescription": "You control your own safety; the enemy grants his own downfall.",
+    "quoteMeaningAnalysis": "Sun Tzu draws a clean line between what you own and what you await: invulnerability is a discipline you impose on yourself, while the chance to strike is a gift only the enemy's mistakes can give.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "control",
+      "defense",
+      "patience",
+      "opportunism"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1141",
+    "quoteText": "One may know how to conquer without being able to do it.",
+    "quoteTextEN": "One may know how to conquer without being able to do it.",
+    "quoteDescription": "Knowing the path to victory is not the same as being able to walk it.",
+    "quoteMeaningAnalysis": "Sun Tzu separates insight from capacity, warning that seeing the winning move is worthless if the conditions or the means to execute it are absent.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "knowledge",
+      "execution",
+      "limits",
+      "realism"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1142",
+    "quoteText": "Security against defeat implies defensive tactics; ability to defeat the enemy means taking the offensive.",
+    "quoteTextEN": "Security against defeat implies defensive tactics; ability to defeat the enemy means taking the offensive.",
+    "quoteDescription": "Defense preserves you; offense is what actually wins.",
+    "quoteMeaningAnalysis": "Two modes serve two distinct ends, and confusing them is fatal: you defend to survive and attack to conquer, so knowing which posture the moment demands is the whole craft.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "defense",
+      "offense",
+      "tactics",
+      "timing"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1143",
+    "quoteText": "The general who is skilled in defence hides in the most secret recesses of the earth.",
+    "quoteTextEN": "The general who is skilled in defence hides in the most secret recesses of the earth.",
+    "quoteDescription": "The master of defense becomes unfindable.",
+    "quoteMeaningAnalysis": "Perfect defense is invisibility itself, offering the enemy no surface to strike, so the defender who cannot be located has already denied his opponent any point of attack.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "defense",
+      "concealment",
+      "invisibility",
+      "security"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1144",
+    "quoteText": "To see victory only when it is within the ken of the common herd is not the acme of excellence.",
+    "quoteTextEN": "To see victory only when it is within the ken of the common herd is not the acme of excellence.",
+    "quoteDescription": "Foreseeing an obvious win is no special skill.",
+    "quoteMeaningAnalysis": "If everyone can already see the outcome, spotting it earns no credit; true mastery is perceiving the decisive turn while it is still invisible to ordinary eyes.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "foresight",
+      "excellence",
+      "insight",
+      "subtlety"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1145",
+    "quoteText": "What the ancients called a clever fighter is one who not only wins, but excels in winning with ease.",
+    "quoteTextEN": "What the ancients called a clever fighter is one who not only wins, but excels in winning with ease.",
+    "quoteDescription": "The true expert wins so smoothly it looks effortless.",
+    "quoteMeaningAnalysis": "The finest victories draw no applause because they never looked hard, having been arranged so that the enemy was beaten before the struggle could become dramatic.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "excellence",
+      "ease",
+      "mastery",
+      "subtlety"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1146",
+    "quoteText": "He wins his battles by making no mistakes.",
+    "quoteTextEN": "He wins his battles by making no mistakes.",
+    "quoteDescription": "The skilled fighter wins by avoiding error, not by brilliance.",
+    "quoteMeaningAnalysis": "Sun Tzu locates victory in the absence of blunders rather than in flashes of genius; the master simply removes the openings his own errors would otherwise hand the enemy.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "discipline",
+      "consistency",
+      "mastery",
+      "error"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1147",
+    "quoteText": "The victorious strategist only seeks battle after the victory has been won, whereas he who is destined to defeat first fights and afterwards looks for victory.",
+    "quoteTextEN": "The victorious strategist only seeks battle after the victory has been won, whereas he who is destined to defeat first fights and afterwards looks for victory.",
+    "quoteDescription": "Winners settle the outcome before fighting; losers gamble and hope.",
+    "quoteMeaningAnalysis": "The order of operations divides the two: one arranges the conditions of victory in advance and then merely collects it, while the other charges in and prays the fight goes his way.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "planning",
+      "preparation",
+      "victory",
+      "foresight"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1148",
+    "quoteText": "A victorious army opposed to a routed one is as a pound's weight placed in the scale against a single grain.",
+    "quoteTextEN": "A victorious army opposed to a routed one is as a pound's weight placed in the scale against a single grain.",
+    "quoteDescription": "Once the conditions favor you, the outcome is a foregone conclusion.",
+    "quoteMeaningAnalysis": "When the groundwork has been laid, the contest is no longer close; the imbalance is so extreme that the clash resolves like a scale tipping instantly under overwhelming weight.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "advantage",
+      "momentum",
+      "preparation",
+      "decisiveness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1149",
+    "quoteText": "The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.",
+    "quoteTextEN": "The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.",
+    "quoteDescription": "Commanding many is commanding a few, scaled by organization.",
+    "quoteMeaningAnalysis": "Scale stops being frightening once you see it as structure; by breaking a host into manageable units, the same principles that govern a handful govern a multitude.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "organization",
+      "command",
+      "structure",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1150",
+    "quoteText": "In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.",
+    "quoteTextEN": "In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.",
+    "quoteDescription": "Engage head-on, but win by the unexpected.",
+    "quoteMeaningAnalysis": "The frontal move only opens the exchange; the decisive blow comes from the oblique angle the enemy did not fix his attention on, so victory hides in the indirect.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "tactics",
+      "indirection",
+      "surprise",
+      "maneuver"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1151",
+    "quoteText": "There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard.",
+    "quoteTextEN": "There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard.",
+    "quoteDescription": "A few elements combine into endless possibilities.",
+    "quoteMeaningAnalysis": "Sun Tzu uses music to argue that a small vocabulary of moves is no limitation, since it is recombination, not raw variety, that produces an inexhaustible range of tactics.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "creativity",
+      "combination",
+      "tactics",
+      "variety"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1152",
+    "quoteText": "In battle, there are not more than two methods of attack—the direct and the indirect; yet these two in combination give rise to an endless series of manoeuvres.",
+    "quoteTextEN": "In battle, there are not more than two methods of attack—the direct and the indirect; yet these two in combination give rise to an endless series of manoeuvres.",
+    "quoteDescription": "Two basic modes of attack generate infinite variations.",
+    "quoteMeaningAnalysis": "Everything reduces to a pair of options, direct and indirect, but their interplay is a well without a bottom, so mastery lies in blending them rather than multiplying gimmicks.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "tactics",
+      "combination",
+      "maneuver",
+      "variety"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1153",
+    "quoteText": "The onset of troops is like the rush of a torrent which will even roll stones along in its course.",
+    "quoteTextEN": "The onset of troops is like the rush of a torrent which will even roll stones along in its course.",
+    "quoteDescription": "Well-timed force sweeps everything before it.",
+    "quoteMeaningAnalysis": "Massed momentum, like flood-water, carries a power far beyond the individual soldiers, moving obstacles that no single man could budge once the whole is set rushing at once.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "momentum",
+      "force",
+      "energy",
+      "timing"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1154",
+    "quoteText": "The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.",
+    "quoteTextEN": "The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.",
+    "quoteDescription": "Decisiveness is exact timing, not just speed.",
+    "quoteMeaningAnalysis": "The falcon's kill is not raw quickness but timing, and Sun Tzu makes the same distinction for command: energy must be released at the precise instant that turns motion into a fatal blow.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "timing",
+      "decisiveness",
+      "precision",
+      "energy"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1155",
+    "quoteText": "Energy may be likened to the bending of a crossbow; decision, to the releasing of a trigger.",
+    "quoteTextEN": "Energy may be likened to the bending of a crossbow; decision, to the releasing of a trigger.",
+    "quoteDescription": "Build up potential, then release it in a single decisive act.",
+    "quoteMeaningAnalysis": "The image separates stored effort from its instant of discharge: all the patient work of drawing the bow is realized only in the split-second choice to let it fly.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "energy",
+      "timing",
+      "decisiveness",
+      "readiness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1156",
+    "quoteText": "Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all.",
+    "quoteTextEN": "Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all.",
+    "quoteDescription": "Apparent chaos can hide perfect underlying control.",
+    "quoteMeaningAnalysis": "What looks like confusion from outside can be a controlled performance, and Sun Tzu wants the commander to distinguish surface turbulence from a genuine breakdown of order.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "order",
+      "chaos",
+      "composure",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1157",
+    "quoteText": "Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.",
+    "quoteTextEN": "Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.",
+    "quoteDescription": "Only the strong and disciplined can safely fake weakness.",
+    "quoteMeaningAnalysis": "A convincing disguise requires the very quality it hides, since only a truly disciplined force can feign collapse and recover, making the ability to pretend weakness itself a proof of strength.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "discipline",
+      "strength",
+      "pretense"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1158",
+    "quoteText": "A clever combatant looks to the effect of combined energy, and does not require too much from individuals.",
+    "quoteTextEN": "A clever combatant looks to the effect of combined energy, and does not require too much from individuals.",
+    "quoteDescription": "Rely on collective momentum rather than individual heroics.",
+    "quoteMeaningAnalysis": "The wise commander engineers a situation where the group's momentum does the work, sparing him from betting outcomes on any one person's exceptional effort.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "teamwork",
+      "momentum",
+      "leadership",
+      "systems"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1159",
+    "quoteText": "He takes individual talent into account, and uses each man according to his capabilities.",
+    "quoteTextEN": "He takes individual talent into account, and uses each man according to his capabilities.",
+    "quoteDescription": "Assign people to roles that fit their strengths.",
+    "quoteMeaningAnalysis": "Effective command is a matter of casting, placing each person where their particular gift becomes an asset rather than demanding uniform excellence from everyone.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "talent",
+      "delegation",
+      "management"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1160",
+    "quoteText": "The clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.",
+    "quoteTextEN": "The clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.",
+    "quoteDescription": "Dictate the terms; never let the enemy dictate to you.",
+    "quoteMeaningAnalysis": "Initiative is the prize being fought over, and the skilled commander keeps it by making the enemy react to his moves rather than ever reacting to the enemy's.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "initiative",
+      "control",
+      "will",
+      "dominance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1161",
+    "quoteText": "Whoever is first in the field and awaits the coming of the enemy will be fresh for the fight.",
+    "quoteTextEN": "Whoever is first in the field and awaits the coming of the enemy will be fresh for the fight.",
+    "quoteDescription": "Arriving early and rested gives the advantage.",
+    "quoteMeaningAnalysis": "Timing decides who spends and who conserves energy; the side that arrives first rests while the latecomer exhausts himself hurrying to a battle already shaped against him.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "timing",
+      "preparation",
+      "initiative",
+      "positioning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1162",
+    "quoteText": "Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.",
+    "quoteTextEN": "Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.",
+    "quoteDescription": "Force the enemy to react by threatening what he values.",
+    "quoteMeaningAnalysis": "By striking at what the enemy cannot ignore, you seize control of his movements, dragging him into a scramble that leaves the real target undefended.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "maneuver",
+      "initiative",
+      "surprise",
+      "misdirection"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1163",
+    "quoteText": "You may advance and be absolutely irresistible if you make for the enemy's weak points.",
+    "quoteTextEN": "You may advance and be absolutely irresistible if you make for the enemy's weak points.",
+    "quoteDescription": "Attack weakness and no defense can hold.",
+    "quoteMeaningAnalysis": "Irresistibility is not a property of your force but of your aim; directing strength at a gap rather than a wall makes even a modest push unstoppable.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "weakness",
+      "attack",
+      "efficiency",
+      "targeting"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1164",
+    "quoteText": "O divine art of subtlety and secrecy! Through you we learn to be invisible, through you inaudible; and hence we can hold the enemy's fate in our hands.",
+    "quoteTextEN": "O divine art of subtlety and secrecy! Through you we learn to be invisible, through you inaudible; and hence we can hold the enemy's fate in our hands.",
+    "quoteDescription": "Perfect concealment gives total command over the enemy.",
+    "quoteMeaningAnalysis": "In a rare burst of lyricism, Sun Tzu makes invisibility the ultimate power, because an enemy who can neither see nor hear you cannot plan against you and so surrenders his destiny to your discretion.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "secrecy",
+      "subtlety",
+      "concealment",
+      "control"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1165",
+    "quoteText": "You can be sure of succeeding in your attacks if you only attack places which are undefended.",
+    "quoteTextEN": "You can be sure of succeeding in your attacks if you only attack places which are undefended.",
+    "quoteDescription": "Certain success comes from striking where there is no defense.",
+    "quoteMeaningAnalysis": "Guaranteed outcomes come not from courage but from selection, since an attack aimed only at the undefended has removed the enemy's power to resist before it lands.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "attack",
+      "weakness",
+      "certainty",
+      "targeting"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1166",
+    "quoteText": "You can ensure the safety of your defence if you only hold positions that cannot be attacked.",
+    "quoteTextEN": "You can ensure the safety of your defence if you only hold positions that cannot be attacked.",
+    "quoteDescription": "True safety comes from holding unassailable ground.",
+    "quoteMeaningAnalysis": "The defensive twin of striking the undefended is holding the unattackable, so that safety is engineered by choosing positions the enemy has no means to reach.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "defense",
+      "security",
+      "positioning",
+      "safety"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1167",
+    "quoteText": "The spot where we intend to fight must not be made known.",
+    "quoteTextEN": "The spot where we intend to fight must not be made known.",
+    "quoteDescription": "Keep the place of battle secret to spread the enemy thin.",
+    "quoteMeaningAnalysis": "Concealing where you will strike forces the enemy to defend everywhere, and an army spread across all possibilities is strong nowhere.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "secrecy",
+      "concealment",
+      "dispersion",
+      "maneuver"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1168",
+    "quoteText": "Numerical weakness comes from having to prepare against possible attacks; numerical strength, from compelling our adversary to make these preparations against us.",
+    "quoteTextEN": "Numerical weakness comes from having to prepare against possible attacks; numerical strength, from compelling our adversary to make these preparations against us.",
+    "quoteDescription": "Force the enemy to spread out while you stay concentrated.",
+    "quoteMeaningAnalysis": "Strength and weakness are not fixed head counts but products of who is forced to divide; make the enemy guard many points and his numbers dissolve while yours stay whole.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "concentration",
+      "dispersion",
+      "numbers",
+      "maneuver"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1169",
+    "quoteText": "In making tactical dispositions, the highest pitch you can attain is to conceal them.",
+    "quoteTextEN": "In making tactical dispositions, the highest pitch you can attain is to conceal them.",
+    "quoteDescription": "The peak of arrangement is being impossible to read.",
+    "quoteMeaningAnalysis": "Formlessness is the summit of tactics, because a disposition the enemy cannot detect gives him nothing to counter and leaves his spies and planners empty-handed.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "concealment",
+      "formlessness",
+      "tactics",
+      "secrecy"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1170",
+    "quoteText": "All men can see the tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.",
+    "quoteTextEN": "All men can see the tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.",
+    "quoteDescription": "The visible moves are not the hidden logic that produced them.",
+    "quoteMeaningAnalysis": "Observers copy the surface maneuvers and miss the reasoning that generated them, which is why imitating a winner's tactics without grasping his underlying strategy leads nowhere.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "strategy",
+      "tactics",
+      "insight",
+      "concealment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1171",
+    "quoteText": "Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.",
+    "quoteTextEN": "Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.",
+    "quoteDescription": "Don't reuse a winning move; adapt to each new situation.",
+    "quoteMeaningAnalysis": "A tactic that worked once has been seen and can be answered, so clinging to yesterday's success is a trap; only responsiveness to the ever-changing present keeps you unpredictable.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "adaptation",
+      "flexibility",
+      "innovation",
+      "circumstance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1172",
+    "quoteText": "Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards.",
+    "quoteTextEN": "Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards.",
+    "quoteDescription": "Good tactics flow toward the path of least resistance.",
+    "quoteMeaningAnalysis": "Water avoids obstacles and pours into gaps, and Sun Tzu prescribes the same instinct: run from the enemy's high ground of strength and pour into the low ground of his weakness.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "adaptation",
+      "water",
+      "flexibility",
+      "weakness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1173",
+    "quoteText": "Water shapes its course according to the nature of the ground over which it flows; the soldier works out his victory in relation to the foe whom he is facing.",
+    "quoteTextEN": "Water shapes its course according to the nature of the ground over which it flows; the soldier works out his victory in relation to the foe whom he is facing.",
+    "quoteDescription": "Shape your plan to the specific enemy before you.",
+    "quoteMeaningAnalysis": "Victory has no template because the terrain of each opponent is different; like water taking the form of its bed, the soldier must let the particular enemy dictate the shape of his approach.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "adaptation",
+      "flexibility",
+      "water",
+      "circumstance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1174",
+    "quoteText": "Just as water retains no constant shape, so in warfare there are no constant conditions.",
+    "quoteTextEN": "Just as water retains no constant shape, so in warfare there are no constant conditions.",
+    "quoteDescription": "Nothing in war stays fixed, so nothing should be rigid.",
+    "quoteMeaningAnalysis": "Permanence is an illusion the loser clings to; because circumstances never hold still, any doctrine treated as fixed becomes a liability the moment the situation shifts.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "change",
+      "adaptation",
+      "flexibility",
+      "impermanence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1175",
+    "quoteText": "He who can modify his tactics in relation to his opponent, and thereby succeed in winning, may be called a heaven-born captain.",
+    "quoteTextEN": "He who can modify his tactics in relation to his opponent, and thereby succeed in winning, may be called a heaven-born captain.",
+    "quoteDescription": "The greatest commander is the one who adapts to win.",
+    "quoteMeaningAnalysis": "Sun Tzu reserves his highest praise not for strength or daring but for adaptability, treating the capacity to remake one's methods against each foe as a near-divine gift.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "adaptation",
+      "mastery",
+      "leadership",
+      "flexibility"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1176",
+    "quoteText": "We cannot enter into alliances until we are acquainted with the designs of our neighbours.",
+    "quoteTextEN": "We cannot enter into alliances until we are acquainted with the designs of our neighbours.",
+    "quoteDescription": "Never ally without first understanding others' intentions.",
+    "quoteMeaningAnalysis": "Commitment without intelligence is recklessness dressed as diplomacy; you cannot know whether a partnership serves you until you have read the hidden aims of those you would join.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "alliances",
+      "intelligence",
+      "diplomacy",
+      "caution"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1177",
+    "quoteText": "Let your rapidity be that of the wind, your compactness that of the forest.",
+    "quoteTextEN": "Let your rapidity be that of the wind, your compactness that of the forest.",
+    "quoteDescription": "Move as fast as wind and stay as dense as a forest.",
+    "quoteMeaningAnalysis": "The pairing insists that speed and cohesion are not trade-offs; an army can rush like wind yet stay packed like a wood, moving quickly without scattering into vulnerability.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "speed",
+      "cohesion",
+      "maneuver",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1178",
+    "quoteText": "In raiding and plundering be like fire, in immovability like a mountain.",
+    "quoteTextEN": "In raiding and plundering be like fire, in immovability like a mountain.",
+    "quoteDescription": "Attack ferociously, but hold ground immovably.",
+    "quoteMeaningAnalysis": "Command demands two opposite temperaments on cue: the consuming ferocity of fire when striking and the unshakeable stillness of a mountain when holding, each applied to its proper moment.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "ferocity",
+      "steadiness",
+      "contrast",
+      "maneuver"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1179",
+    "quoteText": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+    "quoteTextEN": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+    "quoteDescription": "Keep intentions hidden, then strike with sudden overwhelming force.",
+    "quoteMeaningAnalysis": "Concealment and violence work as a single sequence: the darker your plans stay beforehand, the more shattering the strike is when it finally erupts without warning.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "secrecy",
+      "surprise",
+      "force",
+      "timing"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1180",
+    "quoteText": "Ponder and deliberate before you make a move.",
+    "quoteTextEN": "Ponder and deliberate before you make a move.",
+    "quoteDescription": "Think carefully before acting.",
+    "quoteMeaningAnalysis": "The plainest of counsels carries weight in a book obsessed with tempo: even amid urgency, the move that is weighed beforehand beats the one made on impulse.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "deliberation",
+      "caution",
+      "planning",
+      "patience"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1181",
+    "quoteText": "He will conquer who has learnt the artifice of deviation.",
+    "quoteTextEN": "He will conquer who has learnt the artifice of deviation.",
+    "quoteDescription": "Victory goes to those skilled in the indirect approach.",
+    "quoteMeaningAnalysis": "The winner masters the roundabout path, understanding that the longer route which the enemy discounts often arrives sooner and safer than the obvious straight line.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "indirection",
+      "maneuver",
+      "cunning",
+      "victory"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1182",
+    "quoteText": "The difficulty of tactical manoeuvring consists in turning the devious into the direct, and misfortune into gain.",
+    "quoteTextEN": "The difficulty of tactical manoeuvring consists in turning the devious into the direct, and misfortune into gain.",
+    "quoteDescription": "Skill lies in converting obstacles into advantages.",
+    "quoteMeaningAnalysis": "The hardest craft is alchemical: making a winding road serve as the shortest and bending setbacks into profit, so that what should slow you instead speeds you.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "maneuver",
+      "adaptation",
+      "resourcefulness",
+      "advantage"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1183",
+    "quoteText": "A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind.",
+    "quoteTextEN": "A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind.",
+    "quoteDescription": "Morale and composure can be stripped away by the enemy.",
+    "quoteMeaningAnalysis": "Sun Tzu identifies the psychological center of gravity: break an army's spirit or a general's calm and you defeat them without touching their numbers, since resolve is the real thing being fought over.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "War & Conflict",
+    "tags": [
+      "morale",
+      "psychology",
+      "composure",
+      "spirit"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1184",
+    "quoteText": "A clever general avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return.",
+    "quoteTextEN": "A clever general avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return.",
+    "quoteDescription": "Strike the enemy when his morale is low, not high.",
+    "quoteMeaningAnalysis": "Timing an attack to the enemy's emotional tide matters more than his position; you sidestep his enthusiasm and pounce on his fatigue, letting his own mood open the window.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "timing",
+      "morale",
+      "patience",
+      "psychology"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1185",
+    "quoteText": "Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy—this is the art of retaining self-possession.",
+    "quoteTextEN": "Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy—this is the art of retaining self-possession.",
+    "quoteDescription": "Stay composed and wait for the enemy to lose composure.",
+    "quoteMeaningAnalysis": "Self-possession is a competitive weapon here: by keeping your own order while patiently waiting for the enemy's to fray, you let his agitation hand you the advantage your calm has preserved.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "composure",
+      "discipline",
+      "patience",
+      "self-control"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1186",
+    "quoteText": "Do not swallow bait offered by the enemy.",
+    "quoteTextEN": "Do not swallow bait offered by the enemy.",
+    "quoteDescription": "Resist tempting openings that may be traps.",
+    "quoteMeaningAnalysis": "An easy prize dangled by the opponent is precisely what should raise suspicion, since the same logic you use to lure him is being turned back on you.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "caution",
+      "discipline",
+      "traps",
+      "restraint"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1187",
+    "quoteText": "Do not interfere with an army that is returning home.",
+    "quoteTextEN": "Do not interfere with an army that is returning home.",
+    "quoteDescription": "Let a retreating enemy leave rather than cornering him.",
+    "quoteMeaningAnalysis": "A force headed home fights with the desperation of men denied their way back, so blocking it converts a fleeing enemy into a cornered and dangerous one for no good reason.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "restraint",
+      "psychology",
+      "retreat",
+      "prudence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1188",
+    "quoteText": "When you surround an army, leave an outlet free. Do not press a desperate foe too hard.",
+    "quoteTextEN": "When you surround an army, leave an outlet free. Do not press a desperate foe too hard.",
+    "quoteDescription": "Give a trapped enemy an escape so he won't fight to the death.",
+    "quoteMeaningAnalysis": "Total encirclement backfires by removing the enemy's hope, and hope is what makes him flee rather than fight; leaving a gap channels his energy into escape instead of a last stand.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "restraint",
+      "psychology",
+      "mercy",
+      "tactics"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1189",
+    "quoteText": "There are roads which must not be followed, armies which must not be attacked, towns which must not be besieged.",
+    "quoteTextEN": "There are roads which must not be followed, armies which must not be attacked, towns which must not be besieged.",
+    "quoteDescription": "Some available options should deliberately be refused.",
+    "quoteMeaningAnalysis": "Knowing what not to do is its own discipline; some open paths, tempting targets, and reachable prizes are best left alone because their cost quietly exceeds their worth.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "restraint",
+      "judgment",
+      "discretion",
+      "priorities"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1190",
+    "quoteText": "The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.",
+    "quoteTextEN": "The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.",
+    "quoteDescription": "Mastery of flexible tactics is the mark of a capable leader.",
+    "quoteMeaningAnalysis": "Command competence is measured by tactical range, since a leader who grasps why and when to vary his methods can steer his troops through conditions that would trap a one-note commander.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "adaptation",
+      "leadership",
+      "flexibility",
+      "command"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1191",
+    "quoteText": "In the wise leader's plans, considerations of advantage and of disadvantage will be blended together.",
+    "quoteTextEN": "In the wise leader's plans, considerations of advantage and of disadvantage will be blended together.",
+    "quoteDescription": "Weigh both upside and downside in every plan.",
+    "quoteMeaningAnalysis": "Sober planning holds gain and loss in the same view, so that a chance is never chased without accounting for its danger nor a risk feared without noting its reward.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "planning",
+      "balance",
+      "risk",
+      "judgment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1192",
+    "quoteText": "The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him.",
+    "quoteTextEN": "The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him.",
+    "quoteDescription": "Prepare for the attack rather than hoping it won't happen.",
+    "quoteMeaningAnalysis": "Sun Tzu forbids building safety on the enemy's presumed goodwill, insisting that the only reliable foundation is your own preparedness, which you control, rather than his intentions, which you cannot.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "preparation",
+      "readiness",
+      "prudence",
+      "self-reliance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1193",
+    "quoteText": "Rely not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.",
+    "quoteTextEN": "Rely not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.",
+    "quoteDescription": "Base security on your defenses, not the enemy's restraint.",
+    "quoteMeaningAnalysis": "Hope is not a defense; the disciplined mind trades the gamble of the enemy staying away for the certainty of a position so strong that his attacking or not becomes irrelevant.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "preparation",
+      "defense",
+      "security",
+      "self-reliance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1194",
+    "quoteText": "There are five dangerous faults which may affect a general.",
+    "quoteTextEN": "There are five dangerous faults which may affect a general.",
+    "quoteDescription": "A leader's character flaws can destroy his army.",
+    "quoteMeaningAnalysis": "Sun Tzu turns the diagnostic lens on the commander himself, teaching that an army's ruin often begins not with the enemy but with the general's own unexamined weaknesses.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "character",
+      "self-awareness",
+      "weakness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1195",
+    "quoteText": "Recklessness, which leads to destruction; cowardice, which leads to capture.",
+    "quoteTextEN": "Recklessness, which leads to destruction; cowardice, which leads to capture.",
+    "quoteDescription": "Both rashness and timidity doom a commander.",
+    "quoteMeaningAnalysis": "The first two fatal faults are opposite excesses, and Sun Tzu pairs them to show that courage lives in the narrow middle, with ruin waiting on either side of it.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "character",
+      "recklessness",
+      "cowardice",
+      "balance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1196",
+    "quoteText": "A hasty temper, which can be provoked by insults.",
+    "quoteTextEN": "A hasty temper, which can be provoked by insults.",
+    "quoteDescription": "An easily angered leader can be manipulated.",
+    "quoteMeaningAnalysis": "A short fuse is a handle the enemy can grab, since a commander who reacts to taunts has surrendered the timing of his decisions to whoever knows how to needle him.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "temper",
+      "self-control",
+      "vulnerability",
+      "provocation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1197",
+    "quoteText": "A delicacy of honour which is sensitive to shame.",
+    "quoteTextEN": "A delicacy of honour which is sensitive to shame.",
+    "quoteDescription": "Excessive pride makes a leader exploitable through humiliation.",
+    "quoteMeaningAnalysis": "An obsession with reputation becomes a lever, because a general who cannot bear to look shamed will act rashly to defend his image rather than the situation.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "pride",
+      "honour",
+      "vulnerability",
+      "ego"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1198",
+    "quoteText": "Over-solicitude for his men, which exposes him to worry and trouble.",
+    "quoteTextEN": "Over-solicitude for his men, which exposes him to worry and trouble.",
+    "quoteDescription": "Even care for one's soldiers, taken too far, is a weakness.",
+    "quoteMeaningAnalysis": "Sun Tzu names a fault born of virtue: a general so protective of his troops that he cannot accept necessary losses becomes paralyzed and, paradoxically, endangers the very men he shields.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "excess",
+      "compassion",
+      "judgment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1199",
+    "quoteText": "Camp in high places, facing the sun.",
+    "quoteTextEN": "Camp in high places, facing the sun.",
+    "quoteDescription": "Choose elevated, well-lit ground for your position.",
+    "quoteMeaningAnalysis": "Even the humblest logistics carry strategic weight; high, sunlit ground grants sight, drainage, and health, so where you rest quietly shapes how you fight.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "terrain",
+      "positioning",
+      "practicality",
+      "advantage"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1200",
+    "quoteText": "If the enemy is close at hand and remains quiet, he is relying on the natural strength of his position.",
+    "quoteTextEN": "If the enemy is close at hand and remains quiet, he is relying on the natural strength of his position.",
+    "quoteDescription": "A calm, nearby enemy is confident in his ground.",
+    "quoteMeaningAnalysis": "Silence near you is information, not emptiness; an enemy who stays still while close is telling you he trusts his terrain, and reading that message keeps you from mistaking his calm for weakness.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "intelligence",
+      "terrain",
+      "reading-signs"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1201",
+    "quoteText": "If his place of encampment is easy of access, he is tendering a bait.",
+    "quoteTextEN": "If his place of encampment is easy of access, he is tendering a bait.",
+    "quoteDescription": "A conveniently exposed enemy camp is probably a trap.",
+    "quoteMeaningAnalysis": "Convenience that comes too easily is a warning sign, since a competent enemy does not leave himself open by accident, and the inviting opening is usually the mouth of a snare.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "traps",
+      "suspicion",
+      "reading-signs"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1202",
+    "quoteText": "Movement amongst the trees of a forest shows that the enemy is advancing.",
+    "quoteTextEN": "Movement amongst the trees of a forest shows that the enemy is advancing.",
+    "quoteDescription": "Read subtle environmental signs to detect the enemy.",
+    "quoteMeaningAnalysis": "The commander is trained to read the world for leaks of intent, treating stirring branches as a printout of the enemy's motion long before the enemy himself is seen.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "intelligence",
+      "reading-signs",
+      "awareness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1203",
+    "quoteText": "Humble words and increased preparations are signs that the enemy is about to advance.",
+    "quoteTextEN": "Humble words and increased preparations are signs that the enemy is about to advance.",
+    "quoteDescription": "Sudden meekness paired with buildup signals an imminent attack.",
+    "quoteMeaningAnalysis": "Sun Tzu teaches you to watch actions against words: when an enemy softens his speech while hardening his readiness, the contradiction exposes the attack his politeness is meant to disguise.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "observation",
+      "deception",
+      "intelligence",
+      "reading-signs"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1204",
+    "quoteText": "Peace proposals unaccompanied by a sworn covenant indicate a plot.",
+    "quoteTextEN": "Peace proposals unaccompanied by a sworn covenant indicate a plot.",
+    "quoteDescription": "An offer of peace with no binding commitment hides a scheme.",
+    "quoteMeaningAnalysis": "The absence of a guarantee is itself the tell; a genuine overture binds itself, so a peace that costs the offerer nothing is likely a maneuver to lower your guard.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "deception",
+      "suspicion",
+      "negotiation",
+      "intelligence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1205",
+    "quoteText": "When the soldiers stand leaning on their spears, they are faint from want of food.",
+    "quoteTextEN": "When the soldiers stand leaning on their spears, they are faint from want of food.",
+    "quoteDescription": "Physical signs betray an army's hidden hunger and weakness.",
+    "quoteMeaningAnalysis": "Bodies confess what commanders conceal; a soldier propped on his weapon reveals a starving army, and the trained observer reads such postures as a report on the enemy's true condition.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "intelligence",
+      "reading-signs",
+      "weakness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1206",
+    "quoteText": "If those who are sent to draw water begin by drinking themselves, the army is suffering from thirst.",
+    "quoteTextEN": "If those who are sent to draw water begin by drinking themselves, the army is suffering from thirst.",
+    "quoteDescription": "Small behaviors reveal an army's deprivation.",
+    "quoteMeaningAnalysis": "A tiny breach of discipline betrays a large deprivation, and Sun Tzu prizes the observer who can infer an army's suffering from the way a single water-carrier can no longer wait to drink.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "intelligence",
+      "reading-signs",
+      "detail"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1207",
+    "quoteText": "Too frequent rewards signify that the enemy is at the end of his resources; too many punishments betray a condition of dire distress.",
+    "quoteTextEN": "Too frequent rewards signify that the enemy is at the end of his resources; too many punishments betray a condition of dire distress.",
+    "quoteDescription": "Extremes of reward or punishment reveal a failing command.",
+    "quoteMeaningAnalysis": "A leader who over-rewards is bribing men whose loyalty is slipping, and one who over-punishes is ruling men on the edge of mutiny, so both extremes leak the desperation behind the enemy's lines.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "observation",
+      "leadership",
+      "morale",
+      "reading-signs"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1208",
+    "quoteText": "He who exercises no forethought but makes light of his opponents is sure to be captured by them.",
+    "quoteTextEN": "He who exercises no forethought but makes light of his opponents is sure to be captured by them.",
+    "quoteDescription": "Underestimating the enemy guarantees your downfall.",
+    "quoteMeaningAnalysis": "Contempt for an opponent is a form of blindness, and Sun Tzu treats the commander who scorns his enemy instead of studying him as already halfway into that enemy's hands.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "humility",
+      "foresight",
+      "arrogance",
+      "caution"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1209",
+    "quoteText": "If soldiers are punished before they have grown attached to you, they will not prove submissive.",
+    "quoteTextEN": "If soldiers are punished before they have grown attached to you, they will not prove submissive.",
+    "quoteDescription": "Discipline without established loyalty breeds resentment.",
+    "quoteMeaningAnalysis": "Authority must be earned before it can be enforced; punishment landing on men who do not yet trust you produces defiance rather than order, because the bond that makes correction bearable is missing.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "discipline",
+      "loyalty",
+      "trust"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1210",
+    "quoteText": "Soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline.",
+    "quoteTextEN": "Soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline.",
+    "quoteDescription": "Lead with kindness first, then firm discipline.",
+    "quoteMeaningAnalysis": "Sun Tzu prescribes a deliberate order: warmth establishes the relationship, and only on that foundation does strict discipline hold, so that firmness reads as fairness rather than cruelty.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "discipline",
+      "compassion",
+      "balance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1211",
+    "quoteText": "The natural formation of the country is the soldier's best ally.",
+    "quoteTextEN": "The natural formation of the country is the soldier's best ally.",
+    "quoteDescription": "Terrain is a commander's most valuable helper.",
+    "quoteMeaningAnalysis": "The land is treated as a silent partner in every fight, offering cover, barriers, and advantage for free to whichever commander bothers to read and use it.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "terrain",
+      "advantage",
+      "environment",
+      "positioning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1212",
+    "quoteText": "The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country, is the jewel of the kingdom.",
+    "quoteTextEN": "The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country, is the jewel of the kingdom.",
+    "quoteDescription": "The ideal commander serves the mission, indifferent to his own glory.",
+    "quoteMeaningAnalysis": "Sun Tzu's model general has surgically removed his ego from the calculation, advancing or withdrawing purely on the country's need, so that neither the lure of praise nor the sting of blame can bend his judgment.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "selflessness",
+      "duty",
+      "integrity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1213",
+    "quoteText": "Regard your soldiers as your children, and they will follow you into the deepest valleys.",
+    "quoteTextEN": "Regard your soldiers as your children, and they will follow you into the deepest valleys.",
+    "quoteDescription": "Genuine care for your people earns their devotion.",
+    "quoteMeaningAnalysis": "Devotion cannot be commanded, only cultivated, and Sun Tzu roots it in genuine care, arguing that men who feel looked after will follow a leader into places fear alone could never drive them.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "care",
+      "loyalty",
+      "devotion"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1214",
+    "quoteText": "Look upon them as your own beloved sons, and they will stand by you even unto death.",
+    "quoteTextEN": "Look upon them as your own beloved sons, and they will stand by you even unto death.",
+    "quoteDescription": "Deep affection from a leader inspires ultimate loyalty.",
+    "quoteMeaningAnalysis": "Treated as beloved rather than expendable, soldiers repay the regard with a loyalty that outlasts self-preservation, showing that the strongest bond in command is affection returned.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "loyalty",
+      "affection",
+      "devotion"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1215",
+    "quoteText": "If you are indulgent, but unable to make your authority felt, your soldiers must be likened to spoilt children; they are useless for any practical purpose.",
+    "quoteTextEN": "If you are indulgent, but unable to make your authority felt, your soldiers must be likened to spoilt children; they are useless for any practical purpose.",
+    "quoteDescription": "Kindness without authority produces a useless, undisciplined force.",
+    "quoteMeaningAnalysis": "Sun Tzu guards his own doctrine of care against sentimentality, warning that affection unbacked by authority spoils men into uselessness, so kindness and command must travel together.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "authority",
+      "discipline",
+      "balance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1216",
+    "quoteText": "If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory.",
+    "quoteTextEN": "If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory.",
+    "quoteDescription": "Knowing only your own readiness is half the picture.",
+    "quoteMeaningAnalysis": "Confidence in your own strength is worthless without knowledge of the enemy's, and Sun Tzu measures partial knowledge as partial victory, which in practice can mean total defeat.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "knowledge",
+      "assessment",
+      "readiness",
+      "intelligence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1217",
+    "quoteText": "Know the enemy and know yourself, and your victory will never be endangered; know the ground and know the weather, and your victory will then be total.",
+    "quoteTextEN": "Know the enemy and know yourself, and your victory will never be endangered; know the ground and know the weather, and your victory will then be total.",
+    "quoteDescription": "Add knowledge of terrain and timing to complete your mastery.",
+    "quoteMeaningAnalysis": "Sun Tzu extends his famous formula: self and enemy secure the win, but adding mastery of ground and weather removes the last variables, turning a safe victory into a complete one.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "knowledge",
+      "terrain",
+      "timing",
+      "completeness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1218",
+    "quoteText": "The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.",
+    "quoteTextEN": "The consummate leader cultivates the moral law, and strictly adheres to method and discipline; thus it is in his power to control success.",
+    "quoteDescription": "Righteousness plus disciplined method puts success within reach.",
+    "quoteMeaningAnalysis": "Sun Tzu locates control over outcomes in two cultivable habits, moral legitimacy and rigorous method, implying that success stops being luck once a leader has built both into himself.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "discipline",
+      "method",
+      "integrity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1219",
+    "quoteText": "Soldiers when in desperate straits lose the sense of fear.",
+    "quoteTextEN": "Soldiers when in desperate straits lose the sense of fear.",
+    "quoteDescription": "Extremity strips away fear and unlocks resolve.",
+    "quoteMeaningAnalysis": "Beyond a certain point of danger, fear has nothing left to protect and simply evaporates, converting cornered men into the most formidable fighters on the field.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "War & Conflict",
+    "tags": [
+      "desperation",
+      "courage",
+      "psychology",
+      "resolve"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1220",
+    "quoteText": "Throw your soldiers into positions whence there is no escape, and they will prefer death to flight.",
+    "quoteTextEN": "Throw your soldiers into positions whence there is no escape, and they will prefer death to flight.",
+    "quoteDescription": "Removing the option to flee forces men to fight fiercely.",
+    "quoteMeaningAnalysis": "Sun Tzu turns hopelessness into a weapon: when retreat is impossible, men stop calculating survival and commit totally, which is why the desperate position can produce the fiercest performance.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "War & Conflict",
+    "tags": [
+      "desperation",
+      "commitment",
+      "psychology",
+      "resolve"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1221",
+    "quoteText": "The skilful tactician may be likened to the shuai-jan, a snake that is found in the Ch'ang mountains.",
+    "quoteTextEN": "The skilful tactician may be likened to the shuai-jan, a snake that is found in the Ch'ang mountains.",
+    "quoteDescription": "The ideal force reacts as one interconnected body.",
+    "quoteMeaningAnalysis": "The legendary snake that strikes with its tail when its head is hit models the responsive army: any part attacked instantly mobilizes the whole, so coordination becomes a single reflex rather than a chain of orders.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "coordination",
+      "unity",
+      "responsiveness",
+      "tactics"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1222",
+    "quoteText": "The principle on which to manage an army is to set up one standard of courage which all must reach.",
+    "quoteTextEN": "The principle on which to manage an army is to set up one standard of courage which all must reach.",
+    "quoteDescription": "Bind the whole force to a single shared level of bravery.",
+    "quoteMeaningAnalysis": "Rather than relying on scattered heroes, Sun Tzu manages courage as a collective baseline, pulling the timid up and binding all to one level so the army's valor is uniform rather than uneven.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "courage",
+      "standards",
+      "unity",
+      "management"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1223",
+    "quoteText": "The business of a general is to be quiet and thus ensure secrecy; upright and just, and thus maintain order.",
+    "quoteTextEN": "The business of a general is to be quiet and thus ensure secrecy; upright and just, and thus maintain order.",
+    "quoteDescription": "A commander governs through calm reserve and fairness.",
+    "quoteMeaningAnalysis": "Two virtues serve two functions: quietness keeps plans from leaking, and fairness keeps the ranks from fracturing, so a general's temperament is itself a tool of both secrecy and discipline.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "composure",
+      "fairness",
+      "secrecy"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1224",
+    "quoteText": "At the critical moment, the leader of an army acts like one who has climbed up a height and then kicks away the ladder behind him.",
+    "quoteTextEN": "At the critical moment, the leader of an army acts like one who has climbed up a height and then kicks away the ladder behind him.",
+    "quoteDescription": "Cut off retreat to force total commitment.",
+    "quoteMeaningAnalysis": "By destroying his own line of escape, the leader converts a wavering force into a committed one, since men who cannot go back have no choice but to give everything to going forward.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "commitment",
+      "resolve",
+      "leadership",
+      "decisiveness"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1225",
+    "quoteText": "Rapidity is the essence of war: take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.",
+    "quoteTextEN": "Rapidity is the essence of war: take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.",
+    "quoteDescription": "Speed lets you exploit gaps before the enemy can close them.",
+    "quoteMeaningAnalysis": "Speed is not merely fast movement but the exploitation of a closing window, letting you slip through unguarded routes and unprepared points before the enemy has time to react.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "speed",
+      "surprise",
+      "opportunism",
+      "maneuver"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1226",
+    "quoteText": "Prohibit the taking of omens, and do away with superstitious doubts. Then, until death itself comes, no calamity need be feared.",
+    "quoteTextEN": "Prohibit the taking of omens, and do away with superstitious doubts. Then, until death itself comes, no calamity need be feared.",
+    "quoteDescription": "Banish superstition so fear cannot paralyze the army.",
+    "quoteMeaningAnalysis": "Superstition is a leak through which fear floods an army, and by forbidding omen-reading Sun Tzu seals that leak, leaving the troops steadied by discipline rather than rattled by imagined signs.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "discipline",
+      "fear",
+      "rationality",
+      "morale"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1227",
+    "quoteText": "When invading hostile territory, the general principle is that penetrating deeply brings cohesion; penetrating but a short way means dispersion.",
+    "quoteTextEN": "When invading hostile territory, the general principle is that penetrating deeply brings cohesion; penetrating but a short way means dispersion.",
+    "quoteDescription": "Deep commitment unites men; shallow ventures scatter them.",
+    "quoteMeaningAnalysis": "Distance from home paradoxically strengthens an invading force, because the further men are from any easy return, the tighter they bind together against a shared and inescapable danger.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "commitment",
+      "cohesion",
+      "psychology",
+      "invasion"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1228",
+    "quoteText": "Place your army in deadly peril, and it will survive; plunge it into desperate straits, and it will come off in safety.",
+    "quoteTextEN": "Place your army in deadly peril, and it will survive; plunge it into desperate straits, and it will come off in safety.",
+    "quoteDescription": "Extreme danger can paradoxically produce survival.",
+    "quoteMeaningAnalysis": "Sun Tzu embraces a paradox: the situation that looks most fatal often saves the army, because only genuine peril summons the total effort that a comfortable position never demands.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "War & Conflict",
+    "tags": [
+      "desperation",
+      "survival",
+      "paradox",
+      "resolve"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1229",
+    "quoteText": "For it is precisely when a force has fallen into harm's way that it is capable of striking a blow for victory.",
+    "quoteTextEN": "For it is precisely when a force has fallen into harm's way that it is capable of striking a blow for victory.",
+    "quoteDescription": "Being cornered unlocks a force's decisive power.",
+    "quoteMeaningAnalysis": "Danger is reframed as the trigger of latent power, since it is only when men have run out of alternatives that they concentrate into the single decisive strike victory requires.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "War & Conflict",
+    "tags": [
+      "desperation",
+      "resolve",
+      "adversity",
+      "opportunity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1230",
+    "quoteText": "Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose.",
+    "quoteTextEN": "Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose.",
+    "quoteDescription": "Win by studying and turning the enemy's own aims against him.",
+    "quoteMeaningAnalysis": "Rather than resisting the enemy's intent head-on, the master reads it and yields to it just enough to redirect it, letting the opponent's own purpose carry him into the prepared trap.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "adaptation",
+      "cunning",
+      "misdirection",
+      "intelligence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1231",
+    "quoteText": "At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you.",
+    "quoteTextEN": "At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you.",
+    "quoteDescription": "Be restrained until the opening appears, then move with lightning speed.",
+    "quoteMeaningAnalysis": "The maxim pairs two tempos into one rhythm: patient reticence that invites the enemy to expose himself, followed by a burst so fast that his reaction arrives after the decision is already made.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "patience",
+      "speed",
+      "timing",
+      "opportunism"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1232",
+    "quoteText": "The different measures suited to the nine varieties of ground should be studied with the utmost care.",
+    "quoteTextEN": "The different measures suited to the nine varieties of ground should be studied with the utmost care.",
+    "quoteDescription": "Each type of terrain demands its own tailored approach.",
+    "quoteMeaningAnalysis": "Sun Tzu refuses any single doctrine for all situations, insisting that each kind of ground carries its own logic that must be studied in advance rather than improvised under pressure.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "terrain",
+      "study",
+      "adaptation",
+      "preparation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1233",
+    "quoteText": "Unhappy is the fate of one who tries to win his battles and succeed in his attacks without cultivating the spirit of enterprise; for the result is waste of time and general stagnation.",
+    "quoteTextEN": "Unhappy is the fate of one who tries to win his battles and succeed in his attacks without cultivating the spirit of enterprise; for the result is waste of time and general stagnation.",
+    "quoteDescription": "Winning without following through squanders the victory.",
+    "quoteMeaningAnalysis": "Sun Tzu warns that battlefield success is hollow unless matched by the drive to consolidate it, since victories left unexploited decay into wasted effort and stagnation.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "initiative",
+      "follow-through",
+      "enterprise",
+      "momentum"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1234",
+    "quoteText": "The enlightened ruler lays his plans well ahead; the good general cultivates his resources.",
+    "quoteTextEN": "The enlightened ruler lays his plans well ahead; the good general cultivates his resources.",
+    "quoteDescription": "Foresight and resource-husbandry define good leadership.",
+    "quoteMeaningAnalysis": "Leadership at both levels is preparation in advance: the ruler thinks far ahead while the general quietly builds up means, so that when the moment comes neither is caught improvising.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "planning",
+      "foresight",
+      "resources",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1235",
+    "quoteText": "Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.",
+    "quoteTextEN": "Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.",
+    "quoteDescription": "Act only when there is real benefit or necessity.",
+    "quoteMeaningAnalysis": "Every action must clear a threshold of purpose, and Sun Tzu sets three gates against movement, commitment, and combat, so that force is never spent on anything short of genuine advantage or true necessity.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "restraint",
+      "purpose",
+      "discipline",
+      "necessity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1236",
+    "quoteText": "No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.",
+    "quoteTextEN": "No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.",
+    "quoteDescription": "Never wage war out of anger or wounded pride.",
+    "quoteMeaningAnalysis": "Sun Tzu bars emotion from the decision to fight, warning that a war launched to soothe a leader's temper spends real lives to feed a passing feeling, which is among the costliest of all mistakes.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "anger",
+      "self-control",
+      "restraint",
+      "judgment"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1237",
+    "quoteText": "If it is to your advantage, make a forward move; if not, stay where you are.",
+    "quoteTextEN": "If it is to your advantage, make a forward move; if not, stay where you are.",
+    "quoteDescription": "Let advantage, not impulse, decide whether to act.",
+    "quoteMeaningAnalysis": "Sun Tzu reduces the decision to advance to a single cold criterion, stripping out ego and momentum so that stillness becomes as valid a choice as motion whenever the numbers do not favor moving.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "judgment",
+      "restraint",
+      "advantage",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1238",
+    "quoteText": "Anger may in time change to gladness; vexation may be succeeded by content. But a kingdom that has once been destroyed can never again come into being; nor can the dead ever be brought back to life.",
+    "quoteTextEN": "Anger may in time change to gladness; vexation may be succeeded by content. But a kingdom that has once been destroyed can never again come into being; nor can the dead ever be brought back to life.",
+    "quoteDescription": "Emotions pass, but the destruction of war is irreversible.",
+    "quoteMeaningAnalysis": "Sun Tzu contrasts the reversibility of feelings with the permanence of ruin to argue for restraint: a mood recovers on its own, but the consequences of a war fought in that mood never can.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "War & Conflict",
+    "tags": [
+      "restraint",
+      "consequences",
+      "irreversibility",
+      "caution"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1239",
+    "quoteText": "The enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact.",
+    "quoteTextEN": "The enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact.",
+    "quoteDescription": "Vigilant caution preserves both nation and army.",
+    "quoteMeaningAnalysis": "Sun Tzu closes his chapter on fire by prizing caution over daring, treating the careful ruler and wary general as the true guardians of a state that stays whole precisely because they refuse rashness.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "caution",
+      "prudence",
+      "peace",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1240",
+    "quoteText": "What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.",
+    "quoteTextEN": "What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.",
+    "quoteDescription": "Advance knowledge is the source of extraordinary success.",
+    "quoteMeaningAnalysis": "Sun Tzu names foreknowledge as the single ingredient separating great commanders from ordinary ones, since knowing what others cannot is what allows a strike to land before the enemy even understands the danger.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "intelligence",
+      "foreknowledge",
+      "advantage",
+      "insight"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1241",
+    "quoteText": "Knowledge of the enemy's dispositions can only be obtained from other men.",
+    "quoteTextEN": "Knowledge of the enemy's dispositions can only be obtained from other men.",
+    "quoteDescription": "Real intelligence comes from human sources, not guesswork.",
+    "quoteMeaningAnalysis": "Sun Tzu grounds foreknowledge in human sources rather than omens or reasoning alone, insisting that what the enemy is actually doing can be learned only from people who have seen it.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "intelligence",
+      "espionage",
+      "information",
+      "sources"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1242",
+    "quoteText": "Hostile armies may face each other for years, striving for the victory which is decided in a single day.",
+    "quoteTextEN": "Hostile armies may face each other for years, striving for the victory which is decided in a single day.",
+    "quoteDescription": "Long campaigns can turn on one decisive moment.",
+    "quoteMeaningAnalysis": "Sun Tzu compresses years of standoff into a single decisive day to argue that the tiny investment in good intelligence is trivial against the enormous stakes it ultimately settles.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "timing",
+      "intelligence",
+      "decisiveness",
+      "stakes"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1243",
+    "quoteText": "To remain in ignorance of the enemy's condition simply because one grudges the outlay is the height of inhumanity.",
+    "quoteTextEN": "To remain in ignorance of the enemy's condition simply because one grudges the outlay is the height of inhumanity.",
+    "quoteDescription": "Skimping on intelligence to save money costs lives.",
+    "quoteMeaningAnalysis": "Sun Tzu reframes intelligence spending as a moral duty, arguing that a leader who withholds small sums for spies condemns his own men to needless death, making stinginess a form of cruelty.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "intelligence",
+      "cost",
+      "responsibility",
+      "ethics"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1244",
+    "quoteText": "One who acts thus is no leader of men, no present help to his sovereign, no master of victory.",
+    "quoteTextEN": "One who acts thus is no leader of men, no present help to his sovereign, no master of victory.",
+    "quoteDescription": "Neglecting intelligence disqualifies you as a true leader.",
+    "quoteMeaningAnalysis": "Sun Tzu delivers a verdict rather than advice: the commander who scorns intelligence forfeits every claim to leadership, to service, and to mastery, since all three depend on knowing.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "intelligence",
+      "responsibility",
+      "competence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1245",
+    "quoteText": "Be subtle! be subtle! and use your spies for every kind of business.",
+    "quoteTextEN": "Be subtle! be subtle! and use your spies for every kind of business.",
+    "quoteDescription": "Employ discreet intelligence-gathering in all matters.",
+    "quoteMeaningAnalysis": "The doubled exhortation urges intelligence-gathering as a constant habit rather than an occasional tool, folding subtle inquiry into every affair so that nothing important is ever decided in the dark.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "espionage",
+      "subtlety",
+      "intelligence",
+      "vigilance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1246",
+    "quoteText": "There is no place where espionage is not used.",
+    "quoteTextEN": "There is no place where espionage is not used.",
+    "quoteDescription": "Intelligence-gathering belongs in every situation.",
+    "quoteMeaningAnalysis": "Sun Tzu universalizes the practice of gathering secret knowledge, treating it not as a specialized department but as an ever-present layer beneath every undertaking worth the name.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "espionage",
+      "intelligence",
+      "ubiquity",
+      "vigilance"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1247",
+    "quoteText": "Spies are a most important element in war, because on them depends an army's ability to move.",
+    "quoteTextEN": "Spies are a most important element in war, because on them depends an army's ability to move.",
+    "quoteDescription": "Movement itself relies on good intelligence.",
+    "quoteMeaningAnalysis": "Sun Tzu makes intelligence the precondition of action rather than a supplement to it, since an army blind to the enemy's dispositions cannot safely take a single step, let alone maneuver.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "espionage",
+      "intelligence",
+      "maneuver",
+      "foundation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1248",
+    "quoteText": "It is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying, and thereby they achieve great results.",
+    "quoteTextEN": "It is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying, and thereby they achieve great results.",
+    "quoteDescription": "The best minds should be devoted to intelligence work.",
+    "quoteMeaningAnalysis": "Sun Tzu ends the book by insisting that espionage deserves the finest talent, not the dregs, because great results flow only when the sharpest people are turned toward the crucial work of knowing.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "espionage",
+      "intelligence",
+      "talent",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1249",
+    "quoteText": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.",
+    "quoteTextEN": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.",
+    "quoteDescription": "Winners settle the outcome before the fight; losers improvise after.",
+    "quoteMeaningAnalysis": "The distinction is one of sequence: the victor arranges the decisive advantages beforehand so combat merely confirms the result, while the loser plunges in and gambles on figuring it out mid-fight.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "planning",
+      "preparation",
+      "victory",
+      "foresight"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1250",
+    "quoteText": "Be extremely subtle, even to the point of formlessness. Be extremely mysterious, even to the point of soundlessness.",
+    "quoteTextEN": "Be extremely subtle, even to the point of formlessness. Be extremely mysterious, even to the point of soundlessness.",
+    "quoteDescription": "Become so imperceptible that the enemy cannot read you.",
+    "quoteMeaningAnalysis": "Formlessness is the ultimate defense because it denies the enemy any pattern to attack, and Sun Tzu pushes concealment to its limit where you leave neither shape to see nor sound to hear.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Deception",
+    "tags": [
+      "subtlety",
+      "formlessness",
+      "concealment",
+      "mystery"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1251",
+    "quoteText": "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man.",
+    "quoteTextEN": "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man.",
+    "quoteDescription": "A good leader finds a use for every kind of person.",
+    "quoteMeaningAnalysis": "Sun Tzu treats even flaws as assignable resources, arguing that greed, dullness, and daring each have a role, so the skilled leader wastes no one by demanding that everyone be the same.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "talent",
+      "management",
+      "delegation"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1252",
+    "quoteText": "The general who does not advance to seek glory, or does not retreat to avoid punishment, but whose only purpose is to protect the people, is a jewel of the kingdom.",
+    "quoteTextEN": "The general who does not advance to seek glory, or does not retreat to avoid punishment, but whose only purpose is to protect the people, is a jewel of the kingdom.",
+    "quoteDescription": "The finest leader is driven solely by duty to those he protects.",
+    "quoteMeaningAnalysis": "By making protection of the people his only motive, this general escapes the two forces that corrupt most commanders, the hunger for glory and the fear of blame, and so becomes uniquely trustworthy.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "leadership",
+      "duty",
+      "selflessness",
+      "integrity"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1253",
+    "quoteText": "Ground which can be freely traversed by both sides is called accessible.",
+    "quoteTextEN": "Ground which can be freely traversed by both sides is called accessible.",
+    "quoteDescription": "Open terrain gives neither side a natural monopoly.",
+    "quoteMeaningAnalysis": "By naming the kinds of ground, Sun Tzu forces the commander to classify his situation before acting, since terrain that both sides can cross demands a different plan than ground only one can hold.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "terrain",
+      "classification",
+      "analysis",
+      "positioning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1254",
+    "quoteText": "If fighting is sure to result in victory, then you must fight, even though the ruler forbid it.",
+    "quoteTextEN": "If fighting is sure to result in victory, then you must fight, even though the ruler forbid it.",
+    "quoteDescription": "A commander must sometimes override orders when the situation is clear.",
+    "quoteMeaningAnalysis": "Sun Tzu grants the general on the ground authority over the distant sovereign, arguing that responsibility for the outcome must carry the freedom to disobey when the real situation contradicts the order.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "autonomy",
+      "judgment",
+      "command",
+      "responsibility"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1255",
+    "quoteText": "If quite unsuccessful, defer fighting.",
+    "quoteTextEN": "If quite unsuccessful, defer fighting.",
+    "quoteDescription": "When conditions are unfavorable, wait rather than force a fight.",
+    "quoteMeaningAnalysis": "Restraint is presented as an active decision rather than cowardice: when the odds are wrong, postponing the fight preserves the force for a moment when the odds can be made right.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "patience",
+      "restraint",
+      "timing",
+      "prudence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1256",
+    "quoteText": "Carefully compare the opposing army with your own, so that you may know where strength is superabundant and where it is deficient.",
+    "quoteTextEN": "Carefully compare the opposing army with your own, so that you may know where strength is superabundant and where it is deficient.",
+    "quoteDescription": "Map both sides' strengths and weaknesses before acting.",
+    "quoteMeaningAnalysis": "The instruction is a call for rigorous side-by-side accounting, because only by locating exactly where each force is thick or thin can you aim your strength at his weakness and shield your weakness from his strength.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "assessment",
+      "comparison",
+      "analysis",
+      "intelligence"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1257",
+    "quoteText": "Bravery without forethought causes a man to fight blindly and desperately like a mad bull.",
+    "quoteTextEN": "Bravery without forethought causes a man to fight blindly and desperately like a mad bull.",
+    "quoteDescription": "Courage without planning is mere reckless fury.",
+    "quoteMeaningAnalysis": "Sun Tzu strips courage of its glamour when it lacks planning, comparing the thoughtless brave man to a maddened animal whose fury makes him easy to steer and doom.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Self-Mastery",
+    "tags": [
+      "courage",
+      "recklessness",
+      "planning",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1258",
+    "quoteText": "The clever combatant looks to the effect of combined energy, and does not require too much from individuals.",
+    "quoteTextEN": "The clever combatant looks to the effect of combined energy, and does not require too much from individuals.",
+    "quoteDescription": "Build a system whose collective force does the work.",
+    "quoteMeaningAnalysis": "Sun Tzu shifts the burden from heroes to structure, designing conditions where the group's combined momentum carries the outcome so no single person has to be extraordinary for the whole to succeed.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Leadership",
+    "tags": [
+      "systems",
+      "teamwork",
+      "momentum",
+      "leadership"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1259",
+    "quoteText": "Make your way by unexpected routes, and attack unguarded spots.",
+    "quoteTextEN": "Make your way by unexpected routes, and attack unguarded spots.",
+    "quoteDescription": "Travel and strike where the enemy does not anticipate.",
+    "quoteMeaningAnalysis": "The whole logic of surprise is condensed into a route and a target, both chosen precisely because the enemy has ruled them out and therefore left them open.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "surprise",
+      "maneuver",
+      "opportunism",
+      "misdirection"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1260",
+    "quoteText": "He who knows the art of the direct and the indirect approach will be victorious.",
+    "quoteTextEN": "He who knows the art of the direct and the indirect approach will be victorious.",
+    "quoteDescription": "Mastering both open and oblique methods secures the win.",
+    "quoteMeaningAnalysis": "Victory belongs to whoever can fluidly switch between the head-on and the roundabout, keeping the enemy unable to predict which he faces and therefore unable to prepare for either.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "tactics",
+      "indirection",
+      "flexibility",
+      "mastery"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1261",
+    "quoteText": "Ground on which each side has liberty of movement is open ground.",
+    "quoteTextEN": "Ground on which each side has liberty of movement is open ground.",
+    "quoteDescription": "Some terrain favors neither side and must be treated accordingly.",
+    "quoteMeaningAnalysis": "Sun Tzu insists that recognizing neutral ground is itself a tactical act, because a place where both sides move freely rewards initiative and punishes the commander who treats it like defensible terrain.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Planning",
+    "tags": [
+      "terrain",
+      "classification",
+      "positioning",
+      "analysis"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1262",
+    "quoteText": "When you are able to hold a position with a smaller force, you have understood the use of ground.",
+    "quoteTextEN": "When you are able to hold a position with a smaller force, you have understood the use of ground.",
+    "quoteDescription": "Good use of terrain multiplies the strength of few.",
+    "quoteMeaningAnalysis": "Terrain is a force multiplier, and Sun Tzu treats the ability to hold with fewer men as the proof that a commander has genuinely learned to let the ground fight alongside him.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "terrain",
+      "efficiency",
+      "advantage",
+      "positioning"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/The_Art_of_War",
+      "https://www.gutenberg.org/ebooks/132"
+    ]
+  },
+  {
+    "id": "1263",
+    "quoteText": "I'm not going to run away, I never go back on my word! That's my nindo: my ninja way!",
+    "quoteTextEN": "I'm not going to run away, I never go back on my word! That's my nindo: my ninja way!",
+    "quoteDescription": "Naruto Uzumaki's core vow, repeated whenever he refuses to quit.",
+    "quoteMeaningAnalysis": "A promise kept becomes an identity: by binding his self-worth to never breaking his word, Naruto turns stubbornness into an unshakeable code that outlasts any single fight.",
+    "author": "Naruto Uzumaki (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "naruto",
+      "self-belief",
+      "perseverance",
+      "integrity"
+    ],
+    "resources": [
+      "https://naruto.fandom.com/wiki/Nind%C5%8D",
+      "https://kabushikihakushi.com/en/anime-manga/naruto-uzumaki/"
+    ]
+  },
+  {
+    "id": "1264",
+    "quoteText": "Hard work is worthless for those that don't believe in themselves.",
+    "quoteTextEN": "Hard work is worthless for those that don't believe in themselves.",
+    "quoteDescription": "Naruto on why effort alone is not enough.",
+    "quoteMeaningAnalysis": "Effort is fuel, but self-belief is the engine; without conviction that you can succeed, even relentless labor spends itself and moves nothing.",
+    "author": "Naruto Uzumaki (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "naruto",
+      "self-belief",
+      "hard-work",
+      "confidence"
+    ],
+    "resources": [
+      "https://reflectivepaths.com/naruto-quotes/",
+      "https://www.cbr.com/most-iconic-naruto-quotes-ranked/"
+    ]
+  },
+  {
+    "id": "1265",
+    "quoteText": "The pain of being alone is completely out of this world, isn't it? I don't know why, but I understand your feelings so much, it actually hurts.",
+    "quoteTextEN": "The pain of being alone is completely out of this world, isn't it? I don't know why, but I understand your feelings so much, it actually hurts.",
+    "quoteDescription": "Naruto reaching out to Gaara, recognizing a loneliness he shares.",
+    "quoteMeaningAnalysis": "Real empathy is not sympathy from a distance; it is one wounded person recognizing their own ache in another, and that shared recognition is what pulls someone back from isolation.",
+    "author": "Naruto Uzumaki (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "naruto",
+      "loneliness",
+      "empathy",
+      "compassion"
+    ],
+    "resources": [
+      "https://www.cbr.com/naruto-gaaras-best-quotes/",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1266",
+    "quoteText": "People live their lives bound by what they accept as correct and true. That's how they define reality.",
+    "quoteTextEN": "People live their lives bound by what they accept as correct and true. That's how they define reality.",
+    "quoteDescription": "Itachi Uchiha explaining how belief shapes perception.",
+    "quoteMeaningAnalysis": "What we call reality is really a set of inherited assumptions we never questioned; freedom begins the moment you notice the walls of 'correct and true' are ones you agreed to.",
+    "author": "Itachi Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "naruto",
+      "perception",
+      "truth",
+      "reality"
+    ],
+    "resources": [
+      "https://www.goodreads.com/author/quotes/8298631.Itachi_Uchiha_Naruto_Shippuuden",
+      "https://www.cbr.com/naruto-itachi-uchiha-best-quotes/"
+    ]
+  },
+  {
+    "id": "1267",
+    "quoteText": "Those who forgive themselves, and are able to accept their true nature... they are the strong ones.",
+    "quoteTextEN": "Those who forgive themselves, and are able to accept their true nature... they are the strong ones.",
+    "quoteDescription": "Itachi redefining strength for his brother Sasuke.",
+    "quoteMeaningAnalysis": "The hardest opponent to face is your own flawed self; genuine strength is the self-acceptance that stops you from being ruled by shame.",
+    "author": "Itachi Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "naruto",
+      "self-acceptance",
+      "forgiveness",
+      "strength"
+    ],
+    "resources": [
+      "https://www.cbr.com/naruto-itachi-uchiha-best-quotes/",
+      "https://kabushikihakushi.com/en/anime-manga/naruto/"
+    ]
+  },
+  {
+    "id": "1268",
+    "quoteText": "You and I are flesh and blood. I'm always going to be there for you, even if it's only as an obstacle for you to overcome.",
+    "quoteTextEN": "You and I are flesh and blood. I'm always going to be there for you, even if it's only as an obstacle for you to overcome.",
+    "quoteDescription": "Itachi to Sasuke, framing even conflict as a form of love.",
+    "quoteMeaningAnalysis": "Love sometimes serves best not by comforting but by becoming the wall you have to climb; Itachi accepts the role of villain so his brother has something to grow against.",
+    "author": "Itachi Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "naruto",
+      "family",
+      "sacrifice",
+      "growth"
+    ],
+    "resources": [
+      "https://www.goodreads.com/author/quotes/8298631.Itachi_Uchiha_Naruto_Shippuuden",
+      "https://fosburit.com/quotes/itachi-uchiha-quotes/"
+    ]
+  },
+  {
+    "id": "1269",
+    "quoteText": "No matter how powerful you become, never try to carry everything on your own. If you do, you will surely fail.",
+    "quoteTextEN": "No matter how powerful you become, never try to carry everything on your own. If you do, you will surely fail.",
+    "quoteDescription": "Itachi's parting advice to Sasuke about relying on others.",
+    "quoteMeaningAnalysis": "Power tempts you into isolation, but no strength is infinite; the ones who last are those humble enough to share the weight before it breaks them.",
+    "author": "Itachi Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "naruto",
+      "humility",
+      "teamwork",
+      "support"
+    ],
+    "resources": [
+      "https://fosburit.com/quotes/itachi-uchiha-quotes/",
+      "https://www.cbr.com/naruto-itachi-uchiha-best-quotes/"
+    ]
+  },
+  {
+    "id": "1270",
+    "quoteText": "People's lives don't end when they die. It ends when they lose faith.",
+    "quoteTextEN": "People's lives don't end when they die. It ends when they lose faith.",
+    "quoteDescription": "Itachi on what truly constitutes the end of a life.",
+    "quoteMeaningAnalysis": "Death is a physical event, but despair is the real ending; as long as you keep believing in something, your life is still in motion regardless of the odds.",
+    "author": "Itachi Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "naruto",
+      "faith",
+      "hope",
+      "resilience"
+    ],
+    "resources": [
+      "https://www.goodreads.com/author/quotes/8298631.Itachi_Uchiha_Naruto_Shippuuden",
+      "https://indiananimenetwork.com/24-amazing-quotes-by-itachi-uchiha/"
+    ]
+  },
+  {
+    "id": "1271",
+    "quoteText": "Growth occurs when one goes beyond one's limits. Realizing that is also a form of training.",
+    "quoteTextEN": "Growth occurs when one goes beyond one's limits. Realizing that is also a form of training.",
+    "quoteDescription": "Itachi on the nature of self-improvement.",
+    "quoteMeaningAnalysis": "You only expand by pressing past the edge of what felt possible; even recognizing where that edge sits is part of the discipline that moves it further out.",
+    "author": "Itachi Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Hard Work",
+    "tags": [
+      "naruto",
+      "growth",
+      "discipline",
+      "limits"
+    ],
+    "resources": [
+      "https://fosburit.com/quotes/itachi-uchiha-quotes/",
+      "https://www.goodreads.com/author/quotes/8298631.Itachi_Uchiha_Naruto_Shippuuden"
+    ]
+  },
+  {
+    "id": "1272",
+    "quoteText": "Knowing what it feels like to be in pain is exactly why we try to be kind to others.",
+    "quoteTextEN": "Knowing what it feels like to be in pain is exactly why we try to be kind to others.",
+    "quoteDescription": "Jiraiya teaching Naruto the source of compassion.",
+    "quoteMeaningAnalysis": "Suffering, rather than hardening us, can become the very reason we spare others the same wound; kindness is often just remembered pain turned outward.",
+    "author": "Jiraiya (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Pain & Growth",
+    "tags": [
+      "naruto",
+      "kindness",
+      "compassion",
+      "pain"
+    ],
+    "resources": [
+      "https://reflectivepaths.com/naruto-quotes/",
+      "https://kabushikihakushi.com/en/anime-manga/naruto/"
+    ]
+  },
+  {
+    "id": "1273",
+    "quoteText": "A place where someone still thinks about you is a place you can call home.",
+    "quoteTextEN": "A place where someone still thinks about you is a place you can call home.",
+    "quoteDescription": "Jiraiya on what makes somewhere truly home.",
+    "quoteMeaningAnalysis": "Home is not a location but a relationship; belonging comes from being held in someone's thoughts, which is why we are never fully lost while remembered.",
+    "author": "Jiraiya (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "naruto",
+      "belonging",
+      "home",
+      "connection"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/naruto/",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1274",
+    "quoteText": "Those who do not understand true pain can never understand true peace.",
+    "quoteTextEN": "Those who do not understand true pain can never understand true peace.",
+    "quoteDescription": "Pain (Nagato) explaining his philosophy to Naruto.",
+    "quoteMeaningAnalysis": "Peace valued by someone who never suffered is fragile; only those who have known real loss grasp what peace costs and why it must be protected.",
+    "author": "Pain / Nagato (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Pain & Growth",
+    "tags": [
+      "naruto",
+      "peace",
+      "pain",
+      "understanding"
+    ],
+    "resources": [
+      "https://www.thegamer.com/naruto-most-memorable-quotes/",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1275",
+    "quoteText": "Just by living, people hurt others without even realizing it. So long as humanity exists, hate will also exist.",
+    "quoteTextEN": "Just by living, people hurt others without even realizing it. So long as humanity exists, hate will also exist.",
+    "quoteDescription": "Nagato on the inescapable friction of human life.",
+    "quoteMeaningAnalysis": "Harm is not always malice; simply existing means we collide with others, so maturity is not pretending to be blameless but reckoning honestly with the damage we cannot fully avoid.",
+    "author": "Pain / Nagato (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "naruto",
+      "human-nature",
+      "conflict",
+      "hatred"
+    ],
+    "resources": [
+      "https://comicbook.com/anime/news/best-naruto-speeches-quotes/",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1276",
+    "quoteText": "Maybe it's foolish to try to seek peace amid this endless cycle of hatred. But you... you just might be able to break it.",
+    "quoteTextEN": "Maybe it's foolish to try to seek peace amid this endless cycle of hatred. But you... you just might be able to break it.",
+    "quoteDescription": "Nagato conceding hope to Naruto in his final moments.",
+    "quoteMeaningAnalysis": "Cynicism gives up because the cycle seems unbreakable, yet even the disillusioned can choose to bet on the next person; handing hope forward is itself a way to break the chain.",
+    "author": "Pain / Nagato (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "naruto",
+      "hope",
+      "peace",
+      "forgiveness"
+    ],
+    "resources": [
+      "https://comicbook.com/anime/news/best-naruto-speeches-quotes/",
+      "https://www.thegamer.com/naruto-most-memorable-quotes/"
+    ]
+  },
+  {
+    "id": "1277",
+    "quoteText": "A dropout will beat a genius through hard work.",
+    "quoteTextEN": "A dropout will beat a genius through hard work.",
+    "quoteDescription": "Rock Lee's guiding belief, having no talent for ninjutsu.",
+    "quoteMeaningAnalysis": "Talent sets a starting line, not a finish line; sustained effort compounds until the person who kept showing up overtakes the one who coasted on gifts.",
+    "author": "Rock Lee (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Hard Work",
+    "tags": [
+      "naruto",
+      "hard-work",
+      "perseverance",
+      "underdog"
+    ],
+    "resources": [
+      "https://www.ranker.com/list/best-might-guy-quotes/ranker-anime",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1278",
+    "quoteText": "You are a genius that has the strength and potential to surpass Neji, because you are a genius of hard work.",
+    "quoteTextEN": "You are a genius that has the strength and potential to surpass Neji, because you are a genius of hard work.",
+    "quoteDescription": "Might Guy encouraging Rock Lee to believe in his effort.",
+    "quoteMeaningAnalysis": "Guy redefines genius itself: the capacity to keep working is a rare talent in its own right, and mastering it can eclipse those born with easier gifts.",
+    "author": "Might Guy (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Hard Work",
+    "tags": [
+      "naruto",
+      "hard-work",
+      "mentorship",
+      "potential"
+    ],
+    "resources": [
+      "https://naruto.fandom.com/wiki/Might_Guy",
+      "https://www.ranker.com/list/best-might-guy-quotes/ranker-anime"
+    ]
+  },
+  {
+    "id": "1279",
+    "quoteText": "In the ninja world, those who break the rules are scum, that's true. But those who abandon their friends are worse than scum.",
+    "quoteTextEN": "In the ninja world, those who break the rules are scum, that's true. But those who abandon their friends are worse than scum.",
+    "quoteDescription": "Kakashi Hatake's creed, first taught to him by Obito.",
+    "quoteMeaningAnalysis": "Rules exist to serve people, not the reverse; when duty and loyalty collide, this line insists that betraying those who trust you is the deeper failure.",
+    "author": "Kakashi Hatake (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "naruto",
+      "loyalty",
+      "friendship",
+      "teamwork"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/11439219",
+      "https://screenrant.com/kakashi-greatest-quote-naruto-best-anime-history/"
+    ]
+  },
+  {
+    "id": "1280",
+    "quoteText": "Sorry I'm late. I got lost on the road of life.",
+    "quoteTextEN": "Sorry I'm late. I got lost on the road of life.",
+    "quoteDescription": "Kakashi's habitual, cryptic excuse for being late.",
+    "quoteMeaningAnalysis": "Beneath the joke is an honest admission that meaning is easy to wander from; even the most capable people lose the thread and have to find their way back.",
+    "author": "Kakashi Hatake (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "naruto",
+      "humor",
+      "meaning",
+      "purpose"
+    ],
+    "resources": [
+      "https://www.imdb.com/title/tt0409591/quotes/",
+      "https://kabushikihakushi.com/en/anime-manga/naruto/"
+    ]
+  },
+  {
+    "id": "1281",
+    "quoteText": "People cannot win against their loneliness because loneliness is this world's worst kind of pain.",
+    "quoteTextEN": "People cannot win against their loneliness because loneliness is this world's worst kind of pain.",
+    "quoteDescription": "Gaara describing the isolation that shaped him.",
+    "quoteMeaningAnalysis": "Loneliness is framed here as the primal wound behind cruelty; understand that ache in someone and you understand why they lash out, and how they might be reached.",
+    "author": "Gaara (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "naruto",
+      "loneliness",
+      "pain",
+      "isolation"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/683366",
+      "https://www.cbr.com/naruto-gaaras-best-quotes/"
+    ]
+  },
+  {
+    "id": "1282",
+    "quoteText": "The moment people come to know love, they run the risk of carrying hate.",
+    "quoteTextEN": "The moment people come to know love, they run the risk of carrying hate.",
+    "quoteDescription": "Obito Uchiha on how attachment opens the door to grief and rage.",
+    "quoteMeaningAnalysis": "Love and hate share a root: the more you cherish something, the more its loss can twist you, which is why the capacity to love bravely is inseparable from the risk of being broken by it.",
+    "author": "Obito Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "naruto",
+      "love",
+      "grief",
+      "human-nature"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/naruto/",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1283",
+    "quoteText": "Wake up to reality! Nothing ever goes as planned in this accursed world.",
+    "quoteTextEN": "Wake up to reality! Nothing ever goes as planned in this accursed world.",
+    "quoteDescription": "Madara Uchiha's bitter view of a world that betrays hope.",
+    "quoteMeaningAnalysis": "This is despair distilled into a worldview; heard critically, it is a warning about what happens when repeated disappointment convinces someone that reality itself is the enemy.",
+    "author": "Madara Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "naruto",
+      "disillusionment",
+      "reality",
+      "cynicism"
+    ],
+    "resources": [
+      "https://www.imdb.com/title/tt1989159/quotes/",
+      "https://kabushikihakushi.com/en/anime-manga/naruto/"
+    ]
+  },
+  {
+    "id": "1284",
+    "quoteText": "In this world, wherever there is light, there are also shadows.",
+    "quoteTextEN": "In this world, wherever there is light, there are also shadows.",
+    "quoteDescription": "Madara Uchiha on the inseparability of good and evil.",
+    "quoteMeaningAnalysis": "Every ideal casts a shadow, and pretending otherwise is how utopias curdle; wisdom means accepting that light and darkness define each other rather than trying to abolish one.",
+    "author": "Madara Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "naruto",
+      "duality",
+      "balance",
+      "human-nature"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/naruto/",
+      "https://www.cbr.com/most-iconic-naruto-quotes-ranked/"
+    ]
+  },
+  {
+    "id": "1285",
+    "quoteText": "When a person has something they want to protect, that's when they can become truly strong.",
+    "quoteTextEN": "When a person has something they want to protect, that's when they can become truly strong.",
+    "quoteDescription": "Haku explaining to Naruto where real strength comes from.",
+    "quoteMeaningAnalysis": "Strength cultivated for its own sake stays hollow; it is having someone or something worth defending that unlocks power we could never summon for ourselves alone.",
+    "author": "Haku (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "naruto",
+      "strength",
+      "protection",
+      "purpose"
+    ],
+    "resources": [
+      "https://reflectivepaths.com/naruto-quotes/",
+      "https://www.thegamer.com/naruto-most-memorable-quotes/"
+    ]
+  },
+  {
+    "id": "1286",
+    "quoteText": "I'm not fighting because I want to win. I'm fighting because I have to win.",
+    "quoteTextEN": "I'm not fighting because I want to win. I'm fighting because I have to win.",
+    "quoteDescription": "Ichigo Kurosaki on the stakes that drive him in battle.",
+    "quoteMeaningAnalysis": "Desire can waver, but necessity does not; when what you protect hangs on the outcome, you fight from obligation rather than ambition, and that resolve is harder to break.",
+    "author": "Ichigo Kurosaki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "bleach",
+      "resolve",
+      "responsibility",
+      "protection"
+    ],
+    "resources": [
+      "https://fictionhorizon.com/50-best-bleach-quotes-by-ichigo-rukia-renji-urahara-aizen-others/",
+      "https://www.cbr.com/bleach-best-quotes-ranked/"
+    ]
+  },
+  {
+    "id": "1287",
+    "quoteText": "If I don't wield the sword, I can't protect you. If I keep wielding the sword, I can't embrace you.",
+    "quoteTextEN": "If I don't wield the sword, I can't protect you. If I keep wielding the sword, I can't embrace you.",
+    "quoteDescription": "Ichigo capturing the painful paradox of a protector.",
+    "quoteMeaningAnalysis": "To guard the people you love, you take up something that keeps them at arm's length; the tragedy of the protector is that the very strength that shields them also separates you from them.",
+    "author": "Ichigo Kurosaki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "bleach",
+      "protection",
+      "sacrifice",
+      "love"
+    ],
+    "resources": [
+      "https://www.cbr.com/bleach-best-quotes-ranked/",
+      "https://burningforsuccess.com/bleach-quotes/"
+    ]
+  },
+  {
+    "id": "1288",
+    "quoteText": "If a miracle only happens once, then what is it the second time?",
+    "quoteTextEN": "If a miracle only happens once, then what is it the second time?",
+    "quoteDescription": "Ichigo challenging the idea that hope has a limit.",
+    "quoteMeaningAnalysis": "By refusing to treat luck as a one-off, Ichigo reframes the miraculous as something you can keep reaching for; the second time you defy the odds, you prove it was never chance but will.",
+    "author": "Ichigo Kurosaki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "bleach",
+      "hope",
+      "determination",
+      "miracles"
+    ],
+    "resources": [
+      "https://www.upgradingoneself.com/bleach-quotes/",
+      "https://fictionhorizon.com/50-best-bleach-quotes-by-ichigo-rukia-renji-urahara-aizen-others/"
+    ]
+  },
+  {
+    "id": "1289",
+    "quoteText": "I'm not Superman, so I can't say anything big like I'll protect everyone on Earth. But I want to protect a mountain-load of people.",
+    "quoteTextEN": "I'm not Superman, so I can't say anything big like I'll protect everyone on Earth. But I want to protect a mountain-load of people.",
+    "quoteDescription": "Ichigo to Rukia, defining the reach of his resolve.",
+    "quoteMeaningAnalysis": "He rejects hollow grandiosity in favor of an honest, enormous ambition; you don't need to save everyone to give everything, and admitting your limits makes the vow more trustworthy, not less.",
+    "author": "Ichigo Kurosaki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "bleach",
+      "protection",
+      "humility",
+      "resolve"
+    ],
+    "resources": [
+      "https://tropedia.fandom.com/wiki/Bleach/Quotes",
+      "https://burningforsuccess.com/bleach-quotes/"
+    ]
+  },
+  {
+    "id": "1290",
+    "quoteText": "Admiration is the emotion furthest from understanding.",
+    "quoteTextEN": "Admiration is the emotion furthest from understanding.",
+    "quoteDescription": "Aizen Sosuke's cold lesson on idolizing others.",
+    "quoteMeaningAnalysis": "When you place someone on a pedestal you stop seeing them clearly, because worship blinds you to the reality of what they are; to truly understand a thing you must stand level with it, not beneath it.",
+    "author": "Sosuke Aizen (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "bleach",
+      "understanding",
+      "admiration",
+      "perception"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/bleach/",
+      "https://www.cbr.com/bleach-best-quotes-ranked/"
+    ]
+  },
+  {
+    "id": "1291",
+    "quoteText": "No one in this world can stand at the top. Not you, not me, not even the gods. But the unbearable emptiness of that throne is at an end. From now on, I will stand atop everything.",
+    "quoteTextEN": "No one in this world can stand at the top. Not you, not me, not even the gods. But the unbearable emptiness of that throne is at an end. From now on, I will stand atop everything.",
+    "quoteDescription": "Aizen declaring his ambition to surpass gods.",
+    "quoteMeaningAnalysis": "Aizen mistakes ambition for enlightenment: his refusal to accept any limit above him is presented as vision, but it is really the arrogance that isolation and unchecked power breed.",
+    "author": "Sosuke Aizen (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "bleach",
+      "ambition",
+      "pride",
+      "power"
+    ],
+    "resources": [
+      "https://fictionhorizon.com/50-best-bleach-quotes-by-ichigo-rukia-renji-urahara-aizen-others/",
+      "https://burningforsuccess.com/bleach-quotes/"
+    ]
+  },
+  {
+    "id": "1292",
+    "quoteText": "Shall I tell you the difference between you and me? It's the difference in our level. Like a monkey reaching for the moon reflected on the water's surface, no matter how he struggles, he only sinks.",
+    "quoteTextEN": "Shall I tell you the difference between you and me? It's the difference in our level. Like a monkey reaching for the moon reflected on the water's surface, no matter how he struggles, he only sinks.",
+    "quoteDescription": "Byakuya Kuchiki chiding Renji over the gap in their strength.",
+    "quoteMeaningAnalysis": "Byakuya wields the parable to humble a rival, yet the image cuts both ways: chasing a reflection instead of the real thing is how ambition drowns, and knowing the difference is the first step to actually rising.",
+    "author": "Byakuya Kuchiki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "bleach",
+      "humility",
+      "ambition",
+      "self-awareness"
+    ],
+    "resources": [
+      "https://tropedia.fandom.com/wiki/Bleach/Quotes",
+      "https://kabushikihakushi.com/en/anime-manga/bleach/"
+    ]
+  },
+  {
+    "id": "1293",
+    "quoteText": "There are two types of fights. As I face an opponent, I ask myself: Is this a fight to protect life, or a fight to protect pride?",
+    "quoteTextEN": "There are two types of fights. As I face an opponent, I ask myself: Is this a fight to protect life, or a fight to protect pride?",
+    "quoteDescription": "Jushiro Ukitake distinguishing the reasons people fight.",
+    "quoteMeaningAnalysis": "Before every conflict lies a question about motive; knowing whether you fight to protect something real or merely to defend your ego determines whether the battle is worth its cost.",
+    "author": "Jushiro Ukitake (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "bleach",
+      "conflict",
+      "pride",
+      "purpose"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/bleach/",
+      "https://burningforsuccess.com/bleach-quotes/"
+    ]
+  },
+  {
+    "id": "1294",
+    "quoteText": "A battle isn't like some stupid argument. As long as someone's still breathing, the fight isn't over.",
+    "quoteTextEN": "A battle isn't like some stupid argument. As long as someone's still breathing, the fight isn't over.",
+    "quoteDescription": "Kenpachi Zaraki on never conceding while life remains.",
+    "quoteMeaningAnalysis": "Kenpachi's brutal honesty carries a useful truth: outcomes aren't settled by opinion or momentum but by refusal to stop, and while breath remains, so does the chance to turn it around.",
+    "author": "Kenpachi Zaraki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "bleach",
+      "perseverance",
+      "resolve",
+      "fighting-spirit"
+    ],
+    "resources": [
+      "https://www.ranker.com/list/best-kenpachi-zaraki-quotes/ranker-anime",
+      "https://kabushikihakushi.com/en/anime-manga/kenpachi/"
+    ]
+  },
+  {
+    "id": "1295",
+    "quoteText": "The only thing I know for sure is that guys like us were born to fight.",
+    "quoteTextEN": "The only thing I know for sure is that guys like us were born to fight.",
+    "quoteDescription": "Kenpachi Zaraki to Ichigo about their shared nature.",
+    "quoteMeaningAnalysis": "Kenpachi frames identity as something you accept rather than argue with; there's a rough freedom in embracing what you are made for instead of endlessly questioning it.",
+    "author": "Kenpachi Zaraki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "bleach",
+      "identity",
+      "purpose",
+      "acceptance"
+    ],
+    "resources": [
+      "https://www.ranker.com/list/best-kenpachi-zaraki-quotes/ranker-anime",
+      "https://snugfam.com/30-best-zaraki-quotes-from-bleach/"
+    ]
+  },
+  {
+    "id": "1296",
+    "quoteText": "Death and pain are just a small price to pay for the enjoyment of battle.",
+    "quoteTextEN": "Death and pain are just a small price to pay for the enjoyment of battle.",
+    "quoteDescription": "Kenpachi Zaraki's fearless attitude toward combat.",
+    "quoteMeaningAnalysis": "Stripped of its bloodlust, this reveals how fully committing to something you love reframes its risks as trivial; passion is what makes the price feel small.",
+    "author": "Kenpachi Zaraki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "bleach",
+      "courage",
+      "fearlessness",
+      "passion"
+    ],
+    "resources": [
+      "https://www.ranker.com/list/best-kenpachi-zaraki-quotes/ranker-anime",
+      "https://kabushikihakushi.com/en/anime-manga/kenpachi/"
+    ]
+  },
+  {
+    "id": "1297",
+    "quoteText": "I see... So this is a heart. If I could see it, if it could fit in my hand, I would have believed.",
+    "quoteTextEN": "I see... So this is a heart. If I could see it, if it could fit in my hand, I would have believed.",
+    "quoteDescription": "Ulquiorra Cifer's dying realization as he reaches for Orihime.",
+    "quoteMeaningAnalysis": "The being who demanded proof of the heart finally grasps it at the moment of death: some truths can never be seen or held, only felt, and denying them is its own kind of blindness.",
+    "author": "Ulquiorra Cifer (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "bleach",
+      "emotion",
+      "connection",
+      "meaning"
+    ],
+    "resources": [
+      "https://www.goodreads.com/author/quotes/10797313.Ulquiorra_Cifer_Bleach",
+      "https://www.ranker.com/list/best-ulquiorra-cifer-quotes/ranker-anime"
+    ]
+  },
+  {
+    "id": "1298",
+    "quoteText": "No matter how cold it is now, spring will always come again.",
+    "quoteTextEN": "No matter how cold it is now, spring will always come again.",
+    "quoteDescription": "Rukia Kuchiki offering quiet reassurance about hard times passing.",
+    "quoteMeaningAnalysis": "Suffering feels permanent while you're inside it, but seasons insist otherwise; the promise of spring is a reminder that endurance is often just waiting for the turn you can't yet see.",
+    "author": "Rukia Kuchiki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "bleach",
+      "hope",
+      "resilience",
+      "seasons"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/bleach/",
+      "https://screenrant.com/bleach-best-quotes/"
+    ]
+  },
+  {
+    "id": "1299",
+    "quoteText": "If fate is a millstone, then we are the grist. There is nothing we can do. So I wish for strength; if I cannot protect them from the wheel, then give me a strong blade, and enough strength to shatter fate.",
+    "quoteTextEN": "If fate is a millstone, then we are the grist. There is nothing we can do. So I wish for strength; if I cannot protect them from the wheel, then give me a strong blade, and enough strength to shatter fate.",
+    "quoteDescription": "Rukia's reflection on fighting against an overwhelming destiny.",
+    "quoteMeaningAnalysis": "Accepting how small you are before fate doesn't have to mean surrender; the same clarity can become a plea for the strength to break the wheel rather than be ground by it.",
+    "author": "Rukia Kuchiki (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "bleach",
+      "fate",
+      "defiance",
+      "strength"
+    ],
+    "resources": [
+      "https://tropedia.fandom.com/wiki/Bleach/Quotes",
+      "https://burningforsuccess.com/bleach-quotes/"
+    ]
+  },
+  {
+    "id": "1300",
+    "quoteText": "Those who do not fear the sword they wield have no right to wield a sword at all.",
+    "quoteTextEN": "Those who do not fear the sword they wield have no right to wield a sword at all.",
+    "quoteDescription": "Shunsui Kyoraku on the responsibility of holding power.",
+    "quoteMeaningAnalysis": "Fear of your own capacity to harm is not weakness but conscience; only someone who respects the danger they carry can be trusted to carry it.",
+    "author": "Shunsui Kyoraku (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "bleach",
+      "responsibility",
+      "power",
+      "conscience"
+    ],
+    "resources": [
+      "https://tropedia.fandom.com/wiki/Bleach/Quotes",
+      "https://www.cbr.com/bleach-epic-quotes-ranked/"
+    ]
+  },
+  {
+    "id": "1301",
+    "quoteText": "Set your heart ablaze.",
+    "quoteTextEN": "Set your heart ablaze.",
+    "quoteDescription": "Kyojuro Rengoku's signature charge to burn with resolve.",
+    "quoteMeaningAnalysis": "Rengoku turns emotion into fuel: to face what terrifies you, you don't extinguish your feelings but ignite them, letting passion and conviction burn hot enough to carry you forward.",
+    "author": "Kyojuro Rengoku (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "demon-slayer",
+      "courage",
+      "passion",
+      "resolve"
+    ],
+    "resources": [
+      "https://comicbook.com/anime/news/best-demon-slayer-quotes-all-time/",
+      "https://kabushikihakushi.com/en/anime-manga/rengoku/"
+    ]
+  },
+  {
+    "id": "1302",
+    "quoteText": "Go ahead and live with your head held high. No matter how devastated you may be by your own weakness or uselessness, set your heart ablaze. Grit your teeth and look straight ahead.",
+    "quoteTextEN": "Go ahead and live with your head held high. No matter how devastated you may be by your own weakness or uselessness, set your heart ablaze. Grit your teeth and look straight ahead.",
+    "quoteDescription": "Rengoku's dying words of encouragement to Tanjiro and his friends.",
+    "quoteMeaningAnalysis": "Dignity is not the absence of self-doubt but the decision to stand tall despite it; feeling worthless is permitted, but letting it bend your spine is not.",
+    "author": "Kyojuro Rengoku (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "demon-slayer",
+      "perseverance",
+      "dignity",
+      "self-worth"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/rengoku/",
+      "https://www.ranker.com/list/best-demon-slayer-quotes/alexandria-reza"
+    ]
+  },
+  {
+    "id": "1303",
+    "quoteText": "Both growing old and dying are part of the beauty of being an ephemeral creature like a human. The fact that we grow old and die is what makes human life so unbearably precious and noble.",
+    "quoteTextEN": "Both growing old and dying are part of the beauty of being an ephemeral creature like a human. The fact that we grow old and die is what makes human life so unbearably precious and noble.",
+    "quoteDescription": "Rengoku rejecting Akaza's offer of demonic immortality.",
+    "quoteMeaningAnalysis": "Mortality is not a flaw to be escaped but the source of meaning itself; because time runs out, every choice and moment carries weight that an endless life would drain away.",
+    "author": "Kyojuro Rengoku (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "demon-slayer",
+      "mortality",
+      "meaning",
+      "life"
+    ],
+    "resources": [
+      "https://swagapparels.com/blogs/anime/demon-slayer-quotes",
+      "https://kabushikihakushi.com/en/anime-manga/rengoku/"
+    ]
+  },
+  {
+    "id": "1304",
+    "quoteText": "Those born strong have a duty to protect the weak. That is the responsibility of the strong.",
+    "quoteTextEN": "Those born strong have a duty to protect the weak. That is the responsibility of the strong.",
+    "quoteDescription": "Ruka Rengoku teaching her son Kyojuro why he was born gifted.",
+    "quoteMeaningAnalysis": "Strength is reframed as an obligation rather than a privilege; talent you were simply handed only earns its worth when it's spent shielding those who lack it.",
+    "author": "Ruka Rengoku (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "demon-slayer",
+      "responsibility",
+      "protection",
+      "duty"
+    ],
+    "resources": [
+      "https://www.yayahan.com/post/happy-mother-s-day-from-rengoku-s-mom",
+      "https://sololevelingquotes.com/memorable-quotes-by-kyojuro-rengoku/"
+    ]
+  },
+  {
+    "id": "1305",
+    "quoteText": "It's because demons were once human, too. Just like me, they were human, too.",
+    "quoteTextEN": "It's because demons were once human, too. Just like me, they were human, too.",
+    "quoteDescription": "Tanjiro Kamado explaining why he pities even the demons he kills.",
+    "quoteMeaningAnalysis": "Tanjiro refuses the comfort of seeing enemies as pure monsters; recognizing shared humanity in what you must fight is harder than hatred, but it keeps compassion alive where cruelty would be easy.",
+    "author": "Tanjiro Kamado (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Compassion",
+    "tags": [
+      "demon-slayer",
+      "compassion",
+      "empathy",
+      "humanity"
+    ],
+    "resources": [
+      "https://comicbook.com/anime/news/best-demon-slayer-quotes-all-time/",
+      "https://www.ranker.com/list/best-demon-slayer-quotes/alexandria-reza"
+    ]
+  },
+  {
+    "id": "1306",
+    "quoteText": "No matter how many people you may lose, you have no choice but to go on living. No matter how devastating the blows may be.",
+    "quoteTextEN": "No matter how many people you may lose, you have no choice but to go on living. No matter how devastating the blows may be.",
+    "quoteDescription": "Tanjiro on the hard duty of surviving grief.",
+    "quoteMeaningAnalysis": "Grief offers no permission to stop; the courage this demands is not the drama of battle but the quiet, relentless act of continuing to live after loss has hollowed you out.",
+    "author": "Tanjiro Kamado (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "demon-slayer",
+      "grief",
+      "survival",
+      "resilience"
+    ],
+    "resources": [
+      "https://swagapparels.com/blogs/anime/demon-slayer-quotes",
+      "https://www.cbr.com/demon-slayer-anime-inspiring-quotes/"
+    ]
+  },
+  {
+    "id": "1307",
+    "quoteText": "The bond between Nezuko and me can't be severed by anyone!",
+    "quoteTextEN": "The bond between Nezuko and me can't be severed by anyone!",
+    "quoteDescription": "Tanjiro defending his sister against Rui's twisted notion of family.",
+    "quoteMeaningAnalysis": "Real family is proven by devotion and sacrifice, not by fear or control; a bond forged in genuine love holds precisely because no outside force can command it.",
+    "author": "Tanjiro Kamado (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "demon-slayer",
+      "family",
+      "bonds",
+      "love"
+    ],
+    "resources": [
+      "https://iwatchitall.com/demon-slayer/quotes/",
+      "https://www.gamersdecide.com/articles/demon-slayer-best-quotes"
+    ]
+  },
+  {
+    "id": "1308",
+    "quoteText": "If you can't do something, then don't. Focus on what you can do.",
+    "quoteTextEN": "If you can't do something, then don't. Focus on what you can do.",
+    "quoteDescription": "Tanjiro's practical mindset for facing overwhelming odds.",
+    "quoteMeaningAnalysis": "Wasted energy grieving your limits is energy stolen from your strengths; progress comes from pouring yourself fully into the part of the problem that actually yields to you.",
+    "author": "Tanjiro Kamado (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "demon-slayer",
+      "focus",
+      "pragmatism",
+      "resilience"
+    ],
+    "resources": [
+      "https://www.ranker.com/list/best-demon-slayer-quotes/alexandria-reza",
+      "https://iwatchitall.com/demon-slayer/quotes/"
+    ]
+  },
+  {
+    "id": "1309",
+    "quoteText": "I've protected it. You told me this box is more important to you than your own life.",
+    "quoteTextEN": "I've protected it. You told me this box is more important to you than your own life.",
+    "quoteDescription": "Zenitsu, battered but victorious, having guarded Nezuko's box at the Drum House.",
+    "quoteMeaningAnalysis": "The coward finds his courage not for himself but for a promise made to a friend; honoring what others entrust to you can call up a bravery you never believed you had.",
+    "author": "Zenitsu Agatsuma (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "demon-slayer",
+      "courage",
+      "loyalty",
+      "friendship"
+    ],
+    "resources": [
+      "https://www.epicquotes.com/11-best-zenitsu-agatsuma-quotes-from-demon-slayer/",
+      "https://gamerant.com/demon-slayer-best-zenitsu-quotes/"
+    ]
+  },
+  {
+    "id": "1310",
+    "quoteText": "Your top priority is to come back to me. Life over accomplishing your mission!",
+    "quoteTextEN": "Your top priority is to come back to me. Life over accomplishing your mission!",
+    "quoteDescription": "Tengen Uzui commanding his teammates to value survival above the goal.",
+    "quoteMeaningAnalysis": "A true leader measures success by who comes home, not by objectives met; putting people above the mission is what separates command from exploitation.",
+    "author": "Tengen Uzui (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "demon-slayer",
+      "leadership",
+      "life",
+      "teamwork"
+    ],
+    "resources": [
+      "https://www.cbr.com/demon-slayer-tengen-uzuis-flashiest-quotes/",
+      "https://iwatchitall.com/demon-slayer/quotes/"
+    ]
+  },
+  {
+    "id": "1311",
+    "quoteText": "I always envied my sister Kanae, who wanted to become friends with demons.",
+    "quoteTextEN": "I always envied my sister Kanae, who wanted to become friends with demons.",
+    "quoteDescription": "Shinobu Kocho revealing the gentleness she can no longer feel.",
+    "quoteMeaningAnalysis": "Grief can wall off the softest parts of us; Shinobu's confession is the ache of a person who wishes she could still forgive, mourning the kindness that loss burned away.",
+    "author": "Shinobu Kocho (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Loss & Grief",
+    "tags": [
+      "demon-slayer",
+      "grief",
+      "forgiveness",
+      "loss"
+    ],
+    "resources": [
+      "https://iwatchitall.com/demon-slayer/quotes/",
+      "https://www.cbr.com/demon-slayer-anime-inspiring-quotes/"
+    ]
+  },
+  {
+    "id": "1312",
+    "quoteText": "Girls grow up faster than boys, both mentally and physically.",
+    "quoteTextEN": "Girls grow up faster than boys, both mentally and physically.",
+    "quoteDescription": "Shinobu Kocho's characteristically teasing remark.",
+    "quoteMeaningAnalysis": "Behind the playful jab is Shinobu's habit of disarming grim situations with lightness; humor, for her, is a chosen armor that lets her keep facing horror without hardening completely.",
+    "author": "Shinobu Kocho (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "demon-slayer",
+      "humor",
+      "wit",
+      "resilience"
+    ],
+    "resources": [
+      "https://iwatchitall.com/demon-slayer/quotes/",
+      "https://www.needsomefun.net/23-best-zenitsu-quotes-demon-slayer/"
+    ]
+  },
+  {
+    "id": "1313",
+    "quoteText": "Why do you think I went so far as to protect you? So you could have a home, raise a family, and grow old. I would never let a demon get near you.",
+    "quoteTextEN": "Why do you think I went so far as to protect you? So you could have a home, raise a family, and grow old. I would never let a demon get near you.",
+    "quoteDescription": "Sanemi Shinazugawa's harsh love toward his brother Genya.",
+    "quoteMeaningAnalysis": "Sanemi's cruelty is protection in disguise; he pushes his brother away from danger even at the cost of being hated, showing how love sometimes wears the mask of rejection.",
+    "author": "Sanemi Shinazugawa (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "demon-slayer",
+      "family",
+      "sacrifice",
+      "protection"
+    ],
+    "resources": [
+      "https://iwatchitall.com/demon-slayer/quotes/",
+      "https://www.ranker.com/list/best-demon-slayer-quotes/alexandria-reza"
+    ]
+  },
+  {
+    "id": "1314",
+    "quoteText": "Would people still say I'm not human? I was afraid and held back my power. But that stops now!",
+    "quoteTextEN": "Would people still say I'm not human? I was afraid and held back my power. But that stops now!",
+    "quoteDescription": "Mitsuri Kanroji embracing the strength she once hid to fit in.",
+    "quoteMeaningAnalysis": "Shrinking yourself to be accepted is its own quiet prison; Mitsuri's turning point is deciding that belonging is not worth the cost of denying who she truly is.",
+    "author": "Mitsuri Kanroji (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "demon-slayer",
+      "self-acceptance",
+      "authenticity",
+      "strength"
+    ],
+    "resources": [
+      "https://iwatchitall.com/demon-slayer/quotes/",
+      "https://zenquoteshub.com/demon-slayer-quotes/"
+    ]
+  },
+  {
+    "id": "1315",
+    "quoteText": "Don't ever let anyone else decide whether you live or die, even if you're the only one left.",
+    "quoteTextEN": "Don't ever let anyone else decide whether you live or die, even if you're the only one left.",
+    "quoteDescription": "Giyu Tomioka confronting Tanjiro's helplessness in the first episode.",
+    "quoteMeaningAnalysis": "Surrendering your fate to others, even out of despair, is a failure of will; Giyu's rebuke insists that as long as you can act, the choice to live must remain yours to make.",
+    "author": "Giyu Tomioka (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "demon-slayer",
+      "willpower",
+      "survival",
+      "agency"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/giyu/",
+      "https://superherojacked.com/2022/12/14/giyu-tomioka-quotes/"
+    ]
+  },
+  {
+    "id": "1316",
+    "quoteText": "We are merely a fragment of humankind's long history. There is no need to worry; we can draw the curtain of life closed without unease at any time.",
+    "quoteTextEN": "We are merely a fragment of humankind's long history. There is no need to worry; we can draw the curtain of life closed without unease at any time.",
+    "quoteDescription": "Muzan Kibutsuji rationalizing life's insignificance to justify his cruelty.",
+    "quoteMeaningAnalysis": "This is the villain's inversion of wisdom: using the vastness of history to declare individual lives meaningless, which is precisely the mindset the heroes reject by insisting every single person matters.",
+    "author": "Muzan Kibutsuji (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "demon-slayer",
+      "nihilism",
+      "mortality",
+      "meaning"
+    ],
+    "resources": [
+      "https://tvtropes.org/pmwiki/pmwiki.php/Quotes/DemonSlayerKimetsuNoYaiba",
+      "https://iwatchitall.com/demon-slayer/quotes/"
+    ]
+  },
+  {
+    "id": "1317",
+    "quoteText": "I only despise the weak. It is the law of nature that they be weeded out.",
+    "quoteTextEN": "I only despise the weak. It is the law of nature that they be weeded out.",
+    "quoteDescription": "Akaza, the Upper Rank demon obsessed with strength.",
+    "quoteMeaningAnalysis": "Akaza worships power because he cannot bear his own helpless past, and the story quietly refutes him: his contempt for weakness is really a wound he never healed, not a truth about nature.",
+    "author": "Akaza (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "demon-slayer",
+      "strength",
+      "obsession",
+      "human-nature"
+    ],
+    "resources": [
+      "https://tvtropes.org/pmwiki/pmwiki.php/Quotes/DemonSlayerKimetsuNoYaiba",
+      "https://www.gamersdecide.com/articles/demon-slayer-best-quotes"
+    ]
+  },
+  {
+    "id": "1318",
+    "quoteText": "I want to prove that a person who isn't blessed with natural talent can also become a splendid ninja through hard work alone.",
+    "quoteTextEN": "I want to prove that a person who isn't blessed with natural talent can also become a splendid ninja through hard work alone.",
+    "quoteDescription": "Rock Lee's mission, unable to use ninjutsu or genjutsu.",
+    "quoteMeaningAnalysis": "Lee makes his own life the proof of a principle; when you can't rely on gifts, becoming living evidence that diligence is enough turns your limitation into your message.",
+    "author": "Rock Lee (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Hard Work",
+    "tags": [
+      "naruto",
+      "hard-work",
+      "determination",
+      "underdog"
+    ],
+    "resources": [
+      "https://reflectivepaths.com/naruto-quotes/",
+      "https://www.thegamer.com/naruto-most-memorable-quotes/"
+    ]
+  },
+  {
+    "id": "1319",
+    "quoteText": "Look underneath the underneath.",
+    "quoteTextEN": "Look underneath the underneath.",
+    "quoteDescription": "Kakashi teaching his students to read the hidden layer of every situation.",
+    "quoteMeaningAnalysis": "Surfaces are meant to mislead, and even the first hidden meaning is rarely the last; real insight comes from the habit of assuming there is always another layer worth checking.",
+    "author": "Kakashi Hatake (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Wisdom",
+    "tags": [
+      "naruto",
+      "perception",
+      "strategy",
+      "insight"
+    ],
+    "resources": [
+      "https://www.imdb.com/title/tt0409591/quotes/",
+      "https://reflectivepaths.com/naruto-quotes/"
+    ]
+  },
+  {
+    "id": "1320",
+    "quoteText": "Feel pain, think about pain, accept pain, and know pain.",
+    "quoteTextEN": "Feel pain, think about pain, accept pain, and know pain.",
+    "quoteDescription": "Pain (Nagato) delivering his philosophy before a devastating attack.",
+    "quoteMeaningAnalysis": "Nagato demands that suffering be faced fully rather than numbed; whether or not you accept his conclusion, the discipline of truly knowing your pain instead of fleeing it is where any real reckoning begins.",
+    "author": "Pain / Nagato (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Pain & Growth",
+    "tags": [
+      "naruto",
+      "pain",
+      "acceptance",
+      "suffering"
+    ],
+    "resources": [
+      "https://comicbook.com/anime/news/best-naruto-speeches-quotes/",
+      "https://www.thegamer.com/naruto-most-memorable-quotes/"
+    ]
+  },
+  {
+    "id": "1321",
+    "quoteText": "I'd rather trust and regret, than doubt and regret.",
+    "quoteTextEN": "I'd rather trust and regret, than doubt and regret.",
+    "quoteDescription": "Sasuke Uchiha on choosing faith in others despite the risk.",
+    "quoteMeaningAnalysis": "Since regret can follow either choice, the question becomes which kind you can live with; better to be wounded by having trusted than to be hollowed out by a suspicion you never tested.",
+    "author": "Sasuke Uchiha (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "naruto",
+      "trust",
+      "regret",
+      "faith"
+    ],
+    "resources": [
+      "https://kabushikihakushi.com/en/anime-manga/naruto/",
+      "https://www.cbr.com/most-iconic-naruto-quotes-ranked/"
+    ]
+  },
+  {
+    "id": "1322",
+    "quoteText": "Where do you think the heart is? It's here, between you and me. When you meet someone and think, that person is a friend, that's when a heart is born.",
+    "quoteTextEN": "Where do you think the heart is? It's here, between you and me. When you meet someone and think, that person is a friend, that's when a heart is born.",
+    "quoteDescription": "Kaien Shiba teaching Rukia where the heart truly lives.",
+    "quoteMeaningAnalysis": "The heart is reframed not as an organ but as the space between people; who we are and what we feel is created in relationship, so nothing precious is ever truly lost while a bond remains.",
+    "author": "Kaien Shiba (Bleach)",
+    "culture": "Japanese (Anime)",
+    "category": "Friendship",
+    "tags": [
+      "bleach",
+      "connection",
+      "heart",
+      "bonds"
+    ],
+    "resources": [
+      "https://tropedia.fandom.com/wiki/Bleach/Quotes",
+      "https://burningforsuccess.com/bleach-quotes/"
+    ]
+  },
+  {
+    "id": "1323",
+    "quoteText": "If you do good deeds for the sake of others, it will surely come back around to help you someday.",
+    "quoteTextEN": "If you do good deeds for the sake of others, it will surely come back around to help you someday.",
+    "quoteDescription": "Muichiro Tokito recalling his father's teaching after regaining his memories.",
+    "quoteMeaningAnalysis": "Kindness is not naive but far-sighted; the good you scatter outward weaves a web of goodwill that catches you when you least expect to need it.",
+    "author": "Muichiro Tokito (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Compassion",
+    "tags": [
+      "demon-slayer",
+      "kindness",
+      "compassion",
+      "karma"
+    ],
+    "resources": [
+      "https://iwatchitall.com/demon-slayer/quotes/",
+      "https://www.cbr.com/demon-slayer-anime-inspiring-quotes/"
+    ]
+  },
+  {
+    "id": "1324",
+    "quoteText": "Starting now, things are going to get real flashy!",
+    "quoteTextEN": "Starting now, things are going to get real flashy!",
+    "quoteDescription": "Tengen Uzui's exuberant battle cry as the Sound Hashira.",
+    "quoteMeaningAnalysis": "Uzui meets dread with showmanship, choosing bravado over trembling; sometimes declaring your own confidence out loud is how you talk yourself and your allies into the courage the moment requires.",
+    "author": "Tengen Uzui (Demon Slayer)",
+    "culture": "Japanese (Anime)",
+    "category": "Courage",
+    "tags": [
+      "demon-slayer",
+      "confidence",
+      "bravado",
+      "courage"
+    ],
+    "resources": [
+      "https://www.cbr.com/demon-slayer-tengen-uzuis-flashiest-quotes/",
+      "https://iwatchitall.com/demon-slayer/quotes/"
+    ]
+  },
+  {
+    "id": "1325",
+    "quoteText": "I'm just a guy who's a hero for fun.",
+    "quoteTextEN": "I'm just a guy who's a hero for fun.",
+    "quoteDescription": "Saitama explaining to the Hero Association why he does what he does.",
+    "quoteMeaningAnalysis": "Detaching heroism from reward or recognition purifies the motive: the deed matters even when no one applauds. Doing good 'for fun' is Saitama's quiet rebellion against a world obsessed with rankings and credit.",
+    "author": "Saitama (One Punch Man)",
+    "culture": "Japanese (Anime)",
+    "category": "Heroism",
+    "tags": [
+      "one-punch-man",
+      "heroism",
+      "purpose",
+      "humility"
+    ],
+    "resources": [
+      "https://onepunchman.fandom.com/wiki/Saitama"
+    ]
+  },
+  {
+    "id": "1326",
+    "quoteText": "If you don't push yourself as much as you can, then you'll never get stronger.",
+    "quoteTextEN": "If you don't push yourself as much as you can, then you'll never get stronger.",
+    "quoteDescription": "Saitama recounting his brutal training regimen that gave him overwhelming power.",
+    "quoteMeaningAnalysis": "Growth lives on the far side of comfort, at the exact limit where you want to quit. The mundane secret behind Saitama's absurd strength is refusing to stop before that edge.",
+    "author": "Saitama (One Punch Man)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "one-punch-man",
+      "perseverance",
+      "training",
+      "discipline"
+    ],
+    "resources": [
+      "https://onepunchman.fandom.com/wiki/Saitama"
+    ]
+  },
+  {
+    "id": "1327",
+    "quoteText": "The things I can't do, I can't do. So I asked others to do what I couldn't.",
+    "quoteTextEN": "The things I can't do, I can't do. So I asked others to do what I couldn't.",
+    "quoteDescription": "Mumen Rider, the powerless C-class hero, on knowing his limits yet still standing up.",
+    "quoteMeaningAnalysis": "Courage is not the same as capability; a person can be honest about weakness and still refuse to run. Mumen Rider's greatness is choosing to act precisely because he knows he might lose.",
+    "author": "Mumen Rider (One Punch Man)",
+    "culture": "Japanese (Anime)",
+    "category": "Heroism",
+    "tags": [
+      "one-punch-man",
+      "heroism",
+      "courage",
+      "humility"
+    ],
+    "resources": [
+      "https://onepunchman.fandom.com/wiki/Mumen_Rider"
+    ]
+  },
+  {
+    "id": "1328",
+    "quoteText": "A hero is someone who can instill fear in the enemy just by showing up.",
+    "quoteTextEN": "A hero is someone who can instill fear in the enemy just by showing up.",
+    "quoteDescription": "King reflecting on what makes a true hero, despite being famous by misunderstanding.",
+    "quoteMeaningAnalysis": "Reputation itself can be a weapon, shaping outcomes before a blow is struck. The irony of King is that presence and myth can protect people even without matching power.",
+    "author": "King (One Punch Man)",
+    "culture": "Japanese (Anime)",
+    "category": "Heroism",
+    "tags": [
+      "one-punch-man",
+      "heroism",
+      "reputation",
+      "fear"
+    ],
+    "resources": [
+      "https://onepunchman.fandom.com/wiki/King"
+    ]
+  },
+  {
+    "id": "1329",
+    "quoteText": "The strong are strong, and the weak are weak. That's just the way this world works.",
+    "quoteTextEN": "The strong are strong, and the weak are weak. That's just the way this world works.",
+    "quoteDescription": "Genos wrestling with the harsh logic of power before training under Saitama.",
+    "quoteMeaningAnalysis": "Stating the cruelty of hierarchy plainly is the first step to deciding whether to accept it or overturn it. Genos voices the very despair that his pursuit of strength is meant to defy.",
+    "author": "Genos (One Punch Man)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "one-punch-man",
+      "ambition",
+      "strength",
+      "resolve"
+    ],
+    "resources": [
+      "https://onepunchman.fandom.com/wiki/Genos"
+    ]
+  },
+  {
+    "id": "1330",
+    "quoteText": "Throughout Heaven and Earth, I alone am the honored one.",
+    "quoteTextEN": "Throughout Heaven and Earth, I alone am the honored one.",
+    "quoteDescription": "Satoru Gojo's signature declaration upon unveiling his true power.",
+    "quoteMeaningAnalysis": "Absolute confidence, when earned, becomes a kind of shield for everyone who depends on you. Gojo's arrogance is inseparable from the security he provides as the strongest sorcerer alive.",
+    "author": "Satoru Gojo (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "jujutsu-kaisen",
+      "self-belief",
+      "strength",
+      "confidence"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo"
+    ]
+  },
+  {
+    "id": "1331",
+    "quoteText": "You should help others not because it's the right thing to do, but because you want to.",
+    "quoteTextEN": "You should help others not because it's the right thing to do, but because you want to.",
+    "quoteDescription": "Satoru Gojo teaching his students about the real source of strength and kindness.",
+    "quoteMeaningAnalysis": "Duty can be brittle, but genuine desire to protect others endures under pressure. Gojo argues that the healthiest heroism comes from wanting to, not from obligation.",
+    "author": "Satoru Gojo (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Heroism",
+    "tags": [
+      "jujutsu-kaisen",
+      "heroism",
+      "kindness",
+      "motivation"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo"
+    ]
+  },
+  {
+    "id": "1332",
+    "quoteText": "A person's life has meaning based on how they die.",
+    "quoteTextEN": "A person's life has meaning based on how they die.",
+    "quoteDescription": "Yuji Itadori recalling his grandfather's dying words that shape his whole mission.",
+    "quoteMeaningAnalysis": "How one meets death can reframe an entire life, turning it into a gift or a warning. Yuji carries this as a charge to spend himself ensuring others get 'a proper death.'",
+    "author": "Yuji Itadori (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "jujutsu-kaisen",
+      "mortality",
+      "meaning",
+      "legacy"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori"
+    ]
+  },
+  {
+    "id": "1333",
+    "quoteText": "The reason there's no path behind me is because I'm creating it as I walk.",
+    "quoteTextEN": "The reason there's no path behind me is because I'm creating it as I walk.",
+    "quoteDescription": "Aoi Todo boasting about forging his own way, in his flamboyant style.",
+    "quoteMeaningAnalysis": "Some people don't follow trails; their conviction is so total that reality bends to their movement. Todo frames self-authorship as an act you perform step by step, not a plan you wait to finish.",
+    "author": "Aoi Todo (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "jujutsu-kaisen",
+      "self-belief",
+      "individuality",
+      "resolve"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Aoi_Todo"
+    ]
+  },
+  {
+    "id": "1334",
+    "quoteText": "Being weak is nothing to be ashamed of. Staying weak is.",
+    "quoteTextEN": "Being weak is nothing to be ashamed of. Staying weak is.",
+    "quoteDescription": "A guiding sentiment tied to Fushiguro and the sorcerers' ethic of growth.",
+    "quoteMeaningAnalysis": "Weakness is a starting condition, not a verdict; the failure is refusing to change it. The line moves shame off the person and onto their choice to remain stagnant.",
+    "author": "Megumi Fushiguro (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "jujutsu-kaisen",
+      "perseverance",
+      "growth",
+      "resolve"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro"
+    ]
+  },
+  {
+    "id": "1335",
+    "quoteText": "Dreams don't have expiration dates.",
+    "quoteTextEN": "Dreams don't have expiration dates.",
+    "quoteDescription": "Kento Nanami's outlook on why it's never too late to pursue what matters.",
+    "quoteMeaningAnalysis": "Ambition isn't perishable; the door to a meaningful pursuit stays open as long as you're willing to walk through it. Nanami, who left a corporate job to return to sorcery, speaks from lived experience.",
+    "author": "Kento Nanami (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "jujutsu-kaisen",
+      "hope",
+      "dreams",
+      "purpose"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami"
+    ]
+  },
+  {
+    "id": "1336",
+    "quoteText": "Give my regards to hell.",
+    "quoteTextEN": "Give my regards to hell.",
+    "quoteDescription": "Sukuna's cold farewell to opponents he deems beneath him.",
+    "quoteMeaningAnalysis": "Contempt distilled to a single sentence marks the King of Curses' total indifference to human life. The chill of the line lies in how casually he consigns others to oblivion.",
+    "author": "Ryomen Sukuna (Jujutsu Kaisen)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "jujutsu-kaisen",
+      "mortality",
+      "power",
+      "villainy"
+    ],
+    "resources": [
+      "https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna"
+    ]
+  },
+  {
+    "id": "1337",
+    "quoteText": "If we don't fight, we can't win.",
+    "quoteTextEN": "If we don't fight, we can't win.",
+    "quoteDescription": "Eren Yeager insisting that survival demands action, not retreat.",
+    "quoteMeaningAnalysis": "Passivity guarantees the loss it's trying to avoid; only engagement leaves room for a different ending. Eren reduces the whole struggle of Paradis to an uncompromising choice.",
+    "author": "Eren Yeager (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "attack-on-titan",
+      "freedom",
+      "resolve",
+      "survival"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Eren_Yeager"
+    ]
+  },
+  {
+    "id": "1338",
+    "quoteText": "This battle, humanity's continued survival depends on it. So once more, for humanity's sake, dedicate your hearts!",
+    "quoteTextEN": "This battle, humanity's continued survival depends on it. So once more, for humanity's sake, dedicate your hearts!",
+    "quoteDescription": "Erwin Smith rallying the Survey Corps before his final charge at Shiganshina.",
+    "quoteMeaningAnalysis": "A true leader doesn't hand followers meaning; he asks them to decide it is worth their lives. Erwin's speech is celebrated because he demands total devotion while riding to his own death alongside them.",
+    "author": "Erwin Smith (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "attack-on-titan",
+      "sacrifice",
+      "leadership",
+      "duty"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Erwin_Smith",
+      "https://www.cbr.com/attack-on-titan-best-erwin-quotes/"
+    ]
+  },
+  {
+    "id": "1339",
+    "quoteText": "The only thing we're allowed to do is to believe that we won't regret the choice we made.",
+    "quoteTextEN": "The only thing we're allowed to do is to believe that we won't regret the choice we made.",
+    "quoteDescription": "Levi Ackerman on making impossible decisions with no way to know the outcome.",
+    "quoteMeaningAnalysis": "Certainty is never available, so integrity means committing fully and trusting your reasons afterward. Levi accepts that peace of mind is a choice you make about the past, not a guarantee you receive from it.",
+    "author": "Levi Ackerman (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "attack-on-titan",
+      "sacrifice",
+      "choice",
+      "resolve"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Levi_Ackerman"
+    ]
+  },
+  {
+    "id": "1340",
+    "quoteText": "If you win, you live. If you lose, you die. If you don't fight, you can't win.",
+    "quoteTextEN": "If you win, you live. If you lose, you die. If you don't fight, you can't win.",
+    "quoteDescription": "Eren Yeager's mantra of struggle from the early days of the Survey Corps.",
+    "quoteMeaningAnalysis": "The equation strips life to its rawest terms: refusing the fight forfeits every possibility at once. Eren turns fear into fuel by removing 'do nothing' as an option.",
+    "author": "Eren Yeager (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "attack-on-titan",
+      "perseverance",
+      "struggle",
+      "survival"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Eren_Yeager"
+    ]
+  },
+  {
+    "id": "1341",
+    "quoteText": "The world is cruel, but also very beautiful.",
+    "quoteTextEN": "The world is cruel, but also very beautiful.",
+    "quoteDescription": "Mikasa Ackerman holding two truths together about the world she survives in.",
+    "quoteMeaningAnalysis": "Recognizing cruelty and beauty at once is what makes life bearable rather than despairing. Mikasa's outlook is the emotional counterweight to the series' relentless violence.",
+    "author": "Mikasa Ackerman (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "attack-on-titan",
+      "hope",
+      "beauty",
+      "resilience"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Mikasa_Ackerman"
+    ]
+  },
+  {
+    "id": "1342",
+    "quoteText": "The people who have the ability to change something in this world all have the ability to abandon their humanity.",
+    "quoteTextEN": "The people who have the ability to change something in this world all have the ability to abandon their humanity.",
+    "quoteDescription": "Armin Arlert on the terrible cost of enacting real change.",
+    "quoteMeaningAnalysis": "Meaningful change often requires sacrificing something precious, whether comfort, conscience, or lives. Armin names the grim price that separates dreamers from those who actually move history.",
+    "author": "Armin Arlert (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "attack-on-titan",
+      "sacrifice",
+      "change",
+      "resolve"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Armin_Arlert"
+    ]
+  },
+  {
+    "id": "1343",
+    "quoteText": "Fight, fight! Unless you win, you die!",
+    "quoteTextEN": "Fight, fight! Unless you win, you die!",
+    "quoteDescription": "The Survey Corps' brutal creed echoed through the ranks facing the Titans.",
+    "quoteMeaningAnalysis": "Repetition turns a grim reality into a discipline that keeps soldiers moving under terror. The chant fuses fear and determination so the body acts before despair can.",
+    "author": "Eren Yeager (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "attack-on-titan",
+      "perseverance",
+      "war",
+      "courage"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Eren_Yeager"
+    ]
+  },
+  {
+    "id": "1344",
+    "quoteText": "If I die without knowing, will I regret it? No. I've already accepted the risk.",
+    "quoteTextEN": "If I die without knowing, will I regret it? No. I've already accepted the risk.",
+    "quoteDescription": "A reflection tied to the Survey Corps' explorers who venture beyond the walls.",
+    "quoteMeaningAnalysis": "Curiosity worth dying for reframes death as an acceptable toll on the road to truth. The willingness to risk everything for knowledge is the heartbeat of humanity's fight to see the outside world.",
+    "author": "Hange Zoe (Attack on Titan)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "attack-on-titan",
+      "freedom",
+      "curiosity",
+      "sacrifice"
+    ],
+    "resources": [
+      "https://attackontitan.fandom.com/wiki/Hange_Zoe"
+    ]
+  },
+  {
+    "id": "1345",
+    "quoteText": "It's fine now. Why? Because I am here!",
+    "quoteTextEN": "It's fine now. Why? Because I am here!",
+    "quoteDescription": "All Might's signature reassurance to civilians in the moment of rescue.",
+    "quoteMeaningAnalysis": "A hero's greatest gift is often the peace of mind that lets ordinary people stop being afraid. All Might understands that a symbol exists to make fear negotiable, not just to fight.",
+    "author": "All Might (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Heroism",
+    "tags": [
+      "my-hero-academia",
+      "heroism",
+      "hope",
+      "reassurance"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/All_Might"
+    ]
+  },
+  {
+    "id": "1346",
+    "quoteText": "Whether you win or lose, looking back and learning from your experiences is a part of life.",
+    "quoteTextEN": "Whether you win or lose, looking back and learning from your experiences is a part of life.",
+    "quoteDescription": "All Might mentoring Deku on the value of both victory and defeat.",
+    "quoteMeaningAnalysis": "Outcomes matter less than the reflection they enable; every result is raw material for growth. All Might reframes losing as information rather than shame.",
+    "author": "All Might (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "my-hero-academia",
+      "perseverance",
+      "growth",
+      "wisdom"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/All_Might"
+    ]
+  },
+  {
+    "id": "1347",
+    "quoteText": "If you feel yourself hitting up against your limit, remember for what cause you clench your fists. Remember why you started down this path, and let that memory carry you beyond your limit.",
+    "quoteTextEN": "If you feel yourself hitting up against your limit, remember for what cause you clench your fists. Remember why you started down this path, and let that memory carry you beyond your limit.",
+    "quoteDescription": "All Might encouraging Deku to push past exhaustion in training.",
+    "quoteMeaningAnalysis": "Purpose is the reserve tank that willpower alone can't reach, unlocking effort beyond the body's protest. All Might teaches that remembering your 'why' converts pain into momentum.",
+    "author": "All Might (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "my-hero-academia",
+      "perseverance",
+      "purpose",
+      "limits"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/All_Might"
+    ]
+  },
+  {
+    "id": "1348",
+    "quoteText": "A real hero will always find a way for justice to be served.",
+    "quoteTextEN": "A real hero will always find a way for justice to be served.",
+    "quoteDescription": "All Might expressing his unwavering standard for what heroes owe the world.",
+    "quoteMeaningAnalysis": "True heroism is defined by refusal to accept injustice as final, always searching for the path forward. It sets a bar not of power but of relentless moral resolve.",
+    "author": "All Might (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "my-hero-academia",
+      "justice",
+      "heroism",
+      "resolve"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/All_Might"
+    ]
+  },
+  {
+    "id": "1349",
+    "quoteText": "You can become a hero.",
+    "quoteTextEN": "You can become a hero.",
+    "quoteDescription": "All Might's life-changing words to the quirkless Izuku Midoriya.",
+    "quoteMeaningAnalysis": "Sometimes a single sentence of belief from the right person rewrites a person's entire future. This is the moment potential is granted permission to exist, before any power is transferred.",
+    "author": "All Might (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "my-hero-academia",
+      "hope",
+      "belief",
+      "potential"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+    ]
+  },
+  {
+    "id": "1350",
+    "quoteText": "It's not bad to dream. But you also have to look at reality.",
+    "quoteTextEN": "It's not bad to dream. But you also have to look at reality.",
+    "quoteDescription": "Shoto Todoroki balancing aspiration against the hard facts of his path.",
+    "quoteMeaningAnalysis": "Dreams need the ballast of clear sight or they capsize; ambition and realism are partners, not enemies. Todoroki, shaped by a punishing upbringing, refuses to let hope blind him to the work required.",
+    "author": "Shoto Todoroki (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "my-hero-academia",
+      "ambition",
+      "realism",
+      "dreams"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki"
+    ]
+  },
+  {
+    "id": "1351",
+    "quoteText": "If all you're gonna do is stand there and watch, then at least lend me your power.",
+    "quoteTextEN": "If all you're gonna do is stand there and watch, then at least lend me your power.",
+    "quoteDescription": "Izuku Midoriya rallying Todoroki to use his full strength during the Sports Festival.",
+    "quoteMeaningAnalysis": "Sometimes helping someone means refusing to let them hold back, dragging their true self into the open. Deku's plea is an act of respect disguised as a demand.",
+    "author": "Izuku Midoriya (My Hero Academia)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "my-hero-academia",
+      "self-belief",
+      "potential",
+      "friendship"
+    ],
+    "resources": [
+      "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya"
+    ]
+  },
+  {
+    "id": "1352",
+    "quoteText": "I'm going to become the King of the Pirates!",
+    "quoteTextEN": "I'm going to become the King of the Pirates!",
+    "quoteDescription": "Monkey D. Luffy declaring his lifelong dream without hesitation.",
+    "quoteMeaningAnalysis": "A dream stated boldly and repeatedly becomes an identity that organizes every choice around it. Luffy's power is that he never treats his goal as arrogant or impossible, only inevitable.",
+    "author": "Monkey D. Luffy (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "one-piece",
+      "ambition",
+      "dreams",
+      "freedom"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+    ]
+  },
+  {
+    "id": "1353",
+    "quoteText": "When do you think people die? When they are forgotten.",
+    "quoteTextEN": "When do you think people die? When they are forgotten.",
+    "quoteDescription": "Dr. Hiluluk sharing his philosophy on mortality and legacy in Chopper's backstory.",
+    "quoteMeaningAnalysis": "Physical death is not the true end; being remembered is a second kind of life that others can grant. Hiluluk reframes mortality so that love and memory become a form of immortality.",
+    "author": "Dr. Hiluluk (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "one-piece",
+      "mortality",
+      "legacy",
+      "memory"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Hiriluk"
+    ]
+  },
+  {
+    "id": "1354",
+    "quoteText": "Inherited will, the destiny of the age, and the dreams of the people. These are things that will not be stopped.",
+    "quoteTextEN": "Inherited will, the destiny of the age, and the dreams of the people. These are things that will not be stopped.",
+    "quoteDescription": "Gol D. Roger reflecting on the unstoppable flow of human aspiration.",
+    "quoteMeaningAnalysis": "Dreams outlive the dreamer, passed like a torch across generations until they're realized. Roger sees his own death not as an ending but as one link in a chain no one can break.",
+    "author": "Gol D. Roger (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "one-piece",
+      "hope",
+      "legacy",
+      "dreams"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Gol_D._Roger"
+    ]
+  },
+  {
+    "id": "1355",
+    "quoteText": "If you don't take risks, you can't create a future!",
+    "quoteTextEN": "If you don't take risks, you can't create a future!",
+    "quoteDescription": "Monkey D. Luffy urging his crew forward against overwhelming odds.",
+    "quoteMeaningAnalysis": "The future is not found but forged, and forging always means gambling on the unknown. Luffy links courage directly to possibility: safety and progress cannot coexist.",
+    "author": "Monkey D. Luffy (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "one-piece",
+      "freedom",
+      "courage",
+      "future"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+    ]
+  },
+  {
+    "id": "1356",
+    "quoteText": "There comes a time when a man has to stand and fight! That's when his friends are being trampled upon!",
+    "quoteTextEN": "There comes a time when a man has to stand and fight! That's when his friends are being trampled upon!",
+    "quoteDescription": "Usopp voicing the crew's ethic of loyalty and standing up for one another.",
+    "quoteMeaningAnalysis": "Some lines in the sand define character more than any goal does; friendship is one worth bleeding for. The measure of a person shows in what makes them refuse to back down.",
+    "author": "Usopp (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "one-piece",
+      "sacrifice",
+      "friendship",
+      "loyalty"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Usopp"
+    ]
+  },
+  {
+    "id": "1357",
+    "quoteText": "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King.",
+    "quoteTextEN": "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King.",
+    "quoteDescription": "Luffy explaining what being Pirate King truly means to him.",
+    "quoteMeaningAnalysis": "Luffy redefines the ultimate title as freedom rather than domination, ambition without tyranny. His dream is not to rule others but to be beholden to no one.",
+    "author": "Monkey D. Luffy (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "one-piece",
+      "freedom",
+      "ambition",
+      "individuality"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+    ]
+  },
+  {
+    "id": "1358",
+    "quoteText": "Being alone is more painful than getting hurt.",
+    "quoteTextEN": "Being alone is more painful than getting hurt.",
+    "quoteDescription": "Portgas D. Ace reflecting on the loneliness that shaped him before the Whitebeard Pirates.",
+    "quoteMeaningAnalysis": "Isolation wounds in a way physical pain cannot, cutting at the need to belong. Ace's life-defining question was whether he deserved to exist, answered only by being wanted.",
+    "author": "Portgas D. Ace (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "one-piece",
+      "hope",
+      "belonging",
+      "loneliness"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Portgas_D._Ace"
+    ]
+  },
+  {
+    "id": "1359",
+    "quoteText": "I want to live! Take me out to sea with you!",
+    "quoteTextEN": "I want to live! Take me out to sea with you!",
+    "quoteDescription": "Nico Robin finally choosing to live at Enies Lobby after a lifetime of despair.",
+    "quoteMeaningAnalysis": "The most radical act for someone taught they should not exist is to demand life out loud. Robin's cry marks the instant she trades resignation for the courage to want a future.",
+    "author": "Nico Robin (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "one-piece",
+      "hope",
+      "survival",
+      "belonging"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Nico_Robin"
+    ]
+  },
+  {
+    "id": "1360",
+    "quoteText": "You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want.",
+    "quoteTextEN": "You should enjoy the little detours to the fullest. Because that's where you'll find the things more important than what you want.",
+    "quoteDescription": "Ging Freecss sharing his life philosophy with Gon when they finally reunite.",
+    "quoteMeaningAnalysis": "The pursuit of a goal can blind us to the richer things scattered along the way. Ging's wisdom is that the journey, not the destination, is where the real treasures of a life are found.",
+    "author": "Ging Freecss (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "hunter-x-hunter",
+      "hope",
+      "journey",
+      "wisdom"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/7906481-you-should-enjoy-the-little-detours-to-the-fullest-because",
+      "https://hunterxhunter.fandom.com/wiki/Ging_Freecss"
+    ]
+  },
+  {
+    "id": "1361",
+    "quoteText": "You should enjoy the journey, not the destination.",
+    "quoteTextEN": "You should enjoy the journey, not the destination.",
+    "quoteDescription": "Ging Freecss summarizing his motto to Gon about how to live.",
+    "quoteMeaningAnalysis": "If fulfillment waits only at the finish line, most of life is spent unfulfilled; joy has to live in the process. Ging models a way of being that treats every day as the point, not the delay.",
+    "author": "Ging Freecss (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "hunter-x-hunter",
+      "hope",
+      "journey",
+      "contentment"
+    ],
+    "resources": [
+      "https://hunterxhunter.fandom.com/wiki/Ging_Freecss"
+    ]
+  },
+  {
+    "id": "1362",
+    "quoteText": "Gon, you are light. Sometimes you shine so brightly, I must look away.",
+    "quoteTextEN": "Gon, you are light. Sometimes you shine so brightly, I must look away.",
+    "quoteDescription": "Killua's inner reflection on how his friendship with Gon changed him.",
+    "quoteMeaningAnalysis": "The right friend can illuminate the parts of yourself you'd given up on, almost painfully so. Killua, raised as an assassin, discovers his own capacity for warmth only by standing next to Gon's.",
+    "author": "Killua Zoldyck (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "hunter-x-hunter",
+      "hope",
+      "friendship",
+      "admiration"
+    ],
+    "resources": [
+      "https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck",
+      "https://screenrant.com/best-hunter-x-hunter-quotes-of-all-time/"
+    ]
+  },
+  {
+    "id": "1363",
+    "quoteText": "You should enjoy every moment. Because that's what it means to be alive.",
+    "quoteTextEN": "You should enjoy every moment. Because that's what it means to be alive.",
+    "quoteDescription": "A sentiment reflecting Gon Freecss's boundless zest for the world around him.",
+    "quoteMeaningAnalysis": "Gon's superpower is presence, treating each experience as worthy of full attention and delight. His unclouded engagement with life is what makes people rally to him.",
+    "author": "Gon Freecss (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "hunter-x-hunter",
+      "hope",
+      "presence",
+      "joy"
+    ],
+    "resources": [
+      "https://hunterxhunter.fandom.com/wiki/Gon_Freecss"
+    ]
+  },
+  {
+    "id": "1364",
+    "quoteText": "Even meager talent can become the greatest weapon if honed properly.",
+    "quoteTextEN": "Even meager talent can become the greatest weapon if honed properly.",
+    "quoteDescription": "Biscuit Krueger teaching Gon and Killua the value of relentless refinement.",
+    "quoteMeaningAnalysis": "Raw gift matters less than the discipline of sharpening whatever you have. Biscuit's lesson reframes talent as a starting point that only dedication can turn into mastery.",
+    "author": "Biscuit Krueger (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "hunter-x-hunter",
+      "perseverance",
+      "talent",
+      "discipline"
+    ],
+    "resources": [
+      "https://hunterxhunter.fandom.com/wiki/Biscuit_Krueger"
+    ]
+  },
+  {
+    "id": "1365",
+    "quoteText": "A simple thank you should suffice.",
+    "quoteTextEN": "A simple thank you should suffice.",
+    "quoteDescription": "Isaac Netero at his death, having found peace in a lifetime devoted to martial mastery.",
+    "quoteMeaningAnalysis": "Gratitude toward one's craft can be the final grace of a well-spent life, even in defeat. Netero meets his end fulfilled, having given everything to the path he chose.",
+    "author": "Isaac Netero (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "hunter-x-hunter",
+      "mortality",
+      "gratitude",
+      "mastery"
+    ],
+    "resources": [
+      "https://hunterxhunter.fandom.com/wiki/Isaac_Netero"
+    ]
+  },
+  {
+    "id": "1366",
+    "quoteText": "A lie can only be exposed by the truth.",
+    "quoteTextEN": "A lie can only be exposed by the truth.",
+    "quoteDescription": "A principle echoing Meruem's growth in understanding through his time with Komugi.",
+    "quoteMeaningAnalysis": "Deception unravels only when confronted with something real, not with more deception. Meruem, born to conquer, is changed by the honest humanity he encounters.",
+    "author": "Meruem (Hunter x Hunter)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "hunter-x-hunter",
+      "justice",
+      "truth",
+      "growth"
+    ],
+    "resources": [
+      "https://hunterxhunter.fandom.com/wiki/Meruem"
+    ]
+  },
+  {
+    "id": "1367",
+    "quoteText": "A lesson without pain is meaningless. That's because no one can gain anything without sacrificing something in return, but once you have overcome it and made it your own, you will gain an irreplaceable fullmetal heart.",
+    "quoteTextEN": "A lesson without pain is meaningless. That's because no one can gain anything without sacrificing something in return, but once you have overcome it and made it your own, you will gain an irreplaceable fullmetal heart.",
+    "quoteDescription": "Edward Elric reflecting on the law of equivalent exchange and the cost of growth.",
+    "quoteMeaningAnalysis": "Real transformation is purchased with pain; painless lessons leave nothing lasting behind. The Elrics' whole journey argues that what you suffer to learn becomes indestructibly yours.",
+    "author": "Edward Elric (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "fullmetal-alchemist",
+      "perseverance",
+      "sacrifice",
+      "growth"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Edward_Elric"
+    ]
+  },
+  {
+    "id": "1368",
+    "quoteText": "Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost. That is alchemy's first law of equivalent exchange.",
+    "quoteTextEN": "Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost. That is alchemy's first law of equivalent exchange.",
+    "quoteDescription": "The Elric brothers' opening narration stating the core law of their world.",
+    "quoteMeaningAnalysis": "Nothing meaningful is free; every gain is paid for somewhere, and pretending otherwise invites disaster. The brothers learn this law's cruelty and mercy alike through their attempt to defy it.",
+    "author": "Alphonse Elric (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "fullmetal-alchemist",
+      "sacrifice",
+      "balance",
+      "consequence"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Law_of_Equivalent_Exchange"
+    ]
+  },
+  {
+    "id": "1369",
+    "quoteText": "There's no such thing as a painless lesson. They just don't exist. Sacrifices are necessary. You can't gain anything without losing something first.",
+    "quoteTextEN": "There's no such thing as a painless lesson. They just don't exist. Sacrifices are necessary. You can't gain anything without losing something first.",
+    "quoteDescription": "Edward Elric on accepting loss as the price of every worthwhile gain.",
+    "quoteMeaningAnalysis": "Maturity means making peace with the fact that all progress carries a cost. Edward refuses the fantasy of gain without loss, and that acceptance is what makes him grow.",
+    "author": "Edward Elric (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "fullmetal-alchemist",
+      "sacrifice",
+      "loss",
+      "maturity"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Edward_Elric"
+    ]
+  },
+  {
+    "id": "1370",
+    "quoteText": "It's a terrible day for rain.",
+    "quoteTextEN": "It's a terrible day for rain.",
+    "quoteDescription": "Roy Mustang masking his tears at Maes Hughes's funeral, though the sky is clear.",
+    "quoteMeaningAnalysis": "Grief sometimes needs a disguise to survive being felt, and dignity can be a form of mourning. Mustang's quiet euphemism speaks louder than open weeping ever could.",
+    "author": "Roy Mustang (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "fullmetal-alchemist",
+      "mortality",
+      "grief",
+      "loss"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Roy_Mustang"
+    ]
+  },
+  {
+    "id": "1371",
+    "quoteText": "Stand up and walk. Keep moving forward. You've got two good legs, so use them. You're strong enough to make your own path.",
+    "quoteTextEN": "Stand up and walk. Keep moving forward. You've got two good legs, so use them. You're strong enough to make your own path.",
+    "quoteDescription": "Edward Elric's recurring creed about self-reliance and moving forward.",
+    "quoteMeaningAnalysis": "Recovery from despair is not waiting to be rescued but choosing to move on your own power. Edward turns his hard-won resilience into a command anyone can obey: forward.",
+    "author": "Edward Elric (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "fullmetal-alchemist",
+      "perseverance",
+      "self-reliance",
+      "hope"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Edward_Elric"
+    ]
+  },
+  {
+    "id": "1372",
+    "quoteText": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "quoteTextEN": "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful.",
+    "quoteDescription": "Roy Mustang offering a hard-earned, hopeful view of an imperfect world.",
+    "quoteMeaningAnalysis": "Beauty is found not in perfection but in the honest striving of a flawed world. Mustang's optimism is battle-tested, embracing imperfection as the very thing worth loving.",
+    "author": "Roy Mustang (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Hope",
+    "tags": [
+      "fullmetal-alchemist",
+      "hope",
+      "acceptance",
+      "beauty"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Roy_Mustang"
+    ]
+  },
+  {
+    "id": "1373",
+    "quoteText": "A king is nothing without his people.",
+    "quoteTextEN": "A king is nothing without his people.",
+    "quoteDescription": "King Bradley and the Elrics' recurring theme on the interdependence of leader and led.",
+    "quoteMeaningAnalysis": "Power derives from those who grant it; a ruler cut off from his people is a title with nothing beneath it. The line strips authority of its vanity and roots it in service.",
+    "author": "Van Hohenheim (Fullmetal Alchemist)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "fullmetal-alchemist",
+      "justice",
+      "leadership",
+      "community"
+    ],
+    "resources": [
+      "https://fma.fandom.com/wiki/Van_Hohenheim"
+    ]
+  },
+  {
+    "id": "1374",
+    "quoteText": "I am the hope of the universe. I am the answer to all living things that cry out for peace.",
+    "quoteTextEN": "I am the hope of the universe. I am the answer to all living things that cry out for peace.",
+    "quoteDescription": "Goku's iconic Super Saiyan declaration against Frieza on Namek.",
+    "quoteMeaningAnalysis": "Standing as the defender of the powerless is a burden Goku claims willingly, not as ego but as duty. The transformation is fueled by rage at cruelty and love for those who can't protect themselves.",
+    "author": "Son Goku (Dragon Ball)",
+    "culture": "Japanese (Anime)",
+    "category": "Heroism",
+    "tags": [
+      "dragon-ball",
+      "heroism",
+      "hope",
+      "justice"
+    ],
+    "resources": [
+      "https://dragonball.fandom.com/wiki/Goku"
+    ]
+  },
+  {
+    "id": "1375",
+    "quoteText": "Power comes in response to a need, not a desire. You have to create that need.",
+    "quoteTextEN": "Power comes in response to a need, not a desire. You have to create that need.",
+    "quoteDescription": "Goku explaining to Gohan how true strength is summoned.",
+    "quoteMeaningAnalysis": "Wanting power is idle; needing it, with something real on the line, is what actually unlocks it. Goku's insight is that growth answers necessity, so you must put yourself where the stakes demand more.",
+    "author": "Son Goku (Dragon Ball)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "dragon-ball",
+      "self-belief",
+      "strength",
+      "growth"
+    ],
+    "resources": [
+      "https://dragonball.fandom.com/wiki/Goku"
+    ]
+  },
+  {
+    "id": "1376",
+    "quoteText": "It's over 9000!",
+    "quoteTextEN": "It's over 9000!",
+    "quoteDescription": "Vegeta's infamous reaction to reading Goku's power level on his scouter.",
+    "quoteMeaningAnalysis": "The line endures as a symbol of encountering power that shatters your assumptions about what's possible. Beneath the meme is a real lesson: the ceiling you imagine is rarely the true limit.",
+    "author": "Vegeta (Dragon Ball)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "dragon-ball",
+      "ambition",
+      "power",
+      "rivalry"
+    ],
+    "resources": [
+      "https://dragonball.fandom.com/wiki/Vegeta"
+    ]
+  },
+  {
+    "id": "1377",
+    "quoteText": "I do not fear this new challenge. Rather, like a true warrior, I will rise to meet it.",
+    "quoteTextEN": "I do not fear this new challenge. Rather, like a true warrior, I will rise to meet it.",
+    "quoteDescription": "Vegeta embracing a stronger opponent as an opportunity rather than a threat.",
+    "quoteMeaningAnalysis": "The warrior's mindset reframes danger as invitation, meeting difficulty with hunger instead of dread. Vegeta's pride, so often his flaw, here becomes fuel for growth.",
+    "author": "Vegeta (Dragon Ball)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "dragon-ball",
+      "perseverance",
+      "courage",
+      "pride"
+    ],
+    "resources": [
+      "https://dragonball.fandom.com/wiki/Vegeta"
+    ]
+  },
+  {
+    "id": "1378",
+    "quoteText": "The only ones who should kill are those who are prepared to be killed.",
+    "quoteTextEN": "The only ones who should kill are those who are prepared to be killed.",
+    "quoteDescription": "Lelouch Lamperouge stating his central moral code as he wields his Geass.",
+    "quoteMeaningAnalysis": "Taking a life obligates you to accept the same fate, refusing the coward's shield of consequence-free violence. Lelouch's whole rebellion is haunted by whether he lives up to this rule.",
+    "author": "Lelouch Lamperouge (Code Geass)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "code-geass",
+      "justice",
+      "morality",
+      "responsibility"
+    ],
+    "resources": [
+      "https://codegeass.fandom.com/wiki/Lelouch_Lamperouge",
+      "https://www.cbr.com/code-geass-lelouch-lamperouge-zero-best-quotes/"
+    ]
+  },
+  {
+    "id": "1379",
+    "quoteText": "If the king doesn't move, then his subjects won't follow.",
+    "quoteTextEN": "If the king doesn't move, then his subjects won't follow.",
+    "quoteDescription": "Lelouch describing his philosophy of leading from the front during a chess match.",
+    "quoteMeaningAnalysis": "Leadership is embodied, not decreed; people commit only to those who risk themselves first. Lelouch's chess metaphor is his entire theory of command in a single move.",
+    "author": "Lelouch Lamperouge (Code Geass)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "code-geass",
+      "justice",
+      "leadership",
+      "strategy"
+    ],
+    "resources": [
+      "https://www.goodreads.com/quotes/996198-if-the-king-doesn-t-move-then-his-subjects-won-t-follow",
+      "https://codegeass.fandom.com/wiki/Lelouch_Lamperouge"
+    ]
+  },
+  {
+    "id": "1380",
+    "quoteText": "The only ones who can shoot are those who are prepared to be shot.",
+    "quoteTextEN": "The only ones who can shoot are those who are prepared to be shot.",
+    "quoteDescription": "Lelouch restating his code of accountability for those who deal in violence.",
+    "quoteMeaningAnalysis": "Accountability must be symmetric; you cannot claim the right to harm while denying others the right to harm you. It's a demand that every act of force be honest about its own risk.",
+    "author": "Lelouch Lamperouge (Code Geass)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "code-geass",
+      "justice",
+      "accountability",
+      "war"
+    ],
+    "resources": [
+      "https://codegeass.fandom.com/wiki/Lelouch_Lamperouge"
+    ]
+  },
+  {
+    "id": "1381",
+    "quoteText": "To defeat evil, I must become a greater evil.",
+    "quoteTextEN": "To defeat evil, I must become a greater evil.",
+    "quoteDescription": "Lelouch justifying the ruthless means of his rebellion against Britannia.",
+    "quoteMeaningAnalysis": "The tragic logic of the ends justifying the means dares to become the very monster it opposes. Lelouch's arc questions whether a better world can truly be built on such a bargain.",
+    "author": "Lelouch Lamperouge (Code Geass)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "code-geass",
+      "sacrifice",
+      "morality",
+      "revolution"
+    ],
+    "resources": [
+      "https://codegeass.fandom.com/wiki/Lelouch_Lamperouge"
+    ]
+  },
+  {
+    "id": "1382",
+    "quoteText": "I am justice! I will deliver the final ruling in this world!",
+    "quoteTextEN": "I am justice! I will deliver the final ruling in this world!",
+    "quoteDescription": "Light Yagami proclaiming himself the god of a new, purified world.",
+    "quoteMeaningAnalysis": "When a person appoints himself the sole arbiter of good, justice curdles into tyranny. Light's descent shows how righteousness untethered from humility becomes the very evil it condemns.",
+    "author": "Light Yagami (Death Note)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "death-note",
+      "justice",
+      "power",
+      "hubris"
+    ],
+    "resources": [
+      "https://deathnote.fandom.com/wiki/Light_Yagami"
+    ]
+  },
+  {
+    "id": "1383",
+    "quoteText": "I'll take a potato chip... and eat it!",
+    "quoteTextEN": "I'll take a potato chip... and eat it!",
+    "quoteDescription": "Light Yagami secretly writing a name in the Death Note while feigning ordinary snacking.",
+    "quoteMeaningAnalysis": "The absurd theatricality reveals Light's arrogance, dressing up murder as a trivial gesture. Beneath the meme is the chilling idea that great evil can hide inside mundane moments.",
+    "author": "Light Yagami (Death Note)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "death-note",
+      "ambition",
+      "deception",
+      "arrogance"
+    ],
+    "resources": [
+      "https://deathnote.fandom.com/wiki/Light_Yagami"
+    ]
+  },
+  {
+    "id": "1384",
+    "quoteText": "Being alone is better for you. I don't need anyone. Anyone at all.",
+    "quoteTextEN": "Being alone is better for you. I don't need anyone. Anyone at all.",
+    "quoteDescription": "L Lawliet reflecting his isolated, guarded nature as the world's greatest detective.",
+    "quoteMeaningAnalysis": "Self-sufficiency can be armor and prison at once, protecting genius while starving the heart. L's brilliance and his loneliness are two faces of the same withdrawal.",
+    "author": "L Lawliet (Death Note)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "death-note",
+      "mortality",
+      "loneliness",
+      "isolation"
+    ],
+    "resources": [
+      "https://deathnote.fandom.com/wiki/L_Lawliet"
+    ]
+  },
+  {
+    "id": "1385",
+    "quoteText": "If you use it, this is how the human whose name is written in this note shall die.",
+    "quoteTextEN": "If you use it, this is how the human whose name is written in this note shall die.",
+    "quoteDescription": "Ryuk the Shinigami describing the terrible rules of the Death Note.",
+    "quoteMeaningAnalysis": "A tool of absolute power arrives with rules but no conscience, leaving morality entirely to its wielder. Ryuk's detachment underscores that the note only reveals the darkness already in the human holding it.",
+    "author": "Ryuk (Death Note)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "death-note",
+      "mortality",
+      "power",
+      "temptation"
+    ],
+    "resources": [
+      "https://deathnote.fandom.com/wiki/Ryuk"
+    ]
+  },
+  {
+    "id": "1386",
+    "quoteText": "We can't win and lose all the time. In the end, whether you're right or wrong, strong or weak, no one really knows.",
+    "quoteTextEN": "We can't win and lose all the time. In the end, whether you're right or wrong, strong or weak, no one really knows.",
+    "quoteDescription": "Near reflecting on the uncertainty of judgment while pursuing Kira.",
+    "quoteMeaningAnalysis": "Certainty about one's own righteousness is the trap Light fell into; wisdom accepts that outcomes are never guaranteed. Near's humility about winning and losing is precisely what makes him Light's undoing.",
+    "author": "Near (Death Note)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "death-note",
+      "justice",
+      "humility",
+      "uncertainty"
+    ],
+    "resources": [
+      "https://deathnote.fandom.com/wiki/Near"
+    ]
+  },
+  {
+    "id": "1387",
+    "quoteText": "Don't believe in the you that believes in me. Don't believe in the me that believes in you. Believe in the you that believes in yourself.",
+    "quoteTextEN": "Don't believe in the you that believes in me. Don't believe in the me that believes in you. Believe in the you that believes in yourself.",
+    "quoteDescription": "Kamina's parting lesson to Simon about standing on his own.",
+    "quoteMeaningAnalysis": "True mentorship works itself out of a job, transferring belief from the teacher to the student's own core. Kamina's gift to Simon is not confidence in Kamina, but confidence that no longer needs him.",
+    "author": "Kamina (Gurren Lagann)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "gurren-lagann",
+      "self-belief",
+      "mentorship",
+      "growth"
+    ],
+    "resources": [
+      "https://gurrenlagann.fandom.com/wiki/Quotes",
+      "https://www.cbr.com/gurren-lagann-anime-best-quotes/"
+    ]
+  },
+  {
+    "id": "1388",
+    "quoteText": "Just who the hell do you think I am?!",
+    "quoteTextEN": "Just who the hell do you think I am?!",
+    "quoteDescription": "Kamina's defiant battle cry in the face of overwhelming enemies.",
+    "quoteMeaningAnalysis": "Unshakable self-assertion can bend a hopeless moment simply by refusing to accept it. Kamina's bravado is a deliberate act of will, manufacturing courage until it becomes real.",
+    "author": "Kamina (Gurren Lagann)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "gurren-lagann",
+      "self-belief",
+      "defiance",
+      "courage"
+    ],
+    "resources": [
+      "https://gurrenlagann.fandom.com/wiki/Quotes"
+    ]
+  },
+  {
+    "id": "1389",
+    "quoteText": "Don't worry about what other people think. It's your drill that will pierce the heavens!",
+    "quoteTextEN": "Don't worry about what other people think. It's your drill that will pierce the heavens!",
+    "quoteDescription": "Kamina inspiring Simon to reject doubt and trust his own path.",
+    "quoteMeaningAnalysis": "Living by others' expectations dulls the very force that could break through limits. Kamina insists that conviction, not consensus, is what pierces the impossible.",
+    "author": "Kamina (Gurren Lagann)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "gurren-lagann",
+      "ambition",
+      "self-belief",
+      "individuality"
+    ],
+    "resources": [
+      "https://gurrenlagann.fandom.com/wiki/Quotes"
+    ]
+  },
+  {
+    "id": "1390",
+    "quoteText": "Your drill is the drill that will pierce the heavens!",
+    "quoteTextEN": "Your drill is the drill that will pierce the heavens!",
+    "quoteDescription": "Kamina's rallying motto that becomes Simon's guiding creed.",
+    "quoteMeaningAnalysis": "Believing that your effort can break any ceiling turns limitation into a target rather than a wall. The drill is a metaphor for forward force: relentless, spinning, and aimed at the sky.",
+    "author": "Kamina (Gurren Lagann)",
+    "culture": "Japanese (Anime)",
+    "category": "Ambition",
+    "tags": [
+      "gurren-lagann",
+      "ambition",
+      "hope",
+      "determination"
+    ],
+    "resources": [
+      "https://en.wikiquote.org/wiki/Gurren_Lagann"
+    ]
+  },
+  {
+    "id": "1391",
+    "quoteText": "Bit by bit, one step at a time. That's the only way to reach a new tomorrow.",
+    "quoteTextEN": "Bit by bit, one step at a time. That's the only way to reach a new tomorrow.",
+    "quoteDescription": "Simon reflecting on how progress is made after inheriting Kamina's spirit.",
+    "quoteMeaningAnalysis": "Grand futures are built from small, unglamorous steps rather than single heroic leaps. Simon's growth from timid digger to leader embodies this patient, cumulative kind of courage.",
+    "author": "Simon (Gurren Lagann)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "gurren-lagann",
+      "perseverance",
+      "hope",
+      "growth"
+    ],
+    "resources": [
+      "https://gurrenlagann.fandom.com/wiki/Simon"
+    ]
+  },
+  {
+    "id": "1392",
+    "quoteText": "You have no enemies. No one has any enemies. There is no one that it's okay to hurt.",
+    "quoteTextEN": "You have no enemies. No one has any enemies. There is no one that it's okay to hurt.",
+    "quoteDescription": "Thors teaching his son Thorfinn the pacifist truth at the heart of Vinland Saga.",
+    "quoteMeaningAnalysis": "The idea of an 'enemy' is a story we tell to make harm acceptable, and Thors rejects the whole premise. This single conviction is the thesis Thorfinn spends the entire saga growing to understand.",
+    "author": "Thors (Vinland Saga)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "vinland-saga",
+      "freedom",
+      "pacifism",
+      "compassion"
+    ],
+    "resources": [
+      "https://vinlandsaga.fandom.com/wiki/Thors_Snorresson",
+      "https://www.sportskeeda.com/anime/i-enemies-the-vinland-saga-quote-went-viral-explained"
+    ]
+  },
+  {
+    "id": "1393",
+    "quoteText": "A true warrior does not need a sword.",
+    "quoteTextEN": "A true warrior does not need a sword.",
+    "quoteDescription": "Thors, the 'Troll of Jom,' expressing the strength found beyond violence.",
+    "quoteMeaningAnalysis": "Real strength is the power to protect without destroying, an ideal that redefines heroism away from the blade. Thors embodies the paradox that the mightiest warrior is the one who no longer needs to kill.",
+    "author": "Thors (Vinland Saga)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "vinland-saga",
+      "freedom",
+      "strength",
+      "pacifism"
+    ],
+    "resources": [
+      "https://vinlandsaga.fandom.com/wiki/Thors_Snorresson"
+    ]
+  },
+  {
+    "id": "1394",
+    "quoteText": "I have no enemies. Nobody has any enemies. There is no one who it's okay to hurt.",
+    "quoteTextEN": "I have no enemies. Nobody has any enemies. There is no one who it's okay to hurt.",
+    "quoteDescription": "Thorfinn finally understanding his father's words after years consumed by revenge.",
+    "quoteMeaningAnalysis": "It takes a lifetime of violence for Thorfinn to grasp what his father knew instantly, that vengeance was always a dead end. The line marks his rebirth from an instrument of hatred into a builder of peace.",
+    "author": "Thorfinn (Vinland Saga)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "vinland-saga",
+      "freedom",
+      "redemption",
+      "peace"
+    ],
+    "resources": [
+      "https://vinlandsaga.fandom.com/wiki/Thorfinn",
+      "https://screenrant.com/best-vinland-saga-thorfinn-quotes/"
+    ]
+  },
+  {
+    "id": "1395",
+    "quoteText": "You're strong, so you'll be fine on your own. It's the weak who need companions.",
+    "quoteTextEN": "You're strong, so you'll be fine on your own. It's the weak who need companions.",
+    "quoteDescription": "Askeladd offering his cynical wisdom to a young, vengeful Thorfinn.",
+    "quoteMeaningAnalysis": "Independence can be a lonely burden, while community is often the survival strategy of the vulnerable. Askeladd's cutting remark hides a deeper truth about why people bind themselves together.",
+    "author": "Askeladd (Vinland Saga)",
+    "culture": "Japanese (Anime)",
+    "category": "Perseverance",
+    "tags": [
+      "vinland-saga",
+      "perseverance",
+      "strength",
+      "companionship"
+    ],
+    "resources": [
+      "https://vinlandsaga.fandom.com/wiki/Askeladd"
+    ]
+  },
+  {
+    "id": "1396",
+    "quoteText": "A true king does not lead his people to war. A true king serves his people.",
+    "quoteTextEN": "A true king does not lead his people to war. A true king serves his people.",
+    "quoteDescription": "Prince Canute articulating his transformed vision of righteous rule.",
+    "quoteMeaningAnalysis": "Authority reaches its highest form as service rather than conquest, protecting the weak instead of exploiting them. Canute's evolution from timid prince to reformer hinges on inverting what power is for.",
+    "author": "Canute (Vinland Saga)",
+    "culture": "Japanese (Anime)",
+    "category": "Justice",
+    "tags": [
+      "vinland-saga",
+      "justice",
+      "leadership",
+      "service"
+    ],
+    "resources": [
+      "https://vinlandsaga.fandom.com/wiki/Canute"
+    ]
+  },
+  {
+    "id": "1397",
+    "quoteText": "I have a lot of enemies, but I don't have a single friend I can be proud of.",
+    "quoteTextEN": "I have a lot of enemies, but I don't have a single friend I can be proud of.",
+    "quoteDescription": "A young Thorfinn realizing the emptiness of a life spent chasing revenge.",
+    "quoteMeaningAnalysis": "A life organized around hatred yields a tally of enemies but no bonds worth having. Thorfinn's dawning emptiness is the seed of his eventual search for a purpose beyond killing.",
+    "author": "Thorfinn (Vinland Saga)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "vinland-saga",
+      "mortality",
+      "revenge",
+      "regret"
+    ],
+    "resources": [
+      "https://vinlandsaga.fandom.com/wiki/Thorfinn"
+    ]
+  },
+  {
+    "id": "1398",
+    "quoteText": "I don't want to conquer, I just want to be free.",
+    "quoteTextEN": "I don't want to conquer, I just want to be free.",
+    "quoteDescription": "A sentiment reflecting Luffy's pure motivation throughout his voyage.",
+    "quoteMeaningAnalysis": "Freedom, not dominance, is the truest ambition, and it asks nothing of others except to be left unbound. Luffy's whole crew is drawn to the rare purity of wanting liberty for its own sake.",
+    "author": "Monkey D. Luffy (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Freedom",
+    "tags": [
+      "one-piece",
+      "freedom",
+      "individuality",
+      "dreams"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+    ]
+  },
+  {
+    "id": "1399",
+    "quoteText": "Nothing happened.",
+    "quoteTextEN": "Nothing happened.",
+    "quoteDescription": "Zoro's understated report to Luffy after silently absorbing Kuma's devastating attack meant for the whole crew.",
+    "quoteMeaningAnalysis": "The greatest sacrifices are often made in silence, seeking no credit and asking for no thanks. Zoro's three words hide an act of near-death loyalty that defines what he'll pay for his captain.",
+    "author": "Roronoa Zoro (One Piece)",
+    "culture": "Japanese (Anime)",
+    "category": "Sacrifice",
+    "tags": [
+      "one-piece",
+      "sacrifice",
+      "loyalty",
+      "humility"
+    ],
+    "resources": [
+      "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+    ]
+  },
+  {
+    "id": "1400",
+    "quoteText": "If you don't like your destiny, don't accept it.",
+    "quoteTextEN": "If you don't like your destiny, don't accept it.",
+    "quoteDescription": "Naruto-style defiance echoed by Uzumaki's refusal to be bound by fate.",
+    "quoteMeaningAnalysis": "Fate is only a prophecy until you agree to it; refusal is itself an act of authorship. The line insists that the story of your life remains yours to rewrite.",
+    "author": "Naruto Uzumaki (Naruto)",
+    "culture": "Japanese (Anime)",
+    "category": "Self-Belief",
+    "tags": [
+      "naruto",
+      "self-belief",
+      "destiny",
+      "defiance"
+    ],
+    "resources": [
+      "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+    ]
+  },
+  {
+    "id": "1401",
+    "quoteText": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+    "quoteTextEN": "Whatever you lose, you'll find it again. But what you throw away you'll never get back.",
+    "quoteDescription": "Kenshin-style wisdom on the difference between loss and abandonment.",
+    "quoteMeaningAnalysis": "There is a moral line between what circumstance takes from you and what you willingly discard. The regret of throwing something away is heavier because it was a choice, not a misfortune.",
+    "author": "Himura Kenshin (Rurouni Kenshin)",
+    "culture": "Japanese (Anime)",
+    "category": "Mortality",
+    "tags": [
+      "rurouni-kenshin",
+      "mortality",
+      "regret",
+      "wisdom"
+    ],
+    "resources": [
+      "https://rurounikenshin.fandom.com/wiki/Kenshin_Himura"
+    ]
   }
 ];
