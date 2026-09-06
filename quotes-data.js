@@ -26846,5 +26846,1011 @@ window.QUOTES_DATA = [
     "resources": [
       "https://rurounikenshin.fandom.com/wiki/Kenshin_Himura"
     ]
+  },
+  {
+    "id": "1402",
+    "quoteText": "νῦν εὐπλόηκα, ὅτε νεναυάγηκα",
+    "quoteTextEN": "Now that I have been shipwrecked, I have made a good voyage.",
+    "quoteDescription": "Zeno's reply after losing a cargo of Phoenician purple at sea, which stranded him in Athens and turned a merchant into the founder of Stoicism.",
+    "quoteMeaningAnalysis": "Zeno of Kition — Citium, on the site of modern Larnaca — was a Cypriot merchant before he was a philosopher, and Stoicism is the only major school of ancient philosophy Cyprus can claim by birth. The line is not consolation after the fact; it is a re-description of the event itself. The shipwreck did not become good later, it was already the passage that carried him. Reported by Diogenes Laertius, Lives VII.",
+    "author": "Zeno of Kition",
+    "culture": "Cypriot / Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "zeno",
+      "kition",
+      "cyprus",
+      "adversity",
+      "reframing"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII",
+      "https://plato.stanford.edu/entries/stoicism/"
+    ]
+  },
+  {
+    "id": "1403",
+    "quoteText": "ὁ φίλος ἄλλος ἐγώ",
+    "quoteTextEN": "A friend is another self.",
+    "quoteDescription": "Zeno's definition of friendship, preserved among his sayings in Diogenes Laertius VII.",
+    "quoteMeaningAnalysis": "Read alongside the Stoic doctrine of oikeiosis — the widening of natural self-concern outward until it takes in family, city and finally all rational beings — this is not sentiment but structure. A friend is another self because the circle of what you treat as your own has genuinely enlarged, not because you feel warmly.",
+    "author": "Zeno of Kition",
+    "culture": "Cypriot / Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "zeno",
+      "friendship",
+      "oikeiosis",
+      "cyprus"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+    ]
+  },
+  {
+    "id": "1404",
+    "quoteText": "κρεῖττον τοῖς ποσὶν ὀλισθεῖν ἢ τῇ γλώττῃ",
+    "quoteTextEN": "Better to stumble with the feet than with the tongue.",
+    "quoteDescription": "Zeno on speech, from the collection of his sayings in Diogenes Laertius VII.",
+    "quoteMeaningAnalysis": "A trip is over when you stand up. A sentence keeps travelling. The Stoics treated assent — the moment you endorse an impression — as the one thing wholly in your power, and speech is assent made public and irreversible.",
+    "author": "Zeno of Kition",
+    "culture": "Cypriot / Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "zeno",
+      "speech",
+      "restraint",
+      "cyprus"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+    ]
+  },
+  {
+    "id": "1405",
+    "quoteText": "τὸν βίον παράδειγμα ἐκτιθεὶς ἅπασιν ἀκόλουθον ὄντα τοῖς λόγοις οἷς διελέγετο",
+    "quoteTextEN": "He set his life before everyone as an example, in full accord with the doctrines he taught.",
+    "quoteDescription": "From the decree of the Athenian assembly honouring Zeno with a gold crown and a public tomb, quoted verbatim by Diogenes Laertius VII.",
+    "quoteMeaningAnalysis": "The Athenians honoured a foreign-born Cypriot not for the originality of his arguments but for the absence of a gap between his arguments and his conduct. It is the earliest surviving statement of the standard Stoicism holds itself to, and it is a civic document rather than a philosophical one — which is exactly what makes it evidence rather than advertising.",
+    "author": "Decree of the Athenian assembly, on Zeno of Kition",
+    "culture": "Cypriot / Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "zeno",
+      "integrity",
+      "athens",
+      "cyprus",
+      "example"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+    ]
+  },
+  {
+    "id": "1406",
+    "quoteText": "One way of life and one order, as of a herd grazing together, nurtured by a common law.",
+    "quoteTextEN": "One way of life and one order, as of a herd grazing together, nurtured by a common law.",
+    "quoteDescription": "Plutarch's summary of the ideal city in Zeno's lost Republic — the earliest cosmopolitan political vision in the Western tradition.",
+    "quoteMeaningAnalysis": "This is a paraphrase, not Zeno's words: the Republic is lost and we have it only through Plutarch, who had his own case to make about Alexander. Read with that caution it is still remarkable — a Cypriot in Athens proposing that the meaningful community is not the city-state but every rational being, at a moment when the polis was the unquestioned unit of belonging.",
+    "author": "Zeno of Kition (paraphrased by Plutarch)",
+    "culture": "Cypriot / Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "zeno",
+      "cosmopolitanism",
+      "politics",
+      "cyprus",
+      "paraphrase"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/stoicism/",
+      "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+    ]
+  },
+  {
+    "id": "1407",
+    "quoteText": "Ducunt volentem fata, nolentem trahunt.",
+    "quoteTextEN": "The fates lead the willing and drag the unwilling.",
+    "quoteDescription": "Seneca's Latin rendering, at the close of Letter 107, of a hymn by Cleanthes — Zeno's successor as head of the Stoa.",
+    "quoteMeaningAnalysis": "The Latin is Seneca's; the thought is Cleanthes'. Note what it does not say: it does not promise that willingness changes the destination. It claims only that willingness decides whether you walk or are dragged, which is the whole of the Stoic offer, stated without inflation.",
+    "author": "Cleanthes, translated by Seneca",
+    "culture": "Ancient Greek / Roman",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "cleanthes",
+      "seneca",
+      "fate",
+      "acceptance"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+    ]
+  },
+  {
+    "id": "1408",
+    "quoteText": "Τῶν ὄντων τὰ μέν ἐστιν ἐφ᾽ ἡμῖν, τὰ δὲ οὐκ ἐφ᾽ ἡμῖν.",
+    "quoteTextEN": "Of things that exist, some are up to us and some are not up to us.",
+    "quoteDescription": "The opening sentence of Epictetus' Enchiridion — the dichotomy of control, stated as a division of the world before any advice is given.",
+    "quoteMeaningAnalysis": "Epictetus opens with an inventory, not an instruction, because everything else follows from getting the inventory right. What is up to us is judgement, impulse, desire and aversion; what is not is body, reputation, office and everything done by others. Note that this sharp formulation is Epictetus', roughly four centuries after Zeno — the school's most famous idea is a late refinement, not a founding slogan.",
+    "author": "Epictetus",
+    "culture": "Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "epictetus",
+      "dichotomy of control",
+      "enchiridion",
+      "agency"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/The_Enchiridion"
+    ]
+  },
+  {
+    "id": "1409",
+    "quoteText": "Ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα.",
+    "quoteTextEN": "It is not events that disturb people, but their judgements about events.",
+    "quoteDescription": "Enchiridion 5 — the Stoic account of emotion as assent to a proposition rather than as a reaction to a fact.",
+    "quoteMeaningAnalysis": "The claim is technical, not consoling: a passion just is a mistaken judgement, so it can be argued with. This sentence is the acknowledged ancestor of cognitive behavioural therapy. It is also the sentence most often abused — it explains where distress is produced, and says nothing at all about whether the event was unjust.",
+    "author": "Epictetus",
+    "culture": "Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "epictetus",
+      "judgement",
+      "emotion",
+      "cbt"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/The_Enchiridion"
+    ]
+  },
+  {
+    "id": "1410",
+    "quoteText": "Μὴ ζήτει τὰ γινόμενα γίνεσθαι ὡς θέλεις, ἀλλὰ θέλε τὰ γινόμενα ὡς γίνεται, καὶ εὐροήσεις.",
+    "quoteTextEN": "Do not seek for things to happen as you wish; wish for things to happen as they do, and your life will flow smoothly.",
+    "quoteDescription": "Enchiridion 8. The verb at the end, euroein, means to flow well — the Stoic word for a life going right.",
+    "quoteMeaningAnalysis": "The image is hydraulic rather than moral: a life that flows well is one meeting no obstruction, and the obstruction is manufactured by wanting the world to be other than it is. The obvious objection — that this licenses passivity — is answered by the doctrine of preferred indifferents: you still act to change what you can, you simply do not stake your peace on the result.",
+    "author": "Epictetus",
+    "culture": "Ancient Greek",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "epictetus",
+      "acceptance",
+      "euroia",
+      "desire"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/The_Enchiridion"
+    ]
+  },
+  {
+    "id": "1411",
+    "quoteText": "Ἔξελε τὴν ὑπόληψιν· ἐξῄρηται τὸ βέβλαμμαι· ἔξελε τὸ βέβλαμμαι· ἐξῄρηται ἡ βλάβη.",
+    "quoteTextEN": "Take away the opinion, and the complaint 'I have been harmed' is taken away; take away 'I have been harmed', and the harm itself is taken away.",
+    "quoteDescription": "Meditations IV.7 — Marcus Aurelius arguing with himself in a private notebook that was never meant to be read.",
+    "quoteMeaningAnalysis": "The chain has three links and each does work: the opinion, the complaint, the harm. Marcus is claiming that harm in the strict Stoic sense — damage to your character — is constituted by your own verdict, which is why an emperor with every worldly power still writes at night about the one thing nobody could take from him.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "marcus aurelius",
+      "meditations",
+      "harm",
+      "judgement"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Meditations_(Long)"
+    ]
+  },
+  {
+    "id": "1412",
+    "quoteText": "Οἷα ἂν πολλάκις νοήσῃς, τοιαύτη σοι ἔσται ἡ διάνοια· βάπτεται γὰρ ὑπὸ τῶν φαντασιῶν ἡ ψυχή.",
+    "quoteTextEN": "Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by its impressions.",
+    "quoteDescription": "Meditations V.16. The verb baptetai is the dyer's word — the soul takes the colour it is repeatedly steeped in.",
+    "quoteMeaningAnalysis": "The metaphor makes attention a material process rather than a mood. Dye is cumulative, slow, and does not wash out, which is an argument for curating what you dwell on that does not depend on any claim about willpower.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "marcus aurelius",
+      "attention",
+      "habit",
+      "character"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Meditations_(Long)"
+    ]
+  },
+  {
+    "id": "1413",
+    "quoteText": "Plura sunt quae nos terrent quam quae premunt, et saepius opinione quam re laboramus.",
+    "quoteTextEN": "There are more things that frighten us than there are that crush us, and we suffer more often in imagination than in reality.",
+    "quoteDescription": "Seneca, Moral Letters to Lucilius 13.4.",
+    "quoteMeaningAnalysis": "Seneca is making an empirical claim, and it is checkable against your own memory: count the disasters you rehearsed against the ones that arrived. The Stoic remedy is not to stop imagining but to imagine properly — premeditatio malorum rehearses the loss all the way to the end, where fear will not go, and usually finds it survivable.",
+    "author": "Seneca",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "seneca",
+      "fear",
+      "anxiety",
+      "premeditatio malorum"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+    ]
+  },
+  {
+    "id": "1414",
+    "quoteText": "Ignoranti quem portum petat nullus suus ventus est.",
+    "quoteTextEN": "For one who does not know which harbour he is making for, no wind is the right wind.",
+    "quoteDescription": "Seneca, Moral Letters to Lucilius 71.3.",
+    "quoteMeaningAnalysis": "The sentence is about ends, not effort. Favourable conditions are only favourable relative to a destination, so a person without a settled conception of the good cannot be helped by good fortune — every wind is merely a wind. Seneca answers the complaint that circumstances are against you by pointing out that you have never said what they would have to be for.",
+    "author": "Seneca",
+    "culture": "Roman",
+    "category": "Stoicism",
+    "tags": [
+      "stoicism",
+      "seneca",
+      "purpose",
+      "direction",
+      "telos"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+    ]
+  },
+  {
+    "id": "1415",
+    "quoteText": "Μηδ᾽ ὕπνον μαλακοῖσιν ἐπ᾽ ὄμμασι προσδέξασθαι, πρὶν τῶν ἡμερινῶν ἔργων τρὶς ἕκαστον ἐπελθεῖν· πῇ παρέβην; τί δ᾽ ἔρεξα; τί μοι δέον οὐκ ἐτελέσθη;",
+    "quoteTextEN": "Do not let sleep fall upon your soft eyes before you have gone three times over each of the day's deeds: where did I go wrong? what did I do? what duty did I leave undone?",
+    "quoteDescription": "The evening examination from the Golden Verses of Pythagoras, lines 40-44.",
+    "quoteMeaningAnalysis": "The Golden Verses are a later Pythagorean compilation, not the words of Pythagoras himself, and should be read as the school's practice rather than the founder's voice. The three questions are not one question asked three ways: the first audits the rule, the second the act, the third the omission — and it is the third that most self-examination quietly drops. Seneca describes exactly this nightly review in De Ira III.36, which is how the practice reaches Stoicism.",
+    "author": "The Golden Verses of Pythagoras",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "self-examination",
+      "golden verses",
+      "discipline",
+      "order",
+      "evening review"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/The_Golden_Verses_of_Pythagoras",
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1416",
+    "quoteText": "ἀρξάμενος δ᾽ ἀπὸ πρώτου ἐπέξιθι· καὶ μετέπειτα δειλὰ μὲν ἐκπρήξας ἐπιπλήσσεο, χρηστὰ δὲ τέρπευ.",
+    "quoteTextEN": "Begin from the first and go through them in order; and afterwards, reproach yourself for what you did badly, and take joy in what you did well.",
+    "quoteDescription": "The lines that immediately follow the three questions in the Golden Verses — the half of the practice that is usually forgotten.",
+    "quoteMeaningAnalysis": "Two instructions are doing real work here. Go through in order, because an unordered review returns whatever is loudest rather than whatever matters. And take joy in what you did well, because a review that only accuses is not an audit, it is a mood, and it will be abandoned within a fortnight.",
+    "author": "The Golden Verses of Pythagoras",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "self-examination",
+      "golden verses",
+      "order",
+      "balance"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/The_Golden_Verses_of_Pythagoras"
+    ]
+  },
+  {
+    "id": "1417",
+    "quoteText": "οὐ μὰ τὸν ἁμετέρᾳ ψυχᾷ παραδόντα τετρακτύν, παγὰν ἀενάου φύσεως ῥιζώματ᾽ ἔχουσαν",
+    "quoteTextEN": "No — by him who handed down to our soul the tetractys, which holds the fountain and root of ever-flowing nature.",
+    "quoteDescription": "The Pythagorean oath, sworn on the tetractys — the triangular figure of ten points arranged in rows of 1, 2, 3 and 4.",
+    "quoteMeaningAnalysis": "The tetractys is not decoration: 1, 2, 3 and 4 generate the ratios of the octave (2:1), the fifth (3:2) and the fourth (4:3), so the figure literally contains the audible structure of harmony, and sums to the perfect ten. Swearing on it is swearing that the order of the world is discoverable — the Pythagorean wager compressed into a single gesture.",
+    "author": "Pythagorean oath (Golden Verses 47-48)",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "tetractys",
+      "harmony",
+      "number",
+      "kosmos",
+      "order"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/The_Golden_Verses_of_Pythagoras",
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1418",
+    "quoteText": "καὶ πάντα γα μὰν τὰ γιγνωσκόμενα ἀριθμὸν ἔχοντι· οὐ γὰρ οἷόν τε οὐδὲν οὔτε νοηθῆμεν οὔτε γνωσθῆμεν ἄνευ τούτω.",
+    "quoteTextEN": "All things that are known have number; for without this nothing whatever could be thought or known.",
+    "quoteDescription": "Philolaus of Croton, fragment 4 — the clearest surviving statement of the Pythagorean position, from the first Pythagorean known to have written a book.",
+    "quoteMeaningAnalysis": "This is the careful version of the slogan usually quoted as 'all is number'. Philolaus does not say things are numbers; he says nothing is knowable without number, which is a claim about the conditions of intelligibility rather than about what stuff is made of. Twenty-five centuries of mathematical physics have been an extended test of it.",
+    "author": "Philolaus of Croton",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "philolaus",
+      "number",
+      "knowledge",
+      "order",
+      "kosmos"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/philolaus/"
+    ]
+  },
+  {
+    "id": "1419",
+    "quoteText": "τί τὸ σοφώτατον; ἀριθμός.",
+    "quoteTextEN": "What is the wisest thing? Number.",
+    "quoteDescription": "One of the akousmata — the catechism of question-and-answer sayings memorised by initiates of the Pythagorean community, preserved by Iamblichus.",
+    "quoteMeaningAnalysis": "The akousmata were taught as bare answers to be held in memory, without argument, to novices required to keep silence for years. That form is itself the doctrine: order is first inhabited and only later understood. Aristotle, writing far closer to the source than Iamblichus, reports the same emphasis on number as the element of all things.",
+    "author": "Pythagorean akousma",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "akousmata",
+      "number",
+      "wisdom",
+      "order"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1420",
+    "quoteText": "τί τὸ κάλλιστον; ἁρμονία.",
+    "quoteTextEN": "What is the most beautiful thing? Harmony.",
+    "quoteDescription": "A second akousma from the same catechism, paired with the answer 'number' to the question about wisdom.",
+    "quoteMeaningAnalysis": "Harmonia in Greek means a fitting-together — the joint in a piece of carpentry — before it means anything musical. The Pythagorean claim is that beauty is not an ornament applied to parts but the relation in which parts stand, which is why one word covers a chord, a healthy body, a just city and a well-ordered life.",
+    "author": "Pythagorean akousma",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "akousmata",
+      "harmony",
+      "beauty",
+      "proportion",
+      "order"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1421",
+    "quoteText": "ζυγὸν μὴ ὑπερβαίνειν",
+    "quoteTextEN": "Do not step over the beam of a balance.",
+    "quoteDescription": "One of the Pythagorean symbola — cryptic precepts recorded by Diogenes Laertius VIII, each with a literal reading and a moral one.",
+    "quoteMeaningAnalysis": "Taken literally it is a scruple about scales. Taken as the school read it, the balance is justice and the instruction is not to overstep what is fair. The symbola were built to work both ways at once, so that an outsider hearing a taboo and an initiate hearing an ethics were each correctly served — a compression strategy, not a mystification.",
+    "author": "Pythagorean symbolon",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "symbola",
+      "justice",
+      "fairness",
+      "measure"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VIII"
+    ]
+  },
+  {
+    "id": "1422",
+    "quoteText": "πῦρ μαχαίρᾳ μὴ σκαλεύειν",
+    "quoteTextEN": "Do not stir the fire with a knife.",
+    "quoteDescription": "A Pythagorean symbolon from Diogenes Laertius VIII, glossed in antiquity as: do not provoke an angry man with sharp words.",
+    "quoteMeaningAnalysis": "Both terms are chosen. The fire is already burning, and the knife adds an edge rather than heat. The precept does not counsel silence; it counsels choosing an instrument suited to the state of the thing you are handling — a general rule about intervention wearing the costume of a kitchen rule.",
+    "author": "Pythagorean symbolon",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "symbola",
+      "anger",
+      "speech",
+      "restraint"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VIII"
+    ]
+  },
+  {
+    "id": "1423",
+    "quoteText": "φορτίον συνανατιθέναι μὲν τοῖς βαστάζουσι, συγκαθαιρεῖν δὲ μή",
+    "quoteTextEN": "Help others to take up a burden, but do not help them to lay it down.",
+    "quoteDescription": "A Pythagorean symbolon recorded by Diogenes Laertius VIII.",
+    "quoteMeaningAnalysis": "An unusually exact piece of ethical engineering. Assistance at the moment of lifting multiplies someone's capacity; assistance at the moment of setting down substitutes for their will. The precept separates the two by their position in time rather than by the helper's intentions, which is why it still works.",
+    "author": "Pythagorean symbolon",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "symbola",
+      "help",
+      "effort",
+      "discipline"
+    ],
+    "resources": [
+      "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VIII"
+    ]
+  },
+  {
+    "id": "1424",
+    "quoteText": "αἱροῦ βίον τὸν ἄριστον, ἡδὺν δὲ αὐτὸν ἡ συνήθεια ποιήσει.",
+    "quoteTextEN": "Choose the best life; habit will make it pleasant.",
+    "quoteDescription": "Attributed to Pythagoras by Plutarch. Like most 'Pythagoras said' material, the attribution is centuries later than the man.",
+    "quoteMeaningAnalysis": "It concedes the hard part instead of hiding it: the best life is not pleasant when you choose it, and the pleasantness arrives later, produced by repetition. That ordering — choose first, enjoy afterwards — is the exact inversion of how people actually decide, and the reason most good regimes are abandoned in their first fortnight.",
+    "author": "Pythagoras (attributed, via Plutarch)",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "habit",
+      "discipline",
+      "order",
+      "attributed"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1425",
+    "quoteText": "τί ἀληθέστατον λέγεται; ὅτι πονηροὶ οἱ ἄνθρωποι.",
+    "quoteTextEN": "What is the truest thing that is said? That human beings are wicked.",
+    "quoteDescription": "An akousma preserved by Iamblichus, and the least comfortable item in the Pythagorean catechism.",
+    "quoteMeaningAnalysis": "It sits oddly beside a philosophy of harmony until you notice what the community was for. A rule of life, silence, shared property and daily examination are only necessary if you assume people left to themselves go wrong. The order the Pythagoreans found in the cosmos was precisely what they did not find in human beings, which is why they thought it had to be imposed by practice.",
+    "author": "Pythagorean akousma",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "akousmata",
+      "human nature",
+      "discipline",
+      "order"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1426",
+    "quoteText": "The Pythagoreans supposed the elements of numbers to be the elements of all things, and the whole heaven to be a harmonia and a number.",
+    "quoteTextEN": "The Pythagoreans supposed the elements of numbers to be the elements of all things, and the whole heaven to be a harmonia and a number.",
+    "quoteDescription": "Aristotle's report of the Pythagorean position in Metaphysics I.5 — our earliest and most reliable source for what the school actually held.",
+    "quoteMeaningAnalysis": "Almost everything else attributed to Pythagoras comes from biographers writing seven centuries later; Aristotle is writing roughly two, is unsympathetic, and is therefore worth more. Note that he says 'the Pythagoreans', never 'Pythagoras' — the historical man wrote nothing, and the honest unit of attribution is the school.",
+    "author": "Aristotle, on the Pythagoreans",
+    "culture": "Ancient Greek",
+    "category": "Pythagoreanism",
+    "tags": [
+      "pythagoreanism",
+      "aristotle",
+      "number",
+      "harmony",
+      "kosmos",
+      "sources"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  {
+    "id": "1427",
+    "quoteText": "ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ.",
+    "quoteTextEN": "Upon those who step into the same rivers, other and yet other waters flow.",
+    "quoteDescription": "Heraclitus, fragment B12 — the closest thing to an actual river fragment that survives.",
+    "quoteMeaningAnalysis": "Read it carefully and it says nearly the opposite of what it is famous for. The river is the same river; that is the subject of the sentence. It is the same precisely because the water is always different — identity is carried by the pattern of flow, not by the stuff. 'You cannot step into the same river twice' is the later, more extreme version associated with Cratylus, and it was that version Plato attacked.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "flux",
+      "river",
+      "identity",
+      "change",
+      "fragment b12"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1428",
+    "quoteText": "κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν, ἀλλ᾽ ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον, ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα.",
+    "quoteTextEN": "This world-order, the same for all, no god or man made; but it always was, and is, and shall be: an ever-living fire, kindling in measures and going out in measures.",
+    "quoteDescription": "Heraclitus, fragment B30 — the single most important surviving statement of his cosmology.",
+    "quoteMeaningAnalysis": "The load-bearing word is measures, and it is said twice. Heraclitean flux is not chaos; it is exchange at a fixed rate, which is why a flame keeps a stable shape while nothing in it stays put. The Stoics took this fire and this order directly — Zeno of Kition's physics is Heraclitean, and the Stoic ekpyrosis is this fragment made systematic.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "flux",
+      "fire",
+      "kosmos",
+      "measure",
+      "stoicism",
+      "fragment b30"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1429",
+    "quoteText": "οὐκ ἐμοῦ ἀλλὰ τοῦ λόγου ἀκούσαντας ὁμολογεῖν σοφόν ἐστιν ἓν πάντα εἶναι.",
+    "quoteTextEN": "Listening not to me but to the logos, it is wise to agree that all things are one.",
+    "quoteDescription": "Heraclitus, fragment B50.",
+    "quoteMeaningAnalysis": "He explicitly refuses the role of authority: the account is not his, and agreement with him is worth nothing. Logos here is simultaneously word, account, ratio and measure, and the pun is the argument — what you hear said and what governs the world are the same structure, which is why it can be checked rather than believed.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "logos",
+      "unity",
+      "authority",
+      "fragment b50"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1430",
+    "quoteText": "τοῦ λόγου δ᾽ ἐόντος ξυνοῦ ζώουσιν οἱ πολλοὶ ὡς ἰδίαν ἔχοντες φρόνησιν.",
+    "quoteTextEN": "Though the logos is shared, most people live as though they had a private understanding of their own.",
+    "quoteDescription": "Heraclitus, fragment B2.",
+    "quoteMeaningAnalysis": "The complaint is not that people are ignorant but that they are privately confident. Heraclitus makes waking and sleeping the operative distinction: the sleeper has a world of their own, the waker shares one. Most people, he says, are asleep with their eyes open — an accusation about attention rather than intelligence.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "logos",
+      "common",
+      "attention",
+      "fragment b2"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1431",
+    "quoteText": "παλίντροπος ἁρμονίη ὅκωσπερ τόξου καὶ λύρης.",
+    "quoteTextEN": "A back-turning structure, as of the bow and the lyre.",
+    "quoteDescription": "Heraclitus, fragment B51 — the image that explains what he means by the unity of opposites.",
+    "quoteMeaningAnalysis": "Both objects work only because something is pulling in two directions at once: slacken either and you have a stick and a shell. The opposites are not reconciled, and they are not taking turns — the tension is the function. This is why reading Heraclitus as a mystic of contradiction misses him; he is describing load-bearing structure.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "opposites",
+      "tension",
+      "harmony",
+      "structure",
+      "fragment b51"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1432",
+    "quoteText": "ἁρμονίη ἀφανὴς φανερῆς κρείττων.",
+    "quoteTextEN": "The hidden structure is stronger than the visible one.",
+    "quoteDescription": "Heraclitus, fragment B54.",
+    "quoteMeaningAnalysis": "Harmonia is again the carpenter's joint rather than a chord. The claim is that the connections holding a thing together are precisely the ones you do not see, and that the visible arrangement is the weaker, more incidental fact about it — a working assumption for anyone who has ever debugged a system by its symptoms.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "hidden",
+      "structure",
+      "harmony",
+      "fragment b54"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1433",
+    "quoteText": "ὁδὸς ἄνω κάτω μία καὶ ὡυτή.",
+    "quoteTextEN": "The road up and the road down are one and the same.",
+    "quoteDescription": "Heraclitus, fragment B60.",
+    "quoteMeaningAnalysis": "Eight words carrying the whole doctrine of opposites. The road is one object; up and down are not properties of it but of a traveller's direction. Most apparent contradictions dissolve the same way — not by choosing a side, but by noticing that the two descriptions were indexed to different positions.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "opposites",
+      "perspective",
+      "unity",
+      "fragment b60"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1434",
+    "quoteText": "Πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς.",
+    "quoteTextEN": "War is the father of all and the king of all.",
+    "quoteDescription": "Heraclitus, fragment B53. Polemos means strife or contention as much as armed war.",
+    "quoteMeaningAnalysis": "Not a celebration of violence but a claim about origins: things come to be, and are held in being, by opposition — the way the bow's two limbs make it a bow. Read with B80, where he calls strife justice, it becomes clear he is denying the usual assumption that conflict is a failure of order rather than its mechanism.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "strife",
+      "conflict",
+      "origins",
+      "fragment b53"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1435",
+    "quoteText": "φύσις κρύπτεσθαι φιλεῖ.",
+    "quoteTextEN": "Nature loves to hide.",
+    "quoteDescription": "Heraclitus, fragment B123 — three words, and one of the most quoted sentences in the history of the philosophy of science.",
+    "quoteMeaningAnalysis": "Physis is a thing's way of growing and being what it is, not scenery. To say it loves to hide is to say the constitution of a thing is never on its surface — which makes inquiry necessary rather than optional, and makes the obvious reading of anything the first suspect.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "nature",
+      "inquiry",
+      "hidden",
+      "fragment b123"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1436",
+    "quoteText": "ἐδιζησάμην ἐμεωυτόν.",
+    "quoteTextEN": "I searched out myself.",
+    "quoteDescription": "Heraclitus, fragment B101 — two words in Greek, and possibly the first recorded act of philosophical introspection.",
+    "quoteMeaningAnalysis": "The verb is the one used for investigating a case or interrogating evidence, not for looking inward fondly. It reads as Heraclitus taking the Delphic 'know thyself' as an instruction to be carried out rather than a saying to be admired — and reporting the result as a piece of research he conducted.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "self-knowledge",
+      "inquiry",
+      "delphi",
+      "fragment b101"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1437",
+    "quoteText": "ὁ ἄναξ οὗ τὸ μαντεῖόν ἐστι τὸ ἐν Δελφοῖς οὔτε λέγει οὔτε κρύπτει ἀλλὰ σημαίνει.",
+    "quoteTextEN": "The lord whose oracle is at Delphi neither speaks nor conceals, but gives a sign.",
+    "quoteDescription": "Heraclitus, fragment B93 — his account of how Apollo communicates, and by implication of how he himself writes.",
+    "quoteMeaningAnalysis": "Three options are named and the middle one chosen: not plain statement, not concealment, but signification, which requires the hearer to do work. Heraclitus was called ho Skoteinos, the Obscure, and this is the nearest thing to a defence of his own style — a sign that must be read leaves you with something a sentence handed over never could.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "delphi",
+      "apollo",
+      "obscurity",
+      "meaning",
+      "fragment b93"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1438",
+    "quoteText": "πολυμαθίη νόον ἔχειν οὐ διδάσκει· Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην.",
+    "quoteTextEN": "Much learning does not teach understanding; otherwise it would have taught Hesiod and Pythagoras.",
+    "quoteDescription": "Heraclitus, fragment B40 — a direct attack on Pythagoras, by name, from a near-contemporary.",
+    "quoteMeaningAnalysis": "This is not a general remark about education; it is a quarrel between two of the schools in this collection, conducted in public and in writing. Heraclitus grants the accumulation and denies that it produces the thing it was accumulated for. Whether he was right about Pythagoras is a separate question from whether he was right about accumulation.",
+    "author": "Ἡράκλειτος (Heraclitus)",
+    "culture": "Ancient Greek",
+    "category": "Flux",
+    "tags": [
+      "heraclitus",
+      "learning",
+      "understanding",
+      "pythagoras",
+      "polymathy",
+      "fragment b40"
+    ],
+    "resources": [
+      "https://plato.stanford.edu/entries/heraclitus/"
+    ]
+  },
+  {
+    "id": "1439",
+    "quoteText": "ΜΗΔΕΝ ΑΓΑΝ",
+    "quoteTextEN": "Nothing in excess.",
+    "quoteDescription": "One of the three maxims traditionally inscribed on the forecourt of the temple of Apollo at Delphi.",
+    "quoteMeaningAnalysis": "The positive virtue it points at is sophrosyne — soundness of mind, the settled sense of proportion that keeps a person inside their own measure. Note that it forbids excess, not intensity: the Greek objection is to exceeding the limit proper to you, which is the same offence, hybris, whether it shows up as arrogance, appetite or grief.",
+    "author": "Delphic maxim",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "moderation",
+      "sophrosyne",
+      "hybris",
+      "measure"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1440",
+    "quoteText": "ΕΓΓΥΑ ΠΑΡΑ Δ᾽ ΑΤΗ",
+    "quoteTextEN": "Give a pledge, and ruin is at hand.",
+    "quoteDescription": "The third of the maxims inscribed at Delphi, alongside 'know thyself' and 'nothing in excess' — and by far the least quoted.",
+    "quoteMeaningAnalysis": "It is a warning against standing surety for another person's debt, and its flat practicality is the interpretive key to the whole set. The trio was not carved for philosophers; it was carved for ordinary people walking into a temple, which is why 'know thyself' beside it should first be read as advice rather than as metaphysics. Ate is the ruin that follows overreach, personified.",
+    "author": "Delphic maxim",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "surety",
+      "debt",
+      "ate",
+      "prudence"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1441",
+    "quoteText": "ΚΑΙΡΟΝ ΓΝΩΘΙ",
+    "quoteTextEN": "Know the right moment.",
+    "quoteDescription": "From the list of some 147 Delphic maxims preserved by Stobaeus and attributed to the Seven Sages.",
+    "quoteMeaningAnalysis": "Kairos is the qualitative moment — the opening — as distinct from chronos, time that merely elapses. The maxim makes timing a form of knowledge rather than luck, and it is why the Greeks could regard a correct action taken at the wrong moment as a genuine failure rather than bad fortune.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "kairos",
+      "timing",
+      "judgement"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1442",
+    "quoteText": "ΘΥΜΟΥ ΚΡΑΤΕΙ",
+    "quoteTextEN": "Master your anger.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Thymos is the spirited part — anger, but also indignation, ambition and the drive to defend what is yours. The maxim says master it, not extinguish it, which is a materially different instruction: the thing being governed is also the thing that makes courage possible.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "anger",
+      "thymos",
+      "self-command"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1443",
+    "quoteText": "ΓΛΩΣΣΗΣ ΚΡΑΤΕΙ",
+    "quoteTextEN": "Master your tongue.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Paired with 'master your anger' it forms a sequence, and the order matters: the tongue is where unmastered thymos becomes irreversible. Zeno of Kition's remark that it is better to stumble with the feet than with the tongue is the same observation arriving two centuries later by a different road.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "speech",
+      "restraint",
+      "self-command"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1444",
+    "quoteText": "ΥΒΡΙΝ ΜΙΣΕΙ",
+    "quoteTextEN": "Hate insolence.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Hybris in the archaic sense is not pride but the act of humiliating another in order to enlarge yourself — a public offence with a victim, not a private vice. It is the offence the whole Delphic ethic is organised against, and the reason 'know thyself' originally meant know that you are mortal rather than know your inner depths.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "hybris",
+      "humility",
+      "limit"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1445",
+    "quoteText": "ΧΡΟΝΟΥ ΦΕΙΔΟΥ",
+    "quoteTextEN": "Be sparing with time.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "The verb pheidou is the one used of a miser with money, and the transfer is deliberate: treat time as the scarce holding it actually is. Seneca builds a whole letter on the same point — that people who would not surrender a coin surrender their days to anyone who asks for them.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "time",
+      "thrift",
+      "attention"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1446",
+    "quoteText": "ΦΙΛΟΣΟΦΟΣ ΓΙΝΟΥ",
+    "quoteTextEN": "Become a lover of wisdom.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Ginou is become — a continuous process — not be. The maxim carefully does not say become wise: the achievable state is the loving, the pursuit, and the Greek word philosophos was built to concede exactly that. Wisdom is what you are walking towards, not a badge you are issued.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "philosophy",
+      "learning",
+      "becoming"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1447",
+    "quoteText": "ΤΥΧΗ ΜΗ ΠΙΣΤΕΥΕ",
+    "quoteTextEN": "Do not trust fortune.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Tyche is chance personified, and the instruction is about credit rather than pessimism: do not lend fortune your confidence, because it does not repay on a schedule. The Stoics later made this structural by defining everything fortune can touch as an indifferent — the same advice, with an argument attached.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "fortune",
+      "tyche",
+      "stoicism",
+      "prudence"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1448",
+    "quoteText": "ΠΕΡΑΣ ΕΠΙΤΕΛΕΙ ΜΗ ΑΠΟΔΕΙΛΙΩΝ",
+    "quoteTextEN": "Carry it through to the end, without flinching.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Two obligations in one line: reach the limit, and do not lose your nerve on the way. It is aimed at the particular failure of abandoning a thing in its last quarter, when the cost is already sunk and only the courage is missing — which is when most work is actually lost.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "perseverance",
+      "courage",
+      "completion"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1449",
+    "quoteText": "ΓΗΡΑΣ ΠΡΟΣΔΕΧΟΥ",
+    "quoteTextEN": "Accept old age.",
+    "quoteDescription": "From the Stobaeus list of Delphic maxims.",
+    "quoteMeaningAnalysis": "Prosdechou means receive or welcome, as you would a guest you were expecting. Set beside the maxims on fortune and on hybris it completes the archaic picture: the offence is always the refusal of a limit, and age is the limit that arrives whether or not it is admitted.",
+    "author": "Delphic maxim (Stobaeus list)",
+    "culture": "Ancient Greek",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "age",
+      "acceptance",
+      "mortality",
+      "limit"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1450",
+    "quoteText": "παῖς ὢν κόσμιος γίνου, ἡβῶν ἐγκρατής, μέσος δίκαιος, πρεσβύτης εὔβουλος, τελευτῶν ἄλυπος.",
+    "quoteTextEN": "As a child, be well-behaved; as a youth, self-controlled; in middle age, just; as an old man, of good counsel; at the end, without grief.",
+    "quoteDescription": "Inscribed on a stone at Ai-Khanoum on the Oxus, in what is now northern Afghanistan — Delphic maxims copied at Delphi and carried to the far eastern edge of the Hellenistic world.",
+    "quoteMeaningAnalysis": "The accompanying epigram records that the maxims were copied at Delphi and brought there by a man named Clearchus — very probably Clearchus of Soli, a pupil of Aristotle, and Soli was a city on the north coast of Cyprus. The identification is probable rather than certain, but if it holds, this collection now contains two Cypriots at the hinges of Greek thought: one who founded the Stoa in Athens, and one who carried Delphi five thousand kilometres east. Note also the shape of the maxim itself — an ethics indexed to age, in which the virtue required of you changes as you do.",
+    "author": "Delphic maxims at Ai-Khanoum (attributed to Clearchus of Soli, Cyprus)",
+    "culture": "Cypriot / Hellenistic Bactria",
+    "category": "Delphic Maxims",
+    "tags": [
+      "delphi",
+      "maxims",
+      "ai-khanoum",
+      "clearchus",
+      "soli",
+      "cyprus",
+      "ages of life",
+      "hellenistic"
+    ],
+    "resources": [
+      "https://en.wikipedia.org/wiki/Ai-Khanoum",
+      "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
   }
 ];
