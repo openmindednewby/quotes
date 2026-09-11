@@ -1,0 +1,9 @@
+.git
+.gitignore
+.dockerignore
+.github
+.env*
+node_modules
+nginx.prod.dockerfile
+README.md
+LICENSE
