@@ -1,40 +1,32 @@
-const CACHE_NAME = 'ocr-scanner-v1';
-const urlsToCache = [
-  '/index.html',
-  '/styles.css',
-  '/script.js',
-  '/quotes-data.js',
-  'https://unpkg.com/tesseract.js@5.1.0/dist/tesseract.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css',
-  'https://fonts.googleapis.com/css2?family=Delius&display=swap'
-];
+const CACHE_NAME = 'quotes-v2';
+const PRECACHE_URLS = ['/', '/index.html', '/styles.css', '/script.js'];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then((cache) => cache.addAll(urlsToCache))
-  );
-});
-
-self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    caches.match(event.request)
-      .then((response) => {
-        return response || fetch(event.request);
-      })
-  );
+  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS)));
+  self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames.map((cache) => {
-          if (cache !== CACHE_NAME) {
-            return caches.delete(cache);
-          }
-        })
-      );
-    })
+    caches.keys()
+      .then((names) => Promise.all(names.filter((name) => name !== CACHE_NAME).map((name) => caches.delete(name))))
+      .then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('fetch', (event) => {
+  const { request } = event;
+  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
+
+  event.respondWith(
+    fetch(request)
+      .then((response) => {
+        if (response.ok) {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+        }
+        return response;
+      })
+      .catch(() => caches.match(request))
   );
 });

@@ -5,6 +5,7 @@ const quoteMetaEl = document.getElementById('quoteMeta');
 
 const displayDuration = 8000; // time quote stays visible
 const transitionDuration = 600; // fade-out duration before switching
+const QUOTES_DATA_URL = 'quotes-data.js';
 let cycleTimer = null;
 let quotes = [];
 let currentIndex = 0;
@@ -15,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuotes() {
   try {
-    const dataToUse = await fetchLatestQuotes() || await fetchQuotes('quotes-data.js', {});
+    const dataToUse = await fetchQuotes(QUOTES_DATA_URL);
 
     if (!dataToUse || dataToUse.length === 0) {
       throw new Error('The quote dataset is unavailable.');
@@ -35,13 +36,9 @@ async function loadQuotes() {
   }
 }
 
-function fetchLatestQuotes() {
-  return fetchQuotes(`quotes-data.js?refresh=${Date.now()}`, { cache: 'no-store' });
-}
-
-async function fetchQuotes(url, options) {
+async function fetchQuotes(url) {
   try {
-    const response = await fetch(url, { ...options, credentials: 'same-origin' });
+    const response = await fetch(url, { credentials: 'same-origin' });
 
     if (!response.ok) {
       throw new Error(`Failed to fetch latest quotes dataset: ${response.status}`);

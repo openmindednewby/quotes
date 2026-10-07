@@ -15,4 +15,6 @@ WORKDIR /webgl
 # the folder with the build results
 COPY . .
 
+RUN hash=$(sha256sum quotes-data.js | cut -c1-12)  && mv quotes-data.js "quotes-data.$hash.js"  && sed -i "s#'quotes-data.js'#'quotes-data.$hash.js'#" script.js  && grep -q "quotes-data.$hash.js" script.js
+
 
