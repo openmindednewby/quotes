@@ -11094,7868 +11094,8665 @@ window.QUOTES_DATA = [
   },
   {
     "id": "587",
-    "quoteText": "The measured sundial shadow reminds pilgrims to tend the present like a slow garden.",
-    "quoteTextEN": "The measured sundial shadow reminds pilgrims to tend the present like a slow garden.",
-    "quoteDescription": "Levi Stern shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Levi Stern",
-    "culture": "Kibbutz Orchard Lessons",
-    "category": "Time",
+    "quoteText": "It might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations.",
+    "quoteTextEN": "It might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations.",
+    "quoteDescription": "Note A (1843), just before her suggestion about musical composition.",
+    "quoteMeaningAnalysis": "The engine is not tied to arithmetic: anything whose relations can be encoded symbolically is fair material. This is the general-purpose idea in a single conditional sentence.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "general-purpose computing",
+      "symbols",
+      "encoding"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "588",
-    "quoteText": "The measured sundial shadow reminds pilgrims to harvest patience before ambition.",
-    "quoteTextEN": "The measured sundial shadow reminds pilgrims to harvest patience before ambition.",
-    "quoteDescription": "Selam Tesfaye shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Selam Tesfaye",
-    "culture": "Eritrean Coffee Ceremonies",
-    "category": "Time",
+    "quoteText": "The Analytical Engine is an embodying of the science of operations, constructed with peculiar reference to abstract number as the subject of those operations.",
+    "quoteTextEN": "The Analytical Engine is an embodying of the science of operations, constructed with peculiar reference to abstract number as the subject of those operations.",
+    "quoteDescription": "Note A (1843), contrasting the Analytical Engine with the Difference Engine.",
+    "quoteMeaningAnalysis": "Number is described as the engine's chosen subject rather than its essence; the machine embodies operations, and arithmetic is one application of them.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "machines",
+      "operations",
+      "number"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "589",
-    "quoteText": "The measured sundial shadow reminds pilgrims to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured sundial shadow reminds pilgrims to savor pauses between heartbeat drums.",
-    "quoteDescription": "Ibrahim Ghali shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Ibrahim Ghali",
-    "culture": "Oasis Caravan Chronicle",
-    "category": "Time",
+    "quoteText": "The distinctive characteristic of the Analytical Engine, and that which has rendered it possible to endow mechanism with such extensive faculties as bid fair to make this engine the executive right-hand of abstract algebra, is the introduction into it of the principle which Jacquard devised for regulating, by means of punched cards, the most complicated patterns in the fabrication of brocaded stuffs.",
+    "quoteTextEN": "The distinctive characteristic of the Analytical Engine, and that which has rendered it possible to endow mechanism with such extensive faculties as bid fair to make this engine the executive right-hand of abstract algebra, is the introduction into it of the principle which Jacquard devised for regulating, by means of punched cards, the most complicated patterns in the fabrication of brocaded stuffs.",
+    "quoteDescription": "Note A (1843), identifying what separates Babbage's two engines.",
+    "quoteMeaningAnalysis": "She credits a textile technology, the punched-card loom, as the key to programmability. Control by external cards is what turns a calculator into an executor of algebra.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "punched cards",
+      "Jacquard",
+      "programmability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "590",
-    "quoteText": "The measured sundial shadow reminds pilgrims to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured sundial shadow reminds pilgrims to trust the rhythm of unfinished work.",
-    "quoteDescription": "Juniper Hayes shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Juniper Hayes",
-    "culture": "Cascadian Seasonal Notes",
-    "category": "Time",
+    "quoteText": "The bounds of arithmetic were however outstepped the moment the idea of applying the cards had occurred.",
+    "quoteTextEN": "The bounds of arithmetic were however outstepped the moment the idea of applying the cards had occurred.",
+    "quoteDescription": "Note A (1843), on why the Analytical Engine is not a mere calculating machine.",
+    "quoteMeaningAnalysis": "The leap is dated to an idea, not to hardware: once instructions could be supplied separately, the machine stopped being limited to fixed arithmetic.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "computing history",
+      "instructions",
+      "arithmetic"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "591",
-    "quoteText": "The measured sundial shadow reminds pilgrims to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured sundial shadow reminds pilgrims to measure journeys by the companions kept.",
-    "quoteDescription": "Nia Thompson shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Nia Thompson",
-    "culture": "Gullah-Geechee Timekeepers",
-    "category": "Time",
+    "quoteText": "In enabling mechanism to combine together general symbols in successions of unlimited variety and extent, a uniting link is established between the operations of matter and the abstract mental processes of the most abstract branch of mathematical science.",
+    "quoteTextEN": "In enabling mechanism to combine together general symbols in successions of unlimited variety and extent, a uniting link is established between the operations of matter and the abstract mental processes of the most abstract branch of mathematical science.",
+    "quoteDescription": "Note A (1843), on what the Analytical Engine connects.",
+    "quoteMeaningAnalysis": "Brass and gears on one side, abstract reasoning on the other: Lovelace sees the engine as the bridge, the first place where symbol manipulation becomes physical process.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "mind and matter",
+      "symbols",
+      "mechanism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "592",
-    "quoteText": "The measured sundial shadow reminds pilgrims to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured sundial shadow reminds pilgrims to let endings ripen into new beginnings.",
-    "quoteDescription": "Ousmane Diallo shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Ousmane Diallo",
-    "culture": "Sahel Story Hour",
-    "category": "Time",
+    "quoteText": "A new, a vast, and a powerful language is developed for the future use of analysis.",
+    "quoteTextEN": "A new, a vast, and a powerful language is developed for the future use of analysis.",
+    "quoteDescription": "Note A (1843), following the description of the engine's symbolic power.",
+    "quoteMeaningAnalysis": "She frames machine instructions as a language, anticipating that the notation for directing the engine would be a tool of mathematics in its own right.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "programming languages",
+      "notation",
+      "analysis"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "593",
-    "quoteText": "The measured sundial shadow teaches caretakers to tend the present like a slow garden.",
-    "quoteTextEN": "The measured sundial shadow teaches caretakers to tend the present like a slow garden.",
-    "quoteDescription": "Lotte Schneider shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Lotte Schneider",
-    "culture": "Black Forest Clockmakers",
-    "category": "Time",
+    "quoteText": "Granted that the actual mechanism is unerring in its processes, the cards may give it wrong orders.",
+    "quoteTextEN": "Granted that the actual mechanism is unerring in its processes, the cards may give it wrong orders.",
+    "quoteDescription": "Note A (1843), answering the objection that the engine could produce errors.",
+    "quoteMeaningAnalysis": "Possibly the first written recognition of the programming bug: the machine is exact, so mistakes migrate into the instructions. She argues such errors are still rarer than in hand computation.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "bugs",
+      "correctness",
+      "programming"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "594",
-    "quoteText": "The measured sundial shadow teaches caretakers to harvest patience before ambition.",
-    "quoteTextEN": "The measured sundial shadow teaches caretakers to harvest patience before ambition.",
-    "quoteDescription": "Aiko Yamashita shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Aiko Yamashita",
-    "culture": "Kyoto Temple Bells",
-    "category": "Time",
+    "quoteText": "We may consider the engine as the material and mechanical representative of analysis.",
+    "quoteTextEN": "We may consider the engine as the material and mechanical representative of analysis.",
+    "quoteDescription": "Note A (1843), on how the engine's powers are bounded only by the laws of analysis.",
+    "quoteMeaningAnalysis": "The machine is presented as analysis made physical, so its reach grows with mathematical knowledge itself rather than with any fixed list of tasks.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Computing",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "analysis",
+      "mechanism",
+      "representation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "595",
-    "quoteText": "The measured sundial shadow teaches caretakers to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured sundial shadow teaches caretakers to savor pauses between heartbeat drums.",
-    "quoteDescription": "Mateus Oliveira shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Mateus Oliveira",
-    "culture": "Lisbon Tide Charts",
-    "category": "Time",
+    "quoteText": "The engine can arrange and combine its numerical quantities exactly as if they were letters or any other general symbols.",
+    "quoteTextEN": "The engine can arrange and combine its numerical quantities exactly as if they were letters or any other general symbols.",
+    "quoteDescription": "Note E (1843), correcting those who think the engine's processes must be merely numerical.",
+    "quoteMeaningAnalysis": "Output in digits does not make the internal process arithmetic. Lovelace insists on symbolic manipulation, the foundation of what is now called computer algebra.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "symbolic computation",
+      "algebra",
+      "abstraction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note E (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "596",
-    "quoteText": "The measured sundial shadow teaches caretakers to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured sundial shadow teaches caretakers to trust the rhythm of unfinished work.",
-    "quoteDescription": "Abena Owusu shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Abena Owusu",
-    "culture": "Akan Calendar Wisdom",
-    "category": "Time",
+    "quoteText": "A cycle of operations, then, must be understood to signify any set of operations which is repeated more than once.",
+    "quoteTextEN": "A cycle of operations, then, must be understood to signify any set of operations which is repeated more than once.",
+    "quoteDescription": "Note E (1843), introducing notation for recurring groups of operations.",
+    "quoteMeaningAnalysis": "Here the loop gets a definition: repetition itself, twice or indefinitely, is what makes a cycle. It is the conceptual seed of every iteration construct in later programming languages.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "loops",
+      "iteration",
+      "notation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note E (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "597",
-    "quoteText": "The measured sundial shadow teaches caretakers to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured sundial shadow teaches caretakers to measure journeys by the companions kept.",
-    "quoteDescription": "Levi Stern shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Levi Stern",
-    "culture": "Kibbutz Orchard Lessons",
-    "category": "Time",
+    "quoteText": "In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable.",
+    "quoteTextEN": "In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable.",
+    "quoteDescription": "Note G (1843), opening her caution against exaggerated ideas of the engine's powers.",
+    "quoteMeaningAnalysis": "A description of the hype cycle a century and a half before the name: inflated expectations, then an overcorrection into dismissal. Many readers apply it to AI today.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "hype",
+      "expectations",
+      "judgement"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note G (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "598",
-    "quoteText": "The measured sundial shadow teaches caretakers to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured sundial shadow teaches caretakers to let endings ripen into new beginnings.",
-    "quoteDescription": "Selam Tesfaye shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Selam Tesfaye",
-    "culture": "Eritrean Coffee Ceremonies",
-    "category": "Time",
+    "quoteText": "It can follow analysis; but it has no power of anticipating any analytical relations or truths. Its province is to assist us in making available what we are already acquainted with.",
+    "quoteTextEN": "It can follow analysis; but it has no power of anticipating any analytical relations or truths. Its province is to assist us in making available what we are already acquainted with.",
+    "quoteDescription": "Note G (1843), directly after her statement that the engine cannot originate anything.",
+    "quoteMeaningAnalysis": "The engine executes known methods and does not discover new truths. Turing later named this position 'Lady Lovelace's objection' and argued against it.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "machine intelligence",
+      "creativity",
+      "limits"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note G (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "599",
-    "quoteText": "The measured sundial shadow invites gardeners to tend the present like a slow garden.",
-    "quoteTextEN": "The measured sundial shadow invites gardeners to tend the present like a slow garden.",
-    "quoteDescription": "Ibrahim Ghali shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Ibrahim Ghali",
-    "culture": "Oasis Caravan Chronicle",
-    "category": "Time",
+    "quoteText": "The relations and the nature of many subjects in that science are necessarily thrown into new lights, and more profoundly investigated.",
+    "quoteTextEN": "The relations and the nature of many subjects in that science are necessarily thrown into new lights, and more profoundly investigated.",
+    "quoteDescription": "Note G (1843), on the indirect influence of the engine on mathematics itself.",
+    "quoteMeaningAnalysis": "Recasting mathematics so a machine can run it forces new understanding of the mathematics. Writing a program clarifies the problem as much as it solves it.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "formalisation",
+      "understanding",
+      "reciprocity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note G (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "600",
-    "quoteText": "The measured sundial shadow invites gardeners to harvest patience before ambition.",
-    "quoteTextEN": "The measured sundial shadow invites gardeners to harvest patience before ambition.",
-    "quoteDescription": "Juniper Hayes shares a time image where a sundial shadow becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Juniper Hayes",
-    "culture": "Cascadian Seasonal Notes",
-    "category": "Time",
+    "quoteText": "There are in all extensions of human power, or additions to human knowledge, various collateral influences, besides the main and primary object attained.",
+    "quoteTextEN": "There are in all extensions of human power, or additions to human knowledge, various collateral influences, besides the main and primary object attained.",
+    "quoteDescription": "Note G (1843), generalising from the engine's indirect effects.",
+    "quoteMeaningAnalysis": "Inventions have side effects beyond their stated purpose, and these are often the more important ones. She expected the engine to change science in ways its builders did not plan.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Systems Thinking",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "side effects",
+      "technology",
+      "second-order effects"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      {
+        "title": "Sketch of the Analytical Engine, Note G (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
     "id": "601",
-    "quoteText": "The quiet dawn patrol reminds warriors to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet dawn patrol reminds warriors to speak truth with a steady voice.",
-    "quoteDescription": "Aaliyah Monroe shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Aaliyah Monroe",
-    "culture": "Black Southern Freedom Songs",
-    "category": "Courage",
+    "quoteText": "Our family are an alternate stratification of poetry and mathematics.",
+    "quoteTextEN": "Our family are an alternate stratification of poetry and mathematics.",
+    "quoteDescription": "Letter to Andrew Crosse, printed in Englische Studien vol. 19 (1894), 'Byron's Daughter', p. 156.",
+    "quoteMeaningAnalysis": "Byron's daughter, raised on mathematics by a mother determined to suppress the poetic strain, describes the family as layered rock, the two inheritances alternating rather than blending.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "heritage",
+      "poetry",
+      "mathematics"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Englische Studien 19 (1894), letter to Andrew Crosse, via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Ada_Lovelace"
+      }
     ]
   },
   {
     "id": "602",
-    "quoteText": "The quiet dawn patrol reminds warriors to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet dawn patrol reminds warriors to stand guard for the vulnerable.",
-    "quoteDescription": "Borja Castillo shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Borja Castillo",
-    "culture": "Basque Resistance Lore",
-    "category": "Courage",
+    "quoteText": "I am more than ever now the bride of science.",
+    "quoteTextEN": "I am more than ever now the bride of science.",
+    "quoteDescription": "Letter to Andrew Crosse, printed in Englische Studien vol. 19 (1894), pp. 157-158.",
+    "quoteMeaningAnalysis": "Lovelace uses the language of marriage vows for her vocation, a declaration of total commitment from a woman whose public scientific role was otherwise limited.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "vocation",
+      "commitment",
+      "science"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Englische Studien 19 (1894), letter to Andrew Crosse, via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Ada_Lovelace"
+      }
     ]
   },
   {
     "id": "603",
-    "quoteText": "The quiet dawn patrol reminds warriors to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet dawn patrol reminds warriors to plant hope in rocky soil.",
-    "quoteDescription": "Chiamaka Eze shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Chiamaka Eze",
-    "culture": "Nigerian Courage Tales",
-    "category": "Courage",
+    "quoteText": "Religion to me is science, and science is religion.",
+    "quoteTextEN": "Religion to me is science, and science is religion.",
+    "quoteDescription": "Letter to Andrew Crosse, printed in Englische Studien vol. 19 (1894), pp. 157-158.",
+    "quoteMeaningAnalysis": "Rather than setting faith against inquiry, she folds them into each other: studying nature becomes her form of worship.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "religion",
+      "science",
+      "faith"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Englische Studien 19 (1894), letter to Andrew Crosse, via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Ada_Lovelace"
+      }
     ]
   },
   {
     "id": "604",
-    "quoteText": "The quiet dawn patrol reminds warriors to hold the line when winds rise.",
-    "quoteTextEN": "The quiet dawn patrol reminds warriors to hold the line when winds rise.",
-    "quoteDescription": "Dawa Tsering shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Dawa Tsering",
-    "culture": "Sherpa Mountain Teachings",
-    "category": "Courage",
+    "quoteText": "The more we struggle for life (as pleasure), the more we are actually killing what we love.",
+    "quoteTextEN": "The more we struggle for life (as pleasure), the more we are actually killing what we love.",
+    "quoteDescription": "The Wisdom of Insecurity (1951), p. 32 as cited on Wikiquote.",
+    "quoteMeaningAnalysis": "Grasping at pleasure turns it into a chore and a source of anxiety. Watts argues enjoyment depends on not clutching at it.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "pleasure",
+      "grasping",
+      "paradox"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Wisdom of Insecurity (1951), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "605",
-    "quoteText": "The quiet dawn patrol reminds warriors to step forward even while trembling.",
-    "quoteTextEN": "The quiet dawn patrol reminds warriors to step forward even while trembling.",
-    "quoteDescription": "Elena Petrova shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Elena Petrova",
-    "culture": "Bulgarian Courage Stories",
-    "category": "Courage",
+    "quoteText": "There is no formula for generating the authentic warmth of love. It cannot be copied.",
+    "quoteTextEN": "There is no formula for generating the authentic warmth of love. It cannot be copied.",
+    "quoteDescription": "The Wisdom of Insecurity (1951), as cited on Wikiquote.",
+    "quoteMeaningAnalysis": "Love imitated by technique is a counterfeit. Watts treats it as a by-product of awareness that no method can manufacture on demand.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "love",
+      "authenticity",
+      "method"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Wisdom of Insecurity (1951), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "606",
-    "quoteText": "The quiet dawn patrol reminds warriors to choose the road that frees others.",
-    "quoteTextEN": "The quiet dawn patrol reminds warriors to choose the road that frees others.",
-    "quoteDescription": "Fiona MacLeod shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Fiona MacLeod",
-    "culture": "Highland Bravery Songs",
-    "category": "Courage",
+    "quoteText": "Running away from fear is fear; fighting pain is pain; trying to be brave is being scared.",
+    "quoteTextEN": "Running away from fear is fear; fighting pain is pain; trying to be brave is being scared.",
+    "quoteDescription": "The Wisdom of Insecurity (1951), as cited on Wikiquote.",
+    "quoteMeaningAnalysis": "Each attempt to escape a feeling is that same feeling continuing in a new form. Watts says the way through is full awareness of the experience rather than resistance to it.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Psychology",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "fear",
+      "pain",
+      "acceptance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Wisdom of Insecurity (1951), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "607",
-    "quoteText": "The quiet dawn patrol asks healers to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet dawn patrol asks healers to speak truth with a steady voice.",
-    "quoteDescription": "Gideon Ashanti shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Gideon Ashanti",
-    "culture": "Ghanaian Guardian Wisdom",
-    "category": "Courage",
+    "quoteText": "The thinker has no other form than his thought.",
+    "quoteTextEN": "The thinker has no other form than his thought.",
+    "quoteDescription": "The Wisdom of Insecurity (1951), as cited on Wikiquote.",
+    "quoteMeaningAnalysis": "There is no separate observer standing behind experience. Watts dissolves the split between a self that thinks and the thoughts it supposedly has.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Zen",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "self",
+      "thought",
+      "non-duality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Wisdom of Insecurity (1951), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "608",
-    "quoteText": "The quiet dawn patrol asks healers to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet dawn patrol asks healers to stand guard for the vulnerable.",
-    "quoteDescription": "Hyejin Park shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Hyejin Park",
-    "culture": "Korean Resilience Chronicles",
-    "category": "Courage",
+    "quoteText": "There are times when men's passions are much more trustworthy than their principles.",
+    "quoteTextEN": "There are times when men's passions are much more trustworthy than their principles.",
+    "quoteDescription": "The Way of Zen (1957), p. 29 as cited on Wikiquote.",
+    "quoteMeaningAnalysis": "Abstract principles can license cruelty that spontaneous feeling would refuse. Watts sets Taoist spontaneity against rigid moral codes.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Taoism",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "spontaneity",
+      "morality",
+      "principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Way of Zen (1957), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "609",
-    "quoteText": "The quiet dawn patrol asks healers to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet dawn patrol asks healers to plant hope in rocky soil.",
-    "quoteDescription": "Idris Haddou shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Idris Haddou",
-    "culture": "Berber Desert Tales",
-    "category": "Courage",
+    "quoteText": "If Christianity is wine and Islam coffee, Buddhism is most certainly tea.",
+    "quoteTextEN": "If Christianity is wine and Islam coffee, Buddhism is most certainly tea.",
+    "quoteDescription": "The Way of Zen (1957), p. 190 as cited on Wikiquote, discussing the Zen tea ceremony.",
+    "quoteMeaningAnalysis": "A comparison of temperaments through drinks: wine for intoxication, coffee for stimulation, tea for quiet alertness. It fits the Zen link between tea and meditation.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Zen",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "religion",
+      "tea",
+      "temperament"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Way of Zen (1957), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "610",
-    "quoteText": "The quiet dawn patrol asks healers to hold the line when winds rise.",
-    "quoteTextEN": "The quiet dawn patrol asks healers to hold the line when winds rise.",
-    "quoteDescription": "Jana Novak shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Jana Novak",
-    "culture": "Slovak Courage Proverbs",
-    "category": "Courage",
+    "quoteText": "Life and love generate effort, but effort will not generate them.",
+    "quoteTextEN": "Life and love generate effort, but effort will not generate them.",
+    "quoteDescription": "The Book: On the Taboo Against Knowing Who You Are (1966), p. 56 as cited on Wikiquote.",
+    "quoteMeaningAnalysis": "The causal arrow runs from vitality to striving, never back. Forcing yourself to feel alive or loving produces strain, not the thing itself.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "effort",
+      "love",
+      "causation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Book (1966), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "611",
-    "quoteText": "The quiet dawn patrol asks healers to step forward even while trembling.",
-    "quoteTextEN": "The quiet dawn patrol asks healers to step forward even while trembling.",
-    "quoteDescription": "Aaliyah Monroe shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Aaliyah Monroe",
-    "culture": "Black Southern Freedom Songs",
-    "category": "Courage",
+    "quoteText": "Taboos lie within taboos, like the skin of an onion.",
+    "quoteTextEN": "Taboos lie within taboos, like the skin of an onion.",
+    "quoteDescription": "The Book: On the Taboo Against Knowing Who You Are (1966), chapter 'Inside Information'.",
+    "quoteMeaningAnalysis": "Peeling back one forbidden question reveals another beneath it. The central taboo of the book, knowing who you really are, is guarded by layers.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "taboo",
+      "self-knowledge",
+      "layers"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Book (1966), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "612",
-    "quoteText": "The quiet dawn patrol asks healers to choose the road that frees others.",
-    "quoteTextEN": "The quiet dawn patrol asks healers to choose the road that frees others.",
-    "quoteDescription": "Borja Castillo shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Borja Castillo",
-    "culture": "Basque Resistance Lore",
-    "category": "Courage",
+    "quoteText": "Wonder is not a disease.",
+    "quoteTextEN": "Wonder is not a disease.",
+    "quoteDescription": "The Book: On the Taboo Against Knowing Who You Are (1966), chapter 'Inside Information', p. 7.",
+    "quoteMeaningAnalysis": "Watts defends astonishment at existence against the adult habit of treating such questions as naive or neurotic.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "wonder",
+      "curiosity",
+      "existence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "The Book (1966), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "613",
-    "quoteText": "The quiet dawn patrol teaches poets to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet dawn patrol teaches poets to speak truth with a steady voice.",
-    "quoteDescription": "Chiamaka Eze shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Chiamaka Eze",
-    "culture": "Nigerian Courage Tales",
-    "category": "Courage",
+    "quoteText": "Trying to define yourself is like trying to bite your own teeth.",
+    "quoteTextEN": "Trying to define yourself is like trying to bite your own teeth.",
+    "quoteDescription": "Quoted in Life magazine, 21 April 1961.",
+    "quoteMeaningAnalysis": "The self cannot be its own object, just as teeth cannot bite themselves. Any definition leaves out the one doing the defining.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Zen",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "self",
+      "identity",
+      "paradox"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Life magazine, 21 April 1961, via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      }
     ]
   },
   {
     "id": "614",
-    "quoteText": "The quiet dawn patrol teaches poets to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet dawn patrol teaches poets to stand guard for the vulnerable.",
-    "quoteDescription": "Dawa Tsering shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Dawa Tsering",
-    "culture": "Sherpa Mountain Teachings",
-    "category": "Courage",
+    "quoteText": "Gradient descent can write code better than you. I'm sorry.",
+    "quoteTextEN": "Gradient descent can write code better than you. I'm sorry.",
+    "quoteDescription": "Post on X (Twitter) by Karpathy, 5 August 2017, months before his 'Software 2.0' essay.",
+    "quoteMeaningAnalysis": "A one-line provocation that previewed Software 2.0: for some problems, optimising weights against data beats a programmer writing rules by hand. The apology is for the programmers whose craft it threatens.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "Software 2.0",
+      "optimisation",
+      "programming"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "OfficeChai: Karpathy's 2017 tweet resurfaces",
+        "url": "https://officechai.com/ai/how-andrej-karpathy-had-predicted-superhuman-ai-coding-all-the-way-back-in-2017/"
+      }
     ]
   },
   {
     "id": "615",
-    "quoteText": "The quiet dawn patrol teaches poets to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet dawn patrol teaches poets to plant hope in rocky soil.",
-    "quoteDescription": "Elena Petrova shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Elena Petrova",
-    "culture": "Bulgarian Courage Stories",
-    "category": "Courage",
+    "quoteText": "Backprop + SGD does not magically make your network work.",
+    "quoteTextEN": "Backprop + SGD does not magically make your network work.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "He punctures the idea that the training algorithm guarantees success. Backprop only computes gradients; whether they lead anywhere useful depends on data, initialisation and dozens of choices the library does not make for you.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "training",
+      "backprop",
+      "debugging"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "616",
-    "quoteText": "The quiet dawn patrol teaches poets to hold the line when winds rise.",
-    "quoteTextEN": "The quiet dawn patrol teaches poets to hold the line when winds rise.",
-    "quoteDescription": "Fiona MacLeod shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Fiona MacLeod",
-    "culture": "Highland Bravery Songs",
-    "category": "Courage",
+    "quoteText": "If you insist on using the technology without understanding how it works you are likely to fail.",
+    "quoteTextEN": "If you insist on using the technology without understanding how it works you are likely to fail.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "The warning that follows his 'leaky abstraction' claim. Calling model.fit() hides the failure modes, so a practitioner who does not know what the layers and losses do has no way to diagnose a run that quietly goes wrong.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "understanding",
+      "abstraction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "617",
-    "quoteText": "The quiet dawn patrol teaches poets to step forward even while trembling.",
-    "quoteTextEN": "The quiet dawn patrol teaches poets to step forward even while trembling.",
-    "quoteDescription": "Gideon Ashanti shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Gideon Ashanti",
-    "culture": "Ghanaian Guardian Wisdom",
-    "category": "Courage",
+    "quoteText": "Most of the time it will train but silently work a bit worse.",
+    "quoteTextEN": "Most of the time it will train but silently work a bit worse.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "The most dangerous neural-net bug does not crash. A flipped label or a wrong augmentation still yields a falling loss curve, which is why he argues for paranoid checks at every step.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "bugs",
+      "silent failure"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "618",
-    "quoteText": "The quiet dawn patrol teaches poets to choose the road that frees others.",
-    "quoteTextEN": "The quiet dawn patrol teaches poets to choose the road that frees others.",
-    "quoteDescription": "Hyejin Park shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Hyejin Park",
-    "culture": "Korean Resilience Chronicles",
-    "category": "Courage",
+    "quoteText": "Don't be a hero.",
+    "quoteTextEN": "Don't be a hero.",
+    "quoteDescription": "Section heading in Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "His advice against inventing a clever custom architecture at the start of a project. Copy a proven baseline first; novelty only pays once the boring version works and you can measure what your change adds.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "baselines",
+      "architecture",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "619",
-    "quoteText": "The quiet dawn patrol encourages farmers to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet dawn patrol encourages farmers to speak truth with a steady voice.",
-    "quoteDescription": "Idris Haddou shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Idris Haddou",
-    "culture": "Berber Desert Tales",
-    "category": "Courage",
+    "quoteText": "I always advise people to simply find the most related paper and copy paste their simplest architecture that achieves good performance.",
+    "quoteTextEN": "I always advise people to simply find the most related paper and copy paste their simplest architecture that achieves good performance.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "The concrete form of 'don't be a hero'. Borrowing a published, simple architecture removes a whole class of bugs and gives a number to beat before any original idea is tried.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "baselines",
+      "papers"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "620",
-    "quoteText": "The quiet dawn patrol encourages farmers to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet dawn patrol encourages farmers to stand guard for the vulnerable.",
-    "quoteDescription": "Jana Novak shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Jana Novak",
-    "culture": "Slovak Courage Proverbs",
-    "category": "Courage",
+    "quoteText": "In my experience Adam is much more forgiving to hyperparameters, including a bad learning rate.",
+    "quoteTextEN": "In my experience Adam is much more forgiving to hyperparameters, including a bad learning rate.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "Practical guidance for the baseline stage: an optimiser that tolerates a poorly chosen learning rate lets you separate data and model bugs from tuning problems. Fancier optimisers can come later.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "optimisers",
+      "Adam",
+      "hyperparameters"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "621",
-    "quoteText": "The quiet dawn patrol encourages farmers to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet dawn patrol encourages farmers to plant hope in rocky soil.",
-    "quoteDescription": "Aaliyah Monroe shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Aaliyah Monroe",
-    "culture": "Black Southern Freedom Songs",
-    "category": "Courage",
+    "quoteText": "Model ensembles are a pretty much guaranteed way to gain 2% of accuracy on anything.",
+    "quoteTextEN": "Model ensembles are a pretty much guaranteed way to gain 2% of accuracy on anything.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "Listed under 'squeeze out the juice': averaging several independently trained models is a reliable last-mile gain. The catch, unstated here, is the multiplied inference cost.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "ensembles",
+      "accuracy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "622",
-    "quoteText": "The quiet dawn patrol encourages farmers to hold the line when winds rise.",
-    "quoteTextEN": "The quiet dawn patrol encourages farmers to hold the line when winds rise.",
-    "quoteDescription": "Borja Castillo shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Borja Castillo",
-    "culture": "Basque Resistance Lore",
-    "category": "Courage",
+    "quoteText": "In my experience networks keep training for unintuitively long time.",
+    "quoteTextEN": "In my experience networks keep training for unintuitively long time.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "A caution against stopping when the validation curve looks flat. Runs left for days often keep improving, which he illustrates with an experiment accidentally left running over a holiday.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "training",
+      "patience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "623",
-    "quoteText": "The quiet dawn patrol encourages farmers to step forward even while trembling.",
-    "quoteTextEN": "The quiet dawn patrol encourages farmers to step forward even while trembling.",
-    "quoteDescription": "Chiamaka Eze shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Chiamaka Eze",
-    "culture": "Nigerian Courage Tales",
-    "category": "Courage",
+    "quoteText": "The qualities that in my experience correlate most strongly to success in deep learning are patience and attention to detail.",
+    "quoteTextEN": "The qualities that in my experience correlate most strongly to success in deep learning are patience and attention to detail.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "He names temperament rather than mathematical talent as the predictor. The whole recipe is a list of slow, careful steps, and this sentence explains why skipping them fails.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "patience",
+      "craft",
+      "detail"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "624",
-    "quoteText": "The quiet dawn patrol encourages farmers to choose the road that frees others.",
-    "quoteTextEN": "The quiet dawn patrol encourages farmers to choose the road that frees others.",
-    "quoteDescription": "Dawa Tsering shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Dawa Tsering",
-    "culture": "Sherpa Mountain Teachings",
-    "category": "Courage",
+    "quoteText": "The first step to training a neural net is to not touch any neural net code at all and instead begin by thoroughly inspecting your data.",
+    "quoteTextEN": "The first step to training a neural net is to not touch any neural net code at all and instead begin by thoroughly inspecting your data.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "Step one of the recipe is to look at examples, not write models. Duplicates, corrupted labels and class imbalance found by eye save weeks of tuning a model on a broken dataset.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "data",
+      "inspection"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'A Recipe for Training Neural Networks' (2019)",
+        "url": "https://karpathy.github.io/2019/04/25/recipe/"
+      }
     ]
   },
   {
     "id": "625",
-    "quoteText": "The quiet dawn patrol invites students to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet dawn patrol invites students to speak truth with a steady voice.",
-    "quoteDescription": "Elena Petrova shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Elena Petrova",
-    "culture": "Bulgarian Courage Stories",
-    "category": "Courage",
+    "quoteText": "There's something magical about Recurrent Neural Networks (RNNs).",
+    "quoteTextEN": "There's something magical about Recurrent Neural Networks (RNNs).",
+    "quoteDescription": "Opening line of Karpathy's blog post 'The Unreasonable Effectiveness of Recurrent Neural Networks', May 2015.",
+    "quoteMeaningAnalysis": "The post that showed a character-level RNN writing fake Shakespeare, LaTeX and Linux source code. Its sense of wonder at text generation anticipated the language-model boom by several years.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "RNN",
+      "text generation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'The Unreasonable Effectiveness of Recurrent Neural Networks' (2015)",
+        "url": "https://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+      }
     ]
   },
   {
     "id": "626",
-    "quoteText": "The quiet dawn patrol invites students to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet dawn patrol invites students to stand guard for the vulnerable.",
-    "quoteDescription": "Fiona MacLeod shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Fiona MacLeod",
-    "culture": "Highland Bravery Songs",
-    "category": "Courage",
+    "quoteText": "If training vanilla neural nets is optimization over functions, training recurrent nets is optimization over programs.",
+    "quoteTextEN": "If training vanilla neural nets is optimization over functions, training recurrent nets is optimization over programs.",
+    "quoteDescription": "From Karpathy's blog post 'The Unreasonable Effectiveness of Recurrent Neural Networks', May 2015.",
+    "quoteMeaningAnalysis": "A compact framing of why recurrence matters: a network with state run over a sequence behaves like a learned program, not a fixed mapping. It is the seed of his later Software 2.0 argument.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "RNN",
+      "programs",
+      "Software 2.0"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'The Unreasonable Effectiveness of Recurrent Neural Networks' (2015)",
+        "url": "https://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+      }
     ]
   },
   {
     "id": "627",
-    "quoteText": "The quiet dawn patrol invites students to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet dawn patrol invites students to plant hope in rocky soil.",
-    "quoteDescription": "Gideon Ashanti shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Gideon Ashanti",
-    "culture": "Ghanaian Guardian Wisdom",
-    "category": "Courage",
+    "quoteText": "The concept of attention is the most interesting recent architectural innovation in neural networks.",
+    "quoteTextEN": "The concept of attention is the most interesting recent architectural innovation in neural networks.",
+    "quoteDescription": "From Karpathy's blog post 'The Unreasonable Effectiveness of Recurrent Neural Networks', May 2015.",
+    "quoteMeaningAnalysis": "Written two years before 'Attention Is All You Need', the remark picked out the mechanism that would replace the RNNs the post was celebrating.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "attention",
+      "architecture",
+      "prediction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'The Unreasonable Effectiveness of Recurrent Neural Networks' (2015)",
+        "url": "https://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+      }
     ]
   },
   {
     "id": "628",
-    "quoteText": "The quiet dawn patrol invites students to hold the line when winds rise.",
-    "quoteTextEN": "The quiet dawn patrol invites students to hold the line when winds rise.",
-    "quoteDescription": "Hyejin Park shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Hyejin Park",
-    "culture": "Korean Resilience Chronicles",
-    "category": "Courage",
+    "quoteText": "In my mind, this is more accurately described as the decade of agents.",
+    "quoteTextEN": "In my mind, this is more accurately described as the decade of agents.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "His correction to talk of a 'year of agents'. Current agents lack memory, continual learning and reliable computer use, and he estimates closing those gaps takes about ten years.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "agents",
+      "timelines"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "629",
-    "quoteText": "The quiet dawn patrol invites students to step forward even while trembling.",
-    "quoteTextEN": "The quiet dawn patrol invites students to step forward even while trembling.",
-    "quoteDescription": "Idris Haddou shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Idris Haddou",
-    "culture": "Berber Desert Tales",
-    "category": "Courage",
+    "quoteText": "We're building ghosts or spirits or whatever people want to call it, because we're not doing training by evolution.",
+    "quoteTextEN": "We're building ghosts or spirits or whatever people want to call it, because we're not doing training by evolution.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "LLMs are not artificial animals: they are distilled from human text rather than shaped by survival. He uses the image to explain why their strengths and gaps look so unlike any creature's.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "LLMs",
+      "evolution",
+      "ghosts"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "630",
-    "quoteText": "The quiet dawn patrol invites students to choose the road that frees others.",
-    "quoteTextEN": "The quiet dawn patrol invites students to choose the road that frees others.",
-    "quoteDescription": "Jana Novak shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Jana Novak",
-    "culture": "Slovak Courage Proverbs",
-    "category": "Courage",
+    "quoteText": "Reinforcement learning is terrible.",
+    "quoteTextEN": "Reinforcement learning is terrible.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "A blunt verdict from someone who worked on RL at OpenAI. He goes on to say it is still better than what came before, but that rewarding a whole trajectory for one outcome is wasteful.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "reinforcement learning",
+      "critique"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "631",
-    "quoteText": "The quiet dawn patrol whispers to activists to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet dawn patrol whispers to activists to speak truth with a steady voice.",
-    "quoteDescription": "Aaliyah Monroe shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Aaliyah Monroe",
-    "culture": "Black Southern Freedom Songs",
-    "category": "Courage",
+    "quoteText": "You're sucking the bits of supervision of the final reward signal through a straw.",
+    "quoteTextEN": "You're sucking the bits of supervision of the final reward signal through a straw.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "His image for outcome-based RL: a long attempt gets one bit of feedback at the end, spread across every step, right or wrong. That thin signal is why he doubts RL alone produces humanlike learning.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "reinforcement learning",
+      "credit assignment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "632",
-    "quoteText": "The quiet dawn patrol whispers to activists to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet dawn patrol whispers to activists to stand guard for the vulnerable.",
-    "quoteDescription": "Borja Castillo shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Borja Castillo",
-    "culture": "Basque Resistance Lore",
-    "category": "Courage",
+    "quoteText": "It's a march of nines. Each nine is constant.",
+    "quoteTextEN": "It's a march of nines. Each nine is constant.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "Drawn from his years on Tesla Autopilot: going from 90% to 99% to 99.9% reliability each costs about the same effort. Demos show the first nine; products need many more.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "reliability",
+      "self-driving",
+      "products"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "633",
-    "quoteText": "The quiet dawn patrol whispers to activists to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet dawn patrol whispers to activists to plant hope in rocky soil.",
-    "quoteDescription": "Chiamaka Eze shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Chiamaka Eze",
-    "culture": "Nigerian Courage Tales",
-    "category": "Courage",
+    "quoteText": "I'm very unimpressed by demos.",
+    "quoteTextEN": "I'm very unimpressed by demos.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "After watching self-driving demos in 2014 and production a decade later, he discounts demos entirely. A demo proves the easy cases work; it says nothing about the long tail that decides whether a product ships.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "demos",
+      "scepticism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "634",
-    "quoteText": "The quiet dawn patrol whispers to activists to hold the line when winds rise.",
-    "quoteTextEN": "The quiet dawn patrol whispers to activists to hold the line when winds rise.",
-    "quoteDescription": "Dawa Tsering shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Dawa Tsering",
-    "culture": "Sherpa Mountain Teachings",
-    "category": "Courage",
+    "quoteText": "I often say that pre-AGI education is useful. Post-AGI education is fun.",
+    "quoteTextEN": "I often say that pre-AGI education is useful. Post-AGI education is fun.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "His case for his Eureka education project: once AI does most economic work, people will still learn the way they go to the gym, because getting stronger is rewarding in itself.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "education",
+      "AGI",
+      "Eureka"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "635",
-    "quoteText": "The quiet dawn patrol whispers to activists to step forward even while trembling.",
-    "quoteTextEN": "The quiet dawn patrol whispers to activists to step forward even while trembling.",
-    "quoteDescription": "Elena Petrova shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Elena Petrova",
-    "culture": "Bulgarian Courage Stories",
-    "category": "Courage",
+    "quoteText": "You'll go to school like you go to the gym.",
+    "quoteTextEN": "You'll go to school like you go to the gym.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "The gym analogy for post-AGI learning: machines lift heavy things, yet people still train their bodies. He expects learning to become a chosen, enjoyable discipline rather than a job requirement.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "education",
+      "future of work"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "636",
-    "quoteText": "The quiet dawn patrol whispers to activists to choose the road that frees others.",
-    "quoteTextEN": "The quiet dawn patrol whispers to activists to choose the road that frees others.",
-    "quoteDescription": "Fiona MacLeod shares a courage image where a dawn patrol becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Fiona MacLeod",
-    "culture": "Highland Bravery Songs",
-    "category": "Courage",
+    "quoteText": "In my mind, education is the very difficult technical process of building ramps to knowledge.",
+    "quoteTextEN": "In my mind, education is the very difficult technical process of building ramps to knowledge.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "He treats teaching as an engineering problem: ordering material so each step is just reachable from the last. That is how he describes building his Zero to Hero course.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "education",
+      "teaching"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "637",
-    "quoteText": "The quiet harbor watch reminds warriors to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet harbor watch reminds warriors to speak truth with a steady voice.",
-    "quoteDescription": "Gideon Ashanti shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Gideon Ashanti",
-    "culture": "Ghanaian Guardian Wisdom",
-    "category": "Courage",
+    "quoteText": "They're cognitively lacking and it's just not working.",
+    "quoteTextEN": "They're cognitively lacking and it's just not working.",
+    "quoteDescription": "Karpathy on the Dwarkesh Podcast, October 2025.",
+    "quoteMeaningAnalysis": "His assessment of 2025 coding and computer-use agents. The fluency hides missing memory, multimodality and continual learning.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "agents",
+      "limitations"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Dwarkesh Podcast: Andrej Karpathy (October 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/andrej-karpathy"
+      }
     ]
   },
   {
     "id": "638",
-    "quoteText": "The quiet harbor watch reminds warriors to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet harbor watch reminds warriors to stand guard for the vulnerable.",
-    "quoteDescription": "Hyejin Park shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Hyejin Park",
-    "culture": "Korean Resilience Chronicles",
-    "category": "Courage",
+    "quoteText": "Stated plainly, today's frontier LLM research is not about building animals.",
+    "quoteTextEN": "Stated plainly, today's frontier LLM research is not about building animals.",
+    "quoteDescription": "From Karpathy's blog post 'Animals vs Ghosts', October 2025, responding to Richard Sutton.",
+    "quoteMeaningAnalysis": "A reply to Sutton's call for learning from experience as animals do. Karpathy agrees animals are the inspiration but says frontier labs are doing something else: summoning text-trained ghosts.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "LLMs",
+      "Sutton",
+      "research direction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'Animals vs Ghosts' (2025)",
+        "url": "https://karpathy.bearblog.dev/animals-vs-ghosts/"
+      }
     ]
   },
   {
     "id": "639",
-    "quoteText": "The quiet harbor watch reminds warriors to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet harbor watch reminds warriors to plant hope in rocky soil.",
-    "quoteDescription": "Idris Haddou shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Idris Haddou",
-    "culture": "Berber Desert Tales",
-    "category": "Courage",
+    "quoteText": "Pretraining is our crappy evolution.",
+    "quoteTextEN": "Pretraining is our crappy evolution.",
+    "quoteDescription": "From Karpathy's blog post 'Animals vs Ghosts', October 2025.",
+    "quoteMeaningAnalysis": "Animals arrive with priors evolution baked in; LLMs get theirs from pretraining on internet text. He calls it crappy because it is a poor substitute, but the only practical way to start a model with knowledge.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "pretraining",
+      "evolution",
+      "priors"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'Animals vs Ghosts' (2025)",
+        "url": "https://karpathy.bearblog.dev/animals-vs-ghosts/"
+      }
     ]
   },
   {
     "id": "640",
-    "quoteText": "The quiet harbor watch reminds warriors to hold the line when winds rise.",
-    "quoteTextEN": "The quiet harbor watch reminds warriors to hold the line when winds rise.",
-    "quoteDescription": "Jana Novak shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Jana Novak",
-    "culture": "Slovak Courage Proverbs",
-    "category": "Courage",
+    "quoteText": "Animal brains are nowhere near the blank slate they appear to be at birth.",
+    "quoteTextEN": "Animal brains are nowhere near the blank slate they appear to be at birth.",
+    "quoteDescription": "From Karpathy's blog post 'Animals vs Ghosts', October 2025.",
+    "quoteMeaningAnalysis": "Newborn animals act competently long before experience could teach them, and he uses this to argue that 'pure' learning from experience ignores the huge prior evolution supplies.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "neuroscience",
+      "priors",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Karpathy, 'Animals vs Ghosts' (2025)",
+        "url": "https://karpathy.bearblog.dev/animals-vs-ghosts/"
+      }
     ]
   },
   {
     "id": "641",
-    "quoteText": "The quiet harbor watch reminds warriors to step forward even while trembling.",
-    "quoteTextEN": "The quiet harbor watch reminds warriors to step forward even while trembling.",
-    "quoteDescription": "Aaliyah Monroe shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Aaliyah Monroe",
-    "culture": "Black Southern Freedom Songs",
-    "category": "Courage",
+    "quoteText": "Every art and every inquiry, and similarly every action and pursuit, is thought to aim at some good; and for this reason the good has rightly been declared to be that at which all things aim.",
+    "quoteTextEN": "Every art and every inquiry, and similarly every action and pursuit, is thought to aim at some good; and for this reason the good has rightly been declared to be that at which all things aim.",
+    "quoteDescription": "Opening sentence of the Nicomachean Ethics.",
+    "quoteMeaningAnalysis": "Aristotle starts from purpose: every activity is for the sake of something. Ethics then becomes the search for the highest end, the one everything else serves.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "purpose",
+      "the good",
+      "teleology"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., I.1 1094a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "642",
-    "quoteText": "The quiet harbor watch reminds warriors to choose the road that frees others.",
-    "quoteTextEN": "The quiet harbor watch reminds warriors to choose the road that frees others.",
-    "quoteDescription": "Borja Castillo shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Borja Castillo",
-    "culture": "Basque Resistance Lore",
-    "category": "Courage",
+    "quoteText": "a young man is not a proper hearer of lectures on political science; for he is inexperienced in the actions that occur in life",
+    "quoteTextEN": "a young man is not a proper hearer of lectures on political science; for he is inexperienced in the actions that occur in life",
+    "quoteDescription": "Nicomachean Ethics I.3, on who can benefit from the study.",
+    "quoteMeaningAnalysis": "Ethics starts from lived experience, which the young lack. Aristotle adds that being ruled by passion, not age as such, is the real disqualification.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "experience",
+      "youth",
+      "education"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., I.3 1095a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "643",
-    "quoteText": "The quiet harbor watch asks healers to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet harbor watch asks healers to speak truth with a steady voice.",
-    "quoteDescription": "Chiamaka Eze shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Chiamaka Eze",
-    "culture": "Nigerian Courage Tales",
-    "category": "Courage",
+    "quoteText": "The life of money-making is one undertaken under compulsion, and wealth is evidently not the good we are seeking; for it is merely useful and for the sake of something else.",
+    "quoteTextEN": "The life of money-making is one undertaken under compulsion, and wealth is evidently not the good we are seeking; for it is merely useful and for the sake of something else.",
+    "quoteDescription": "Nicomachean Ethics I.5, surveying the candidate lives of pleasure, politics and money.",
+    "quoteMeaningAnalysis": "Wealth is instrumental, never final, so it cannot be the highest good. Aristotle dismisses the money-making life in two clauses.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "wealth",
+      "the good",
+      "purpose"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., I.5 1096a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "644",
-    "quoteText": "The quiet harbor watch asks healers to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet harbor watch asks healers to stand guard for the vulnerable.",
-    "quoteDescription": "Dawa Tsering shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Dawa Tsering",
-    "culture": "Sherpa Mountain Teachings",
-    "category": "Courage",
+    "quoteText": "It makes no small difference, then, whether we form habits of one kind or of another from our very youth; it makes a very great difference, or rather all the difference.",
+    "quoteTextEN": "It makes no small difference, then, whether we form habits of one kind or of another from our very youth; it makes a very great difference, or rather all the difference.",
+    "quoteDescription": "Nicomachean Ethics II.1, closing the argument that virtue comes from habituation.",
+    "quoteMeaningAnalysis": "Character is built by repeated action, so early habits are decisive. The sentence escalates from 'no small difference' to 'all the difference' to make the point stick.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "habit",
+      "character",
+      "education"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., II.1 1103b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "645",
-    "quoteText": "The quiet harbor watch asks healers to plant hope in rocky soil.",
-    "quoteTextEN": "The quiet harbor watch asks healers to plant hope in rocky soil.",
-    "quoteDescription": "Elena Petrova shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to plant hope in rocky soil.",
-    "author": "Elena Petrova",
-    "culture": "Bulgarian Courage Stories",
-    "category": "Courage",
+    "quoteText": "any one can get angry—that is easy—or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for every one, nor is it easy; wherefore goodness is both rare and laudable and noble.",
+    "quoteTextEN": "any one can get angry—that is easy—or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for every one, nor is it easy; wherefore goodness is both rare and laudable and noble.",
+    "quoteDescription": "Nicomachean Ethics II.9, on why the mean is hard to hit.",
+    "quoteMeaningAnalysis": "Virtue is not the absence of feeling but feeling calibrated to the person, amount, time, motive and manner. Each of the five conditions is another way to miss.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "anger",
+      "the mean",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., II.9 1109a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "646",
-    "quoteText": "The quiet harbor watch asks healers to hold the line when winds rise.",
-    "quoteTextEN": "The quiet harbor watch asks healers to hold the line when winds rise.",
-    "quoteDescription": "Fiona MacLeod shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to hold the line when winds rise.",
-    "author": "Fiona MacLeod",
-    "culture": "Highland Bravery Songs",
-    "category": "Courage",
+    "quoteText": "to succeed is possible only in one way (for which reason also one is easy and the other difficult—to miss the mark easy, to hit it difficult)",
+    "quoteTextEN": "to succeed is possible only in one way (for which reason also one is easy and the other difficult—to miss the mark easy, to hit it difficult)",
+    "quoteDescription": "Nicomachean Ethics II.6, on why vice is common and virtue rare.",
+    "quoteMeaningAnalysis": "An archery image: there are many ways to miss and one way to hit. Failure is the default because the target is narrow.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "the mean",
+      "difficulty",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., II.6 1106b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "647",
-    "quoteText": "The quiet harbor watch asks healers to step forward even while trembling.",
-    "quoteTextEN": "The quiet harbor watch asks healers to step forward even while trembling.",
-    "quoteDescription": "Gideon Ashanti shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to step forward even while trembling.",
-    "author": "Gideon Ashanti",
-    "culture": "Ghanaian Guardian Wisdom",
-    "category": "Courage",
+    "quoteText": "For men are good in but one way, but bad in many.",
+    "quoteTextEN": "For men are good in but one way, but bad in many.",
+    "quoteDescription": "Nicomachean Ethics II.6; Aristotle cites it as a line of verse.",
+    "quoteMeaningAnalysis": "The asymmetry follows from the doctrine of the mean: goodness is a single point between many possible excesses and deficiencies.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "virtue",
+      "vice",
+      "the mean"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., II.6 1106b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "648",
-    "quoteText": "The quiet harbor watch asks healers to choose the road that frees others.",
-    "quoteTextEN": "The quiet harbor watch asks healers to choose the road that frees others.",
-    "quoteDescription": "Hyejin Park shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to choose the road that frees others.",
-    "author": "Hyejin Park",
-    "culture": "Korean Resilience Chronicles",
-    "category": "Courage",
+    "quoteText": "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle",
+    "quoteTextEN": "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle",
+    "quoteDescription": "Nicomachean Ethics II.6, Aristotle's formal definition of moral virtue.",
+    "quoteMeaningAnalysis": "Virtue is a settled disposition, it shows in choices, and it hits a mean relative to the person and situation, not an arithmetic midpoint. Reason, embodied in the practically wise person, sets the target.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "virtue",
+      "definition",
+      "the mean"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., II.6 1106b-1107a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "649",
-    "quoteText": "The quiet harbor watch teaches poets to speak truth with a steady voice.",
-    "quoteTextEN": "The quiet harbor watch teaches poets to speak truth with a steady voice.",
-    "quoteDescription": "Idris Haddou shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to speak truth with a steady voice.",
-    "author": "Idris Haddou",
-    "culture": "Berber Desert Tales",
-    "category": "Courage",
+    "quoteText": "For without friends no one would choose to live, though he had all other goods",
+    "quoteTextEN": "For without friends no one would choose to live, though he had all other goods",
+    "quoteDescription": "Opening of Nicomachean Ethics VIII, the books on friendship.",
+    "quoteMeaningAnalysis": "Friendship is so necessary that no other goods would compensate for its absence. Aristotle notes that the rich and powerful need friends most of all.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "friendship",
+      "the good life",
+      "necessity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., VIII.1 1155a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "650",
-    "quoteText": "The quiet harbor watch teaches poets to stand guard for the vulnerable.",
-    "quoteTextEN": "The quiet harbor watch teaches poets to stand guard for the vulnerable.",
-    "quoteDescription": "Jana Novak shares a courage image where a harbor watch becomes a guide toward choosing bravery in everyday forms.",
-    "quoteMeaningAnalysis": "It suggests that courage is a quiet commitment to act despite uncertainty and urges us to stand guard for the vulnerable.",
-    "author": "Jana Novak",
-    "culture": "Slovak Courage Proverbs",
-    "category": "Courage",
+    "quoteText": "he is related to his friend as to himself (for his friend is another self)",
+    "quoteTextEN": "he is related to his friend as to himself (for his friend is another self)",
+    "quoteDescription": "Nicomachean Ethics IX.4, deriving friendship from a good person's relation to himself.",
+    "quoteMeaningAnalysis": "A friend is wished well for his own sake, just as the good person wishes himself well. The phrase 'another self' became the classic formula of friendship.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "courage",
-      "bravery",
-      "integrity"
+      "friendship",
+      "self",
+      "love"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Courage",
-      "https://greatergood.berkeley.edu/article/item/what_is_courage"
+      {
+        "title": "Nicomachean Ethics, Ross trans., IX.4 1166a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "651",
-    "quoteText": "The sparkling morning drum beckons kin to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling morning drum beckons kin to taste laughter like ripe fruit.",
-    "quoteDescription": "Camila Torres shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Camila Torres",
-    "culture": "Colombian Fiesta Wisdom",
-    "category": "Joy",
+    "quoteText": "a wish for friendship may arise quickly, but friendship does not.",
+    "quoteTextEN": "a wish for friendship may arise quickly, but friendship does not.",
+    "quoteDescription": "Nicomachean Ethics VIII.3, on perfect friendship between good people.",
+    "quoteMeaningAnalysis": "Real friendship needs time and shared experience; Aristotle elsewhere says the friends must eat salt together. Mutual attraction is only a starting point.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "friendship",
+      "time",
+      "trust"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Nicomachean Ethics, Ross trans., VIII.3 1156b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "652",
-    "quoteText": "The sparkling morning drum beckons kin to dance before the music begins.",
-    "quoteTextEN": "The sparkling morning drum beckons kin to dance before the music begins.",
-    "quoteDescription": "Bongani Khumalo shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Bongani Khumalo",
-    "culture": "Zulu Celebration Tales",
-    "category": "Joy",
+    "quoteText": "we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us",
+    "quoteTextEN": "we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us",
+    "quoteDescription": "Nicomachean Ethics X.7, defending the contemplative life.",
+    "quoteMeaningAnalysis": "Aristotle rejects the traditional Greek advice to think only mortal thoughts. The divine element in us, intellect, should be exercised as fully as a human life allows.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "contemplation",
+      "intellect",
+      "aspiration"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Nicomachean Ethics, Ross trans., X.7 1177b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "653",
-    "quoteText": "The sparkling morning drum beckons kin to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling morning drum beckons kin to braid color into everyday chores.",
-    "quoteDescription": "Hana Kim shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Hana Kim",
-    "culture": "Seoul Festival Notes",
-    "category": "Joy",
+    "quoteText": "Happiness, then, is something final and self-sufficient, and is the end of action.",
+    "quoteTextEN": "Happiness, then, is something final and self-sufficient, and is the end of action.",
+    "quoteDescription": "Nicomachean Ethics I.7, after testing happiness against the criteria for the highest good.",
+    "quoteMeaningAnalysis": "Happiness is chosen for itself and never for anything further, and it alone makes a life lacking nothing. That double test is what qualifies it as the end of action.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "happiness",
+      "eudaimonia",
+      "the good"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Nicomachean Ethics, Ross trans., I.7 1097b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "654",
-    "quoteText": "The sparkling morning drum beckons kin to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling morning drum beckons kin to share sweetness even on hard days.",
-    "quoteDescription": "Isla Rodríguez shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Isla Rodríguez",
-    "culture": "Canary Islands Joy Songs",
-    "category": "Joy",
+    "quoteText": "human good turns out to be activity of soul in accordance with virtue",
+    "quoteTextEN": "human good turns out to be activity of soul in accordance with virtue",
+    "quoteDescription": "Nicomachean Ethics I.7, the conclusion of the function argument.",
+    "quoteMeaningAnalysis": "Happiness is an activity, not a feeling or a possession: doing well the work proper to a human being. It is the work's quality, not its rewards, that counts.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "function argument",
+      "virtue",
+      "happiness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Nicomachean Ethics, Ross trans., I.7 1098a",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "655",
-    "quoteText": "The sparkling morning drum beckons kin to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling morning drum beckons kin to let gratitude ring through the alleys.",
-    "quoteDescription": "Jamila Hassan shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Jamila Hassan",
-    "culture": "Swahili Coastal Laughter",
-    "category": "Joy",
+    "quoteText": "it is thought to depend on those who bestow honour rather than on him who receives it",
+    "quoteTextEN": "it is thought to depend on those who bestow honour rather than on him who receives it",
+    "quoteDescription": "Nicomachean Ethics I.5, rejecting honour as the highest good.",
+    "quoteMeaningAnalysis": "Honour sits in other people's hands and can be taken away, so it cannot be the good proper to a person. People seek honour mainly to be reassured of their own worth.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "honour",
+      "reputation",
+      "the good"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Nicomachean Ethics, Ross trans., I.5 1095b",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+      }
     ]
   },
   {
     "id": "656",
-    "quoteText": "The sparkling morning drum beckons kin to bloom together after long winters.",
-    "quoteTextEN": "The sparkling morning drum beckons kin to bloom together after long winters.",
-    "quoteDescription": "Kaito Suzuki shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Kaito Suzuki",
-    "culture": "Osaka Street Celebrations",
-    "category": "Joy",
+    "quoteText": "he that is incapable of society, or so complete in himself as not to want it, makes no part of a city, as a beast or a god.",
+    "quoteTextEN": "he that is incapable of society, or so complete in himself as not to want it, makes no part of a city, as a beast or a god.",
+    "quoteDescription": "Politics, Book I, chapter 2, shortly after the claim that man is a political animal.",
+    "quoteMeaningAnalysis": "Living in a community is part of human nature; whoever can do without it is either less or more than human. The polis is where human capacities are completed.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Politics",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "community",
+      "human nature",
+      "polis"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Politics, Ellis trans., I.2",
+        "url": "https://www.gutenberg.org/ebooks/6762"
+      }
     ]
   },
   {
     "id": "657",
-    "quoteText": "The sparkling morning drum reminds elders to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling morning drum reminds elders to taste laughter like ripe fruit.",
-    "quoteDescription": "Lina Haddad shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Lina Haddad",
-    "culture": "Beirut Morning Coffee Stories",
-    "category": "Joy",
+    "quoteText": "as by the completion of it man is the most excellent of all living beings, so without law and justice he would be the worst of all",
+    "quoteTextEN": "as by the completion of it man is the most excellent of all living beings, so without law and justice he would be the worst of all",
+    "quoteDescription": "Politics, Book I, chapter 2, on the founder of civil society as a benefactor.",
+    "quoteMeaningAnalysis": "The capacities that make humans excellent become the most dangerous weapons without law. Injustice that has the use of intelligence is worse than any beast.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Politics",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "law",
+      "justice",
+      "human nature"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Politics, Ellis trans., I.2",
+        "url": "https://www.gutenberg.org/ebooks/6762"
+      }
     ]
   },
   {
     "id": "658",
-    "quoteText": "The sparkling morning drum reminds elders to dance before the music begins.",
-    "quoteTextEN": "The sparkling morning drum reminds elders to dance before the music begins.",
-    "quoteDescription": "Mason Carter shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Mason Carter",
-    "culture": "New Orleans Second Line Lore",
-    "category": "Joy",
+    "quoteText": "If this is universally admitted, that the mean is best, it is evident that even in point of fortune mediocrity is to be preferred; for that state is most submissive to reason",
+    "quoteTextEN": "If this is universally admitted, that the mean is best, it is evident that even in point of fortune mediocrity is to be preferred; for that state is most submissive to reason",
+    "quoteDescription": "Politics, Book IV, chapter 11, on the role of the middle class.",
+    "quoteMeaningAnalysis": "The ethical mean is carried into politics: citizens of moderate means are the most reasonable and stable. The very rich grow arrogant, the very poor desperate.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Politics",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "middle class",
+      "the mean",
+      "stability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Politics, Ellis trans., IV.11",
+        "url": "https://www.gutenberg.org/ebooks/6762"
+      }
     ]
   },
   {
     "id": "659",
-    "quoteText": "The sparkling morning drum reminds elders to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling morning drum reminds elders to braid color into everyday chores.",
-    "quoteDescription": "Noemi Weiss shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Noemi Weiss",
-    "culture": "Buenos Aires Milonga Teachings",
-    "category": "Joy",
+    "quoteText": "poverty is the cause of sedition and evil.",
+    "quoteTextEN": "poverty is the cause of sedition and evil.",
+    "quoteDescription": "Politics, Book II, chapter 6, criticising Plato's Laws for neglecting population.",
+    "quoteMeaningAnalysis": "Aristotle treats material want as a structural cause of civil unrest. Laws that ignore it invite the disorder they are meant to prevent.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Politics",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "poverty",
+      "sedition",
+      "political economy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Politics, Ellis trans., II.6",
+        "url": "https://www.gutenberg.org/ebooks/6762"
+      }
     ]
   },
   {
     "id": "660",
-    "quoteText": "The sparkling morning drum reminds elders to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling morning drum reminds elders to share sweetness even on hard days.",
-    "quoteDescription": "Odetta James shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Odetta James",
-    "culture": "Caribbean Carnival Tales",
-    "category": "Joy",
+    "quoteText": "Rhetoric may be defined as the faculty of observing in any given case the available means of persuasion.",
+    "quoteTextEN": "Rhetoric may be defined as the faculty of observing in any given case the available means of persuasion.",
+    "quoteDescription": "Rhetoric, Book I, chapter 2, Aristotle's definition of the art.",
+    "quoteMeaningAnalysis": "Rhetoric is defined as seeing what could persuade, not as winning. That makes it a discipline of analysis that can be taught and judged, rather than a knack.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "rhetoric",
+      "persuasion",
+      "definition"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Rhetoric, Rhys Roberts trans., I.2 1355b",
+        "url": "https://classics.mit.edu/Aristotle/rhetoric.html"
+      }
     ]
   },
   {
     "id": "661",
-    "quoteText": "The sparkling morning drum reminds elders to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling morning drum reminds elders to let gratitude ring through the alleys.",
-    "quoteDescription": "Camila Torres shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Camila Torres",
-    "culture": "Colombian Fiesta Wisdom",
-    "category": "Joy",
+    "quoteText": "Of the modes of persuasion furnished by the spoken word there are three kinds. The first kind depends on the personal character of the speaker; the second on putting the audience into a certain frame of mind; the third on the proof, or apparent proof, provided by the words of the speech itself.",
+    "quoteTextEN": "Of the modes of persuasion furnished by the spoken word there are three kinds. The first kind depends on the personal character of the speaker; the second on putting the audience into a certain frame of mind; the third on the proof, or apparent proof, provided by the words of the speech itself.",
+    "quoteDescription": "Rhetoric, Book I, chapter 2, the source of ethos, pathos and logos.",
+    "quoteMeaningAnalysis": "Character, emotion and argument: the three appeals still structure the teaching of persuasion. 'Apparent proof' admits that speeches can persuade without strictly proving.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "ethos",
+      "pathos",
+      "logos"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Rhetoric, Rhys Roberts trans., I.2 1356a",
+        "url": "https://classics.mit.edu/Aristotle/rhetoric.html"
+      }
     ]
   },
   {
     "id": "662",
-    "quoteText": "The sparkling morning drum reminds elders to bloom together after long winters.",
-    "quoteTextEN": "The sparkling morning drum reminds elders to bloom together after long winters.",
-    "quoteDescription": "Bongani Khumalo shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Bongani Khumalo",
-    "culture": "Zulu Celebration Tales",
-    "category": "Joy",
+    "quoteText": "Young men have strong passions, and tend to gratify them indiscriminately.",
+    "quoteTextEN": "Young men have strong passions, and tend to gratify them indiscriminately.",
+    "quoteDescription": "Rhetoric, Book II, chapter 12, opening the profile of the young as an audience.",
+    "quoteMeaningAnalysis": "Aristotle profiles audiences by age so a speaker can tailor the appeal. Youth is impulsive, hopeful and quick to change, and a speaker should argue accordingly.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "youth",
+      "audience",
+      "passion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Rhetoric, Rhys Roberts trans., II.12 1389a",
+        "url": "https://classics.mit.edu/Aristotle/rhetoric.html"
+      }
     ]
   },
   {
     "id": "663",
-    "quoteText": "The sparkling morning drum calls children to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling morning drum calls children to taste laughter like ripe fruit.",
-    "quoteDescription": "Hana Kim shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Hana Kim",
-    "culture": "Seoul Festival Notes",
-    "category": "Joy",
+    "quoteText": "it is owing to their wonder that men both now begin and at first began to philosophize",
+    "quoteTextEN": "it is owing to their wonder that men both now begin and at first began to philosophize",
+    "quoteDescription": "Metaphysics, Book I, chapter 2, on the origins of philosophy.",
+    "quoteMeaningAnalysis": "Philosophy starts from puzzlement, not usefulness: people wondered at obvious difficulties and worked up to larger questions. Aristotle echoes Plato's Theaetetus on wonder as the origin.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "wonder",
+      "philosophy",
+      "curiosity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Metaphysics, Ross trans., I.2 982b",
+        "url": "https://classics.mit.edu/Aristotle/metaphysics.html"
+      }
     ]
   },
   {
     "id": "664",
-    "quoteText": "The sparkling morning drum calls children to dance before the music begins.",
-    "quoteTextEN": "The sparkling morning drum calls children to dance before the music begins.",
-    "quoteDescription": "Isla Rodríguez shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Isla Rodríguez",
-    "culture": "Canary Islands Joy Songs",
-    "category": "Joy",
+    "quoteText": "To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true",
+    "quoteTextEN": "To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true",
+    "quoteDescription": "Metaphysics, Book IV, chapter 7, arguing for the law of excluded middle.",
+    "quoteMeaningAnalysis": "The classic statement of the correspondence theory of truth: a statement is true when it says how things are. Tarski cited it as an intuition his semantic theory tried to capture.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "truth",
+      "logic",
+      "correspondence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Metaphysics, Ross trans., IV.7 1011b",
+        "url": "https://classics.mit.edu/Aristotle/metaphysics.html"
+      }
     ]
   },
   {
     "id": "665",
-    "quoteText": "The sparkling morning drum calls children to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling morning drum calls children to braid color into everyday chores.",
-    "quoteDescription": "Jamila Hassan shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Jamila Hassan",
-    "culture": "Swahili Coastal Laughter",
-    "category": "Joy",
+    "quoteText": "the same attribute cannot at the same time belong and not belong to the same subject and in the same respect",
+    "quoteTextEN": "the same attribute cannot at the same time belong and not belong to the same subject and in the same respect",
+    "quoteDescription": "Metaphysics, Book IV, chapter 3, introducing the most certain principle of all.",
+    "quoteMeaningAnalysis": "The law of non-contradiction, which Aristotle says cannot be demonstrated, only defended against those who deny it. Every argument already presupposes it.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "non-contradiction",
+      "logic",
+      "first principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Metaphysics, Ross trans., IV.3 1005b",
+        "url": "https://classics.mit.edu/Aristotle/metaphysics.html"
+      }
     ]
   },
   {
     "id": "666",
-    "quoteText": "The sparkling morning drum calls children to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling morning drum calls children to share sweetness even on hard days.",
-    "quoteDescription": "Kaito Suzuki shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Kaito Suzuki",
-    "culture": "Osaka Street Celebrations",
-    "category": "Joy",
+    "quoteText": "the most exact of the sciences are those which deal most with first principles; for those which involve fewer principles are more exact than those which involve additional principles, e.g. arithmetic than geometry.",
+    "quoteTextEN": "the most exact of the sciences are those which deal most with first principles; for those which involve fewer principles are more exact than those which involve additional principles, e.g. arithmetic than geometry.",
+    "quoteDescription": "Metaphysics, Book I, chapter 2, on the features of wisdom.",
+    "quoteMeaningAnalysis": "Precision grows as assumptions shrink: arithmetic needs fewer principles than geometry. The highest science, studying first causes, is therefore the most exact.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "first principles",
+      "science",
+      "precision"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Metaphysics, Ross trans., I.2 982a",
+        "url": "https://classics.mit.edu/Aristotle/metaphysics.html"
+      }
     ]
   },
   {
     "id": "667",
-    "quoteText": "The sparkling morning drum calls children to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling morning drum calls children to let gratitude ring through the alleys.",
-    "quoteDescription": "Lina Haddad shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Lina Haddad",
-    "culture": "Beirut Morning Coffee Stories",
-    "category": "Joy",
+    "quoteText": "The safest way to try and get what you want is to try and deserve what you want.",
+    "quoteTextEN": "The safest way to try and get what you want is to try and deserve what you want.",
+    "quoteDescription": "USC Gould School of Law commencement address, 13 May 2007.",
+    "quoteMeaningAnalysis": "Munger calls it the golden rule applied to a career: deliver what you would buy if you were on the other end.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "deserving",
+      "ethics",
+      "career"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "668",
-    "quoteText": "The sparkling morning drum calls children to bloom together after long winters.",
-    "quoteTextEN": "The sparkling morning drum calls children to bloom together after long winters.",
-    "quoteDescription": "Mason Carter shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Mason Carter",
-    "culture": "New Orleans Second Line Lore",
-    "category": "Joy",
+    "quoteText": "I'm not entitled to have an opinion on this subject unless I can state the arguments against my position better than the people do who are supporting it.",
+    "quoteTextEN": "I'm not entitled to have an opinion on this subject unless I can state the arguments against my position better than the people do who are supporting it.",
+    "quoteDescription": "USC Law commencement address (2007), his 'iron prescription' against ideology.",
+    "quoteMeaningAnalysis": "The test is demanding: you must out-argue your opponents on their own side before holding a view. He insists it is not even that hard.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "opinions",
+      "steelman",
+      "ideology"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "669",
-    "quoteText": "The sparkling morning drum encourages neighbors to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling morning drum encourages neighbors to taste laughter like ripe fruit.",
-    "quoteDescription": "Noemi Weiss shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Noemi Weiss",
-    "culture": "Buenos Aires Milonga Teachings",
-    "category": "Joy",
+    "quoteText": "Generally speaking, envy, resentment, revenge, and self-pity are disastrous modes of thought.",
+    "quoteTextEN": "Generally speaking, envy, resentment, revenge, and self-pity are disastrous modes of thought.",
+    "quoteDescription": "USC Law commencement address (2007).",
+    "quoteMeaningAnalysis": "He lists four habits of mind rather than outcomes to avoid. All four keep attention on what cannot be changed.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "envy",
+      "self-pity",
+      "emotions"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "670",
-    "quoteText": "The sparkling morning drum encourages neighbors to dance before the music begins.",
-    "quoteTextEN": "The sparkling morning drum encourages neighbors to dance before the music begins.",
-    "quoteDescription": "Odetta James shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Odetta James",
-    "culture": "Caribbean Carnival Tales",
-    "category": "Joy",
+    "quoteText": "Self-pity gets pretty close to paranoia and paranoia is one of the very hardest things to reverse.",
+    "quoteTextEN": "Self-pity gets pretty close to paranoia and paranoia is one of the very hardest things to reverse.",
+    "quoteDescription": "USC Law commencement address (2007).",
+    "quoteMeaningAnalysis": "Munger, who lost a son and the sight of an eye, treats self-pity as a slope with a hard-to-escape bottom.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "self-pity",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "671",
-    "quoteText": "The sparkling morning drum encourages neighbors to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling morning drum encourages neighbors to braid color into everyday chores.",
-    "quoteDescription": "Camila Torres shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Camila Torres",
-    "culture": "Colombian Fiesta Wisdom",
-    "category": "Joy",
+    "quoteText": "Wisdom acquisition is a moral duty. It's not something you do just to advance in life.",
+    "quoteTextEN": "Wisdom acquisition is a moral duty. It's not something you do just to advance in life.",
+    "quoteDescription": "USC Law commencement address (2007), which he compares to Confucius.",
+    "quoteMeaningAnalysis": "Calling learning a duty makes it lifelong by obligation, which is the corollary he draws next.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "wisdom",
+      "lifelong learning",
+      "duty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "672",
-    "quoteText": "The sparkling morning drum encourages neighbors to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling morning drum encourages neighbors to share sweetness even on hard days.",
-    "quoteDescription": "Bongani Khumalo shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Bongani Khumalo",
-    "culture": "Zulu Celebration Tales",
-    "category": "Joy",
+    "quoteText": "Another thing I think should be avoided is extremely intense ideology because it cabbages up one's mind.",
+    "quoteTextEN": "Another thing I think should be avoided is extremely intense ideology because it cabbages up one's mind.",
+    "quoteDescription": "USC Law commencement address (2007).",
+    "quoteMeaningAnalysis": "His verb is homespun but specific: ideology rots judgement on every adjacent question, not only the ideological one.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "ideology",
+      "judgement"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "673",
-    "quoteText": "The sparkling morning drum encourages neighbors to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling morning drum encourages neighbors to let gratitude ring through the alleys.",
-    "quoteDescription": "Hana Kim shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Hana Kim",
-    "culture": "Seoul Festival Notes",
-    "category": "Joy",
+    "quoteText": "What will really fail in life? What do you want to avoid? Such an easy answer: sloth and unreliability.",
+    "quoteTextEN": "What will really fail in life? What do you want to avoid? Such an easy answer: sloth and unreliability.",
+    "quoteDescription": "USC Law commencement address (2007), using inversion.",
+    "quoteMeaningAnalysis": "He demonstrates inversion on careers: instead of asking how to succeed, list what reliably causes failure and avoid it.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "inversion",
+      "reliability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "674",
-    "quoteText": "The sparkling morning drum encourages neighbors to bloom together after long winters.",
-    "quoteTextEN": "The sparkling morning drum encourages neighbors to bloom together after long winters.",
-    "quoteDescription": "Isla Rodríguez shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Isla Rodríguez",
-    "culture": "Canary Islands Joy Songs",
-    "category": "Joy",
+    "quoteText": "If Mozart can't get by with this kind of asinine conduct, I don't think you should try it.",
+    "quoteTextEN": "If Mozart can't get by with this kind of asinine conduct, I don't think you should try it.",
+    "quoteDescription": "USC Law commencement address (2007), on Mozart overspending his income.",
+    "quoteMeaningAnalysis": "Genius did not protect Mozart from the misery of living beyond his means. Nobody is talented enough to skip financial prudence.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "spending",
+      "prudence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      }
     ]
   },
   {
     "id": "675",
-    "quoteText": "The sparkling morning drum whispers to strangers to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling morning drum whispers to strangers to taste laughter like ripe fruit.",
-    "quoteDescription": "Jamila Hassan shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Jamila Hassan",
-    "culture": "Swahili Coastal Laughter",
-    "category": "Joy",
+    "quoteText": "If you don't do it, many of the brightest of you will live in the middle ranks or in the shallows.",
+    "quoteTextEN": "If you don't do it, many of the brightest of you will live in the middle ranks or in the shallows.",
+    "quoteDescription": "USC Law commencement address (2007), after urging graduates to learn the big ideas of the key disciplines.",
+    "quoteMeaningAnalysis": "He frames multidisciplinary learning as the difference between competence and mediocrity among equally bright people.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "latticework",
+      "mental models"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, USC Law School commencement address, 13 May 2007 (transcript)",
+        "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger"
+      },
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "676",
-    "quoteText": "The sparkling morning drum whispers to strangers to dance before the music begins.",
-    "quoteTextEN": "The sparkling morning drum whispers to strangers to dance before the music begins.",
-    "quoteDescription": "Kaito Suzuki shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Kaito Suzuki",
-    "culture": "Osaka Street Celebrations",
-    "category": "Joy",
+    "quoteText": "I think I've been in the top five percent of my age cohort almost all my adult life in understanding the power of incentives, and yet I've always underestimated that power.",
+    "quoteTextEN": "I think I've been in the top five percent of my age cohort almost all my adult life in understanding the power of incentives, and yet I've always underestimated that power.",
+    "quoteDescription": "The Psychology of Human Misjudgment, revised text in Poor Charlie's Almanack (2005), section on Reward and Punishment Superresponse Tendency.",
+    "quoteMeaningAnalysis": "Even an expert in incentives keeps being surprised by them. He follows it with the FedEx night-shift story, fixed by paying per shift rather than per hour.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "incentives",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, The Psychology of Human Misjudgment (revised, Poor Charlie's Almanack)",
+        "url": "https://fs.blog/great-talks/psychology-human-misjudgment/"
+      }
     ]
   },
   {
     "id": "677",
-    "quoteText": "The sparkling morning drum whispers to strangers to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling morning drum whispers to strangers to braid color into everyday chores.",
-    "quoteDescription": "Lina Haddad shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Lina Haddad",
-    "culture": "Beirut Morning Coffee Stories",
-    "category": "Joy",
+    "quoteText": "The brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance.",
+    "quoteTextEN": "The brain of man conserves programming space by being reluctant to change, which is a form of inconsistency avoidance.",
+    "quoteDescription": "The Psychology of Human Misjudgment, 'Inconsistency-Avoidance Tendency'.",
+    "quoteMeaningAnalysis": "He explains stubbornness as an economy of the brain. Few people can name a bad habit they have dropped.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "habits",
+      "consistency bias"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Munger, The Psychology of Human Misjudgment (revised, Poor Charlie's Almanack)",
+        "url": "https://fs.blog/great-talks/psychology-human-misjudgment/"
+      }
     ]
   },
   {
     "id": "678",
-    "quoteText": "The sparkling morning drum whispers to strangers to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling morning drum whispers to strangers to share sweetness even on hard days.",
-    "quoteDescription": "Mason Carter shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Mason Carter",
-    "culture": "New Orleans Second Line Lore",
-    "category": "Joy",
+    "quoteText": "Just because you express the depreciation rate in neat numbers doesn't make it anything you really know.",
+    "quoteTextEN": "Just because you express the depreciation rate in neat numbers doesn't make it anything you really know.",
+    "quoteDescription": "'A Lesson on Elementary, Worldly Wisdom', USC Business School, 1994.",
+    "quoteMeaningAnalysis": "Accounting is a crude approximation dressed in precise figures. The useful life of a jet is a guess, however neatly booked.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "accounting",
+      "precision"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "679",
-    "quoteText": "The sparkling morning drum whispers to strangers to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling morning drum whispers to strangers to let gratitude ring through the alleys.",
-    "quoteDescription": "Noemi Weiss shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Noemi Weiss",
-    "culture": "Buenos Aires Milonga Teachings",
-    "category": "Joy",
+    "quoteText": "Much of what is taught in modern corporate finance courses is twaddle.",
+    "quoteTextEN": "Much of what is taught in modern corporate finance courses is twaddle.",
+    "quoteDescription": "Berkshire Hathaway annual meeting, 1996.",
+    "quoteMeaningAnalysis": "Munger dismisses beta and efficient-market theory as models that fail where it counts. 'Twaddle' later became one of his named misjudgment tendencies.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "finance theory",
+      "academia"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "680",
-    "quoteText": "The sparkling morning drum whispers to strangers to bloom together after long winters.",
-    "quoteTextEN": "The sparkling morning drum whispers to strangers to bloom together after long winters.",
-    "quoteDescription": "Odetta James shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Odetta James",
-    "culture": "Caribbean Carnival Tales",
-    "category": "Joy",
+    "quoteText": "The idea that it is hard to find good investments, so concentrate in a few, seems to me to be an obvious idea. But 98% of the investment world does not think this way.",
+    "quoteTextEN": "The idea that it is hard to find good investments, so concentrate in a few, seems to me to be an obvious idea. But 98% of the investment world does not think this way.",
+    "quoteDescription": "Poor Charlie's Almanack (2005), p. 100.",
+    "quoteMeaningAnalysis": "Concentration follows from scarcity of good ideas. He treats diversification across hundreds of holdings as an admission that you cannot tell them apart.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "focus investing",
+      "concentration"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "681",
-    "quoteText": "The sparkling morning drum invites storytellers to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling morning drum invites storytellers to taste laughter like ripe fruit.",
-    "quoteDescription": "Camila Torres shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Camila Torres",
-    "culture": "Colombian Fiesta Wisdom",
-    "category": "Joy",
+    "quoteText": "The accountant is like the referee in soccer. The accountant has to be the adult that prevents the mayhem.",
+    "quoteTextEN": "The accountant is like the referee in soccer. The accountant has to be the adult that prevents the mayhem.",
+    "quoteDescription": "'A Conversation with Charlie Munger', University of Michigan Ross School of Business, 22 March 2011.",
+    "quoteMeaningAnalysis": "He blames lenient accounting standards for the 2008 crisis. Auditors avoided the adult role because responsibility brings liability.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "accounting",
+      "2008 crisis",
+      "gatekeepers"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "682",
-    "quoteText": "The sparkling morning drum invites storytellers to dance before the music begins.",
-    "quoteTextEN": "The sparkling morning drum invites storytellers to dance before the music begins.",
-    "quoteDescription": "Bongani Khumalo shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Bongani Khumalo",
-    "culture": "Zulu Celebration Tales",
-    "category": "Joy",
+    "quoteText": "They've learned these techniques and they just twist the problem so it fits the solution—which is not the way to do it.",
+    "quoteTextEN": "They've learned these techniques and they just twist the problem so it fits the solution—which is not the way to do it.",
+    "quoteDescription": "Berkshire Hathaway annual meeting, 2012, explaining why highly trained people make dumb errors.",
+    "quoteMeaningAnalysis": "This is man-with-a-hammer tendency in action. Expertise in a method narrows which problems a person can see.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "man with a hammer",
+      "expertise"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "683",
-    "quoteText": "The sparkling morning drum invites storytellers to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling morning drum invites storytellers to braid color into everyday chores.",
-    "quoteDescription": "Hana Kim shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Hana Kim",
-    "culture": "Seoul Festival Notes",
-    "category": "Joy",
+    "quoteText": "I never used calculus for any practical work in my whole damn life—and I was a perfect whiz at it when they taught it to me.",
+    "quoteTextEN": "I never used calculus for any practical work in my whole damn life—and I was a perfect whiz at it when they taught it to me.",
+    "quoteDescription": "'A Conversation with Charlie Munger and Michigan Ross', 20 December 2017.",
+    "quoteMeaningAnalysis": "He claims everything at Berkshire could be done with algebra and arithmetic. Fancy maths was not the edge.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "mathematics",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "684",
-    "quoteText": "The sparkling morning drum invites storytellers to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling morning drum invites storytellers to share sweetness even on hard days.",
-    "quoteDescription": "Isla Rodríguez shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Isla Rodríguez",
-    "culture": "Canary Islands Joy Songs",
-    "category": "Joy",
+    "quoteText": "You don't have a lot of envy, you don't have a lot of resentment. You don't overspend your income, you stay cheerful in spite of your troubles, you deal with reliable people, and you do what you're supposed to do.",
+    "quoteTextEN": "You don't have a lot of envy, you don't have a lot of resentment. You don't overspend your income, you stay cheerful in spite of your troubles, you deal with reliable people, and you do what you're supposed to do.",
+    "quoteDescription": "Interview on the secret to a long and happy life, February 2019.",
+    "quoteMeaningAnalysis": "The list repeats his 2007 commencement themes. He adds that the rules work so well precisely because they are trite.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "happiness",
+      "longevity",
+      "simple rules"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "685",
-    "quoteText": "The sparkling morning drum invites storytellers to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling morning drum invites storytellers to let gratitude ring through the alleys.",
-    "quoteDescription": "Jamila Hassan shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Jamila Hassan",
-    "culture": "Swahili Coastal Laughter",
-    "category": "Joy",
+    "quoteText": "What I would say is the single most important thing, if you want to avoid all the stupid errors, is knowing where you're competent and where you aren't.",
+    "quoteTextEN": "What I would say is the single most important thing, if you want to avoid all the stupid errors, is knowing where you're competent and where you aren't.",
+    "quoteDescription": "'A Conversation with Distinguished Alumnus Charles T. Munger', Caltech, 17 December 2020.",
+    "quoteMeaningAnalysis": "The circle of competence is hard to keep because the mind flatters itself. He names the self-flattery as the obstacle.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "circle of competence",
+      "self-knowledge"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "686",
-    "quoteText": "The sparkling morning drum invites storytellers to bloom together after long winters.",
-    "quoteTextEN": "The sparkling morning drum invites storytellers to bloom together after long winters.",
-    "quoteDescription": "Kaito Suzuki shares a joy image where a morning drum becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Kaito Suzuki",
-    "culture": "Osaka Street Celebrations",
-    "category": "Joy",
+    "quoteText": "You fix what can be fixed, and what can't be fixed you endure.",
+    "quoteTextEN": "You fix what can be fixed, and what can't be fixed you endure.",
+    "quoteDescription": "Daily Journal annual meeting, 24 February 2021.",
+    "quoteMeaningAnalysis": "Two moves, cleanly separated. It echoes the Stoic dichotomy of control in Munger's plain register.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "endurance",
+      "acceptance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "687",
-    "quoteText": "The sparkling carnival banner beckons kin to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling carnival banner beckons kin to taste laughter like ripe fruit.",
-    "quoteDescription": "Lina Haddad shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Lina Haddad",
-    "culture": "Beirut Morning Coffee Stories",
-    "category": "Joy",
+    "quoteText": "We don't want to make our money selling things that are bad for people.",
+    "quoteTextEN": "We don't want to make our money selling things that are bad for people.",
+    "quoteDescription": "Berkshire Hathaway annual meeting, 1 May 2021.",
+    "quoteMeaningAnalysis": "He puts a moral filter ahead of returns, here discussing products Berkshire would not back.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "ethics",
+      "business"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "688",
-    "quoteText": "The sparkling carnival banner beckons kin to dance before the music begins.",
-    "quoteTextEN": "The sparkling carnival banner beckons kin to dance before the music begins.",
-    "quoteDescription": "Mason Carter shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Mason Carter",
-    "culture": "New Orleans Second Line Lore",
-    "category": "Joy",
+    "quoteText": "If you have a standing start at zero, getting together $100,000 is a long struggle for most people.",
+    "quoteTextEN": "If you have a standing start at zero, getting together $100,000 is a long struggle for most people.",
+    "quoteDescription": "Berkshire Hathaway annual meeting, 1999, afternoon session.",
+    "quoteMeaningAnalysis": "The first stake is the hardest because compounding has not started working. After it, he says, you can ease off.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "compounding",
+      "saving"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "689",
-    "quoteText": "The sparkling carnival banner beckons kin to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling carnival banner beckons kin to braid color into everyday chores.",
-    "quoteDescription": "Noemi Weiss shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Noemi Weiss",
-    "culture": "Buenos Aires Milonga Teachings",
-    "category": "Joy",
+    "quoteText": "I regard it as a cinch that a great nation will in due time be Rome.",
+    "quoteTextEN": "I regard it as a cinch that a great nation will in due time be Rome.",
+    "quoteDescription": "CNBC interview, 15 February 2019.",
+    "quoteMeaningAnalysis": "Munger takes the long view of empires, including America. Every dominant power so far has passed.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Investing",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "history",
+      "decline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Charlie Munger",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Munger"
+      }
     ]
   },
   {
     "id": "690",
-    "quoteText": "The sparkling carnival banner beckons kin to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling carnival banner beckons kin to share sweetness even on hard days.",
-    "quoteDescription": "Odetta James shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Odetta James",
-    "culture": "Caribbean Carnival Tales",
-    "category": "Joy",
+    "quoteText": "A recurrent theme of this book is that luck plays a large role in every story of success; it is almost always easy to identify a small change in the story that would have turned a remarkable achievement into a mediocre outcome.",
+    "quoteTextEN": "A recurrent theme of this book is that luck plays a large role in every story of success; it is almost always easy to identify a small change in the story that would have turned a remarkable achievement into a mediocre outcome.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), Introduction.",
+    "quoteMeaningAnalysis": "Success stories are read as proof of skill because the luck in them is invisible. Kahneman's test is counterfactual: how small a change would have erased the result.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "luck",
+      "success",
+      "narrative"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "691",
-    "quoteText": "The sparkling carnival banner beckons kin to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling carnival banner beckons kin to let gratitude ring through the alleys.",
-    "quoteDescription": "Camila Torres shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Camila Torres",
-    "culture": "Colombian Fiesta Wisdom",
-    "category": "Joy",
+    "quoteText": "Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed.",
+    "quoteTextEN": "Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 3, 'The Lazy Controller'.",
+    "quoteMeaningAnalysis": "He widens intelligence to include retrieval and attention, the things System 2 must do to override System 1.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "intelligence",
+      "attention",
+      "memory"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "692",
-    "quoteText": "The sparkling carnival banner beckons kin to bloom together after long winters.",
-    "quoteTextEN": "The sparkling carnival banner beckons kin to bloom together after long winters.",
-    "quoteDescription": "Bongani Khumalo shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Bongani Khumalo",
-    "culture": "Zulu Celebration Tales",
-    "category": "Joy",
+    "quoteText": "It is the consistency of the information that matters for a good story, not its completeness.",
+    "quoteTextEN": "It is the consistency of the information that matters for a good story, not its completeness.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 7, 'A Machine for Jumping to Conclusions'.",
+    "quoteMeaningAnalysis": "Less information can make a story feel more coherent, because there are fewer facts that conflict. Coherence is mistaken for evidence.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "coherence",
+      "storytelling",
+      "WYSIATI"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "693",
-    "quoteText": "The sparkling carnival banner reminds elders to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling carnival banner reminds elders to taste laughter like ripe fruit.",
-    "quoteDescription": "Hana Kim shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Hana Kim",
-    "culture": "Seoul Festival Notes",
-    "category": "Joy",
+    "quoteText": "The world in our heads is not a precise replica of reality; our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed.",
+    "quoteTextEN": "The world in our heads is not a precise replica of reality; our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 13, 'Availability, Emotion, and Risk'.",
+    "quoteMeaningAnalysis": "This explains why estimates of causes of death track media coverage. Vivid, repeated events feel common.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "availability",
+      "media",
+      "risk perception"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "694",
-    "quoteText": "The sparkling carnival banner reminds elders to dance before the music begins.",
-    "quoteTextEN": "The sparkling carnival banner reminds elders to dance before the music begins.",
-    "quoteDescription": "Isla Rodríguez shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Isla Rodríguez",
-    "culture": "Canary Islands Joy Songs",
-    "category": "Joy",
+    "quoteText": "There is a deep gap between our thinking about statistics and our thinking about individual cases.",
+    "quoteTextEN": "There is a deep gap between our thinking about statistics and our thinking about individual cases.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 15, 'Causes Trump Statistics'.",
+    "quoteMeaningAnalysis": "People learn little from base rates but a great deal from a single surprising case. Statistics rarely change beliefs about particular people.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "base rates",
+      "statistics"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "695",
-    "quoteText": "The sparkling carnival banner reminds elders to braid color into everyday chores.",
-    "quoteTextEN": "The sparkling carnival banner reminds elders to braid color into everyday chores.",
-    "quoteDescription": "Jamila Hassan shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to braid color into everyday chores.",
-    "author": "Jamila Hassan",
-    "culture": "Swahili Coastal Laughter",
-    "category": "Joy",
+    "quoteText": "Whenever the correlation between two scores is imperfect, there will be regression to the mean.",
+    "quoteTextEN": "Whenever the correlation between two scores is imperfect, there will be regression to the mean.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 17, 'Regression to the Mean'.",
+    "quoteMeaningAnalysis": "The rule is mechanical, yet people invent causes for it, such as praise making performance worse. Kahneman's flight-instructor story begins here.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "regression to the mean",
+      "causality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "696",
-    "quoteText": "The sparkling carnival banner reminds elders to share sweetness even on hard days.",
-    "quoteTextEN": "The sparkling carnival banner reminds elders to share sweetness even on hard days.",
-    "quoteDescription": "Kaito Suzuki shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to share sweetness even on hard days.",
-    "author": "Kaito Suzuki",
-    "culture": "Osaka Street Celebrations",
-    "category": "Joy",
+    "quoteText": "Confidence is a feeling, which reflects the coherence of the information and the cognitive ease of processing it.",
+    "quoteTextEN": "Confidence is a feeling, which reflects the coherence of the information and the cognitive ease of processing it.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 20, 'The Illusion of Validity'.",
+    "quoteMeaningAnalysis": "Confidence measures how well a story hangs together, not whether it is true. That is why sincere experts can be confidently wrong.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "confidence",
+      "overconfidence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "697",
-    "quoteText": "The sparkling carnival banner reminds elders to let gratitude ring through the alleys.",
-    "quoteTextEN": "The sparkling carnival banner reminds elders to let gratitude ring through the alleys.",
-    "quoteDescription": "Lina Haddad shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to let gratitude ring through the alleys.",
-    "author": "Lina Haddad",
-    "culture": "Beirut Morning Coffee Stories",
-    "category": "Joy",
+    "quoteText": "He's taking an inside view. He should forget about his own case and look for what happened in other cases.",
+    "quoteTextEN": "He's taking an inside view. He should forget about his own case and look for what happened in other cases.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 23, 'The Outside View', one of the end-of-chapter sample sentences.",
+    "quoteMeaningAnalysis": "The outside view anchors a forecast on the reference class before adjusting for specifics. It was the fix for his own textbook project's planning fallacy.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "outside view",
+      "planning fallacy",
+      "forecasting"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "698",
-    "quoteText": "The sparkling carnival banner reminds elders to bloom together after long winters.",
-    "quoteTextEN": "The sparkling carnival banner reminds elders to bloom together after long winters.",
-    "quoteDescription": "Mason Carter shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to bloom together after long winters.",
-    "author": "Mason Carter",
-    "culture": "New Orleans Second Line Lore",
-    "category": "Joy",
+    "quoteText": "There is no evidence that risk takers in the economic domain have an unusual appetite for gambles on high stakes; they are merely less aware of risks than more timid people are.",
+    "quoteTextEN": "There is no evidence that risk takers in the economic domain have an unusual appetite for gambles on high stakes; they are merely less aware of risks than more timid people are.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 24, 'The Engine of Capitalism'.",
+    "quoteMeaningAnalysis": "Entrepreneurial boldness is recast as optimism about odds, not love of risk. They take the bet because they misjudge it.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "entrepreneurs",
+      "optimism",
+      "risk"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "699",
-    "quoteText": "The sparkling carnival banner calls children to taste laughter like ripe fruit.",
-    "quoteTextEN": "The sparkling carnival banner calls children to taste laughter like ripe fruit.",
-    "quoteDescription": "Noemi Weiss shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to taste laughter like ripe fruit.",
-    "author": "Noemi Weiss",
-    "culture": "Buenos Aires Milonga Teachings",
-    "category": "Joy",
+    "quoteText": "Risk taking of this kind often turns manageable failures into disasters.",
+    "quoteTextEN": "Risk taking of this kind often turns manageable failures into disasters.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 29, 'The Fourfold Pattern', on desperate gambles in the domain of losses.",
+    "quoteMeaningAnalysis": "Facing a sure loss, people take long-shot bets to avoid it. The fourfold pattern predicts the doubling-down that sinks failing projects.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "loss aversion",
+      "sunk cost",
+      "prospect theory"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "700",
-    "quoteText": "The sparkling carnival banner calls children to dance before the music begins.",
-    "quoteTextEN": "The sparkling carnival banner calls children to dance before the music begins.",
-    "quoteDescription": "Odetta James shares a joy image where a carnival banner becomes a guide toward finding delight in everyday rhythms.",
-    "quoteMeaningAnalysis": "It suggests that joy multiplies when celebrated in community and urges us to dance before the music begins.",
-    "author": "Odetta James",
-    "culture": "Caribbean Carnival Tales",
-    "category": "Joy",
+    "quoteText": "A rare event will be overweighted if it specifically attracts attention.",
+    "quoteTextEN": "A rare event will be overweighted if it specifically attracts attention.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 30, 'Rare Events'.",
+    "quoteMeaningAnalysis": "Attention, not probability, sets the decision weight. The flip side, which he adds next, is that unnoticed rare events are neglected entirely.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "joy",
-      "gratitude",
-      "celebration"
+      "rare events",
+      "attention",
+      "decision weights"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Joy",
-      "https://www.psychologytoday.com/us/basics/happiness"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "701",
-    "quoteText": "The unyielding freedom drum calls the movement to name every silence that harms.",
-    "quoteTextEN": "The unyielding freedom drum calls the movement to name every silence that harms.",
-    "quoteDescription": "Avery Johnson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Avery Johnson",
-    "culture": "Harlem Justice Scholar",
-    "category": "Justice",
+    "quoteText": "Most of us passively accept decision problems as they are framed and therefore rarely have an opportunity to discover the extent to which our preferences are frame-bound rather than reality-bound.",
+    "quoteTextEN": "Most of us passively accept decision problems as they are framed and therefore rarely have an opportunity to discover the extent to which our preferences are frame-bound rather than reality-bound.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 34, 'Frames and Reality'.",
+    "quoteMeaningAnalysis": "Because we see only one framing, we never notice our choice would flip under another. The bias is invisible from inside.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "framing",
+      "preferences"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "702",
-    "quoteText": "The unyielding freedom drum calls the movement to keep promises in the open air.",
-    "quoteTextEN": "The unyielding freedom drum calls the movement to keep promises in the open air.",
-    "quoteDescription": "Belen Ortiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Belen Ortiz",
-    "culture": "Patagonian Rights Collective",
-    "category": "Justice",
+    "quoteText": "Experienced well-being is on average unaffected by marriage, not because marriage makes no difference to happiness, but because it changes some aspects of life for the better and others for the worse.",
+    "quoteTextEN": "Experienced well-being is on average unaffected by marriage, not because marriage makes no difference to happiness, but because it changes some aspects of life for the better and others for the worse.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), ch. 38, 'Thinking About Life'.",
+    "quoteMeaningAnalysis": "An average of zero hides two real effects that cancel. He uses it to warn against reading averages as absence of effect.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "well-being",
+      "averages",
+      "marriage"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "703",
-    "quoteText": "The unyielding freedom drum calls the movement to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding freedom drum calls the movement to lift the stories buried deep.",
-    "quoteDescription": "Chike Okafor shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Chike Okafor",
-    "culture": "Lagos Equity Forum",
-    "category": "Justice",
+    "quoteText": "Although humans are not irrational, they often need help to make more accurate judgements and better decisions.",
+    "quoteTextEN": "Although humans are not irrational, they often need help to make more accurate judgements and better decisions.",
+    "quoteDescription": "Thinking, Fast and Slow (2011), Conclusions.",
+    "quoteMeaningAnalysis": "Kahneman resists the 'humans are irrational' reading of his work. The policy conclusion is better choice architecture and protection, not contempt.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "rationality",
+      "policy",
+      "nudges"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "704",
-    "quoteText": "The unyielding freedom drum calls the movement to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding freedom drum calls the movement to link arms until the laws remember.",
-    "quoteDescription": "Dima Saleh shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Dima Saleh",
-    "culture": "Ramallah Rights Circle",
-    "category": "Justice",
+    "quoteText": "We can believe an expert who admits uncertainty but cannot take expressions of high confidence at face value.",
+    "quoteTextEN": "We can believe an expert who admits uncertainty but cannot take expressions of high confidence at face value.",
+    "quoteDescription": "From 'Don't Blink! The Hazards of Confidence', New York Times Magazine, 19 October 2011.",
+    "quoteMeaningAnalysis": "He inverts the usual signal: hedging is a sign of calibration, certainty a sign of a good story.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "experts",
+      "confidence",
+      "calibration"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "705",
-    "quoteText": "The unyielding freedom drum calls the movement to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding freedom drum calls the movement to march until the night admits dawn.",
-    "quoteDescription": "Eli Rosen shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Eli Rosen",
-    "culture": "Lower East Side Advocate",
-    "category": "Justice",
+    "quoteText": "In terms of its consequences for decisions, the optimistic bias may well be the most significant cognitive bias.",
+    "quoteTextEN": "In terms of its consequences for decisions, the optimistic bias may well be the most significant cognitive bias.",
+    "quoteDescription": "From 'Bias, Blindness and How We Truly Think', Bloomberg, 24 October 2011.",
+    "quoteMeaningAnalysis": "Out of the whole catalogue he picks optimism as the costliest, because it drives the largest commitments: startups, wars, projects.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "optimism bias",
+      "decisions"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "706",
-    "quoteText": "The unyielding freedom drum calls the movement to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding freedom drum calls the movement to weave reparations into daily bread.",
-    "quoteDescription": "Farah Qureshi shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Farah Qureshi",
-    "culture": "Karachi Justice Workshop",
-    "category": "Justice",
+    "quoteText": "I call it theory-induced blindness: Once you have accepted a theory, it is extraordinarily difficult to notice its flaws.",
+    "quoteTextEN": "I call it theory-induced blindness: Once you have accepted a theory, it is extraordinarily difficult to notice its flaws.",
+    "quoteDescription": "From 'Bias, Blindness and How We Truly Think (Part 2)', Bloomberg, 2011, on Bernoulli's utility theory.",
+    "quoteMeaningAnalysis": "He applies it to the scholarly mind, including his own. A theory that survived obvious counterexamples for two centuries shows how strong the effect is.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "theory",
+      "blindness",
+      "science"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "707",
-    "quoteText": "The unyielding freedom drum reminds comrades to name every silence that harms.",
-    "quoteTextEN": "The unyielding freedom drum reminds comrades to name every silence that harms.",
-    "quoteDescription": "Grace Mthembu shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Grace Mthembu",
-    "culture": "Johannesburg Freedom School",
-    "category": "Justice",
+    "quoteText": "I am my remembering self, and the experiencing self, who does my living, is like a stranger to me.",
+    "quoteTextEN": "I am my remembering self, and the experiencing self, who does my living, is like a stranger to me.",
+    "quoteDescription": "From 'Bias, Blindness and How We Truly Think (Part 4)', Bloomberg, 2011.",
+    "quoteMeaningAnalysis": "The thought experiment of a vacation with all memories erased shows that people value the story over the lived moments.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "remembering self",
+      "experiencing self",
+      "memory"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "708",
-    "quoteText": "The unyielding freedom drum reminds comrades to keep promises in the open air.",
-    "quoteTextEN": "The unyielding freedom drum reminds comrades to keep promises in the open air.",
-    "quoteDescription": "Hector Ruiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Hector Ruiz",
-    "culture": "El Paso Border Witness",
-    "category": "Justice",
+    "quoteText": "We all care intensely for the narrative of our own life and very much want it to be a good story, with a decent hero.",
+    "quoteTextEN": "We all care intensely for the narrative of our own life and very much want it to be a good story, with a decent hero.",
+    "quoteDescription": "From 'Bias, Blindness and How We Truly Think (Part 4)', Bloomberg, 2011.",
+    "quoteMeaningAnalysis": "Concern for the story explains why we pity people over events they never learned about. Endings and plot matter more than duration.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "narrative",
+      "identity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "709",
-    "quoteText": "The unyielding freedom drum reminds comrades to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding freedom drum reminds comrades to lift the stories buried deep.",
-    "quoteDescription": "Imani Jackson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Imani Jackson",
-    "culture": "Atlanta Liberation Choir",
-    "category": "Justice",
+    "quoteText": "I went home more certain than ever that my mother was right: people were endlessly complicated and interesting.",
+    "quoteTextEN": "I went home more certain than ever that my mother was right: people were endlessly complicated and interesting.",
+    "quoteDescription": "Kahneman's Nobel autobiography (2002), recalling an SS soldier who hugged him in occupied Paris in 1941 or 1942.",
+    "quoteMeaningAnalysis": "The child hiding his yellow star is embraced by the uniform he feared most. He cites the episode as the root of his interest in psychology.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "childhood",
+      "human nature",
+      "Nobel"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "710",
-    "quoteText": "The unyielding freedom drum reminds comrades to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding freedom drum reminds comrades to link arms until the laws remember.",
-    "quoteDescription": "Jamal Idris shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Jamal Idris",
-    "culture": "Khartoum Community Forum",
-    "category": "Justice",
+    "quoteText": "There is a large Amos-shaped gap in the mosaic, and it will not be filled.",
+    "quoteTextEN": "There is a large Amos-shaped gap in the mosaic, and it will not be filled.",
+    "quoteDescription": "Kahneman's Nobel autobiography (2002), on the death of Amos Tversky in 1996.",
+    "quoteMeaningAnalysis": "The prize he received in 2002 was for work done with Tversky, who could not share it posthumously. The gap image is grief stated with a researcher's precision.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "Amos Tversky",
+      "collaboration",
+      "grief"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "711",
-    "quoteText": "The unyielding freedom drum reminds comrades to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding freedom drum reminds comrades to march until the night admits dawn.",
-    "quoteDescription": "Avery Johnson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Avery Johnson",
-    "culture": "Harlem Justice Scholar",
-    "category": "Justice",
+    "quoteText": "You should inform your gut and then trust it.",
+    "quoteTextEN": "You should inform your gut and then trust it.",
+    "quoteDescription": "Discussion at Harvard, 3 December 2021, reported by the Harvard Gazette.",
+    "quoteMeaningAnalysis": "Late in life he does not reject intuition; he sequences it after deliberate information gathering.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "intuition",
+      "decision process"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "712",
-    "quoteText": "The unyielding freedom drum reminds comrades to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding freedom drum reminds comrades to weave reparations into daily bread.",
-    "quoteDescription": "Belen Ortiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Belen Ortiz",
-    "culture": "Patagonian Rights Collective",
-    "category": "Justice",
+    "quoteText": "The first advice is to slow down, and not follow your first impulses.",
+    "quoteTextEN": "The first advice is to slow down, and not follow your first impulses.",
+    "quoteDescription": "Discussion at Harvard, 3 December 2021, reported by the Harvard Gazette.",
+    "quoteMeaningAnalysis": "Slowing down is the practical form of handing a decision to System 2.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "System 2",
+      "impulse"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "713",
-    "quoteText": "The unyielding freedom drum encourages jurors to name every silence that harms.",
-    "quoteTextEN": "The unyielding freedom drum encourages jurors to name every silence that harms.",
-    "quoteDescription": "Chike Okafor shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Chike Okafor",
-    "culture": "Lagos Equity Forum",
-    "category": "Justice",
+    "quoteText": "I placed too much faith in underpowered studies.",
+    "quoteTextEN": "I placed too much faith in underpowered studies.",
+    "quoteDescription": "Comment on the Replicability-Index blog, 14 February 2017, quoted by Retraction Watch, about the priming chapter of Thinking, Fast and Slow.",
+    "quoteMeaningAnalysis": "He concedes the very error he and Tversky had described in 1971 as the 'law of small numbers'. It is a rare public correction by a laureate of his own book.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "replication crisis",
+      "priming",
+      "error"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "714",
-    "quoteText": "The unyielding freedom drum encourages jurors to keep promises in the open air.",
-    "quoteTextEN": "The unyielding freedom drum encourages jurors to keep promises in the open air.",
-    "quoteDescription": "Dima Saleh shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Dima Saleh",
-    "culture": "Ramallah Rights Circle",
-    "category": "Justice",
+    "quoteText": "No one ever made a decision because of a number. They need a story.",
+    "quoteTextEN": "No one ever made a decision because of a number. They need a story.",
+    "quoteDescription": "Quoted in Michael Lewis, The Undoing Project (2016).",
+    "quoteMeaningAnalysis": "Statistics persuade badly unless they are carried by a narrative. It is the same finding as 'causes trump statistics', turned into advice.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "persuasion",
+      "stories",
+      "numbers"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "715",
-    "quoteText": "The unyielding freedom drum encourages jurors to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding freedom drum encourages jurors to lift the stories buried deep.",
-    "quoteDescription": "Eli Rosen shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Eli Rosen",
-    "culture": "Lower East Side Advocate",
-    "category": "Justice",
+    "quoteText": "Hypotheses are true mostly, except mostly they're very weak, they're much weaker than you think.",
+    "quoteTextEN": "Hypotheses are true mostly, except mostly they're very weak, they're much weaker than you think.",
+    "quoteDescription": "Lex Fridman Podcast, 14 January 2020.",
+    "quoteMeaningAnalysis": "Directional psychology claims are usually right; the trouble is effect size. That is his diagnosis of why so many studies fail to replicate.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "effect size",
+      "psychology",
+      "replication"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Wikiquote: Daniel Kahneman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Daniel_Kahneman"
+      }
     ]
   },
   {
     "id": "716",
-    "quoteText": "The unyielding freedom drum encourages jurors to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding freedom drum encourages jurors to link arms until the laws remember.",
-    "quoteDescription": "Farah Qureshi shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Farah Qureshi",
-    "culture": "Karachi Justice Workshop",
-    "category": "Justice",
+    "quoteText": "The research that Tversky and I conducted was guided by the idea that intuitive judgments occupy a position – perhaps corresponding to evolutionary history – between the automatic operations of perception and the deliberate operations of reasoning.",
+    "quoteTextEN": "The research that Tversky and I conducted was guided by the idea that intuitive judgments occupy a position – perhaps corresponding to evolutionary history – between the automatic operations of perception and the deliberate operations of reasoning.",
+    "quoteDescription": "Kahneman's Nobel Prize lecture, 'Maps of Bounded Rationality', 8 December 2002, section 1.",
+    "quoteMeaningAnalysis": "This is the seed of the System 1 / System 2 framing: intuition behaves like perception, quick and impression-driven, rather than like reasoning.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Psychology",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "intuition",
+      "perception",
+      "dual process"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Kahneman, Maps of Bounded Rationality, Nobel Prize Lecture (2002)",
+        "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf"
+      }
     ]
   },
   {
     "id": "717",
-    "quoteText": "The unyielding freedom drum encourages jurors to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding freedom drum encourages jurors to march until the night admits dawn.",
-    "quoteDescription": "Grace Mthembu shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Grace Mthembu",
-    "culture": "Johannesburg Freedom School",
-    "category": "Justice",
+    "quoteText": "Good design is innovative.",
+    "quoteTextEN": "Good design is innovative.",
+    "quoteDescription": "The first of Dieter Rams' ten principles for good design, formulated around 1980.",
+    "quoteMeaningAnalysis": "Rams ties innovation to technology: new technical possibilities keep opening new design options. It rules out restyling the old as a substitute for real progress.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "innovation",
+      "principles",
+      "technology"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "718",
-    "quoteText": "The unyielding freedom drum encourages jurors to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding freedom drum encourages jurors to weave reparations into daily bread.",
-    "quoteDescription": "Hector Ruiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Hector Ruiz",
-    "culture": "El Paso Border Witness",
-    "category": "Justice",
+    "quoteText": "Good design makes a product useful.",
+    "quoteTextEN": "Good design makes a product useful.",
+    "quoteDescription": "The second of Dieter Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Usefulness covers function as well as the psychological and aesthetic side of use. Anything that gets in the way of use is a defect, however attractive.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "usefulness",
+      "function",
+      "principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "719",
-    "quoteText": "The unyielding freedom drum invites neighbors to name every silence that harms.",
-    "quoteTextEN": "The unyielding freedom drum invites neighbors to name every silence that harms.",
-    "quoteDescription": "Imani Jackson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Imani Jackson",
-    "culture": "Atlanta Liberation Choir",
-    "category": "Justice",
+    "quoteText": "Good design is aesthetic.",
+    "quoteTextEN": "Good design is aesthetic.",
+    "quoteDescription": "The third of Dieter Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Rams argues beauty is part of usefulness, because people live with objects every day. He limits it to well-executed objects; ornament does not qualify.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "aesthetics",
+      "quality",
+      "principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "720",
-    "quoteText": "The unyielding freedom drum invites neighbors to keep promises in the open air.",
-    "quoteTextEN": "The unyielding freedom drum invites neighbors to keep promises in the open air.",
-    "quoteDescription": "Jamal Idris shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Jamal Idris",
-    "culture": "Khartoum Community Forum",
-    "category": "Justice",
+    "quoteText": "Good design is unobtrusive.",
+    "quoteTextEN": "Good design is unobtrusive.",
+    "quoteDescription": "The fifth of Dieter Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Tools should stay neutral and leave room for the user's own expression. A product that shouts claims attention that belongs to the person using it.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "restraint",
+      "neutrality",
+      "principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "721",
-    "quoteText": "The unyielding freedom drum invites neighbors to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding freedom drum invites neighbors to lift the stories buried deep.",
-    "quoteDescription": "Avery Johnson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Avery Johnson",
-    "culture": "Harlem Justice Scholar",
-    "category": "Justice",
+    "quoteText": "Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art.",
+    "quoteTextEN": "Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art.",
+    "quoteDescription": "From Rams' explanation of 'Good design is unobtrusive' in his ten principles.",
+    "quoteMeaningAnalysis": "The comparison sets the bar: a good hammer is judged by hammering. Rams resists treating everyday products as sculpture.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "tools",
+      "function",
+      "decoration"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "722",
-    "quoteText": "The unyielding freedom drum invites neighbors to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding freedom drum invites neighbors to link arms until the laws remember.",
-    "quoteDescription": "Belen Ortiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Belen Ortiz",
-    "culture": "Patagonian Rights Collective",
-    "category": "Justice",
+    "quoteText": "Good design is thorough down to the last detail.",
+    "quoteTextEN": "Good design is thorough down to the last detail.",
+    "quoteDescription": "The eighth of Dieter Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Care in the details is a form of respect for the user. Rams treats a neglected edge or screw as evidence the whole object was not fully thought through.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "detail",
+      "craft",
+      "principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "723",
-    "quoteText": "The unyielding freedom drum invites neighbors to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding freedom drum invites neighbors to march until the night admits dawn.",
-    "quoteDescription": "Chike Okafor shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Chike Okafor",
-    "culture": "Lagos Equity Forum",
-    "category": "Justice",
+    "quoteText": "Nothing must be arbitrary or left to chance.",
+    "quoteTextEN": "Nothing must be arbitrary or left to chance.",
+    "quoteDescription": "From Rams' explanation of 'Good design is thorough down to the last detail'.",
+    "quoteMeaningAnalysis": "Every dimension, radius and colour should have a reason. The rule turns design into a chain of decisions that can each be defended.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "precision",
+      "intent",
+      "detail"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "724",
-    "quoteText": "The unyielding freedom drum invites neighbors to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding freedom drum invites neighbors to weave reparations into daily bread.",
-    "quoteDescription": "Dima Saleh shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Dima Saleh",
-    "culture": "Ramallah Rights Circle",
-    "category": "Justice",
+    "quoteText": "Good design is environmentally-friendly.",
+    "quoteTextEN": "Good design is environmentally-friendly.",
+    "quoteDescription": "The ninth of Dieter Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Rams counted resource use and visual pollution as design failures decades before sustainability was fashionable. Long-lived, minimal products are his answer.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "sustainability",
+      "environment",
+      "principles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "725",
-    "quoteText": "The unyielding freedom drum teaches allies to name every silence that harms.",
-    "quoteTextEN": "The unyielding freedom drum teaches allies to name every silence that harms.",
-    "quoteDescription": "Eli Rosen shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Eli Rosen",
-    "culture": "Lower East Side Advocate",
-    "category": "Justice",
+    "quoteText": "It avoids being fashionable and therefore never appears antiquated.",
+    "quoteTextEN": "It avoids being fashionable and therefore never appears antiquated.",
+    "quoteDescription": "From Rams' explanation of 'Good design is long-lasting'.",
+    "quoteMeaningAnalysis": "Fashion builds in its own expiry date. Designs that skip the trend have nothing to go out of date.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "timelessness",
+      "fashion",
+      "longevity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "726",
-    "quoteText": "The unyielding freedom drum teaches allies to keep promises in the open air.",
-    "quoteTextEN": "The unyielding freedom drum teaches allies to keep promises in the open air.",
-    "quoteDescription": "Farah Qureshi shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Farah Qureshi",
-    "culture": "Karachi Justice Workshop",
-    "category": "Justice",
+    "quoteText": "Back to purity, back to simplicity.",
+    "quoteTextEN": "Back to purity, back to simplicity.",
+    "quoteDescription": "From Rams' explanation of 'Good design is as little design as possible'.",
+    "quoteMeaningAnalysis": "The phrase closes his principles with a direction rather than a rule. It asks designers to strip back to what the product needs.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "simplicity",
+      "purity",
+      "minimalism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Ten principles for good design (Dieter Rams), Vitsoe",
+        "url": "https://www.vitsoe.com/gb/about/good-design"
+      }
     ]
   },
   {
     "id": "727",
-    "quoteText": "The unyielding freedom drum teaches allies to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding freedom drum teaches allies to lift the stories buried deep.",
-    "quoteDescription": "Grace Mthembu shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Grace Mthembu",
-    "culture": "Johannesburg Freedom School",
-    "category": "Justice",
+    "quoteText": "To use design to impress, to polish things up, to make them chic, is no design at all.",
+    "quoteTextEN": "To use design to impress, to polish things up, to make them chic, is no design at all.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe' in New York.",
+    "quoteMeaningAnalysis": "Rams separates design from cosmetic surface treatment. Styling aimed at impressing buyers is, in his terms, decoration pretending to be design.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "styling",
+      "honesty",
+      "purpose"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "728",
-    "quoteText": "The unyielding freedom drum teaches allies to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding freedom drum teaches allies to link arms until the laws remember.",
-    "quoteDescription": "Hector Ruiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Hector Ruiz",
-    "culture": "El Paso Border Witness",
-    "category": "Justice",
+    "quoteText": "This is packaging.",
+    "quoteTextEN": "This is packaging.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe', describing design used to impress.",
+    "quoteMeaningAnalysis": "Three words dismiss a whole industry habit. Surface glamour wraps the product without improving it.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "styling",
+      "packaging",
+      "marketing"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "729",
-    "quoteText": "The unyielding freedom drum teaches allies to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding freedom drum teaches allies to march until the night admits dawn.",
-    "quoteDescription": "Imani Jackson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Imani Jackson",
-    "culture": "Atlanta Liberation Choir",
-    "category": "Justice",
+    "quoteText": "I am convinced that a well-thought-out design is decisive to the quality of a product.",
+    "quoteTextEN": "I am convinced that a well-thought-out design is decisive to the quality of a product.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe'.",
+    "quoteMeaningAnalysis": "Quality is not added after engineering; it is decided in design. The claim makes design a core part of the product, not its finish.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "quality",
+      "product",
+      "design thinking"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "730",
-    "quoteText": "The unyielding freedom drum teaches allies to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding freedom drum teaches allies to weave reparations into daily bread.",
-    "quoteDescription": "Jamal Idris shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Jamal Idris",
-    "culture": "Khartoum Community Forum",
-    "category": "Justice",
+    "quoteText": "A poorly-designed product is not only uglier than a well-designed one but it is of less value and use.",
+    "quoteTextEN": "A poorly-designed product is not only uglier than a well-designed one but it is of less value and use.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe'.",
+    "quoteMeaningAnalysis": "Bad design costs function and worth, not just looks. Rams rejects the idea that design is a purely visual layer.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "value",
+      "usefulness",
+      "quality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "731",
-    "quoteText": "The unyielding freedom drum whispers to organizers to name every silence that harms.",
-    "quoteTextEN": "The unyielding freedom drum whispers to organizers to name every silence that harms.",
-    "quoteDescription": "Avery Johnson shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Avery Johnson",
-    "culture": "Harlem Justice Scholar",
-    "category": "Justice",
+    "quoteText": "Striving for good design is of social importance as it means, amongst other things, absolutely avoiding waste.",
+    "quoteTextEN": "Striving for good design is of social importance as it means, amongst other things, absolutely avoiding waste.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe'.",
+    "quoteMeaningAnalysis": "Rams links design ethics to resource use. A product built to last and do one job well wastes less than a series of disposable ones.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "waste",
+      "social responsibility",
+      "sustainability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "732",
-    "quoteText": "The unyielding freedom drum whispers to organizers to keep promises in the open air.",
-    "quoteTextEN": "The unyielding freedom drum whispers to organizers to keep promises in the open air.",
-    "quoteDescription": "Belen Ortiz shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Belen Ortiz",
-    "culture": "Patagonian Rights Collective",
-    "category": "Justice",
+    "quoteText": "We cannot afford any more thoughtlessness.",
+    "quoteTextEN": "We cannot afford any more thoughtlessness.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe', on the shortage of natural resources.",
+    "quoteMeaningAnalysis": "Given finite materials and energy, careless products are a cost society can no longer carry. Rams made the argument in 1976, long before it was mainstream.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "responsibility",
+      "resources",
+      "waste"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "733",
-    "quoteText": "The unyielding freedom drum whispers to organizers to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding freedom drum whispers to organizers to lift the stories buried deep.",
-    "quoteDescription": "Chike Okafor shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Chike Okafor",
-    "culture": "Lagos Equity Forum",
-    "category": "Justice",
+    "quoteText": "The designer must be the 'gestaltingenieur' or creative engineer.",
+    "quoteTextEN": "The designer must be the 'gestaltingenieur' or creative engineer.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe'.",
+    "quoteMeaningAnalysis": "Rams wants designers who understand engineering, not stylists applied at the end. The German term fuses form-giving with technical competence.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "engineering",
+      "designer role",
+      "craft"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "734",
-    "quoteText": "The unyielding freedom drum whispers to organizers to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding freedom drum whispers to organizers to link arms until the laws remember.",
-    "quoteDescription": "Dima Saleh shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Dima Saleh",
-    "culture": "Ramallah Rights Circle",
-    "category": "Justice",
+    "quoteText": "Functionality must be at the centre of good design.",
+    "quoteTextEN": "Functionality must be at the centre of good design.",
+    "quoteDescription": "From Rams' 1976 speech 'Design by Vitsoe'.",
+    "quoteMeaningAnalysis": "Function is the anchor that every other choice answers to. Aesthetics in his view follow from getting function right.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "function",
+      "principles",
+      "purpose"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dieter Rams, 'Design by Vitsoe' speech, New York, 1976",
+        "url": "https://www.vitsoe.com/gb/voice/design-by-vitsoe"
+      }
     ]
   },
   {
     "id": "735",
-    "quoteText": "The unyielding freedom drum whispers to organizers to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding freedom drum whispers to organizers to march until the night admits dawn.",
-    "quoteDescription": "Eli Rosen shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Eli Rosen",
-    "culture": "Lower East Side Advocate",
-    "category": "Justice",
+    "quoteText": "Design isn't marketing, but more and more companies are treating it like that.",
+    "quoteTextEN": "Design isn't marketing, but more and more companies are treating it like that.",
+    "quoteDescription": "Rams quoted in 'Reviving Dieter Rams's pragmatism', The New York Times, 12 November 2006.",
+    "quoteMeaningAnalysis": "Rams objects to design reduced to a sales tool for refreshing product lines. Thirty years after his 1976 speech, the complaint had not changed.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "marketing",
+      "industry",
+      "integrity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "The New York Times, 12 November 2006",
+        "url": "https://en.wikiquote.org/wiki/Dieter_Rams"
+      }
     ]
   },
   {
     "id": "736",
-    "quoteText": "The unyielding freedom drum whispers to organizers to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding freedom drum whispers to organizers to weave reparations into daily bread.",
-    "quoteDescription": "Farah Qureshi shares a justice image where a freedom drum becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Farah Qureshi",
-    "culture": "Karachi Justice Workshop",
-    "category": "Justice",
+    "quoteText": "The future can't be predicted, but it can be envisioned and brought lovingly into being.",
+    "quoteTextEN": "The future can't be predicted, but it can be envisioned and brought lovingly into being.",
+    "quoteDescription": "From the opening of Meadows' essay 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Having given up on forecasting, Meadows does not give up on the future. She shifts the job from predicting outcomes to imagining good ones and working toward them.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "future",
+      "vision",
+      "prediction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "737",
-    "quoteText": "The unyielding courtroom flame calls the movement to name every silence that harms.",
-    "quoteTextEN": "The unyielding courtroom flame calls the movement to name every silence that harms.",
-    "quoteDescription": "Grace Mthembu shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Grace Mthembu",
-    "culture": "Johannesburg Freedom School",
-    "category": "Justice",
+    "quoteText": "Systems can't be controlled, but they can be designed and redesigned.",
+    "quoteTextEN": "Systems can't be controlled, but they can be designed and redesigned.",
+    "quoteDescription": "From 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Control means dictating outcomes; design means shaping the structure that produces them. Meadows keeps the second ambition after dropping the first.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "design",
+      "control",
+      "structure"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "738",
-    "quoteText": "The unyielding courtroom flame calls the movement to keep promises in the open air.",
-    "quoteTextEN": "The unyielding courtroom flame calls the movement to keep promises in the open air.",
-    "quoteDescription": "Hector Ruiz shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Hector Ruiz",
-    "culture": "El Paso Border Witness",
-    "category": "Justice",
+    "quoteText": "Get the beat.",
+    "quoteTextEN": "Get the beat.",
+    "quoteDescription": "The first of the systems wisdoms in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Before intervening, learn the rhythm the system already keeps: its history, its oscillations, its trends. The dance metaphor makes observation the first move, not a preliminary.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "observation",
+      "behavior",
+      "history"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "739",
-    "quoteText": "The unyielding courtroom flame calls the movement to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding courtroom flame calls the movement to lift the stories buried deep.",
-    "quoteDescription": "Imani Jackson shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Imani Jackson",
-    "culture": "Atlanta Liberation Choir",
-    "category": "Justice",
+    "quoteText": "Before you disturb the system in any way, watch how it behaves.",
+    "quoteTextEN": "Before you disturb the system in any way, watch how it behaves.",
+    "quoteDescription": "From the 'Get the beat' section of 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Time-series behaviour reveals structure that theories miss. Meadows asks for patience before action because the first fix often targets an imagined system.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "observation",
+      "patience",
+      "intervention"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "740",
-    "quoteText": "The unyielding courtroom flame calls the movement to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding courtroom flame calls the movement to link arms until the laws remember.",
-    "quoteDescription": "Jamal Idris shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Jamal Idris",
-    "culture": "Khartoum Community Forum",
-    "category": "Justice",
+    "quoteText": "Starting with the behavior of the system forces you to focus on facts, not theories.",
+    "quoteTextEN": "Starting with the behavior of the system forces you to focus on facts, not theories.",
+    "quoteDescription": "From the 'Get the beat' section of 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Data about what actually happened over time keeps a team from arguing about pet explanations. The behaviour is shared ground everyone can check.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "facts",
+      "evidence",
+      "behavior"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "741",
-    "quoteText": "The unyielding courtroom flame calls the movement to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding courtroom flame calls the movement to march until the night admits dawn.",
-    "quoteDescription": "Avery Johnson shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Avery Johnson",
-    "culture": "Harlem Justice Scholar",
-    "category": "Justice",
+    "quoteText": "Listen to the wisdom of the system.",
+    "quoteTextEN": "Listen to the wisdom of the system.",
+    "quoteDescription": "The second systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Systems often contain their own repair mechanisms, built by the people inside them. An outsider who ignores those mechanisms can destroy what was quietly working.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "self-organization",
+      "humility",
+      "intervention"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "742",
-    "quoteText": "The unyielding courtroom flame calls the movement to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding courtroom flame calls the movement to weave reparations into daily bread.",
-    "quoteDescription": "Belen Ortiz shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Belen Ortiz",
-    "culture": "Patagonian Rights Collective",
-    "category": "Justice",
+    "quoteText": "Before you charge in to make things better, pay attention to the value of what's already there.",
+    "quoteTextEN": "Before you charge in to make things better, pay attention to the value of what's already there.",
+    "quoteDescription": "From 'Dancing with Systems' (2001), under 'Listen to the wisdom of the system'.",
+    "quoteMeaningAnalysis": "Reformers tend to see only the problem in front of them. Meadows warns that the existing arrangement has hidden strengths that a hasty fix can erase.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "humility",
+      "reform",
+      "existing value"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "743",
-    "quoteText": "The unyielding courtroom flame reminds comrades to name every silence that harms.",
-    "quoteTextEN": "The unyielding courtroom flame reminds comrades to name every silence that harms.",
-    "quoteDescription": "Chike Okafor shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Chike Okafor",
-    "culture": "Lagos Equity Forum",
-    "category": "Justice",
+    "quoteText": "Expose your mental models to the open air.",
+    "quoteTextEN": "Expose your mental models to the open air.",
+    "quoteDescription": "The third systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Writing down or diagramming your assumptions lets others challenge them. A model kept in your head is never tested.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "mental models",
+      "transparency",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "744",
-    "quoteText": "The unyielding courtroom flame reminds comrades to keep promises in the open air.",
-    "quoteTextEN": "The unyielding courtroom flame reminds comrades to keep promises in the open air.",
-    "quoteDescription": "Dima Saleh shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Dima Saleh",
-    "culture": "Ramallah Rights Circle",
-    "category": "Justice",
+    "quoteText": "Stay humble. Stay a learner.",
+    "quoteTextEN": "Stay humble. Stay a learner.",
+    "quoteDescription": "The fourth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Complex systems surprise everyone who works with them. Meadows treats humility as a working method, because the alternative is defending mistakes.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "humility",
+      "learning",
+      "complexity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "745",
-    "quoteText": "The unyielding courtroom flame reminds comrades to lift the stories buried deep.",
-    "quoteTextEN": "The unyielding courtroom flame reminds comrades to lift the stories buried deep.",
-    "quoteDescription": "Eli Rosen shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to lift the stories buried deep.",
-    "author": "Eli Rosen",
-    "culture": "Lower East Side Advocate",
-    "category": "Justice",
+    "quoteText": "The thing to do, when you don't know, is not to bluff and not to freeze, but to learn.",
+    "quoteTextEN": "The thing to do, when you don't know, is not to bluff and not to freeze, but to learn.",
+    "quoteDescription": "From 'Dancing with Systems' (2001), under 'Stay humble. Stay a learner'.",
+    "quoteMeaningAnalysis": "Uncertainty pushes people toward false confidence or paralysis. Meadows offers a third response: small experiments and honest attention to what they show.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "uncertainty",
+      "learning",
+      "experimentation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "746",
-    "quoteText": "The unyielding courtroom flame reminds comrades to link arms until the laws remember.",
-    "quoteTextEN": "The unyielding courtroom flame reminds comrades to link arms until the laws remember.",
-    "quoteDescription": "Farah Qureshi shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to link arms until the laws remember.",
-    "author": "Farah Qureshi",
-    "culture": "Karachi Justice Workshop",
-    "category": "Justice",
+    "quoteText": "Pretending you're in control even when you aren't is a recipe not only for mistakes, but for not learning from mistakes.",
+    "quoteTextEN": "Pretending you're in control even when you aren't is a recipe not only for mistakes, but for not learning from mistakes.",
+    "quoteDescription": "From 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "The pretence does double damage: it causes the error and then blocks the feedback that would correct it. Admitting the lack of control is what keeps learning possible.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "control",
+      "mistakes",
+      "feedback"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "747",
-    "quoteText": "The unyielding courtroom flame reminds comrades to march until the night admits dawn.",
-    "quoteTextEN": "The unyielding courtroom flame reminds comrades to march until the night admits dawn.",
-    "quoteDescription": "Grace Mthembu shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to march until the night admits dawn.",
-    "author": "Grace Mthembu",
-    "culture": "Johannesburg Freedom School",
-    "category": "Justice",
+    "quoteText": "Honor and protect information.",
+    "quoteTextEN": "Honor and protect information.",
+    "quoteDescription": "The fifth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Decisions are only as good as the information that reaches decision makers. Meadows treats information flow as something to guard, not an afterthought.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "information",
+      "feedback",
+      "decision making"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "748",
-    "quoteText": "The unyielding courtroom flame reminds comrades to weave reparations into daily bread.",
-    "quoteTextEN": "The unyielding courtroom flame reminds comrades to weave reparations into daily bread.",
-    "quoteDescription": "Hector Ruiz shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to weave reparations into daily bread.",
-    "author": "Hector Ruiz",
-    "culture": "El Paso Border Witness",
-    "category": "Justice",
+    "quoteText": "I would guess that 99 percent of what goes wrong in systems goes wrong because of faulty or missing information.",
+    "quoteTextEN": "I would guess that 99 percent of what goes wrong in systems goes wrong because of faulty or missing information.",
+    "quoteDescription": "From 'Dancing with Systems' (2001), under 'Honor and protect information'.",
+    "quoteMeaningAnalysis": "Many failures blamed on bad people are really failures of signal: the right data never arrived, or arrived distorted. Fix the information and behaviour often follows.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "information",
+      "failure",
+      "feedback"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "749",
-    "quoteText": "The unyielding courtroom flame encourages jurors to name every silence that harms.",
-    "quoteTextEN": "The unyielding courtroom flame encourages jurors to name every silence that harms.",
-    "quoteDescription": "Imani Jackson shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to name every silence that harms.",
-    "author": "Imani Jackson",
-    "culture": "Atlanta Liberation Choir",
-    "category": "Justice",
+    "quoteText": "If I could, I would add an Eleventh Commandment: Thou shalt not distort, delay, or sequester information.",
+    "quoteTextEN": "If I could, I would add an Eleventh Commandment: Thou shalt not distort, delay, or sequester information.",
+    "quoteDescription": "From 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "The three verbs name the three ways feedback gets broken. Raising it to a commandment shows how central she held clean information to any working system.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "information",
+      "ethics",
+      "transparency"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "750",
-    "quoteText": "The unyielding courtroom flame encourages jurors to keep promises in the open air.",
-    "quoteTextEN": "The unyielding courtroom flame encourages jurors to keep promises in the open air.",
-    "quoteDescription": "Jamal Idris shares a justice image where a courtroom flame becomes a guide toward standing together for fairness.",
-    "quoteMeaningAnalysis": "It suggests that justice grows from collective courage and accountability and urges us to keep promises in the open air.",
-    "author": "Jamal Idris",
-    "culture": "Khartoum Community Forum",
-    "category": "Justice",
+    "quoteText": "Locate responsibility in the system.",
+    "quoteTextEN": "Locate responsibility in the system.",
+    "quoteDescription": "The sixth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Blaming outside forces lets a system's own structure escape scrutiny. Meadows asks first how the system produces the behaviour it complains about.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "justice",
-      "equity",
-      "courage"
+      "responsibility",
+      "structure",
+      "blame"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Social_justice",
-      "https://www.eji.org/history-of-racial-injustice/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "751",
-    "quoteText": "The still tea ceremony asks seekers to inhale the world without gripping.",
-    "quoteTextEN": "The still tea ceremony asks seekers to inhale the world without gripping.",
-    "quoteDescription": "Kenshin Mori shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Kenshin Mori",
-    "culture": "Zen Garden Notes",
-    "category": "Mindfulness",
+    "quoteText": "Make feedback policies for feedback systems.",
+    "quoteTextEN": "Make feedback policies for feedback systems.",
+    "quoteDescription": "The seventh systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "A fixed rule breaks in a changing system. Policies that adjust themselves as conditions shift build learning into management.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "feedback",
+      "policy",
+      "adaptation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "752",
-    "quoteText": "The still tea ceremony asks seekers to follow each step with soft attention.",
-    "quoteTextEN": "The still tea ceremony asks seekers to follow each step with soft attention.",
-    "quoteDescription": "Lhamo Pema shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Lhamo Pema",
-    "culture": "Himalayan Retreat Journal",
-    "category": "Mindfulness",
+    "quoteText": "Go for the good of the whole.",
+    "quoteTextEN": "Go for the good of the whole.",
+    "quoteDescription": "The ninth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Optimising one department or metric can wreck the larger system it serves. Meadows asks that the whole stay in view when tuning any part.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "holism",
+      "optimization",
+      "subsystems"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "753",
-    "quoteText": "The still tea ceremony asks seekers to greet silence like an old friend.",
-    "quoteTextEN": "The still tea ceremony asks seekers to greet silence like an old friend.",
-    "quoteDescription": "Saanvi Desai shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Saanvi Desai",
-    "culture": "Vedanta Reflection Circle",
-    "category": "Mindfulness",
+    "quoteText": "Expand time horizons.",
+    "quoteTextEN": "Expand time horizons.",
+    "quoteDescription": "The tenth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Quarterly or electoral cycles hide slow consequences. A longer view catches effects that arrive after the decision makers have moved on.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "long-term thinking",
+      "time",
+      "sustainability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "754",
-    "quoteText": "The still tea ceremony asks seekers to rest the mind on passing clouds.",
-    "quoteTextEN": "The still tea ceremony asks seekers to rest the mind on passing clouds.",
-    "quoteDescription": "Ilanit Bar shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Ilanit Bar",
-    "culture": "Galilee Contemplative Songs",
-    "category": "Mindfulness",
+    "quoteText": "Defy the disciplines.",
+    "quoteTextEN": "Defy the disciplines.",
+    "quoteDescription": "From 'Dancing with Systems' (2001), under 'Expand thought horizons'.",
+    "quoteMeaningAnalysis": "Real systems do not respect academic boundaries, so understanding them means borrowing from several fields at once. Two words carry her case for interdisciplinary work.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "interdisciplinary",
+      "learning",
+      "boundaries"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "755",
-    "quoteText": "The still tea ceremony asks seekers to taste the moment before naming it.",
-    "quoteTextEN": "The still tea ceremony asks seekers to taste the moment before naming it.",
-    "quoteDescription": "Miguel Santos shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Miguel Santos",
-    "culture": "Azores Mindful Path",
-    "category": "Mindfulness",
+    "quoteText": "Expand the boundary of caring.",
+    "quoteTextEN": "Expand the boundary of caring.",
+    "quoteDescription": "The twelfth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Interconnection means harm done elsewhere comes back. Caring about people and places outside your immediate circle is, for Meadows, a practical requirement as well as a moral one.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "ethics",
+      "interconnection",
+      "caring"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "756",
-    "quoteText": "The still tea ceremony asks seekers to let gratitude settle into the bones.",
-    "quoteTextEN": "The still tea ceremony asks seekers to let gratitude settle into the bones.",
-    "quoteDescription": "Noura Zahra shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Noura Zahra",
-    "culture": "Red Sea Stillness Teachings",
-    "category": "Mindfulness",
+    "quoteText": "Celebrate complexity.",
+    "quoteTextEN": "Celebrate complexity.",
+    "quoteDescription": "The thirteenth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "The urge to simplify can flatten the diversity that makes systems resilient. Meadows asks people to enjoy messiness instead of forcing uniformity on it.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "complexity",
+      "diversity",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "757",
-    "quoteText": "The still tea ceremony teaches pilgrims to inhale the world without gripping.",
-    "quoteTextEN": "The still tea ceremony teaches pilgrims to inhale the world without gripping.",
-    "quoteDescription": "Ophelia Grant shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Ophelia Grant",
-    "culture": "Bahamas Breath Practices",
-    "category": "Mindfulness",
+    "quoteText": "Hold fast to the goal of goodness.",
+    "quoteTextEN": "Hold fast to the goal of goodness.",
+    "quoteDescription": "The fourteenth systems wisdom in 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Standards erode when bad news is weighted more than good and low performance becomes the expectation. Meadows asks that standards stay absolute even when results disappoint.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "values",
+      "standards",
+      "eroding goals"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "758",
-    "quoteText": "The still tea ceremony teaches pilgrims to follow each step with soft attention.",
-    "quoteTextEN": "The still tea ceremony teaches pilgrims to follow each step with soft attention.",
-    "quoteDescription": "Pema Nur shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Pema Nur",
-    "culture": "Bhutanese Mindful Tales",
-    "category": "Mindfulness",
+    "quoteText": "Systems thinking can only tell us to do these things. It can't do them for us.",
+    "quoteTextEN": "Systems thinking can only tell us to do these things. It can't do them for us.",
+    "quoteDescription": "The closing lines of 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "After fourteen wisdoms, Meadows hands responsibility back to the reader. Insight about a system is worthless until someone acts on it.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "action",
+      "responsibility",
+      "systems thinking"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dancing with Systems (Donella Meadows, 2001)",
+        "url": "https://donellameadows.org/archives/dancing-with-systems/"
+      }
     ]
   },
   {
     "id": "759",
-    "quoteText": "The still tea ceremony teaches pilgrims to greet silence like an old friend.",
-    "quoteTextEN": "The still tea ceremony teaches pilgrims to greet silence like an old friend.",
-    "quoteDescription": "Quynh Le shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Quynh Le",
-    "culture": "Mekong Meditation Lore",
-    "category": "Mindfulness",
+    "quoteText": "Probably 90, no 95, no 99 percent of our attention goes to parameters, but there's not a lot of leverage in them.",
+    "quoteTextEN": "Probably 90, no 95, no 99 percent of our attention goes to parameters, but there's not a lot of leverage in them.",
+    "quoteDescription": "From 'Leverage Points: Places to Intervene in a System' (1999), on the weakest lever.",
+    "quoteMeaningAnalysis": "Budget numbers, tax rates and targets dominate public argument. Meadows ranks them last because changing a number rarely changes the structure producing the behaviour.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "leverage points",
+      "parameters",
+      "policy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Leverage Points: Places to Intervene in a System (1999)",
+        "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+      }
     ]
   },
   {
     "id": "760",
-    "quoteText": "The still tea ceremony teaches pilgrims to rest the mind on passing clouds.",
-    "quoteTextEN": "The still tea ceremony teaches pilgrims to rest the mind on passing clouds.",
-    "quoteDescription": "Risa Tan shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Risa Tan",
-    "culture": "Singaporean Quiet Hours",
-    "category": "Mindfulness",
+    "quoteText": "Parameters are dead last on my list of powerful interventions.",
+    "quoteTextEN": "Parameters are dead last on my list of powerful interventions.",
+    "quoteDescription": "From 'Leverage Points: Places to Intervene in a System' (1999).",
+    "quoteMeaningAnalysis": "The blunt ranking is a challenge to how most reform energy is spent. Rules, information flows, goals and paradigms sit far above the numbers people fight over.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "leverage points",
+      "parameters",
+      "intervention"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Leverage Points: Places to Intervene in a System (1999)",
+        "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+      }
     ]
   },
   {
     "id": "761",
-    "quoteText": "The still tea ceremony teaches pilgrims to taste the moment before naming it.",
-    "quoteTextEN": "The still tea ceremony teaches pilgrims to taste the moment before naming it.",
-    "quoteDescription": "Kenshin Mori shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Kenshin Mori",
-    "culture": "Zen Garden Notes",
-    "category": "Mindfulness",
+    "quoteText": "Insistence on a single culture shuts down learning.",
+    "quoteTextEN": "Insistence on a single culture shuts down learning.",
+    "quoteDescription": "From 'Leverage Points: Places to Intervene in a System' (1999), on self-organization.",
+    "quoteMeaningAnalysis": "Variety is the raw material a system evolves from. Enforcing one way of doing things removes the options it would need to adapt.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "diversity",
+      "learning",
+      "self-organization"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Leverage Points: Places to Intervene in a System (1999)",
+        "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+      }
     ]
   },
   {
     "id": "762",
-    "quoteText": "The still tea ceremony teaches pilgrims to let gratitude settle into the bones.",
-    "quoteTextEN": "The still tea ceremony teaches pilgrims to let gratitude settle into the bones.",
-    "quoteDescription": "Lhamo Pema shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Lhamo Pema",
-    "culture": "Himalayan Retreat Journal",
-    "category": "Mindfulness",
+    "quoteText": "Paradigms are the sources of systems.",
+    "quoteTextEN": "Paradigms are the sources of systems.",
+    "quoteDescription": "From 'Leverage Points: Places to Intervene in a System' (1999).",
+    "quoteMeaningAnalysis": "Goals, rules and structures all grow out of shared assumptions about how the world works. Change the assumption and everything downstream can shift with it.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "paradigms",
+      "worldview",
+      "leverage points"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Leverage Points: Places to Intervene in a System (1999)",
+        "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+      }
     ]
   },
   {
     "id": "763",
-    "quoteText": "The still tea ceremony invites healers to inhale the world without gripping.",
-    "quoteTextEN": "The still tea ceremony invites healers to inhale the world without gripping.",
-    "quoteDescription": "Saanvi Desai shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Saanvi Desai",
-    "culture": "Vedanta Reflection Circle",
-    "category": "Mindfulness",
+    "quoteText": "The power to transcend paradigms.",
+    "quoteTextEN": "The power to transcend paradigms.",
+    "quoteDescription": "The highest of the twelve leverage points in Meadows' 'Leverage Points' essay (1999).",
+    "quoteMeaningAnalysis": "Above changing a paradigm is the ability to hold none as absolute truth. That detachment lets a person choose the worldview that fits the purpose.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "paradigms",
+      "leverage points",
+      "detachment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Leverage Points: Places to Intervene in a System (1999)",
+        "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+      }
     ]
   },
   {
     "id": "764",
-    "quoteText": "The still tea ceremony invites healers to follow each step with soft attention.",
-    "quoteTextEN": "The still tea ceremony invites healers to follow each step with soft attention.",
-    "quoteDescription": "Ilanit Bar shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Ilanit Bar",
-    "culture": "Galilee Contemplative Songs",
-    "category": "Mindfulness",
+    "quoteText": "Models can easily become so complex that they are impenetrable, unexaminable, and virtually unalterable.",
+    "quoteTextEN": "Models can easily become so complex that they are impenetrable, unexaminable, and virtually unalterable.",
+    "quoteDescription": "From Meadows' chapter 'The unavoidable a priori' in Elements of the System Dynamics Method (1980), p. 27.",
+    "quoteMeaningAnalysis": "A modeller herself, Meadows warns that detail can defeat the purpose of modelling. A model nobody can inspect cannot be trusted or corrected.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "models",
+      "complexity",
+      "transparency"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Elements of the System Dynamics Method (1980), p. 27",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "765",
-    "quoteText": "The still tea ceremony invites healers to greet silence like an old friend.",
-    "quoteTextEN": "The still tea ceremony invites healers to greet silence like an old friend.",
-    "quoteDescription": "Miguel Santos shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Miguel Santos",
-    "culture": "Azores Mindful Path",
-    "category": "Mindfulness",
+    "quoteText": "Purposes are deduced from behaviour, not from rhetoric or stated goals.",
+    "quoteTextEN": "Purposes are deduced from behaviour, not from rhetoric or stated goals.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), p. 14.",
+    "quoteMeaningAnalysis": "A system's real purpose shows in what it consistently does, whatever its mission statement says. Watch outcomes to learn what it is actually built for.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "purpose",
+      "behavior",
+      "goals"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008), p. 14",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "766",
-    "quoteText": "The still tea ceremony invites healers to rest the mind on passing clouds.",
-    "quoteTextEN": "The still tea ceremony invites healers to rest the mind on passing clouds.",
-    "quoteDescription": "Noura Zahra shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Noura Zahra",
-    "culture": "Red Sea Stillness Teachings",
-    "category": "Mindfulness",
+    "quoteText": "No physical entity can grow forever.",
+    "quoteTextEN": "No physical entity can grow forever.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), p. 103.",
+    "quoteMeaningAnalysis": "Every growing stock eventually meets a constraint, whether resources, space or pollution. The line condenses the argument she made decades earlier in Limits to Growth.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "limits to growth",
+      "growth",
+      "constraints"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008), p. 103",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "767",
-    "quoteText": "The still tea ceremony invites healers to taste the moment before naming it.",
-    "quoteTextEN": "The still tea ceremony invites healers to taste the moment before naming it.",
-    "quoteDescription": "Ophelia Grant shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Ophelia Grant",
-    "culture": "Bahamas Breath Practices",
-    "category": "Mindfulness",
+    "quoteText": "Overshoots, oscillations, and collapses are always caused by delays.",
+    "quoteTextEN": "Overshoots, oscillations, and collapses are always caused by delays.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), pp. 104-105.",
+    "quoteMeaningAnalysis": "When feedback arrives late, decision makers keep pushing past the point they should have stopped. The delay, not the actors, generates the swing.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "delays",
+      "oscillation",
+      "overshoot"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008), pp. 104-105",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "768",
-    "quoteText": "The still tea ceremony invites healers to let gratitude settle into the bones.",
-    "quoteTextEN": "The still tea ceremony invites healers to let gratitude settle into the bones.",
-    "quoteDescription": "Pema Nur shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Pema Nur",
-    "culture": "Bhutanese Mindful Tales",
-    "category": "Mindfulness",
+    "quoteText": "Power over the rules is real power.",
+    "quoteTextEN": "Power over the rules is real power.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), p. 158, and the 'Leverage Points' essay.",
+    "quoteMeaningAnalysis": "Whoever writes the rules shapes every outcome produced under them. That is why lobbyists fight over rules more than over individual decisions.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "rules",
+      "power",
+      "leverage points"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008), p. 158",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "769",
-    "quoteText": "The still tea ceremony reminds students to inhale the world without gripping.",
-    "quoteTextEN": "The still tea ceremony reminds students to inhale the world without gripping.",
-    "quoteDescription": "Quynh Le shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Quynh Le",
-    "culture": "Mekong Meditation Lore",
-    "category": "Mindfulness",
+    "quoteText": "If you want to understand the deepest malfunctions of systems, pay attention to the rules and to who has power over them.",
+    "quoteTextEN": "If you want to understand the deepest malfunctions of systems, pay attention to the rules and to who has power over them.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), p. 158.",
+    "quoteMeaningAnalysis": "Persistent dysfunction often traces back to rules that benefit those who set them. The diagnostic question is who wrote them and who can change them.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "rules",
+      "power",
+      "diagnosis"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008), p. 158",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "770",
-    "quoteText": "The still tea ceremony reminds students to follow each step with soft attention.",
-    "quoteTextEN": "The still tea ceremony reminds students to follow each step with soft attention.",
-    "quoteDescription": "Risa Tan shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Risa Tan",
-    "culture": "Singaporean Quiet Hours",
-    "category": "Mindfulness",
+    "quoteText": "Information is power.",
+    "quoteTextEN": "Information is power.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), p. 173.",
+    "quoteMeaningAnalysis": "Who sees which data decides who can act and who can be held to account. Changing an information flow can shift a system without changing any rule.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "information",
+      "power",
+      "accountability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008), p. 173",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "771",
-    "quoteText": "The still tea ceremony reminds students to greet silence like an old friend.",
-    "quoteTextEN": "The still tea ceremony reminds students to greet silence like an old friend.",
-    "quoteDescription": "Kenshin Mori shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Kenshin Mori",
-    "culture": "Zen Garden Notes",
-    "category": "Mindfulness",
+    "quoteText": "A delay in a balancing feedback loop makes the system likely to oscillate.",
+    "quoteTextEN": "A delay in a balancing feedback loop makes the system likely to oscillate.",
+    "quoteDescription": "From the summary appendix of Thinking in Systems: A Primer (2008).",
+    "quoteMeaningAnalysis": "A thermostat that reads the temperature late overshoots in both directions. The same pattern explains inventory swings and commodity price cycles.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "delays",
+      "feedback loops",
+      "oscillation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008)",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "772",
-    "quoteText": "The still tea ceremony reminds students to rest the mind on passing clouds.",
-    "quoteTextEN": "The still tea ceremony reminds students to rest the mind on passing clouds.",
-    "quoteDescription": "Lhamo Pema shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Lhamo Pema",
-    "culture": "Himalayan Retreat Journal",
-    "category": "Mindfulness",
+    "quoteText": "A quantity growing exponentially toward a limit reaches that limit in a surprisingly short time.",
+    "quoteTextEN": "A quantity growing exponentially toward a limit reaches that limit in a surprisingly short time.",
+    "quoteDescription": "From the summary appendix of Thinking in Systems: A Primer (2008).",
+    "quoteMeaningAnalysis": "Exponential growth looks slow for most of its run, then consumes the remaining room in a few doublings. Intuition tuned to linear growth is caught off guard.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "exponential growth",
+      "limits",
+      "surprise"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008)",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "773",
-    "quoteText": "The still tea ceremony reminds students to taste the moment before naming it.",
-    "quoteTextEN": "The still tea ceremony reminds students to taste the moment before naming it.",
-    "quoteDescription": "Saanvi Desai shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Saanvi Desai",
-    "culture": "Vedanta Reflection Circle",
-    "category": "Mindfulness",
+    "quoteText": "When there are long delays in feedback loops, some sort of foresight is essential.",
+    "quoteTextEN": "When there are long delays in feedback loops, some sort of foresight is essential.",
+    "quoteDescription": "From the summary appendix of Thinking in Systems: A Primer (2008).",
+    "quoteMeaningAnalysis": "If the signal arrives only after the damage is done, waiting for it is too late. Anticipation has to stand in for the feedback that has not yet come.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "foresight",
+      "delays",
+      "feedback loops"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Thinking in Systems: A Primer (2008)",
+        "url": "https://en.wikiquote.org/wiki/Donella_Meadows"
+      }
     ]
   },
   {
     "id": "774",
-    "quoteText": "The still tea ceremony reminds students to let gratitude settle into the bones.",
-    "quoteTextEN": "The still tea ceremony reminds students to let gratitude settle into the bones.",
-    "quoteDescription": "Ilanit Bar shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Ilanit Bar",
-    "culture": "Galilee Contemplative Songs",
-    "category": "Mindfulness",
+    "quoteText": "The more it reasons, the more unpredictable it becomes.",
+    "quoteTextEN": "The more it reasons, the more unpredictable it becomes.",
+    "quoteDescription": "From Sutskever's NeurIPS 2024 Test of Time Award talk, December 2024.",
+    "quoteMeaningAnalysis": "Sutskever argues that reasoning trades predictability for capability. Chess engines surprise grandmasters for the same reason, and he expects reasoning AI to surprise its makers.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "reasoning",
+      "unpredictability",
+      "superintelligence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Sutskever, NeurIPS 2024 Test of Time talk (excerpts with timestamps)",
+        "url": "https://ceointerviews.ai/quote/it-will-actually-reason-and-by-the-way-MTA3MzI3Mw/"
+      }
     ]
   },
   {
     "id": "775",
-    "quoteText": "The still tea ceremony encourages dancers to inhale the world without gripping.",
-    "quoteTextEN": "The still tea ceremony encourages dancers to inhale the world without gripping.",
-    "quoteDescription": "Miguel Santos shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Miguel Santos",
-    "culture": "Azores Mindful Path",
-    "category": "Mindfulness",
+    "quoteText": "The thing about superintelligence is that it will be different qualitatively from what we have.",
+    "quoteTextEN": "The thing about superintelligence is that it will be different qualitatively from what we have.",
+    "quoteDescription": "From Sutskever's NeurIPS 2024 Test of Time Award talk, December 2024.",
+    "quoteMeaningAnalysis": "He resists treating superintelligence as a faster version of today's chatbots. His point is a change in kind, systems that are agentic, reason and understand from little data, not just more of the same.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "superintelligence",
+      "qualitative change"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Sutskever, NeurIPS 2024 Test of Time talk (excerpts with timestamps)",
+        "url": "https://ceointerviews.ai/quote/it-will-actually-reason-and-by-the-way-MTA3MzI3Mw/"
+      }
     ]
   },
   {
     "id": "776",
-    "quoteText": "The still tea ceremony encourages dancers to follow each step with soft attention.",
-    "quoteTextEN": "The still tea ceremony encourages dancers to follow each step with soft attention.",
-    "quoteDescription": "Noura Zahra shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Noura Zahra",
-    "culture": "Red Sea Stillness Teachings",
-    "category": "Mindfulness",
+    "quoteText": "They will understand things from limited data, they will not get confused, all the things which are really big limitations.",
+    "quoteTextEN": "They will understand things from limited data, they will not get confused, all the things which are really big limitations.",
+    "quoteDescription": "From Sutskever's NeurIPS 2024 Test of Time Award talk, December 2024.",
+    "quoteMeaningAnalysis": "A list of what current models lack, phrased as what future ones will have. Data efficiency and not getting confused are the gaps he singles out, both unsolved by scale alone.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "data efficiency",
+      "limitations"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Sutskever, NeurIPS 2024 Test of Time talk (excerpts with timestamps)",
+        "url": "https://ceointerviews.ai/quote/it-will-actually-reason-and-by-the-way-MTA3MzI3Mw/"
+      }
     ]
   },
   {
     "id": "777",
-    "quoteText": "The still tea ceremony encourages dancers to greet silence like an old friend.",
-    "quoteTextEN": "The still tea ceremony encourages dancers to greet silence like an old friend.",
-    "quoteDescription": "Ophelia Grant shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Ophelia Grant",
-    "culture": "Bahamas Breath Practices",
-    "category": "Mindfulness",
+    "quoteText": "I lead a very simple life. I go to work; then I go home. I don't do much else.",
+    "quoteTextEN": "I lead a very simple life. I go to work; then I go home. I don't do much else.",
+    "quoteDescription": "Sutskever to MIT Technology Review, 'Rogue superintelligence and merging with machines', 26 October 2023.",
+    "quoteMeaningAnalysis": "A self-portrait of single-mindedness from OpenAI's then chief scientist. It matches how colleagues describe him: almost all attention spent on one research question.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "focus",
+      "life",
+      "work"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Wikiquote: Ilya Sutskever (MIT Technology Review, October 2023)",
+        "url": "https://en.wikiquote.org/wiki/Ilya_Sutskever"
+      }
     ]
   },
   {
     "id": "778",
-    "quoteText": "The still tea ceremony encourages dancers to rest the mind on passing clouds.",
-    "quoteTextEN": "The still tea ceremony encourages dancers to rest the mind on passing clouds.",
-    "quoteDescription": "Pema Nur shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Pema Nur",
-    "culture": "Bhutanese Mindful Tales",
-    "category": "Mindfulness",
+    "quoteText": "There was a period of time when we were starting OpenAI when I wasn't exactly sure how the progress would continue.",
+    "quoteTextEN": "There was a period of time when we were starting OpenAI when I wasn't exactly sure how the progress would continue.",
+    "quoteDescription": "Sutskever to MIT Technology Review, 26 October 2023.",
+    "quoteMeaningAnalysis": "A rare admission of early doubt from one of scaling's strongest believers. In 2015 there was no clear path from ImageNet-era results to general systems; GPT-style scaling came later.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "OpenAI",
+      "uncertainty",
+      "history"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Wikiquote: Ilya Sutskever (MIT Technology Review, October 2023)",
+        "url": "https://en.wikiquote.org/wiki/Ilya_Sutskever"
+      }
     ]
   },
   {
     "id": "779",
-    "quoteText": "The still tea ceremony encourages dancers to taste the moment before naming it.",
-    "quoteTextEN": "The still tea ceremony encourages dancers to taste the moment before naming it.",
-    "quoteDescription": "Quynh Le shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Quynh Le",
-    "culture": "Mekong Meditation Lore",
-    "category": "Mindfulness",
+    "quoteText": "But now that compute is big, compute is now very big, in some sense we are back to the age of research.",
+    "quoteTextEN": "But now that compute is big, compute is now very big, in some sense we are back to the age of research.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "His periodisation of AI: research until about 2020, then an age of scaling, now research again. With compute abundant and pretraining data limited, the bottleneck has moved back to ideas.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "scaling",
+      "research",
+      "compute"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "780",
-    "quoteText": "The still tea ceremony encourages dancers to let gratitude settle into the bones.",
-    "quoteTextEN": "The still tea ceremony encourages dancers to let gratitude settle into the bones.",
-    "quoteDescription": "Risa Tan shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Risa Tan",
-    "culture": "Singaporean Quiet Hours",
-    "category": "Mindfulness",
+    "quoteText": "These models somehow just generalize dramatically worse than people.",
+    "quoteTextEN": "These models somehow just generalize dramatically worse than people.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "He names generalisation as the core open problem. Models ace benchmarks yet stumble on small variations a person handles easily, and he thinks fixing that needs a new idea, not more data.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "generalization",
+      "evals"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "781",
-    "quoteText": "The still tea ceremony whispers to caretakers to inhale the world without gripping.",
-    "quoteTextEN": "The still tea ceremony whispers to caretakers to inhale the world without gripping.",
-    "quoteDescription": "Kenshin Mori shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Kenshin Mori",
-    "culture": "Zen Garden Notes",
-    "category": "Mindfulness",
+    "quoteText": "One consequence of the age of scaling is that scaling sucked out all the air in the room.",
+    "quoteTextEN": "One consequence of the age of scaling is that scaling sucked out all the air in the room.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "When scaling reliably worked, every lab pursued it and alternative ideas went unfunded. He sees that monoculture as a cost now that scaling's returns are flattening.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "scaling",
+      "research culture"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "782",
-    "quoteText": "The still tea ceremony whispers to caretakers to follow each step with soft attention.",
-    "quoteTextEN": "The still tea ceremony whispers to caretakers to follow each step with soft attention.",
-    "quoteDescription": "Lhamo Pema shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Lhamo Pema",
-    "culture": "Himalayan Retreat Journal",
-    "category": "Mindfulness",
+    "quoteText": "Ugliness, there's no room for ugliness.",
+    "quoteTextEN": "Ugliness, there's no room for ugliness.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "Part of his description of research taste. An idea that needs ugly patches to work is, for him, evidence it is wrong, so elegance acts as a filter before experiments.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "research taste",
+      "beauty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "783",
-    "quoteText": "The still tea ceremony whispers to caretakers to greet silence like an old friend.",
-    "quoteTextEN": "The still tea ceremony whispers to caretakers to greet silence like an old friend.",
-    "quoteDescription": "Saanvi Desai shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Saanvi Desai",
-    "culture": "Vedanta Reflection Circle",
-    "category": "Mindfulness",
+    "quoteText": "It's beauty, simplicity, elegance, correct inspiration from the brain.",
+    "quoteTextEN": "It's beauty, simplicity, elegance, correct inspiration from the brain.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "The positive half of his research-taste answer: ideas should be simple and drawn from how the brain plausibly works, as with neurons and distributed representations, not from surface features.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "research taste",
+      "neuroscience",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "784",
-    "quoteText": "The still tea ceremony whispers to caretakers to rest the mind on passing clouds.",
-    "quoteTextEN": "The still tea ceremony whispers to caretakers to rest the mind on passing clouds.",
-    "quoteDescription": "Ilanit Bar shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Ilanit Bar",
-    "culture": "Galilee Contemplative Songs",
-    "category": "Mindfulness",
+    "quoteText": "The top-down belief is the thing that sustains you when the experiments contradict you.",
+    "quoteTextEN": "The top-down belief is the thing that sustains you when the experiments contradict you.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "Experiments fail for reasons that are often bugs, not flaws in the idea. A strong prior about what must be true is what tells a researcher to keep debugging rather than abandon a correct direction.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "conviction",
+      "experiments",
+      "research"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "785",
-    "quoteText": "The still tea ceremony whispers to caretakers to taste the moment before naming it.",
-    "quoteTextEN": "The still tea ceremony whispers to caretakers to taste the moment before naming it.",
-    "quoteDescription": "Miguel Santos shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Miguel Santos",
-    "culture": "Azores Mindful Path",
-    "category": "Mindfulness",
+    "quoteText": "I produce a superintelligent 15-year-old that's very eager to go.",
+    "quoteTextEN": "I produce a superintelligent 15-year-old that's very eager to go.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "His picture of superintelligence as a learner, not a finished oracle: a system that knows little at deployment but learns any job fast. Deployment then becomes the learning phase.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "superintelligence",
+      "continual learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "786",
-    "quoteText": "The still tea ceremony whispers to caretakers to let gratitude settle into the bones.",
-    "quoteTextEN": "The still tea ceremony whispers to caretakers to let gratitude settle into the bones.",
-    "quoteDescription": "Noura Zahra shares a mindfulness image where a tea ceremony becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Noura Zahra",
-    "culture": "Red Sea Stillness Teachings",
-    "category": "Mindfulness",
+    "quoteText": "Competition loves specialization.",
+    "quoteTextEN": "Competition loves specialization.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "His prediction for an AI market with many labs: rather than one system winning everything, firms will carve out niches. Economic pressure, not technology, drives the split.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "competition",
+      "economics",
+      "specialization"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "787",
-    "quoteText": "The still bamboo flute asks seekers to inhale the world without gripping.",
-    "quoteTextEN": "The still bamboo flute asks seekers to inhale the world without gripping.",
-    "quoteDescription": "Ophelia Grant shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Ophelia Grant",
-    "culture": "Bahamas Breath Practices",
-    "category": "Mindfulness",
+    "quoteText": "I think anything you can do with a value function, you can do without, just more slowly.",
+    "quoteTextEN": "I think anything you can do with a value function, you can do without, just more slowly.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "A value function estimates mid-course whether you are on track. He calls it an accelerator, not a necessity, which is how he explains its role in efficient human learning.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "value function",
+      "reinforcement learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "788",
-    "quoteText": "The still bamboo flute asks seekers to follow each step with soft attention.",
-    "quoteTextEN": "The still bamboo flute asks seekers to follow each step with soft attention.",
-    "quoteDescription": "Pema Nur shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Pema Nur",
-    "culture": "Bhutanese Mindful Tales",
-    "category": "Mindfulness",
+    "quoteText": "The value function lets you short-circuit the wait until the very end.",
+    "quoteTextEN": "The value function lets you short-circuit the wait until the very end.",
+    "quoteDescription": "Sutskever on the Dwarkesh Podcast, 25 November 2025.",
+    "quoteMeaningAnalysis": "Without it, an agent learns only when the outcome arrives; with it, every intermediate step gets feedback. He links this to emotions in humans, which flag bad paths long before the result.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "value function",
+      "emotions",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "Dwarkesh Podcast: Ilya Sutskever (November 2025, transcript)",
+        "url": "https://www.dwarkesh.com/p/ilya-sutskever-2"
+      }
     ]
   },
   {
     "id": "789",
-    "quoteText": "The still bamboo flute asks seekers to greet silence like an old friend.",
-    "quoteTextEN": "The still bamboo flute asks seekers to greet silence like an old friend.",
-    "quoteDescription": "Quynh Le shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Quynh Le",
-    "culture": "Mekong Meditation Lore",
-    "category": "Mindfulness",
+    "quoteText": "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech.",
+    "quoteTextEN": "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech.",
+    "quoteDescription": "Chapter 2, after the pairing of opposites such as difficult and easy, long and short.",
+    "quoteMeaningAnalysis": "Wu wei here is a method of rule: the sage gets results by not forcing them and teaches by example rather than by words. Effort that announces itself is treated as a symptom that the work is being done against its grain.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "wu wei",
+      "leadership",
+      "teaching"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 2",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "790",
-    "quoteText": "The still bamboo flute asks seekers to rest the mind on passing clouds.",
-    "quoteTextEN": "The still bamboo flute asks seekers to rest the mind on passing clouds.",
-    "quoteDescription": "Risa Tan shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Risa Tan",
-    "culture": "Singaporean Quiet Hours",
-    "category": "Mindfulness",
+    "quoteText": "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves",
+    "quoteTextEN": "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves",
+    "quoteDescription": "Chapter 3, on how a ruler keeps the people from contention.",
+    "quoteMeaningAnalysis": "A deliberately uncomfortable line: putting talent on a pedestal teaches everyone else to compete for the pedestal. Laozi asks the ruler to remove the prize rather than police the scramble for it.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "rivalry",
+      "government",
+      "desire"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 3",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "791",
-    "quoteText": "The still bamboo flute asks seekers to taste the moment before naming it.",
-    "quoteTextEN": "The still bamboo flute asks seekers to taste the moment before naming it.",
-    "quoteDescription": "Kenshin Mori shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Kenshin Mori",
-    "culture": "Zen Garden Notes",
-    "category": "Mindfulness",
+    "quoteText": "Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with.",
+    "quoteTextEN": "Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with.",
+    "quoteDescription": "Chapter 5; straw dogs were ritual offerings honoured during a ceremony and discarded afterwards.",
+    "quoteMeaningAnalysis": "Nature is impartial, not cruel: it uses things and lets them go without sentiment. The image denies that the cosmos plays favourites, and asks the sage to be equally even-handed.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "nature",
+      "impartiality",
+      "straw dogs"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 5",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "792",
-    "quoteText": "The still bamboo flute asks seekers to let gratitude settle into the bones.",
-    "quoteTextEN": "The still bamboo flute asks seekers to let gratitude settle into the bones.",
-    "quoteDescription": "Lhamo Pema shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Lhamo Pema",
-    "culture": "Himalayan Retreat Journal",
-    "category": "Mindfulness",
+    "quoteText": "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+    "quoteTextEN": "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+    "quoteDescription": "Closing line of chapter 9, which warns against holding on to fullness.",
+    "quoteMeaningAnalysis": "Success has a peak, and staying at it invites the fall. Stepping back at the moment of recognition is presented as following the seasons rather than as false modesty.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "humility",
+      "success",
+      "timing"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 9",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "793",
-    "quoteText": "The still bamboo flute teaches pilgrims to inhale the world without gripping.",
-    "quoteTextEN": "The still bamboo flute teaches pilgrims to inhale the world without gripping.",
-    "quoteDescription": "Saanvi Desai shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Saanvi Desai",
-    "culture": "Vedanta Reflection Circle",
-    "category": "Mindfulness",
+    "quoteText": "When gold and jade fill the hall, their possessor cannot keep them safe. When wealth and honours lead to arrogancy, this brings its evil on itself.",
+    "quoteTextEN": "When gold and jade fill the hall, their possessor cannot keep them safe. When wealth and honours lead to arrogancy, this brings its evil on itself.",
+    "quoteDescription": "Chapter 9, on the danger of accumulation.",
+    "quoteMeaningAnalysis": "Accumulated treasure becomes a burden to guard, and pride in it creates its own enemies. The harm is self-generated: no outside force is needed to bring the arrogant down.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "wealth",
+      "arrogance",
+      "excess"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 9",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "794",
-    "quoteText": "The still bamboo flute teaches pilgrims to follow each step with soft attention.",
-    "quoteTextEN": "The still bamboo flute teaches pilgrims to follow each step with soft attention.",
-    "quoteDescription": "Ilanit Bar shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Ilanit Bar",
-    "culture": "Galilee Contemplative Songs",
-    "category": "Mindfulness",
+    "quoteText": "Their work was done and their undertakings were successful, while the people all said, 'We are as we are, of ourselves!'",
+    "quoteTextEN": "Their work was done and their undertakings were successful, while the people all said, 'We are as we are, of ourselves!'",
+    "quoteDescription": "End of chapter 17, which ranks rulers from the barely noticed to the despised.",
+    "quoteMeaningAnalysis": "The best ruler's mark is invisibility: people credit themselves with what was achieved. Good leadership is measured by how little of it the led can see.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "leadership",
+      "government",
+      "invisibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 17",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "795",
-    "quoteText": "The still bamboo flute teaches pilgrims to greet silence like an old friend.",
-    "quoteTextEN": "The still bamboo flute teaches pilgrims to greet silence like an old friend.",
-    "quoteDescription": "Miguel Santos shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to greet silence like an old friend.",
-    "author": "Miguel Santos",
-    "culture": "Azores Mindful Path",
-    "category": "Mindfulness",
+    "quoteText": "When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue.",
+    "quoteTextEN": "When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue.",
+    "quoteDescription": "Opening of chapter 18, a critique of Confucian moral virtues.",
+    "quoteMeaningAnalysis": "Named virtues arrive only after the natural order is lost, the way loud talk of loyalty arises in disloyal times. Codified morality is read as evidence of decline, not as its cure.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "virtue",
+      "decline",
+      "Confucianism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 18",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "796",
-    "quoteText": "The still bamboo flute teaches pilgrims to rest the mind on passing clouds.",
-    "quoteTextEN": "The still bamboo flute teaches pilgrims to rest the mind on passing clouds.",
-    "quoteDescription": "Noura Zahra shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to rest the mind on passing clouds.",
-    "author": "Noura Zahra",
-    "culture": "Red Sea Stillness Teachings",
-    "category": "Mindfulness",
+    "quoteText": "He is free from self-display, and therefore he shines; from self-assertion, and therefore he is distinguished; from self-boasting, and therefore his merit is acknowledged; from self-complacency, and therefore he acquires superiority.",
+    "quoteTextEN": "He is free from self-display, and therefore he shines; from self-assertion, and therefore he is distinguished; from self-boasting, and therefore his merit is acknowledged; from self-complacency, and therefore he acquires superiority.",
+    "quoteDescription": "Chapter 22, describing the sage who holds to humility.",
+    "quoteMeaningAnalysis": "Each quality the sage gets comes from declining to grab it. Recognition follows from not demanding it, which makes humility the more effective path, not merely the nicer one.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "humility",
+      "paradox",
+      "reputation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "797",
-    "quoteText": "The still bamboo flute teaches pilgrims to taste the moment before naming it.",
-    "quoteTextEN": "The still bamboo flute teaches pilgrims to taste the moment before naming it.",
-    "quoteDescription": "Ophelia Grant shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to taste the moment before naming it.",
-    "author": "Ophelia Grant",
-    "culture": "Bahamas Breath Practices",
-    "category": "Mindfulness",
+    "quoteText": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily).",
+    "quoteTextEN": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily).",
+    "quoteDescription": "Opening of chapter 24.",
+    "quoteMeaningAnalysis": "Straining for height or speed costs stability. The bodily image sets up the chapter's point that self-display and boasting defeat the very aims they pursue.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "overreach",
+      "balance",
+      "ego"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 24",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "798",
-    "quoteText": "The still bamboo flute teaches pilgrims to let gratitude settle into the bones.",
-    "quoteTextEN": "The still bamboo flute teaches pilgrims to let gratitude settle into the bones.",
-    "quoteDescription": "Pema Nur shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to let gratitude settle into the bones.",
-    "author": "Pema Nur",
-    "culture": "Bhutanese Mindful Tales",
-    "category": "Mindfulness",
+    "quoteText": "He who overcomes others is strong; he who overcomes himself is mighty.",
+    "quoteTextEN": "He who overcomes others is strong; he who overcomes himself is mighty.",
+    "quoteDescription": "Chapter 33, a series of contrasts between outward and inward achievement.",
+    "quoteMeaningAnalysis": "Mastery of others is ranked below mastery of oneself. The harder victory is internal, and only that one earns the larger word.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "self-mastery",
+      "strength",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 33",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "799",
-    "quoteText": "The still bamboo flute invites healers to inhale the world without gripping.",
-    "quoteTextEN": "The still bamboo flute invites healers to inhale the world without gripping.",
-    "quoteDescription": "Quynh Le shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to inhale the world without gripping.",
-    "author": "Quynh Le",
-    "culture": "Mekong Meditation Lore",
-    "category": "Mindfulness",
+    "quoteText": "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice.",
+    "quoteTextEN": "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice.",
+    "quoteDescription": "Chapter 43, on the advantage of non-action.",
+    "quoteMeaningAnalysis": "Water wearing stone is the implied picture: yielding things persist where rigid ones break. What has no fixed form can get into places force cannot.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "softness",
+      "yielding",
+      "water"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 43",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "800",
-    "quoteText": "The still bamboo flute invites healers to follow each step with soft attention.",
-    "quoteTextEN": "The still bamboo flute invites healers to follow each step with soft attention.",
-    "quoteDescription": "Risa Tan shares a mindfulness image where a bamboo flute becomes a guide toward breathing awareness into simple acts.",
-    "quoteMeaningAnalysis": "It suggests that mindfulness flourishes when we slow down and observe with kindness and urges us to follow each step with soft attention.",
-    "author": "Risa Tan",
-    "culture": "Singaporean Quiet Hours",
-    "category": "Mindfulness",
+    "quoteText": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+    "quoteTextEN": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+    "quoteDescription": "Rhymed close of chapter 44, which weighs fame and goods against one's own life.",
+    "quoteMeaningAnalysis": "Knowing when enough is enough is framed as a safety practice. Contentment removes the exposure that comes from always reaching further.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "mindfulness",
-      "presence",
-      "calm"
+      "contentment",
+      "limits",
+      "safety"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Mindfulness",
-      "https://www.mindful.org/what-is-mindfulness/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 44",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "801",
-    "quoteText": "The equipoised rope bridge invites caretakers to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised rope bridge invites caretakers to trade hurry for steady breath.",
-    "quoteDescription": "Salima Haddar shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Salima Haddar",
-    "culture": "Rif Mountain Wisdom",
-    "category": "Balance",
+    "quoteText": "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting.",
+    "quoteTextEN": "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting.",
+    "quoteDescription": "Chapter 46, which opens with war-horses breeding on the borders when the Tao is ignored.",
+    "quoteMeaningAnalysis": "Wars and disorder are traced back to a mental habit: wanting more. The ranking places discontent above any external disaster.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "ambition",
+      "contentment",
+      "greed"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 46",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "802",
-    "quoteText": "The equipoised rope bridge invites caretakers to place burdens down between steps.",
-    "quoteTextEN": "The equipoised rope bridge invites caretakers to place burdens down between steps.",
-    "quoteDescription": "Thabo Maselela shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Thabo Maselela",
-    "culture": "Sotho Harmony Teachings",
-    "category": "Balance",
+    "quoteText": "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven. The farther that one goes out (from himself), the less he knows.",
+    "quoteTextEN": "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven. The farther that one goes out (from himself), the less he knows.",
+    "quoteDescription": "Opening of chapter 47.",
+    "quoteMeaningAnalysis": "Knowledge of the Way comes through inward attention rather than gathering facts abroad. Restless searching outward is said to dilute understanding.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "knowledge",
+      "introspection",
+      "stillness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 47",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "803",
-    "quoteText": "The equipoised rope bridge invites caretakers to share the load before it frays.",
-    "quoteTextEN": "The equipoised rope bridge invites caretakers to share the load before it frays.",
-    "quoteDescription": "Yvette Moreau shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Yvette Moreau",
-    "culture": "Burgundy Equilibrium Notes",
-    "category": "Balance",
+    "quoteText": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+    "quoteTextEN": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+    "quoteDescription": "Opening of chapter 48.",
+    "quoteMeaningAnalysis": "Two opposite disciplines: scholarship adds, the Way subtracts. Progress on the second path is measured by what has been let go.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "learning",
+      "subtraction",
+      "wu wei"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 48",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "804",
-    "quoteText": "The equipoised rope bridge invites caretakers to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised rope bridge invites caretakers to align heart and schedule with care.",
-    "quoteDescription": "Kenji Sato shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Kenji Sato",
-    "culture": "Osaka Balance Practice",
-    "category": "Balance",
+    "quoteText": "The more acts of crafty dexterity that men possess, the more do strange contrivances appear; the more display there is of legislation, the more thieves and robbers there are.",
+    "quoteTextEN": "The more acts of crafty dexterity that men possess, the more do strange contrivances appear; the more display there is of legislation, the more thieves and robbers there are.",
+    "quoteDescription": "Chapter 57, on governing by non-interference.",
+    "quoteMeaningAnalysis": "Rules multiply the offences they define, and clever tools breed clever schemes. An early statement of the idea that over-regulation produces the disorder it claims to fix.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "law",
+      "regulation",
+      "unintended consequences"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 57",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "805",
-    "quoteText": "The equipoised rope bridge invites caretakers to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised rope bridge invites caretakers to listen to needs before obligations.",
-    "quoteDescription": "Helena Kowalski shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Helena Kowalski",
-    "culture": "Carpathian Harmony Lore",
-    "category": "Balance",
+    "quoteText": "Misery!—happiness is to be found by its side! Happiness!—misery lurks beneath it! Who knows what either will come to in the end?",
+    "quoteTextEN": "Misery!—happiness is to be found by its side! Happiness!—misery lurks beneath it! Who knows what either will come to in the end?",
+    "quoteDescription": "Chapter 58, on the instability of fortune.",
+    "quoteMeaningAnalysis": "Good and bad fortune are entangled, each carrying the seed of the other. The closing question warns against judging any turn of events too early.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "fortune",
+      "impermanence",
+      "opposites"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 58",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "806",
-    "quoteText": "The equipoised rope bridge invites caretakers to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised rope bridge invites caretakers to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Jonah Feldman shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Jonah Feldman",
-    "culture": "Kibbutz Balance Lessons",
-    "category": "Balance",
+    "quoteText": "All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small.",
+    "quoteTextEN": "All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small.",
+    "quoteDescription": "Chapter 63, on dealing with the great while it is small.",
+    "quoteMeaningAnalysis": "Problems have an early, cheap phase; attending to them then is the real skill. The sage avoids heroics by never letting things grow large.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "prevention",
+      "planning",
+      "small beginnings"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 63",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "807",
-    "quoteText": "The equipoised rope bridge teaches companions to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised rope bridge teaches companions to trade hurry for steady breath.",
-    "quoteDescription": "Larisa Dumitru shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Larisa Dumitru",
-    "culture": "Danube Delta Reflections",
-    "category": "Balance",
+    "quoteText": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth",
+    "quoteTextEN": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth",
+    "quoteDescription": "Chapter 64, the passage that ends with the journey of a thousand li.",
+    "quoteMeaningAnalysis": "Large structures are accumulations of small additions. The images argue for patience and for attention to beginnings.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "growth",
+      "patience",
+      "beginnings"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 64",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "808",
-    "quoteText": "The equipoised rope bridge teaches companions to place burdens down between steps.",
-    "quoteTextEN": "The equipoised rope bridge teaches companions to place burdens down between steps.",
-    "quoteDescription": "Mira Alavi shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Mira Alavi",
-    "culture": "Persian Garden Teachings",
-    "category": "Balance",
+    "quoteText": "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold.",
+    "quoteTextEN": "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold.",
+    "quoteDescription": "Chapter 64, following the tree and tower images.",
+    "quoteMeaningAnalysis": "Grasping defeats itself: the tighter the grip on an outcome, the more likely it slips. Legge's parentheses mark the target as acting with an agenda, not acting at all.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "attachment",
+      "control",
+      "wu wei"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 64",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "809",
-    "quoteText": "The equipoised rope bridge teaches companions to share the load before it frays.",
-    "quoteTextEN": "The equipoised rope bridge teaches companions to share the load before it frays.",
-    "quoteDescription": "Noah Sinclair shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Noah Sinclair",
-    "culture": "Tasmanian Boundary Tales",
-    "category": "Balance",
+    "quoteText": "I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others.",
+    "quoteTextEN": "I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others.",
+    "quoteDescription": "Chapter 67, Laozi's own summary of what he treasures.",
+    "quoteMeaningAnalysis": "Gentleness, frugality and not putting oneself first are the speaker's three treasures. The chapter goes on to claim each one yields its apparent opposite: courage, generosity and leadership.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "three treasures",
+      "gentleness",
+      "frugality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 67",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "810",
-    "quoteText": "The equipoised rope bridge teaches companions to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised rope bridge teaches companions to align heart and schedule with care.",
-    "quoteDescription": "Oksana Hrytsenko shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Oksana Hrytsenko",
-    "culture": "Kyiv Equilibrium Stories",
-    "category": "Balance",
+    "quoteText": "There is no calamity greater than lightly engaging in war.",
+    "quoteTextEN": "There is no calamity greater than lightly engaging in war.",
+    "quoteDescription": "Chapter 69, on the strategy of the reluctant defender.",
+    "quoteMeaningAnalysis": "War entered casually is the worst disaster, because it throws away the gentleness the text treats as precious. The chapter favours the side that grieves at fighting.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "war",
+      "restraint",
+      "strategy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 69",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "811",
-    "quoteText": "The equipoised rope bridge teaches companions to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised rope bridge teaches companions to listen to needs before obligations.",
-    "quoteDescription": "Salima Haddar shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Salima Haddar",
-    "culture": "Rif Mountain Wisdom",
-    "category": "Balance",
+    "quoteText": "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.",
+    "quoteTextEN": "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.",
+    "quoteDescription": "Opening of chapter 71.",
+    "quoteMeaningAnalysis": "False certainty is called a sickness, and awareness of it is the cure. The line parallels Socrates' account of wisdom as knowing the limits of one's knowledge.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "knowledge",
+      "humility",
+      "ignorance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 71",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "812",
-    "quoteText": "The equipoised rope bridge teaches companions to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised rope bridge teaches companions to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Thabo Maselela shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Thabo Maselela",
-    "culture": "Sotho Harmony Teachings",
-    "category": "Balance",
+    "quoteText": "Man at his birth is supple and weak; at his death, firm and strong.",
+    "quoteTextEN": "Man at his birth is supple and weak; at his death, firm and strong.",
+    "quoteDescription": "Opening of chapter 76.",
+    "quoteMeaningAnalysis": "Rigidity belongs to death and suppleness to life. The chapter extends the observation to armies and trees: the stiff are broken, the flexible endure.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "flexibility",
+      "life",
+      "rigidity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 76",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "813",
-    "quoteText": "The equipoised rope bridge asks travelers to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised rope bridge asks travelers to trade hurry for steady breath.",
-    "quoteDescription": "Yvette Moreau shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Yvette Moreau",
-    "culture": "Burgundy Equilibrium Notes",
-    "category": "Balance",
+    "quoteText": "Sincere words are not fine; fine words are not sincere.",
+    "quoteTextEN": "Sincere words are not fine; fine words are not sincere.",
+    "quoteDescription": "Opening of chapter 81, the final chapter.",
+    "quoteMeaningAnalysis": "Polish and truth pull in different directions; elaborate speech is often hiding something. The book ends by casting suspicion on eloquence, its own included.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "honesty",
+      "rhetoric",
+      "speech"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 81",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "814",
-    "quoteText": "The equipoised rope bridge asks travelers to place burdens down between steps.",
-    "quoteTextEN": "The equipoised rope bridge asks travelers to place burdens down between steps.",
-    "quoteDescription": "Kenji Sato shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Kenji Sato",
-    "culture": "Osaka Balance Practice",
-    "category": "Balance",
+    "quoteText": "arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all creatures.",
+    "quoteTextEN": "arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all creatures.",
+    "quoteDescription": "Opening of chapter 31, on the use of weapons.",
+    "quoteMeaningAnalysis": "However finely made, weapons remain ominous; the person of the Tao uses them only when there is no choice. Victory itself is to be marked with mourning rites.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "war",
+      "weapons",
+      "violence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "The Tao Teh King, Legge trans., ch. 31",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      }
     ]
   },
   {
     "id": "815",
-    "quoteText": "The equipoised rope bridge asks travelers to share the load before it frays.",
-    "quoteTextEN": "The equipoised rope bridge asks travelers to share the load before it frays.",
-    "quoteDescription": "Helena Kowalski shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Helena Kowalski",
-    "culture": "Carpathian Harmony Lore",
-    "category": "Balance",
+    "quoteText": "Making Linux GPL'd was definitely the best thing I ever did.",
+    "quoteTextEN": "Making Linux GPL'd was definitely the best thing I ever did.",
+    "quoteDescription": "Torvalds in Hiroo Yamagata's interview 'The Pragmatist of Free Software', 11 November 1997.",
+    "quoteMeaningAnalysis": "Torvalds credits the licence, not the code, as his best decision. The GPL forced every improvement back into the shared tree, which is why a student project could absorb the work of thousands of companies without fragmenting.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "licensing",
+      "GPL",
+      "open source"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "816",
-    "quoteText": "The equipoised rope bridge asks travelers to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised rope bridge asks travelers to align heart and schedule with care.",
-    "quoteDescription": "Jonah Feldman shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Jonah Feldman",
-    "culture": "Kibbutz Balance Lessons",
-    "category": "Balance",
+    "quoteText": "\"Regression testing\"? What's that? If it compiles, it is good; if it boots up, it is perfect.",
+    "quoteTextEN": "\"Regression testing\"? What's that? If it compiles, it is good; if it boots up, it is perfect.",
+    "quoteDescription": "Torvalds on the linux-kernel mailing list, 8 April 1998.",
+    "quoteMeaningAnalysis": "A deadpan joke about the early kernel's testing culture, from the man who later made 'no regressions' the project's hardest rule. Read today it marks how far Linux moved from hobby code to infrastructure that cannot break.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "testing",
+      "humour",
+      "kernel"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "817",
-    "quoteText": "The equipoised rope bridge asks travelers to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised rope bridge asks travelers to listen to needs before obligations.",
-    "quoteDescription": "Larisa Dumitru shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Larisa Dumitru",
-    "culture": "Danube Delta Reflections",
-    "category": "Balance",
+    "quoteText": "Nobody actually creates perfect code the first time around, except me. But there's only one of me.",
+    "quoteTextEN": "Nobody actually creates perfect code the first time around, except me. But there's only one of me.",
+    "quoteDescription": "Torvalds' Google Tech Talk on git, 3 May 2007.",
+    "quoteMeaningAnalysis": "Under the boast sits the argument for git itself: since almost nobody gets code right first time, the tool must make branching, rewriting and merging cheap. The joke sells distributed version control as a tool for fallible people.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "git",
+      "humour",
+      "version control"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Tech Talk: Linus Torvalds on git (Google, 2007)",
+        "url": "https://www.youtube.com/watch?v=4XpnKHJAok8"
+      },
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "818",
-    "quoteText": "The equipoised rope bridge asks travelers to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised rope bridge asks travelers to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Mira Alavi shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Mira Alavi",
-    "culture": "Persian Garden Teachings",
-    "category": "Balance",
+    "quoteText": "I am a lazy person, which is why I like open source, for other people to do work for me.",
+    "quoteTextEN": "I am a lazy person, which is why I like open source, for other people to do work for me.",
+    "quoteDescription": "Torvalds in an Ars Technica interview, 15 January 2015.",
+    "quoteMeaningAnalysis": "He frames open source as a division of labour rather than idealism. A maintainer who merges other people's work scales far beyond one who writes everything, and admitting the laziness is how he explains choosing review over authorship.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "open source",
+      "maintainership"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "819",
-    "quoteText": "The equipoised rope bridge reminds artisans to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised rope bridge reminds artisans to trade hurry for steady breath.",
-    "quoteDescription": "Noah Sinclair shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Noah Sinclair",
-    "culture": "Tasmanian Boundary Tales",
-    "category": "Balance",
+    "quoteText": "On the internet nobody can hear you being subtle.",
+    "quoteTextEN": "On the internet nobody can hear you being subtle.",
+    "quoteDescription": "Torvalds at LinuxCon Europe, October 2014, defending his blunt mailing-list style.",
+    "quoteMeaningAnalysis": "His defence of blunt email: tone and irony vanish in plain text, so a hedged objection reads as agreement. He used it to explain why his rejections were loud, a style he later partly walked back.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "communication",
+      "email",
+      "culture"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "820",
-    "quoteText": "The equipoised rope bridge reminds artisans to place burdens down between steps.",
-    "quoteTextEN": "The equipoised rope bridge reminds artisans to place burdens down between steps.",
-    "quoteDescription": "Oksana Hrytsenko shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Oksana Hrytsenko",
-    "culture": "Kyiv Equilibrium Stories",
-    "category": "Balance",
+    "quoteText": "Standards are paper. I use paper to wipe my butt every day. That's how much that paper is worth.",
+    "quoteTextEN": "Standards are paper. I use paper to wipe my butt every day. That's how much that paper is worth.",
+    "quoteDescription": "Torvalds on Red Hat Bugzilla, 30 November 2010, in the dispute over a glibc memcpy change that broke existing programs.",
+    "quoteMeaningAnalysis": "When a library change that followed the letter of a standard broke real applications, he sided with the applications. Compliance on paper counts for nothing if users' programs stop working.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "standards",
+      "compatibility",
+      "pragmatism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "821",
-    "quoteText": "The equipoised rope bridge reminds artisans to share the load before it frays.",
-    "quoteTextEN": "The equipoised rope bridge reminds artisans to share the load before it frays.",
-    "quoteDescription": "Salima Haddar shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Salima Haddar",
-    "culture": "Rif Mountain Wisdom",
-    "category": "Balance",
+    "quoteText": "If you don't have technical reasons, you don't have reasons.",
+    "quoteTextEN": "If you don't have technical reasons, you don't have reasons.",
+    "quoteDescription": "Torvalds on the linux-media list, 15 July 2026, in the thread 'Re: Linking Patchwork with Sashiko?'.",
+    "quoteMeaningAnalysis": "In a kernel discussion a preference, a deadline or a political argument does not count; only a technical argument moves a patch. It is the rule that lets a project with thousands of contributors settle disputes without a hierarchy of opinions.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "decision making",
+      "engineering"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "822",
-    "quoteText": "The equipoised rope bridge reminds artisans to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised rope bridge reminds artisans to align heart and schedule with care.",
-    "quoteDescription": "Thabo Maselela shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Thabo Maselela",
-    "culture": "Sotho Harmony Teachings",
-    "category": "Balance",
+    "quoteText": "People are strange, and you can't fix people.",
+    "quoteTextEN": "People are strange, and you can't fix people.",
+    "quoteDescription": "Torvalds in the Linus Tech Tips video 'Building the PERFECT Linux PC with Linus Torvalds', 30 November 2025.",
+    "quoteMeaningAnalysis": "Coming from someone who spent decades managing contributors, this is resignation as method. Processes and tools can be changed; people's quirks have to be routed around, which is how the kernel's maintainer hierarchy actually works.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "people",
+      "management"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "823",
-    "quoteText": "The equipoised rope bridge reminds artisans to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised rope bridge reminds artisans to listen to needs before obligations.",
-    "quoteDescription": "Yvette Moreau shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Yvette Moreau",
-    "culture": "Burgundy Equilibrium Notes",
-    "category": "Balance",
+    "quoteText": "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now git.",
+    "quoteTextEN": "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now git.",
+    "quoteDescription": "Torvalds explaining the name 'git' (British slang for an unpleasant person), quoted in the Git FAQ.",
+    "quoteMeaningAnalysis": "A self-mocking etymology: 'git' is an insult, so naming the tool after himself is the joke. It also shows how little ceremony went into a tool now used by almost every software team.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "git",
+      "naming",
+      "humour"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "824",
-    "quoteText": "The equipoised rope bridge reminds artisans to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised rope bridge reminds artisans to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Kenji Sato shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Kenji Sato",
-    "culture": "Osaka Balance Practice",
-    "category": "Balance",
+    "quoteText": "Real quality means making sure that people are proud of the code they write, that they're involved and taking it personally.",
+    "quoteTextEN": "Real quality means making sure that people are proud of the code they write, that they're involved and taking it personally.",
+    "quoteDescription": "Torvalds in an interview with The Linux Foundation, 15 September 2008.",
+    "quoteMeaningAnalysis": "Quality here is a social property, not a metric: contributors who own their code keep fixing it after it ships. Kernel maintainership, where each subsystem has a named person, is built on that idea.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "quality",
+      "ownership",
+      "craft"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "825",
-    "quoteText": "The equipoised rope bridge encourages keepers to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised rope bridge encourages keepers to trade hurry for steady breath.",
-    "quoteDescription": "Helena Kowalski shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Helena Kowalski",
-    "culture": "Carpathian Harmony Lore",
-    "category": "Balance",
+    "quoteText": "I am not a visionary. I do not have a five-year plan. I'm an engineer.",
+    "quoteTextEN": "I am not a visionary. I do not have a five-year plan. I'm an engineer.",
+    "quoteDescription": "Torvalds at TED2016, 'The mind behind Linux', in conversation with Chris Anderson.",
+    "quoteMeaningAnalysis": "He rejects the founder-as-prophet story. Linux grew by solving the next concrete problem, and he presents that incrementalism as the reason it outlasted projects that started with grand roadmaps.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "engineering",
+      "vision",
+      "incrementalism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "TED2016: Linus Torvalds, The mind behind Linux",
+        "url": "https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux"
+      },
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "826",
-    "quoteText": "The equipoised rope bridge encourages keepers to place burdens down between steps.",
-    "quoteTextEN": "The equipoised rope bridge encourages keepers to place burdens down between steps.",
-    "quoteDescription": "Jonah Feldman shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Jonah Feldman",
-    "culture": "Kibbutz Balance Lessons",
-    "category": "Balance",
+    "quoteText": "Don't get me wrong -- I'm actually not a people person.",
+    "quoteTextEN": "Don't get me wrong -- I'm actually not a people person.",
+    "quoteDescription": "Torvalds at TED2016, 'The mind behind Linux'.",
+    "quoteMeaningAnalysis": "An odd admission from the coordinator of the largest collaborative software project. He says the role works not through charisma but through taste in code and trust in a few lieutenants.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "leadership",
+      "collaboration"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "TED2016: Linus Torvalds, The mind behind Linux",
+        "url": "https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux"
+      },
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "827",
-    "quoteText": "The equipoised rope bridge encourages keepers to share the load before it frays.",
-    "quoteTextEN": "The equipoised rope bridge encourages keepers to share the load before it frays.",
-    "quoteDescription": "Larisa Dumitru shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Larisa Dumitru",
-    "culture": "Danube Delta Reflections",
-    "category": "Balance",
+    "quoteText": "Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+    "quoteTextEN": "Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+    "quoteDescription": "Torvalds interviewed by Rishab Aiyer Ghosh for First Monday, 2 March 1998.",
+    "quoteMeaningAnalysis": "Intrinsic motivation is his explanation for why volunteers built an operating system. The same idea later became the title of his autobiography, Just for Fun.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "motivation",
+      "fun",
+      "open source"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "First Monday interview with Linus Torvalds (1998)",
+        "url": "https://firstmonday.org/ojs/index.php/fm/article/view/583/504"
+      },
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "828",
-    "quoteText": "The equipoised rope bridge encourages keepers to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised rope bridge encourages keepers to align heart and schedule with care.",
-    "quoteDescription": "Mira Alavi shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Mira Alavi",
-    "culture": "Persian Garden Teachings",
-    "category": "Balance",
+    "quoteText": "That's giving your intelligence much too much credit.",
+    "quoteTextEN": "That's giving your intelligence much too much credit.",
+    "quoteDescription": "Torvalds on lkml, 30 November 2001, thread 'Coding style - a non-issue', arguing that Linux evolved rather than being designed.",
+    "quoteMeaningAnalysis": "Said to a critic who wanted Linux designed up front: nobody is clever enough to design a system that size in advance. Linux, he argued, evolved by trial and selection, and claiming otherwise overrates human foresight.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "design",
+      "evolution",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "lkml: Coding style - a non-issue (2001)",
+        "url": "https://lore.kernel.org/lkml/Pine.LNX.4.33.0111301643170.1224-100000@penguin.transmeta.com/"
+      }
     ]
   },
   {
     "id": "829",
-    "quoteText": "The equipoised rope bridge encourages keepers to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised rope bridge encourages keepers to listen to needs before obligations.",
-    "quoteDescription": "Noah Sinclair shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Noah Sinclair",
-    "culture": "Tasmanian Boundary Tales",
-    "category": "Balance",
+    "quoteText": "Theory and practice sometimes clash. And when that happens, theory loses. Every single time.",
+    "quoteTextEN": "Theory and practice sometimes clash. And when that happens, theory loses. Every single time.",
+    "quoteDescription": "Torvalds on lkml, 25 March 2009, 'Re: Linux 2.6.29', on filesystems and applications that relied on behaviour the spec did not promise.",
+    "quoteMeaningAnalysis": "From the ext4 data-loss debate: the spec said applications must call fsync, but real applications did not. His ruling was that the kernel must serve the code people actually run, not the code the spec says they should write.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "pragmatism",
+      "filesystems",
+      "compatibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "lkml: Re: Linux 2.6.29 (2009)",
+        "url": "https://lore.kernel.org/all/alpine.LFD.2.00.0903252017100.3032@localhost.localdomain/"
+      }
     ]
   },
   {
     "id": "830",
-    "quoteText": "The equipoised rope bridge encourages keepers to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised rope bridge encourages keepers to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Oksana Hrytsenko shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Oksana Hrytsenko",
-    "culture": "Kyiv Equilibrium Stories",
-    "category": "Balance",
+    "quoteText": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+    "quoteTextEN": "C++ is a horrible language. It's made more horrible by the fact that a lot of substandard programmers use it, to the point where it's much much easier to generate total and utter crap with it.",
+    "quoteDescription": "Torvalds on the git mailing list, 6 September 2007, replying to a proposal to use C++ in git.",
+    "quoteMeaningAnalysis": "His objection is partly to the language and partly to who it attracts. Keeping git in C, he argued, kept out the abstraction-heavy style he thought made code slow and hard to review.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "C",
+      "C++",
+      "language choice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "git list: Re: [RFC] Convert builin-mailinfo.c to use The Better String Library (2007-09-06)",
+        "url": "https://lore.kernel.org/all/alpine.LFD.0.999.0709061839510.5626@evo.linux-foundation.org/"
+      }
     ]
   },
   {
     "id": "831",
-    "quoteText": "The equipoised rope bridge whispers to dancers to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised rope bridge whispers to dancers to trade hurry for steady breath.",
-    "quoteDescription": "Salima Haddar shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Salima Haddar",
-    "culture": "Rif Mountain Wisdom",
-    "category": "Balance",
+    "quoteText": "It has nothing to do with dinosaurs. Good taste doesn't go out of style.",
+    "quoteTextEN": "It has nothing to do with dinosaurs. Good taste doesn't go out of style.",
+    "quoteDescription": "Torvalds on the git mailing list, 7 September 2007, answering the charge that preferring C over C++ was old-fashioned.",
+    "quoteMeaningAnalysis": "He refuses the 'old versus new' framing. Choosing C is, for him, a question of taste in simplicity, which he treats as permanent rather than a fashion that ages.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "taste",
+      "C",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "git list: Re: [RFC] Convert builin-mailinfo.c (2007-09-07)",
+        "url": "https://lore.kernel.org/all/alpine.LFD.0.999.0709070135361.5626@evo.linux-foundation.org/"
+      }
     ]
   },
   {
     "id": "832",
-    "quoteText": "The equipoised rope bridge whispers to dancers to place burdens down between steps.",
-    "quoteTextEN": "The equipoised rope bridge whispers to dancers to place burdens down between steps.",
-    "quoteDescription": "Thabo Maselela shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Thabo Maselela",
-    "culture": "Sotho Harmony Teachings",
-    "category": "Balance",
+    "quoteText": "If Microsoft ever does applications for Linux it means I've won.",
+    "quoteTextEN": "If Microsoft ever does applications for Linux it means I've won.",
+    "quoteDescription": "Torvalds quoted by David Needle, 'Why Intel and Netscape bought into Linux', CNN.com, 1 October 1998.",
+    "quoteMeaningAnalysis": "Victory is defined as the rival porting its software, not as market share. Two decades later Microsoft shipped SQL Server, Teams and WSL for Linux, which makes this one of his more accurate predictions.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "Microsoft",
+      "competition",
+      "prediction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "833",
-    "quoteText": "The equipoised rope bridge whispers to dancers to share the load before it frays.",
-    "quoteTextEN": "The equipoised rope bridge whispers to dancers to share the load before it frays.",
-    "quoteDescription": "Yvette Moreau shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Yvette Moreau",
-    "culture": "Burgundy Equilibrium Notes",
-    "category": "Balance",
+    "quoteText": "Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.",
+    "quoteTextEN": "Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.",
+    "quoteDescription": "Torvalds in 'Questions for Linus Torvalds', The New York Times Magazine, 28 September 2003.",
+    "quoteMeaningAnalysis": "He presents Linux as a by-product of doing good work rather than a crusade. The punchline keeps him out of the free-software culture war while still admitting the stakes.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "Microsoft",
+      "humour",
+      "motivation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "NYT Magazine: Questions for Linus Torvalds (2003, archived)",
+        "url": "https://web.archive.org/web/20101118180240/https://www.nytimes.com/2003/09/28/magazine/the-way-we-live-now-9-28-03-questions-for-linus-torvalds-the-sharer.html"
+      }
     ]
   },
   {
     "id": "834",
-    "quoteText": "The equipoised rope bridge whispers to dancers to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised rope bridge whispers to dancers to align heart and schedule with care.",
-    "quoteDescription": "Kenji Sato shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Kenji Sato",
-    "culture": "Osaka Balance Practice",
-    "category": "Balance",
+    "quoteText": "I may make jokes about Microsoft at times, but at the same time, I think the Microsoft hatred is a disease.",
+    "quoteTextEN": "I may make jokes about Microsoft at times, but at the same time, I think the Microsoft hatred is a disease.",
+    "quoteDescription": "Torvalds in Linux Magazine, 22 June 2009, after Microsoft submitted GPL driver code to the kernel.",
+    "quoteMeaningAnalysis": "When Microsoft contributed Hyper-V drivers, he judged the code on its merits, not its origin. Tribal hatred, he said, makes engineers reject good patches for bad reasons.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "Microsoft",
+      "tribalism",
+      "open source"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Linux Magazine: Microsoft Patches Linux; Linus Responds (2009, archived)",
+        "url": "https://web.archive.org/web/20091124102357/https://www.linux-mag.com/cache/7439/1.html"
+      }
     ]
   },
   {
     "id": "835",
-    "quoteText": "The equipoised rope bridge whispers to dancers to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised rope bridge whispers to dancers to listen to needs before obligations.",
-    "quoteDescription": "Helena Kowalski shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Helena Kowalski",
-    "culture": "Carpathian Harmony Lore",
-    "category": "Balance",
+    "quoteText": "Security people are often the black-and-white kind of people that I can't stand.",
+    "quoteTextEN": "Security people are often the black-and-white kind of people that I can't stand.",
+    "quoteDescription": "Torvalds on lkml, 15 July 2008, 'Re: [stable] Linux 2.6.25.10', on labelling security fixes.",
+    "quoteMeaningAnalysis": "His complaint is about absolutism: treating security bugs as categorically different from other bugs. He preferred fixing all bugs promptly over a special disclosure ritual, a stance that still irritates parts of the security community.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "security",
+      "bugs",
+      "absolutism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "836",
-    "quoteText": "The equipoised rope bridge whispers to dancers to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised rope bridge whispers to dancers to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Jonah Feldman shares a balance image where a rope bridge becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Jonah Feldman",
-    "culture": "Kibbutz Balance Lessons",
-    "category": "Balance",
+    "quoteText": "I'm personally convinced that computer science has a lot in common with physics.",
+    "quoteTextEN": "I'm personally convinced that computer science has a lot in common with physics.",
+    "quoteDescription": "Torvalds in Just for Fun (2001, with David Diamond), chapter 'The Beauty of Programming'.",
+    "quoteMeaningAnalysis": "He compares programming to physics: simple rules underneath, complex behaviour on top. Writing an operating system, in this view, is building a small universe whose rules you get to choose.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "programming",
+      "physics",
+      "beauty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Just for Fun",
+        "url": "https://en.wikiquote.org/wiki/Just_for_Fun"
+      }
     ]
   },
   {
     "id": "837",
-    "quoteText": "The equipoised tidal rhythm invites caretakers to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised tidal rhythm invites caretakers to trade hurry for steady breath.",
-    "quoteDescription": "Larisa Dumitru shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Larisa Dumitru",
-    "culture": "Danube Delta Reflections",
-    "category": "Balance",
+    "quoteText": "Most days I wake up thinking I'm the luckiest bastard alive.",
+    "quoteTextEN": "Most days I wake up thinking I'm the luckiest bastard alive.",
+    "quoteDescription": "Torvalds in Just for Fun (2001, with David Diamond), chapter 'King of the Ball'.",
+    "quoteMeaningAnalysis": "A plain statement of contentment from someone who turned a hobby into a career on his own terms. It also undercuts the myth that open-source maintainers are martyrs.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "happiness",
+      "luck",
+      "career"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Just for Fun",
+        "url": "https://en.wikiquote.org/wiki/Just_for_Fun"
+      }
     ]
   },
   {
     "id": "838",
-    "quoteText": "The equipoised tidal rhythm invites caretakers to place burdens down between steps.",
-    "quoteTextEN": "The equipoised tidal rhythm invites caretakers to place burdens down between steps.",
-    "quoteDescription": "Mira Alavi shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Mira Alavi",
-    "culture": "Persian Garden Teachings",
-    "category": "Balance",
+    "quoteText": "I'm not sentimental. Good riddance.",
+    "quoteTextEN": "I'm not sentimental. Good riddance.",
+    "quoteDescription": "Torvalds in December 2012, merging the removal of i386 support from the kernel, as reported by Slashdot.",
+    "quoteMeaningAnalysis": "Linux began on a 386, and he dropped support for it without a pause. Old code costs maintenance, and he weighed the burden, not the history.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "legacy",
+      "maintenance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "839",
-    "quoteText": "The equipoised tidal rhythm invites caretakers to share the load before it frays.",
-    "quoteTextEN": "The equipoised tidal rhythm invites caretakers to share the load before it frays.",
-    "quoteDescription": "Noah Sinclair shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Noah Sinclair",
-    "culture": "Tasmanian Boundary Tales",
-    "category": "Balance",
+    "quoteText": "Don't use ZFS. It's that simple.",
+    "quoteTextEN": "Don't use ZFS. It's that simple.",
+    "quoteDescription": "Torvalds on the realworldtech.com forum, 6 January 2020.",
+    "quoteMeaningAnalysis": "The advice rests on licensing, not engineering: ZFS's CDDL licence and Oracle's history meant he would never merge it. Users running an out-of-tree filesystem the kernel cannot support carry that risk alone.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "filesystems",
+      "licensing",
+      "ZFS"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Wikiquote: Linus Torvalds (sourced quotes)",
+        "url": "https://en.wikiquote.org/wiki/Linus_Torvalds"
+      }
     ]
   },
   {
     "id": "840",
-    "quoteText": "The equipoised tidal rhythm invites caretakers to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised tidal rhythm invites caretakers to align heart and schedule with care.",
-    "quoteDescription": "Oksana Hrytsenko shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Oksana Hrytsenko",
-    "culture": "Kyiv Equilibrium Stories",
-    "category": "Balance",
+    "quoteText": "Remember how long thou hast been putting off these things, and how often thou hast received an opportunity from the gods, and yet dost not use it.",
+    "quoteTextEN": "Remember how long thou hast been putting off these things, and how often thou hast received an opportunity from the gods, and yet dost not use it.",
+    "quoteDescription": "Meditations, Book 2, section 4: A reproach he addressed to himself about delay. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Marcus counts the opportunities already wasted rather than the ones still ahead, which turns procrastination into a ledger of losses. The gods gave the chance; the failure to take it is his alone.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "procrastination",
+      "time",
+      "self-discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 2.4 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "841",
-    "quoteText": "The equipoised tidal rhythm invites caretakers to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised tidal rhythm invites caretakers to listen to needs before obligations.",
-    "quoteDescription": "Salima Haddar shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Salima Haddar",
-    "culture": "Rif Mountain Wisdom",
-    "category": "Balance",
+    "quoteText": "Every moment think steadily as a Roman and a man to do what thou hast in hand with perfect and simple dignity, and feeling of affection, and freedom, and justice, and to give thyself relief from all other thoughts.",
+    "quoteTextEN": "Every moment think steadily as a Roman and a man to do what thou hast in hand with perfect and simple dignity, and feeling of affection, and freedom, and justice, and to give thyself relief from all other thoughts.",
+    "quoteDescription": "Meditations, Book 2, section 5: A rule for doing the task in front of him with full attention. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Dignity here is a working method: give the present task everything and drop the rest. Affection, freedom and justice are listed as part of how the work is done, not as rewards after it.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "focus",
+      "duty",
+      "dignity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 2.5 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "842",
-    "quoteText": "The equipoised tidal rhythm invites caretakers to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised tidal rhythm invites caretakers to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Thabo Maselela shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Thabo Maselela",
-    "culture": "Sotho Harmony Teachings",
-    "category": "Balance",
+    "quoteText": "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.",
+    "quoteTextEN": "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.",
+    "quoteDescription": "Meditations, Book 2, section 11: A reflection on mortality as a guide to conduct. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The nearness of death is used as a filter for every action, not as a source of fear. If this act could be the last, it has to be one he would stand behind.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "death",
+      "conduct",
+      "mortality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 2.11 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "843",
-    "quoteText": "The equipoised tidal rhythm teaches companions to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised tidal rhythm teaches companions to trade hurry for steady breath.",
-    "quoteDescription": "Yvette Moreau shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Yvette Moreau",
-    "culture": "Burgundy Equilibrium Notes",
-    "category": "Balance",
+    "quoteText": "For the present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has, and that a man cannot lose a thing if he has it not.",
+    "quoteTextEN": "For the present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has, and that a man cannot lose a thing if he has it not.",
+    "quoteDescription": "Meditations, Book 2, section 14: Part of an argument that a long life and a short one lose the same thing at death. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Because no one owns the past or the future, death can only take the present moment. The argument removes the special terror of dying young: everyone loses the same amount.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "present moment",
+      "death",
+      "time"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 2.14 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "844",
-    "quoteText": "The equipoised tidal rhythm teaches companions to place burdens down between steps.",
-    "quoteTextEN": "The equipoised tidal rhythm teaches companions to place burdens down between steps.",
-    "quoteDescription": "Kenji Sato shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Kenji Sato",
-    "culture": "Osaka Balance Practice",
-    "category": "Balance",
+    "quoteText": "Of human life the time is a point, and the substance is in a flux, and the perception dull, and the composition of the whole body subject to putrefaction, and the soul a whirl, and fortune hard to divine, and fame a thing devoid of judgment.",
+    "quoteTextEN": "Of human life the time is a point, and the substance is in a flux, and the perception dull, and the composition of the whole body subject to putrefaction, and the soul a whirl, and fortune hard to divine, and fame a thing devoid of judgment.",
+    "quoteDescription": "Meditations, Book 2, section 17: A catalogue of human impermanence near the end of Book 2. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Every item in the list is something people treat as solid, from the body to reputation, and he dissolves each one in a phrase. The remedy he goes on to name is philosophy, the one guide that is not in flux.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "impermanence",
+      "fame",
+      "body"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 2.17 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "845",
-    "quoteText": "The equipoised tidal rhythm teaches companions to share the load before it frays.",
-    "quoteTextEN": "The equipoised tidal rhythm teaches companions to share the load before it frays.",
-    "quoteDescription": "Helena Kowalski shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to share the load before it frays.",
-    "author": "Helena Kowalski",
-    "culture": "Carpathian Harmony Lore",
-    "category": "Balance",
+    "quoteText": "Do not waste the remainder of thy life in thoughts about others, when thou dost not refer thy thoughts to some object of common utility.",
+    "quoteTextEN": "Do not waste the remainder of thy life in thoughts about others, when thou dost not refer thy thoughts to some object of common utility.",
+    "quoteDescription": "Meditations, Book 3, section 4: Advice against idle speculation about other people. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Guessing what others are doing or thinking is counted as lost life unless it serves some shared good. The test is utility to the community, not curiosity.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "attention",
+      "gossip",
+      "community"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 3.4 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "846",
-    "quoteText": "The equipoised tidal rhythm teaches companions to align heart and schedule with care.",
-    "quoteTextEN": "The equipoised tidal rhythm teaches companions to align heart and schedule with care.",
-    "quoteDescription": "Jonah Feldman shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to align heart and schedule with care.",
-    "author": "Jonah Feldman",
-    "culture": "Kibbutz Balance Lessons",
-    "category": "Balance",
+    "quoteText": "Be cheerful also, and seek not external help nor the tranquillity which others give.",
+    "quoteTextEN": "Be cheerful also, and seek not external help nor the tranquillity which others give.",
+    "quoteDescription": "Meditations, Book 3, section 5: Part of a portrait of the self-reliant person. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Cheerfulness is framed as independence: a mood that does not need to be supplied by other people. He wants to stand upright, not be held upright.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "self-reliance",
+      "cheerfulness",
+      "tranquillity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 3.5 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "847",
-    "quoteText": "The equipoised tidal rhythm teaches companions to listen to needs before obligations.",
-    "quoteTextEN": "The equipoised tidal rhythm teaches companions to listen to needs before obligations.",
-    "quoteDescription": "Larisa Dumitru shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to listen to needs before obligations.",
-    "author": "Larisa Dumitru",
-    "culture": "Danube Delta Reflections",
-    "category": "Balance",
+    "quoteText": "every man lives only this present time, which is an indivisible point, and that all the rest of his life is either past or it is uncertain.",
+    "quoteTextEN": "every man lives only this present time, which is an indivisible point, and that all the rest of his life is either past or it is uncertain.",
+    "quoteDescription": "Meditations, Book 3, section 10: A reminder of how little of life anyone actually holds. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The present is shrunk to an indivisible point to show how small the stake really is. Everything else is either gone or not yet given, so there is little to cling to.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "present moment",
+      "life",
+      "uncertainty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 3.10 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "848",
-    "quoteText": "The equipoised tidal rhythm teaches companions to rest on the fulcrum of honest boundaries.",
-    "quoteTextEN": "The equipoised tidal rhythm teaches companions to rest on the fulcrum of honest boundaries.",
-    "quoteDescription": "Mira Alavi shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to rest on the fulcrum of honest boundaries.",
-    "author": "Mira Alavi",
-    "culture": "Persian Garden Teachings",
-    "category": "Balance",
+    "quoteText": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.",
+    "quoteTextEN": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.",
+    "quoteDescription": "Meditations, Book 4, section 3: The opening of his long meditation on inner retreat. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Holiday houses and seashores are dismissed as the habit of ordinary people because the best retreat costs nothing and is always open. The mind, ordered well, is the quietest place available.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "retreat",
+      "inner peace",
+      "mind"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 4.3 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "849",
-    "quoteText": "The equipoised tidal rhythm asks travelers to trade hurry for steady breath.",
-    "quoteTextEN": "The equipoised tidal rhythm asks travelers to trade hurry for steady breath.",
-    "quoteDescription": "Noah Sinclair shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to trade hurry for steady breath.",
-    "author": "Noah Sinclair",
-    "culture": "Tasmanian Boundary Tales",
-    "category": "Balance",
+    "quoteText": "Consider that everything which happens, happens justly, and if thou observest carefully, thou wilt find it to be so.",
+    "quoteTextEN": "Consider that everything which happens, happens justly, and if thou observest carefully, thou wilt find it to be so.",
+    "quoteDescription": "Meditations, Book 4, section 10: A statement of his trust in the order of nature. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "This is Stoic providence at its plainest: what happens is fitting when seen as part of the whole. He offers it as something to verify by careful observation, not as a matter of faith.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "providence",
+      "acceptance",
+      "nature"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 4.10 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "850",
-    "quoteText": "The equipoised tidal rhythm asks travelers to place burdens down between steps.",
-    "quoteTextEN": "The equipoised tidal rhythm asks travelers to place burdens down between steps.",
-    "quoteDescription": "Oksana Hrytsenko shares a balance image where a tidal rhythm becomes a guide toward holding opposites with grace.",
-    "quoteMeaningAnalysis": "It suggests that balance emerges from honoring contrasts and boundaries and urges us to place burdens down between steps.",
-    "author": "Oksana Hrytsenko",
-    "culture": "Kyiv Equilibrium Stories",
-    "category": "Balance",
+    "quoteText": "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure; or, as Agathon+ says, look not round at the depraved morals of others, but run straight along the line without deviating from it.",
+    "quoteTextEN": "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure; or, as Agathon+ says, look not round at the depraved morals of others, but run straight along the line without deviating from it.",
+    "quoteDescription": "Meditations, Book 4, section 18: Advice to attend to his own conduct rather than to his neighbours. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Watching others is presented as a source of trouble that a person can simply decline. The image of running straight along a line, borrowed from Agathon, makes integrity a matter of not looking sideways.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "balance",
-      "harmony",
-      "boundaries"
+      "integrity",
+      "comparison",
+      "focus"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Balance_(ability)",
-      "https://positivepsychology.com/life-balance/"
+      {
+        "title": "Meditations, Book 4.18 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "851",
-    "quoteText": "The restless spring river reminds pilgrims to lean into the wind with trust.",
-    "quoteTextEN": "The restless spring river reminds pilgrims to lean into the wind with trust.",
-    "quoteDescription": "Priyanka Das shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Priyanka Das",
-    "culture": "Bengal Monsoon Teachings",
-    "category": "Change",
+    "quoteText": "Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself.",
+    "quoteTextEN": "Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself.",
+    "quoteDescription": "Meditations, Book 4, section 20: A reflection on praise and the worth of things. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Praise adds nothing to a beautiful thing and blame takes nothing away. He asks whether an emerald becomes worse for not being praised, and the answer covers everything else.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "praise",
+      "beauty",
+      "worth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 4.20 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "852",
-    "quoteText": "The restless spring river reminds pilgrims to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless spring river reminds pilgrims to rewrite maps when bridges move.",
-    "quoteDescription": "Galen Pierce shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Galen Pierce",
-    "culture": "Pacific Tectonic Tales",
-    "category": "Change",
+    "quoteText": "Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil.--But consider if it would not be better to say, Do what is necessary, and whatever the reason of the animal which is naturally social requires, and as it requires. For this brings not only the tranquillity which comes from doing well, but also that which comes from doing few things.",
+    "quoteTextEN": "Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil.--But consider if it would not be better to say, Do what is necessary, and whatever the reason of the animal which is naturally social requires, and as it requires. For this brings not only the tranquillity which comes from doing well, but also that which comes from doing few things.",
+    "quoteDescription": "Meditations, Book 4, section 24: His correction of a maxim of Democritus. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "He accepts the advice to do little but sharpens it to doing only what is necessary for a social being. Tranquillity then comes twice: from acting well and from acting less.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "simplicity",
+      "tranquillity",
+      "essentialism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 4.24 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "853",
-    "quoteText": "The restless spring river reminds pilgrims to trade old armor for supple roots.",
-    "quoteTextEN": "The restless spring river reminds pilgrims to trade old armor for supple roots.",
-    "quoteDescription": "Hawa Mensah shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Hawa Mensah",
-    "culture": "Accra Renewal Stories",
-    "category": "Change",
+    "quoteText": "Everything is only for a day, both that which remembers and that which is remembered.",
+    "quoteTextEN": "Everything is only for a day, both that which remembers and that which is remembered.",
+    "quoteDescription": "Meditations, Book 4, section 35: A short note on the transience of memory and fame. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Both the one who remembers and the thing remembered are temporary, so fame is doubly fragile. Working for posthumous glory means working for an audience that will also vanish.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "transience",
+      "fame",
+      "memory"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 4.35 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "854",
-    "quoteText": "The restless spring river reminds pilgrims to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless spring river reminds pilgrims to carry memory without anchoring fear.",
-    "quoteDescription": "Igor Malinov shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Igor Malinov",
-    "culture": "Baltic Change Chronicles",
-    "category": "Change",
+    "quoteText": "Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.",
+    "quoteTextEN": "Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.",
+    "quoteDescription": "Meditations, Book 4, section 43: An image of the flow of events. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Events are the water of the river, so nothing stays long enough to be held. The image echoes Heraclitus, whom Marcus read closely.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
+      "time",
       "change",
-      "transformation",
-      "growth"
+      "Heraclitus"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 4.43 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "855",
-    "quoteText": "The restless spring river reminds pilgrims to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless spring river reminds pilgrims to honor grief while welcoming horizon.",
-    "quoteDescription": "Jolie Baptiste shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Jolie Baptiste",
-    "culture": "Creole Transformation Songs",
-    "category": "Change",
+    "quoteText": "Pass then through this little space of time conformably to nature, and end thy journey in content, as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
+    "quoteTextEN": "Pass then through this little space of time conformably to nature, and end thy journey in content, as an olive falls off when it is ripe, blessing nature who produced it, and thanking the tree on which it grew.",
+    "quoteDescription": "Meditations, Book 4, section 48: The close of a passage on the deaths of the great. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The ripe olive that falls with gratitude is his model for a good death: timely, natural and thankful. It turns the end of life from a loss into a completion.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "death",
+      "gratitude",
+      "nature"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 4.48 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "856",
-    "quoteText": "The restless spring river reminds pilgrims to step across thresholds with open palms.",
-    "quoteTextEN": "The restless spring river reminds pilgrims to step across thresholds with open palms.",
-    "quoteDescription": "Khalid Mansoor shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Khalid Mansoor",
-    "culture": "Desert Renewal Reflections",
-    "category": "Change",
+    "quoteText": "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.",
+    "quoteTextEN": "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.",
+    "quoteDescription": "Meditations, Book 4, section 49: A self-instruction for meeting misfortune. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The rock does not stop the waves from coming; it simply does not move, and the water calms around it. Misfortune borne nobly, he goes on to say, is good fortune.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "resilience",
+      "adversity",
+      "steadfastness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 4.49 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "857",
-    "quoteText": "The restless spring river asks innovators to lean into the wind with trust.",
-    "quoteTextEN": "The restless spring river asks innovators to lean into the wind with trust.",
-    "quoteDescription": "Lilian Adebayo shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Lilian Adebayo",
-    "culture": "Lagos Transition Forum",
-    "category": "Change",
+    "quoteText": "In the morning when thou risest unwillingly, let this thought be present,--I am rising to the work of a human being.",
+    "quoteTextEN": "In the morning when thou risest unwillingly, let this thought be present,--I am rising to the work of a human being.",
+    "quoteDescription": "Meditations, Book 5, section 1: The opening of Book 5, about getting out of bed. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Even an emperor had to argue himself out from under the blankets. He reframes rising as reporting for the work humans exist to do, the way bees and ants do theirs.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "morning",
+      "duty",
+      "motivation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 5.1 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "858",
-    "quoteText": "The restless spring river asks innovators to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless spring river asks innovators to rewrite maps when bridges move.",
-    "quoteDescription": "Marek Novak shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Marek Novak",
-    "culture": "Vistula River Teachings",
-    "category": "Change",
+    "quoteText": "so a man when he has done a good act does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season.",
+    "quoteTextEN": "so a man when he has done a good act does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season.",
+    "quoteDescription": "Meditations, Book 5, section 6: The third and best type of benefactor in his comparison. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The vine does not advertise its grapes; it simply bears fruit again next season. Kindness that asks for an audience is, by comparison, a transaction.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "kindness",
+      "humility",
+      "generosity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 5.6 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "859",
-    "quoteText": "The restless spring river asks innovators to trade old armor for supple roots.",
-    "quoteTextEN": "The restless spring river asks innovators to trade old armor for supple roots.",
-    "quoteDescription": "Naoko Sakamoto shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Naoko Sakamoto",
-    "culture": "Tokyo Renewal Notes",
-    "category": "Change",
+    "quoteText": "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature, and love this to which thou returnest;",
+    "quoteTextEN": "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature, and love this to which thou returnest;",
+    "quoteDescription": "Meditations, Book 5, section 9: Advice for when he falls short of his own principles. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Failure is expected; the instruction is to come back to the practice without disgust. He asks only that the greater part of what he does be right, which is a forgiving standard for a perfectionist.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "failure",
+      "persistence",
+      "self-compassion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 5.9 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "860",
-    "quoteText": "The restless spring river asks innovators to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless spring river asks innovators to carry memory without anchoring fear.",
-    "quoteDescription": "Omar Fadel shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Omar Fadel",
-    "culture": "Atlas Shift Narratives",
-    "category": "Change",
+    "quoteText": "In this flowing stream then, on which there is no abiding, what is there of the things which hurry by on which a man would set a high price?",
+    "quoteTextEN": "In this flowing stream then, on which there is no abiding, what is there of the things which hurry by on which a man would set a high price?",
+    "quoteDescription": "Meditations, Book 6, section 15: A question about valuing things that pass. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "If everything is rushing by, prizing any single passing thing is like falling in love with a sparrow in flight, as he goes on to say. The question answers itself.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "impermanence",
+      "value",
+      "attachment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 6.15 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "861",
-    "quoteText": "The restless spring river asks innovators to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless spring river asks innovators to honor grief while welcoming horizon.",
-    "quoteDescription": "Priyanka Das shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Priyanka Das",
-    "culture": "Bengal Monsoon Teachings",
-    "category": "Change",
+    "quoteText": "If a thing is difficult to be accomplished by thyself, do not think that it is impossible for man: but if anything is possible for man and conformable to his nature, think that this can be attained by thyself too.",
+    "quoteTextEN": "If a thing is difficult to be accomplished by thyself, do not think that it is impossible for man: but if anything is possible for man and conformable to his nature, think that this can be attained by thyself too.",
+    "quoteDescription": "Meditations, Book 6, section 19: Encouragement against self-doubt. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "He separates what is hard for him from what is impossible for humans, and refuses to let the first stand in for the second. If anyone could do it, so can he.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "self-belief",
+      "difficulty",
+      "possibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 6.19 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "862",
-    "quoteText": "The restless spring river asks innovators to step across thresholds with open palms.",
-    "quoteTextEN": "The restless spring river asks innovators to step across thresholds with open palms.",
-    "quoteDescription": "Galen Pierce shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Galen Pierce",
-    "culture": "Pacific Tectonic Tales",
-    "category": "Change",
+    "quoteText": "If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth, by which no man was ever injured. But he is injured who abides in his error and ignorance.",
+    "quoteTextEN": "If any man is able to convince me and show me that I do not think or act right, I will gladly change; for I seek the truth, by which no man was ever injured. But he is injured who abides in his error and ignorance.",
+    "quoteDescription": "Meditations, Book 6, section 21: His stance on being corrected. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Changing his mind is treated as a gain because the truth never injured anyone. The harm is in staying wrong, which makes stubbornness the real loss.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "truth",
+      "open-mindedness",
+      "correction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 6.21 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "863",
-    "quoteText": "The restless spring river encourages villages to lean into the wind with trust.",
-    "quoteTextEN": "The restless spring river encourages villages to lean into the wind with trust.",
-    "quoteDescription": "Hawa Mensah shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Hawa Mensah",
-    "culture": "Accra Renewal Stories",
-    "category": "Change",
+    "quoteText": "That which is not good for the swarm, neither is it good for the bee.",
+    "quoteTextEN": "That which is not good for the swarm, neither is it good for the bee.",
+    "quoteDescription": "Meditations, Book 6, section 54: A one-line statement of the common good. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The individual interest and the interest of the whole are tied together. What harms the community cannot truly benefit its member.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "common good",
+      "community",
+      "society"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 6.54 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "864",
-    "quoteText": "The restless spring river encourages villages to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless spring river encourages villages to rewrite maps when bridges move.",
-    "quoteDescription": "Igor Malinov shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Igor Malinov",
-    "culture": "Baltic Change Chronicles",
-    "category": "Change",
+    "quoteText": "Let not future things disturb thee, for thou wilt come to them, if it shall be necessary, having with thee the same reason which now thou usest for present things.",
+    "quoteTextEN": "Let not future things disturb thee, for thou wilt come to them, if it shall be necessary, having with thee the same reason which now thou usest for present things.",
+    "quoteDescription": "Meditations, Book 7, section 8: Advice on anxiety about what lies ahead. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The reason he uses today will still be his when the future arrives, so the future does not need to be met now. Worry borrows trouble before the tools to handle it are needed.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "anxiety",
+      "future",
+      "reason"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 7.8 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "865",
-    "quoteText": "The restless spring river encourages villages to trade old armor for supple roots.",
-    "quoteTextEN": "The restless spring river encourages villages to trade old armor for supple roots.",
-    "quoteDescription": "Jolie Baptiste shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Jolie Baptiste",
-    "culture": "Creole Transformation Songs",
-    "category": "Change",
+    "quoteText": "It is peculiar to man to love even those who do wrong.",
+    "quoteTextEN": "It is peculiar to man to love even those who do wrong.",
+    "quoteDescription": "Meditations, Book 7, section 22: On loving those who wrong us. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "He grounds this in kinship and in the observation that wrongdoers act from ignorance. They have not harmed his ruling faculty, so they have not harmed him.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "love",
+      "forgiveness",
+      "kinship"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 7.22 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "866",
-    "quoteText": "The restless spring river encourages villages to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless spring river encourages villages to carry memory without anchoring fear.",
-    "quoteDescription": "Khalid Mansoor shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Khalid Mansoor",
-    "culture": "Desert Renewal Reflections",
-    "category": "Change",
+    "quoteText": "The art of life is more like the wrestler's art than the dancer's, in respect of this, that it should stand ready and firm to meet onsets which are sudden and unexpected.",
+    "quoteTextEN": "The art of life is more like the wrestler's art than the dancer's, in respect of this, that it should stand ready and firm to meet onsets which are sudden and unexpected.",
+    "quoteDescription": "Meditations, Book 7, section 61: A comparison between two arts. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "A dancer performs choreography; a wrestler meets attacks he did not plan for. Life demands the second kind of readiness, with feet set and balance kept.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "readiness",
+      "adversity",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 7.61 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "867",
-    "quoteText": "The restless spring river encourages villages to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless spring river encourages villages to honor grief while welcoming horizon.",
-    "quoteDescription": "Lilian Adebayo shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Lilian Adebayo",
-    "culture": "Lagos Transition Forum",
-    "category": "Change",
+    "quoteText": "The perfection of moral character consists in this, in passing every day as the last, and in being neither violently excited nor torpid nor playing the hypocrite.",
+    "quoteTextEN": "The perfection of moral character consists in this, in passing every day as the last, and in being neither violently excited nor torpid nor playing the hypocrite.",
+    "quoteDescription": "Meditations, Book 7, section 69: A definition of moral perfection. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Living each day as the last is paired with steadiness: no frenzy, no torpor, no pretence. The urgency is meant to sharpen sincerity, not to produce panic.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "character",
+      "urgency",
+      "sincerity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 7.69 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "868",
-    "quoteText": "The restless spring river encourages villages to step across thresholds with open palms.",
-    "quoteTextEN": "The restless spring river encourages villages to step across thresholds with open palms.",
-    "quoteDescription": "Marek Novak shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Marek Novak",
-    "culture": "Vistula River Teachings",
-    "category": "Change",
+    "quoteText": "Do not disturb thyself by thinking of the whole of thy life.",
+    "quoteTextEN": "Do not disturb thyself by thinking of the whole of thy life.",
+    "quoteDescription": "Meditations, Book 8, section 36: A method for bearing hardship. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Piled together, a lifetime of troubles is unbearable; taken one at a time, each is manageable. He asks of each present difficulty what in it is actually too much to bear.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "hardship",
+      "present moment",
+      "anxiety"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 8.36 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "869",
-    "quoteText": "The restless spring river teaches seekers to lean into the wind with trust.",
-    "quoteTextEN": "The restless spring river teaches seekers to lean into the wind with trust.",
-    "quoteDescription": "Naoko Sakamoto shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Naoko Sakamoto",
-    "culture": "Tokyo Renewal Notes",
-    "category": "Change",
+    "quoteText": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it.",
+    "quoteTextEN": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it.",
+    "quoteDescription": "Meditations, Book 8, section 47: A statement of the Stoic theory of judgment. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Pain comes from the verdict passed on the event, and the verdict is within his power to revise. He adds that it can be wiped out at once.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "judgment",
+      "perception",
+      "control"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 8.47 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "870",
-    "quoteText": "The restless spring river teaches seekers to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless spring river teaches seekers to rewrite maps when bridges move.",
-    "quoteDescription": "Omar Fadel shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Omar Fadel",
-    "culture": "Atlas Shift Narratives",
-    "category": "Change",
+    "quoteText": "Men exist for the sake of one another. Teach them then, or bear with them.",
+    "quoteTextEN": "Men exist for the sake of one another. Teach them then, or bear with them.",
+    "quoteDescription": "Meditations, Book 8, section 59: A two-sentence rule for dealing with difficult people. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "People are made for each other, so the only choices are to teach them or to put up with them. Withdrawing or retaliating are not on his list.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "people",
+      "patience",
+      "teaching"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 8.59 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "871",
-    "quoteText": "The restless spring river teaches seekers to trade old armor for supple roots.",
-    "quoteTextEN": "The restless spring river teaches seekers to trade old armor for supple roots.",
-    "quoteDescription": "Priyanka Das shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Priyanka Das",
-    "culture": "Bengal Monsoon Teachings",
-    "category": "Change",
+    "quoteText": "He who does wrong does wrong against himself.",
+    "quoteTextEN": "He who does wrong does wrong against himself.",
+    "quoteDescription": "Meditations, Book 9, section 4: A short remark on injustice. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "The wrongdoer is the first casualty of his own act because he damages his character. This shifts the victim of wrongdoing to the person who commits it.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "justice",
+      "wrongdoing",
+      "character"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 9.4 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "872",
-    "quoteText": "The restless spring river teaches seekers to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless spring river teaches seekers to carry memory without anchoring fear.",
-    "quoteDescription": "Galen Pierce shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Galen Pierce",
-    "culture": "Pacific Tectonic Tales",
-    "category": "Change",
+    "quoteText": "He often acts unjustly who does not do a certain thing; not only he who does a certain thing.",
+    "quoteTextEN": "He often acts unjustly who does not do a certain thing; not only he who does a certain thing.",
+    "quoteDescription": "Meditations, Book 9, section 5: A note on injustice by omission. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Failing to act can be as unjust as acting badly. The line widens moral responsibility to cover the help not given.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "omission",
+      "justice",
+      "responsibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 9.5 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "873",
-    "quoteText": "The restless spring river teaches seekers to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless spring river teaches seekers to honor grief while welcoming horizon.",
-    "quoteDescription": "Hawa Mensah shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Hawa Mensah",
-    "culture": "Accra Renewal Stories",
-    "category": "Change",
+    "quoteText": "When thou art offended with any man's shameless conduct, immediately ask thyself, Is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible. For this man also is one of those shameless men who must of necessity be in the world.",
+    "quoteTextEN": "When thou art offended with any man's shameless conduct, immediately ask thyself, Is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible. For this man also is one of those shameless men who must of necessity be in the world.",
+    "quoteDescription": "Meditations, Book 9, section 42: The opening of his advice on dealing with shameless people. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Asking whether a world without shameless people is possible turns outrage into realism. Expecting them makes their conduct an ordinary fact, not a personal insult.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "expectations",
+      "anger",
+      "people"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 9.42 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "874",
-    "quoteText": "The restless spring river teaches seekers to step across thresholds with open palms.",
-    "quoteTextEN": "The restless spring river teaches seekers to step across thresholds with open palms.",
-    "quoteDescription": "Igor Malinov shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Igor Malinov",
-    "culture": "Baltic Change Chronicles",
-    "category": "Change",
+    "quoteText": "Wilt thou, then, my soul, never be good and simple and one and naked, more manifest than the body which surrounds thee?",
+    "quoteTextEN": "Wilt thou, then, my soul, never be good and simple and one and naked, more manifest than the body which surrounds thee?",
+    "quoteDescription": "Meditations, Book 10, section 1: The opening of Book 10, addressed to his own soul. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "He speaks to himself as to someone who keeps falling short. The adjectives good, simple, one and naked describe a self with nothing to hide and nothing borrowed.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "soul",
+      "simplicity",
+      "self-examination"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 10.1 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "875",
-    "quoteText": "The restless spring river invites healers to lean into the wind with trust.",
-    "quoteTextEN": "The restless spring river invites healers to lean into the wind with trust.",
-    "quoteDescription": "Jolie Baptiste shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Jolie Baptiste",
-    "culture": "Creole Transformation Songs",
-    "category": "Change",
+    "quoteText": "No longer talk at all about the kind of man that a good man ought to be, but be such.",
+    "quoteTextEN": "No longer talk at all about the kind of man that a good man ought to be, but be such.",
+    "quoteDescription": "Meditations, Book 10, section 16: A rebuke to himself for theorising. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Long translates the command many quote in modern form: stop discussing goodness and practise it. The book is full of such theory, so the line is also self-critical.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "action",
+      "virtue",
+      "practice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 10.16 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "876",
-    "quoteText": "The restless spring river invites healers to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless spring river invites healers to rewrite maps when bridges move.",
-    "quoteDescription": "Khalid Mansoor shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Khalid Mansoor",
-    "culture": "Desert Renewal Reflections",
-    "category": "Change",
+    "quoteText": "consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed",
+    "quoteTextEN": "consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed",
+    "quoteDescription": "Meditations, Book 11, section 18: The eighth of his rules for dealing with people who offend. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Anger hurts the angry person more than the offence did. Counting both costs makes vexation look like a bad trade.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "anger",
+      "pain",
+      "self-harm"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 11.18 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "877",
-    "quoteText": "The restless spring river invites healers to trade old armor for supple roots.",
-    "quoteTextEN": "The restless spring river invites healers to trade old armor for supple roots.",
-    "quoteDescription": "Lilian Adebayo shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Lilian Adebayo",
-    "culture": "Lagos Transition Forum",
-    "category": "Change",
+    "quoteText": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+    "quoteTextEN": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+    "quoteDescription": "Meditations, Book 12, section 4: An observation on self-love and reputation. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "People love themselves above all yet trust their own judgment of themselves less than strangers do. He goes on to note that no one could bear to have their thoughts made public for a single day.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "reputation",
+      "self-worth",
+      "opinion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 12.4 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "878",
-    "quoteText": "The restless spring river invites healers to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless spring river invites healers to carry memory without anchoring fear.",
-    "quoteDescription": "Marek Novak shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Marek Novak",
-    "culture": "Vistula River Teachings",
-    "category": "Change",
+    "quoteText": "If it is not right, do not do it: if it is not true, do not say it.",
+    "quoteTextEN": "If it is not right, do not do it: if it is not true, do not say it.",
+    "quoteDescription": "Meditations, Book 12, section 17: A two-part rule from the last book. Written in Greek as private notes (c. 170-180 AD), George Long translation (1862).",
+    "quoteMeaningAnalysis": "Action is tested by rightness and speech by truth, and nothing more complicated is needed. It is one of the shortest ethical systems ever written down.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "ethics",
+      "honesty",
+      "conduct"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "Meditations, Book 12.17 (Long trans.)",
+        "url": "https://www.gutenberg.org/ebooks/15877"
+      }
     ]
   },
   {
     "id": "879",
-    "quoteText": "The restless spring river invites healers to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless spring river invites healers to honor grief while welcoming horizon.",
-    "quoteDescription": "Naoko Sakamoto shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Naoko Sakamoto",
-    "culture": "Tokyo Renewal Notes",
-    "category": "Change",
+    "quoteText": "It is difficult to realise the true Way just through sword-fencing. Know the smallest things and the biggest things, the shallowest things and the deepest things.",
+    "quoteTextEN": "It is difficult to realise the true Way just through sword-fencing. Know the smallest things and the biggest things, the shallowest things and the deepest things.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Sword skill alone does not reveal the Way; the range from smallest to biggest must be known. Musashi asks for breadth before depth.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "breadth",
+      "learning",
+      "mastery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "880",
-    "quoteText": "The restless spring river invites healers to step across thresholds with open palms.",
-    "quoteTextEN": "The restless spring river invites healers to step across thresholds with open palms.",
-    "quoteDescription": "Omar Fadel shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Omar Fadel",
-    "culture": "Atlas Shift Narratives",
-    "category": "Change",
+    "quoteText": "With water as the basis, the spirit becomes like water. Water adopts the shape of its receptacle, it is sometimes a trickle and sometimes a wild sea.",
+    "quoteTextEN": "With water as the basis, the spirit becomes like water. Water adopts the shape of its receptacle, it is sometimes a trickle and sometimes a wild sea.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Water takes the shape of whatever holds it, so the water-spirit adapts without losing itself. The same substance can be a trickle or a storm.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "adaptability",
+      "water",
+      "spirit"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "881",
-    "quoteText": "The restless spring river whispers to builders to lean into the wind with trust.",
-    "quoteTextEN": "The restless spring river whispers to builders to lean into the wind with trust.",
-    "quoteDescription": "Priyanka Das shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Priyanka Das",
-    "culture": "Bengal Monsoon Teachings",
-    "category": "Change",
+    "quoteText": "The spirit of fire is fierce, whether the fire be small or big; and so it is with battles. The Way of battles is the same for man to man fights and for ten thousand a side battles.",
+    "quoteTextEN": "The spirit of fire is fierce, whether the fire be small or big; and so it is with battles. The Way of battles is the same for man to man fights and for ten thousand a side battles.",
+    "quoteDescription": "From the Fire Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Fire burns the same whether small or large, and Musashi claims combat works the same way. Single combat and mass battle share one set of principles.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "scale",
+      "fire",
+      "battle"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Fire (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "882",
-    "quoteText": "The restless spring river whispers to builders to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless spring river whispers to builders to rewrite maps when bridges move.",
-    "quoteDescription": "Galen Pierce shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Galen Pierce",
-    "culture": "Pacific Tectonic Tales",
-    "category": "Change",
+    "quoteText": "It is difficult to know yourself if you do not know others. To all Ways there are side-tracks. If you study a Way daily, and your spirit diverges, you may think you are obeying a good way, but objectively it is not the true Way. If you are following the true Way and diverge a little, this will later become a large divergence. You must realise this.",
+    "quoteTextEN": "It is difficult to know yourself if you do not know others. To all Ways there are side-tracks. If you study a Way daily, and your spirit diverges, you may think you are obeying a good way, but objectively it is not the true Way. If you are following the true Way and diverge a little, this will later become a large divergence. You must realise this.",
+    "quoteDescription": "From the Wind Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Studying other schools is a way of seeing one's own clearly. The warning about small divergences becoming large ones applies to any discipline practised daily.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "self-knowledge",
+      "divergence",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Wind (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "883",
-    "quoteText": "The restless spring river whispers to builders to trade old armor for supple roots.",
-    "quoteTextEN": "The restless spring river whispers to builders to trade old armor for supple roots.",
-    "quoteDescription": "Hawa Mensah shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Hawa Mensah",
-    "culture": "Accra Renewal Stories",
-    "category": "Change",
+    "quoteText": "The Way of strategy is the Way of nature. When you appreciate the power of nature, knowing the rhythm of any situation, you will be able to hit the enemy naturally and strike naturally.",
+    "quoteTextEN": "The Way of strategy is the Way of nature. When you appreciate the power of nature, knowing the rhythm of any situation, you will be able to hit the enemy naturally and strike naturally.",
+    "quoteDescription": "From the Void Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Rhythm, not force, lets the strike come naturally. Mastery is described as alignment with the situation rather than effort against it.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "nature",
+      "rhythm",
+      "void"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Void (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "884",
-    "quoteText": "The restless spring river whispers to builders to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless spring river whispers to builders to carry memory without anchoring fear.",
-    "quoteDescription": "Igor Malinov shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Igor Malinov",
-    "culture": "Baltic Change Chronicles",
-    "category": "Change",
+    "quoteText": "After that I studied morning and evening searching for the principle, and came to realise the Way of strategy when I was fifty.",
+    "quoteTextEN": "After that I studied morning and evening searching for the principle, and came to realise the Way of strategy when I was fifty.",
+    "quoteDescription": "From the Introduction to Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "By his own account his more than sixty early duels had not taught him strategy, so he spent twenty more years on principle. The admission makes mastery a late, deliberate achievement.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "mastery",
+      "persistence",
+      "study"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Introduction (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "885",
-    "quoteText": "The restless spring river whispers to builders to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless spring river whispers to builders to honor grief while welcoming horizon.",
-    "quoteDescription": "Jolie Baptiste shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Jolie Baptiste",
-    "culture": "Creole Transformation Songs",
-    "category": "Change",
+    "quoteText": "Since then I have lived without following any particular Way. Thus with the virtue of strategy I practise many arts and abilities — all things with no teacher.",
+    "quoteTextEN": "Since then I have lived without following any particular Way. Thus with the virtue of strategy I practise many arts and abilities — all things with no teacher.",
+    "quoteDescription": "From the Introduction to Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Once the principle was grasped, it transferred to painting, calligraphy and other arts without instruction. Musashi treats deep understanding of one Way as a key to the others.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "transfer",
+      "self-teaching",
+      "arts"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Introduction (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "886",
-    "quoteText": "The restless spring river whispers to builders to step across thresholds with open palms.",
-    "quoteTextEN": "The restless spring river whispers to builders to step across thresholds with open palms.",
-    "quoteDescription": "Khalid Mansoor shares a change image where a spring river becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Khalid Mansoor",
-    "culture": "Desert Renewal Reflections",
-    "category": "Change",
+    "quoteText": "Strategy is the craft of the warrior.",
+    "quoteTextEN": "Strategy is the craft of the warrior.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The opening definition of the Ground Book. Strategy is called a craft, something made and practised, not a gift.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "strategy",
+      "craft",
+      "warrior"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "887",
-    "quoteText": "The restless autumn lantern reminds pilgrims to lean into the wind with trust.",
-    "quoteTextEN": "The restless autumn lantern reminds pilgrims to lean into the wind with trust.",
-    "quoteDescription": "Lilian Adebayo shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Lilian Adebayo",
-    "culture": "Lagos Transition Forum",
-    "category": "Change",
+    "quoteText": "It is said the warrior's is the twofold Way of pen and sword, and he should have a taste for both Ways.",
+    "quoteTextEN": "It is said the warrior's is the twofold Way of pen and sword, and he should have a taste for both Ways.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Pen and sword are held as equal disciplines. The samurai ideal Musashi describes includes letters and art as well as fighting.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "balance",
+      "pen and sword",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "888",
-    "quoteText": "The restless autumn lantern reminds pilgrims to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless autumn lantern reminds pilgrims to rewrite maps when bridges move.",
-    "quoteDescription": "Marek Novak shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Marek Novak",
-    "culture": "Vistula River Teachings",
-    "category": "Change",
+    "quoteText": "Generally speaking, the Way of the warrior is resolute acceptance of death.",
+    "quoteTextEN": "Generally speaking, the Way of the warrior is resolute acceptance of death.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "He states the common view and then, in the text, disputes that it belongs only to warriors. Resolve in the face of death is shared by monks, women and peasants, he argues.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "death",
+      "resolve",
+      "warrior"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "889",
-    "quoteText": "The restless autumn lantern reminds pilgrims to trade old armor for supple roots.",
-    "quoteTextEN": "The restless autumn lantern reminds pilgrims to trade old armor for supple roots.",
-    "quoteDescription": "Naoko Sakamoto shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Naoko Sakamoto",
-    "culture": "Tokyo Renewal Notes",
-    "category": "Change",
+    "quoteText": "There is no fast way of wielding the long sword.",
+    "quoteTextEN": "There is no fast way of wielding the long sword.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Rushing the long sword ruins its path. The point anticipates his later attack on speed as a goal.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "speed",
+      "patience",
+      "technique"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "890",
-    "quoteText": "The restless autumn lantern reminds pilgrims to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless autumn lantern reminds pilgrims to carry memory without anchoring fear.",
-    "quoteDescription": "Omar Fadel shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Omar Fadel",
-    "culture": "Atlas Shift Narratives",
-    "category": "Change",
+    "quoteText": "From one thing, know ten thousand things.",
+    "quoteTextEN": "From one thing, know ten thousand things.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "One principle understood deeply opens many applications. It is his compressed theory of learning.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "principles",
+      "learning",
+      "insight"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "891",
-    "quoteText": "The restless autumn lantern reminds pilgrims to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless autumn lantern reminds pilgrims to honor grief while welcoming horizon.",
-    "quoteDescription": "Priyanka Das shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Priyanka Das",
-    "culture": "Bengal Monsoon Teachings",
-    "category": "Change",
+    "quoteText": "There is timing in everything.",
+    "quoteTextEN": "There is timing in everything.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Timing is the theme that runs through all five books. He extends it beyond combat to every pursuit.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "timing",
+      "rhythm",
+      "life"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "892",
-    "quoteText": "The restless autumn lantern reminds pilgrims to step across thresholds with open palms.",
-    "quoteTextEN": "The restless autumn lantern reminds pilgrims to step across thresholds with open palms.",
-    "quoteDescription": "Galen Pierce shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Galen Pierce",
-    "culture": "Pacific Tectonic Tales",
-    "category": "Change",
+    "quoteText": "There is timing in the whole life of the warrior, in his thriving and declining, in his harmony and discord. Similarly, there is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising and falling timing. You must be able to discern this.",
+    "quoteTextEN": "There is timing in the whole life of the warrior, in his thriving and declining, in his harmony and discord. Similarly, there is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising and falling timing. You must be able to discern this.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Musashi applies rhythm to careers and to the merchant's capital as well as to battle. Knowing when things rise and fall is a skill to be trained.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "timing",
+      "business",
+      "cycles"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "893",
-    "quoteText": "The restless autumn lantern asks innovators to lean into the wind with trust.",
-    "quoteTextEN": "The restless autumn lantern asks innovators to lean into the wind with trust.",
-    "quoteDescription": "Hawa Mensah shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Hawa Mensah",
-    "culture": "Accra Renewal Stories",
-    "category": "Change",
+    "quoteText": "If you do not look at things on a large scale it will be difficult for you to master strategy.",
+    "quoteTextEN": "If you do not look at things on a large scale it will be difficult for you to master strategy.",
+    "quoteDescription": "From the Ground Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Large-scale perspective is a prerequisite, not a luxury. Without it, technique stays small.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "perspective",
+      "scale",
+      "strategy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Ground (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "894",
-    "quoteText": "The restless autumn lantern asks innovators to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless autumn lantern asks innovators to rewrite maps when bridges move.",
-    "quoteDescription": "Igor Malinov shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Igor Malinov",
-    "culture": "Baltic Change Chronicles",
-    "category": "Change",
+    "quoteText": "Language does not extend to explaining the Way in detail, but it can be grasped intuitively. Study this book; read a word then ponder on it. If you interpret the meaning loosely you will mistake the Way.",
+    "quoteTextEN": "Language does not extend to explaining the Way in detail, but it can be grasped intuitively. Study this book; read a word then ponder on it. If you interpret the meaning loosely you will mistake the Way.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Writing can only point at the Way. He asks readers to read a word and then ponder it, refusing the loose reading.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "reading",
+      "intuition",
+      "language"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "895",
-    "quoteText": "The restless autumn lantern asks innovators to trade old armor for supple roots.",
-    "quoteTextEN": "The restless autumn lantern asks innovators to trade old armor for supple roots.",
-    "quoteDescription": "Jolie Baptiste shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to trade old armor for supple roots.",
-    "author": "Jolie Baptiste",
-    "culture": "Creole Transformation Songs",
-    "category": "Change",
+    "quoteText": "If you merely read this book you will not reach the Way of strategy. Absorb the things written in this book.",
+    "quoteTextEN": "If you merely read this book you will not reach the Way of strategy. Absorb the things written in this book.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Reading is not the same as absorbing. The book is a training manual, not a text to be finished.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "practice",
+      "absorption",
+      "study"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "896",
-    "quoteText": "The restless autumn lantern asks innovators to carry memory without anchoring fear.",
-    "quoteTextEN": "The restless autumn lantern asks innovators to carry memory without anchoring fear.",
-    "quoteDescription": "Khalid Mansoor shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to carry memory without anchoring fear.",
-    "author": "Khalid Mansoor",
-    "culture": "Desert Renewal Reflections",
-    "category": "Change",
+    "quoteText": "In strategy your spiritual bearing must not be any different from normal. Both in fighting and in everyday life you should be determined though calm.",
+    "quoteTextEN": "In strategy your spiritual bearing must not be any different from normal. Both in fighting and in everyday life you should be determined though calm.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Combat mind and everyday mind should be the same state. Calm determination is meant to be a constant, not a special mode.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "calm",
+      "composure",
+      "everyday"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "897",
-    "quoteText": "The restless autumn lantern asks innovators to honor grief while welcoming horizon.",
-    "quoteTextEN": "The restless autumn lantern asks innovators to honor grief while welcoming horizon.",
-    "quoteDescription": "Lilian Adebayo shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to honor grief while welcoming horizon.",
-    "author": "Lilian Adebayo",
-    "culture": "Lagos Transition Forum",
-    "category": "Change",
+    "quoteText": "Be neither insufficiently spirited nor over spirited. An elevated spirit is weak and a low spirit is weak. Do not let the enemy see your spirit.",
+    "quoteTextEN": "Be neither insufficiently spirited nor over spirited. An elevated spirit is weak and a low spirit is weak. Do not let the enemy see your spirit.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Both high and low spirit are weaknesses, and either can be read by an opponent. Musashi wants a level, hidden spirit.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "balance",
+      "spirit",
+      "concealment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "898",
-    "quoteText": "The restless autumn lantern asks innovators to step across thresholds with open palms.",
-    "quoteTextEN": "The restless autumn lantern asks innovators to step across thresholds with open palms.",
-    "quoteDescription": "Marek Novak shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to step across thresholds with open palms.",
-    "author": "Marek Novak",
-    "culture": "Vistula River Teachings",
-    "category": "Change",
+    "quoteText": "In all forms of strategy, it is necessary to maintain the combat stance in everyday life and to make your everyday stance your combat stance. You must research this well.",
+    "quoteTextEN": "In all forms of strategy, it is necessary to maintain the combat stance in everyday life and to make your everyday stance your combat stance. You must research this well.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The combat stance and the everyday stance should be one. Readiness becomes a habit of ordinary life.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "readiness",
+      "habit",
+      "stance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "899",
-    "quoteText": "The restless autumn lantern encourages villages to lean into the wind with trust.",
-    "quoteTextEN": "The restless autumn lantern encourages villages to lean into the wind with trust.",
-    "quoteDescription": "Naoko Sakamoto shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to lean into the wind with trust.",
-    "author": "Naoko Sakamoto",
-    "culture": "Tokyo Renewal Notes",
-    "category": "Change",
+    "quoteText": "In strategy it is important to see distant things as if they were close and to take a distanced view of close things.",
+    "quoteTextEN": "In strategy it is important to see distant things as if they were close and to take a distanced view of close things.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The gaze reverses ordinary vision: far things seen near, near things seen from a distance. It guards against being absorbed by the opponent's blade.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "perspective",
+      "perception",
+      "gaze"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "900",
-    "quoteText": "The restless autumn lantern encourages villages to rewrite maps when bridges move.",
-    "quoteTextEN": "The restless autumn lantern encourages villages to rewrite maps when bridges move.",
-    "quoteDescription": "Omar Fadel shares a change image where a autumn lantern becomes a guide toward embracing transitions with curiosity.",
-    "quoteMeaningAnalysis": "It suggests that change invites us to transform with intention rather than fear and urges us to rewrite maps when bridges move.",
-    "author": "Omar Fadel",
-    "culture": "Atlas Shift Narratives",
-    "category": "Change",
+    "quoteText": "Generally, I dislike fixedness in both long swords and hands. Fixedness means a dead hand. Pliability is a living hand. You must bear this in mind.",
+    "quoteTextEN": "Generally, I dislike fixedness in both long swords and hands. Fixedness means a dead hand. Pliability is a living hand. You must bear this in mind.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Fixedness is equated with death and pliability with life. The principle covers grip, stance and mind alike.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "change",
-      "transformation",
-      "growth"
+      "flexibility",
+      "fixedness",
+      "adaptability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Change_management",
-      "https://hbr.org/2012/09/ten-reasons-people-resist-change"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "901",
-    "quoteText": "The quiet lantern wick reminds neighbors to carry light pockets for others.",
-    "quoteTextEN": "The quiet lantern wick reminds neighbors to carry light pockets for others.",
-    "quoteDescription": "Asha Pillai shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Asha Pillai",
-    "culture": "Kerala Hope Lessons",
-    "category": "Hope",
+    "quoteText": "If you try to wield the long sword quickly you will mistake the Way. To wield the long sword well you must wield it calmly.",
+    "quoteTextEN": "If you try to wield the long sword quickly you will mistake the Way. To wield the long sword well you must wield it calmly.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Speed breaks the sword's path; calm keeps it. The paradox is that the calmer cut arrives better.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "calm",
+      "speed",
+      "technique"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "902",
-    "quoteText": "The quiet lantern wick reminds neighbors to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet lantern wick reminds neighbors to sing until the dark forgets itself.",
-    "quoteDescription": "Balamani Devi shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Balamani Devi",
-    "culture": "Tamil Dawn Songs",
-    "category": "Hope",
+    "quoteText": "Fixed formation is bad. Study this well.",
+    "quoteTextEN": "Fixed formation is bad. Study this well.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Seven words carry his objection to rigid patterns. A formation that cannot change becomes predictable.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "rigidity",
+      "formation",
+      "adaptability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "903",
-    "quoteText": "The quiet lantern wick reminds neighbors to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet lantern wick reminds neighbors to plant tomorrow in resting soil.",
-    "quoteDescription": "Chloe Martin shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Chloe Martin",
-    "culture": "Nova Scotia Lighthouse Tales",
-    "category": "Hope",
+    "quoteText": "Step by step walk the thousand-mile road.",
+    "quoteTextEN": "Step by step walk the thousand-mile road.",
+    "quoteDescription": "From the Water Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Mastery is described as a long road walked one step at a time. No shortcut is offered.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "patience",
+      "progress",
+      "practice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Water (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "904",
-    "quoteText": "The quiet lantern wick reminds neighbors to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet lantern wick reminds neighbors to fold promises into the winter coat.",
-    "quoteDescription": "Dmitri Sokolov shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Dmitri Sokolov",
-    "culture": "Siberian Aurora Notes",
-    "category": "Hope",
+    "quoteText": "Everything can collapse. Houses, bodies, and enemies collapse when their rhythm becomes deranged. In large-scale strategy, when the enemy starts to collapse you must pursue him without letting the chance go. If you fail to take advantage of your enemies' collapse, they may recover.",
+    "quoteTextEN": "Everything can collapse. Houses, bodies, and enemies collapse when their rhythm becomes deranged. In large-scale strategy, when the enemy starts to collapse you must pursue him without letting the chance go. If you fail to take advantage of your enemies' collapse, they may recover.",
+    "quoteDescription": "From the Fire Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Houses, bodies and armies fall when their rhythm breaks. The duty is to press the moment the collapse begins, before recovery.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "collapse",
+      "rhythm",
+      "pursuit"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Fire (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "905",
-    "quoteText": "The quiet lantern wick reminds neighbors to watch horizons even in rain.",
-    "quoteTextEN": "The quiet lantern wick reminds neighbors to watch horizons even in rain.",
-    "quoteDescription": "Elsie Ncube shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Elsie Ncube",
-    "culture": "Zimbabwean Hope Teachings",
-    "category": "Hope",
+    "quoteText": "The \"mountain-sea\" spirit means that it is bad to repeat the same thing several times when fighting the enemy. There may be no help but to do something twice, but do not try it a third time.",
+    "quoteTextEN": "The \"mountain-sea\" spirit means that it is bad to repeat the same thing several times when fighting the enemy. There may be no help but to do something twice, but do not try it a third time.",
+    "quoteDescription": "From the Fire Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Repeating a failed move invites the opponent to read it. Twice may be unavoidable; a third time is a mistake.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "repetition",
+      "variation",
+      "tactics"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Fire (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "906",
-    "quoteText": "The quiet lantern wick reminds neighbors to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet lantern wick reminds neighbors to gather stories that keep hearts awake.",
-    "quoteDescription": "Fatou Jallow shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Fatou Jallow",
-    "culture": "Gambian River Stories",
-    "category": "Hope",
+    "quoteText": "\"To renew\" applies when we are fighting with the enemy, and an entangled spirit arises where there is no possible resolution. We must abandon our efforts, think of the situation in a fresh spirit then win in the new rhythm.",
+    "quoteTextEN": "\"To renew\" applies when we are fighting with the enemy, and an entangled spirit arises where there is no possible resolution. We must abandon our efforts, think of the situation in a fresh spirit then win in the new rhythm.",
+    "quoteDescription": "From the Fire Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "When a struggle deadlocks, the answer is to abandon the effort and start fresh in a new rhythm. It is his remedy for stalemate.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "renewal",
+      "stalemate",
+      "fresh start"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Fire (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "907",
-    "quoteText": "The quiet lantern wick asks survivors to carry light pockets for others.",
-    "quoteTextEN": "The quiet lantern wick asks survivors to carry light pockets for others.",
-    "quoteDescription": "Gurpreet Singh shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Gurpreet Singh",
-    "culture": "Punjab Hope Traditions",
-    "category": "Hope",
+    "quoteText": "When you have mastered the Way of strategy you can suddenly make your body like a rock, and ten thousand things cannot touch you. This is the body of a rock. You will not be moved.",
+    "quoteTextEN": "When you have mastered the Way of strategy you can suddenly make your body like a rock, and ten thousand things cannot touch you. This is the body of a rock. You will not be moved.",
+    "quoteDescription": "From the Fire Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The \"body of a rock\" is mastery that nothing can disturb. It is presented as a result of training, not of temperament.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "steadiness",
+      "mastery",
+      "calm"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Fire (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "908",
-    "quoteText": "The quiet lantern wick asks survivors to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet lantern wick asks survivors to sing until the dark forgets itself.",
-    "quoteDescription": "Hikari Ito shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Hikari Ito",
-    "culture": "Hokkaido Dawn Lore",
-    "category": "Hope",
+    "quoteText": "In my doctrine, I dislike preconceived, narrow spirit. You must study this well.",
+    "quoteTextEN": "In my doctrine, I dislike preconceived, narrow spirit. You must study this well.",
+    "quoteDescription": "From the Wind Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "His criticism of long-sword schools becomes a general rule against narrow preference. A fixed taste in weapons is a fixed mind.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "open-mindedness",
+      "preference",
+      "doctrine"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Wind (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "909",
-    "quoteText": "The quiet lantern wick asks survivors to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet lantern wick asks survivors to plant tomorrow in resting soil.",
-    "quoteDescription": "Isidro Molina shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Isidro Molina",
-    "culture": "Manila Bay Sunrise Stories",
-    "category": "Hope",
+    "quoteText": "Speed is not part of the true Way of strategy. Speed implies that things seem fast or slow, according to whether or not they are in rhythm. Whatever the Way, the master of strategy does not appear fast.",
+    "quoteTextEN": "Speed is not part of the true Way of strategy. Speed implies that things seem fast or slow, according to whether or not they are in rhythm. Whatever the Way, the master of strategy does not appear fast.",
+    "quoteDescription": "From the Wind Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Speed is relative to rhythm, so the master never looks fast. What matters is being in time.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "speed",
+      "rhythm",
+      "mastery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Wind (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "910",
-    "quoteText": "The quiet lantern wick asks survivors to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet lantern wick asks survivors to fold promises into the winter coat.",
-    "quoteDescription": "Jenna Brooks shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Jenna Brooks",
-    "culture": "Appalachian Hope Almanac",
-    "category": "Hope",
+    "quoteText": "Really skilful people never get out of time, and are always deliberate, and never appear busy. From this example, the principle can be seen.",
+    "quoteTextEN": "Really skilful people never get out of time, and are always deliberate, and never appear busy. From this example, the principle can be seen.",
+    "quoteDescription": "From the Wind Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Skill appears as deliberateness. The expert never looks busy, even when working quickly.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "skill",
+      "deliberateness",
+      "composure"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Wind (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "911",
-    "quoteText": "The quiet lantern wick asks survivors to watch horizons even in rain.",
-    "quoteTextEN": "The quiet lantern wick asks survivors to watch horizons even in rain.",
-    "quoteDescription": "Asha Pillai shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Asha Pillai",
-    "culture": "Kerala Hope Lessons",
-    "category": "Hope",
+    "quoteText": "When your opponent is hurrying recklessly, you must act contrarily and keep calm. You must not be influenced by the opponent. Train diligently to attain this spirit.",
+    "quoteTextEN": "When your opponent is hurrying recklessly, you must act contrarily and keep calm. You must not be influenced by the opponent. Train diligently to attain this spirit.",
+    "quoteDescription": "From the Wind Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Calm in the face of haste denies the opponent his tempo. Musashi treats emotional contagion as a weapon to refuse.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "calm",
+      "tempo",
+      "composure"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Wind (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "912",
-    "quoteText": "The quiet lantern wick asks survivors to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet lantern wick asks survivors to gather stories that keep hearts awake.",
-    "quoteDescription": "Balamani Devi shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Balamani Devi",
-    "culture": "Tamil Dawn Songs",
-    "category": "Hope",
+    "quoteText": "By knowing things that exist, you can know that which does not exist. That is the void.",
+    "quoteTextEN": "By knowing things that exist, you can know that which does not exist. That is the void.",
+    "quoteDescription": "From the Void Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The void is understood by knowing what exists, not by ignoring it. Emptiness is the far side of knowledge.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "void",
+      "knowledge",
+      "emptiness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Void (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "913",
-    "quoteText": "The quiet lantern wick encourages dreamers to carry light pockets for others.",
-    "quoteTextEN": "The quiet lantern wick encourages dreamers to carry light pockets for others.",
-    "quoteDescription": "Chloe Martin shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Chloe Martin",
-    "culture": "Nova Scotia Lighthouse Tales",
-    "category": "Hope",
+    "quoteText": "People in this world look at things mistakenly, and think that what they do not understand must be the void. This is not the true void. It is bewilderment.",
+    "quoteTextEN": "People in this world look at things mistakenly, and think that what they do not understand must be the void. This is not the true void. It is bewilderment.",
+    "quoteDescription": "From the Void Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "Confusing ignorance with the void is the error he names. Not understanding something does not make it profound.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "ignorance",
+      "void",
+      "clarity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Void (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "914",
-    "quoteText": "The quiet lantern wick encourages dreamers to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet lantern wick encourages dreamers to sing until the dark forgets itself.",
-    "quoteDescription": "Dmitri Sokolov shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Dmitri Sokolov",
-    "culture": "Siberian Aurora Notes",
-    "category": "Hope",
+    "quoteText": "Enact strategy broadly, correctly and openly.",
+    "quoteTextEN": "Enact strategy broadly, correctly and openly.",
+    "quoteDescription": "From the Void Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The closing advice of the book in Harris's translation. Breadth, correctness and openness are the three marks of the Way.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "strategy",
+      "openness",
+      "conduct"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Void (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "915",
-    "quoteText": "The quiet lantern wick encourages dreamers to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet lantern wick encourages dreamers to plant tomorrow in resting soil.",
-    "quoteDescription": "Elsie Ncube shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Elsie Ncube",
-    "culture": "Zimbabwean Hope Teachings",
-    "category": "Hope",
+    "quoteText": "In the void is virtue, and no evil.",
+    "quoteTextEN": "In the void is virtue, and no evil.",
+    "quoteDescription": "From the Void Book of Go Rin No Sho, The Book of Five Rings (1645), Victor Harris translation.",
+    "quoteMeaningAnalysis": "The final line of The Book of Five Rings. The void is offered as a state of clarity in which virtue remains.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "void",
+      "virtue",
+      "ending"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Book of Five Rings, Void (Harris trans.), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "916",
-    "quoteText": "The quiet lantern wick encourages dreamers to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet lantern wick encourages dreamers to fold promises into the winter coat.",
-    "quoteDescription": "Fatou Jallow shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Fatou Jallow",
-    "culture": "Gambian River Stories",
-    "category": "Hope",
+    "quoteText": "Do not seek pleasure for its own sake.",
+    "quoteTextEN": "Do not seek pleasure for its own sake.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Pleasure is not forbidden, only pursued as an end. Musashi wanted no desire steering his life.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "pleasure",
+      "discipline",
+      "restraint"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "917",
-    "quoteText": "The quiet lantern wick encourages dreamers to watch horizons even in rain.",
-    "quoteTextEN": "The quiet lantern wick encourages dreamers to watch horizons even in rain.",
-    "quoteDescription": "Gurpreet Singh shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Gurpreet Singh",
-    "culture": "Punjab Hope Traditions",
-    "category": "Hope",
+    "quoteText": "Do not, under any circumstances, depend on a partial feeling.",
+    "quoteTextEN": "Do not, under any circumstances, depend on a partial feeling.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "A partial feeling is a bias or one-sided impulse. Judgment should not lean on it.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "bias",
+      "judgment",
+      "feeling"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "918",
-    "quoteText": "The quiet lantern wick encourages dreamers to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet lantern wick encourages dreamers to gather stories that keep hearts awake.",
-    "quoteDescription": "Hikari Ito shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Hikari Ito",
-    "culture": "Hokkaido Dawn Lore",
-    "category": "Hope",
+    "quoteText": "Be detached from desire your whole life long.",
+    "quoteTextEN": "Be detached from desire your whole life long.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Detachment is meant as a lifelong practice, not a phase. It echoes Buddhist teaching he knew well.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "detachment",
+      "desire",
+      "Buddhism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "919",
-    "quoteText": "The quiet lantern wick teaches guardians to carry light pockets for others.",
-    "quoteTextEN": "The quiet lantern wick teaches guardians to carry light pockets for others.",
-    "quoteDescription": "Isidro Molina shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Isidro Molina",
-    "culture": "Manila Bay Sunrise Stories",
-    "category": "Hope",
+    "quoteText": "Never be jealous.",
+    "quoteTextEN": "Never be jealous.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Jealousy measures oneself against others, which the Dokkodo rejects throughout. Three words carry the rule.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "jealousy",
+      "envy",
+      "self-mastery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "920",
-    "quoteText": "The quiet lantern wick teaches guardians to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet lantern wick teaches guardians to sing until the dark forgets itself.",
-    "quoteDescription": "Jenna Brooks shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Jenna Brooks",
-    "culture": "Appalachian Hope Almanac",
-    "category": "Hope",
+    "quoteText": "Never let yourself be saddened by a separation.",
+    "quoteTextEN": "Never let yourself be saddened by a separation.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Separations are treated as part of the solitary Way he chose. Grief over parting is not to rule the mind.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "separation",
+      "solitude",
+      "grief"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "921",
-    "quoteText": "The quiet lantern wick teaches guardians to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet lantern wick teaches guardians to plant tomorrow in resting soil.",
-    "quoteDescription": "Asha Pillai shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Asha Pillai",
-    "culture": "Kerala Hope Lessons",
-    "category": "Hope",
+    "quoteText": "Resentment and complaint are appropriate neither for oneself or others.",
+    "quoteTextEN": "Resentment and complaint are appropriate neither for oneself or others.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Complaint is ruled out in both directions, inward and outward. It offers no use to anyone.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "resentment",
+      "complaint",
+      "acceptance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "922",
-    "quoteText": "The quiet lantern wick teaches guardians to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet lantern wick teaches guardians to fold promises into the winter coat.",
-    "quoteDescription": "Balamani Devi shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Balamani Devi",
-    "culture": "Tamil Dawn Songs",
-    "category": "Hope",
+    "quoteText": "Do not let yourself be guided by the feeling of lust or love.",
+    "quoteTextEN": "Do not let yourself be guided by the feeling of lust or love.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Passion is not denied but denied the steering wheel. The warrior's choices should not be made by desire.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "passion",
+      "love",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "923",
-    "quoteText": "The quiet lantern wick teaches guardians to watch horizons even in rain.",
-    "quoteTextEN": "The quiet lantern wick teaches guardians to watch horizons even in rain.",
-    "quoteDescription": "Chloe Martin shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Chloe Martin",
-    "culture": "Nova Scotia Lighthouse Tales",
-    "category": "Hope",
+    "quoteText": "In all things have no preferences.",
+    "quoteTextEN": "In all things have no preferences.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "The same rule appears in his warning against favourite weapons. Preference narrows the mind.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "preference",
+      "equanimity",
+      "openness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "924",
-    "quoteText": "The quiet lantern wick teaches guardians to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet lantern wick teaches guardians to gather stories that keep hearts awake.",
-    "quoteDescription": "Dmitri Sokolov shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Dmitri Sokolov",
-    "culture": "Siberian Aurora Notes",
-    "category": "Hope",
+    "quoteText": "Be indifferent to where you live.",
+    "quoteTextEN": "Be indifferent to where you live.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Musashi wandered for much of his life. Attachment to a place is one more tie he chose not to keep.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "home",
+      "detachment",
+      "wandering"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "925",
-    "quoteText": "The quiet lantern wick invites healers to carry light pockets for others.",
-    "quoteTextEN": "The quiet lantern wick invites healers to carry light pockets for others.",
-    "quoteDescription": "Elsie Ncube shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Elsie Ncube",
-    "culture": "Zimbabwean Hope Teachings",
-    "category": "Hope",
+    "quoteText": "Do not pursue the taste of good food.",
+    "quoteTextEN": "Do not pursue the taste of good food.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Food is for sustaining the body, not for chasing flavour. The precept belongs to an ascetic self-portrait.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "food",
+      "asceticism",
+      "simplicity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "926",
-    "quoteText": "The quiet lantern wick invites healers to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet lantern wick invites healers to sing until the dark forgets itself.",
-    "quoteDescription": "Fatou Jallow shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Fatou Jallow",
-    "culture": "Gambian River Stories",
-    "category": "Hope",
+    "quoteText": "Do not hold on to possessions you no longer need.",
+    "quoteTextEN": "Do not hold on to possessions you no longer need.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Possessions that have outlived their use are dead weight. Keeping them costs attention for no return.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "possessions",
+      "simplicity",
+      "letting go"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "927",
-    "quoteText": "The quiet lantern wick invites healers to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet lantern wick invites healers to plant tomorrow in resting soil.",
-    "quoteDescription": "Gurpreet Singh shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Gurpreet Singh",
-    "culture": "Punjab Hope Traditions",
-    "category": "Hope",
+    "quoteText": "Do not act following customary beliefs.",
+    "quoteTextEN": "Do not act following customary beliefs.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Custom is not a reason. Musashi, who trained with no teacher, distrusted inherited habit.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "custom",
+      "independence",
+      "thinking"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "928",
-    "quoteText": "The quiet lantern wick invites healers to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet lantern wick invites healers to fold promises into the winter coat.",
-    "quoteDescription": "Hikari Ito shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Hikari Ito",
-    "culture": "Hokkaido Dawn Lore",
-    "category": "Hope",
+    "quoteText": "Do not collect weapons or practice with weapons beyond what is useful.",
+    "quoteTextEN": "Do not collect weapons or practice with weapons beyond what is useful.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Even the swordsman sets a limit on swords. Usefulness is the test for both tools and training.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "usefulness",
+      "tools",
+      "practice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "929",
-    "quoteText": "The quiet lantern wick invites healers to watch horizons even in rain.",
-    "quoteTextEN": "The quiet lantern wick invites healers to watch horizons even in rain.",
-    "quoteDescription": "Isidro Molina shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Isidro Molina",
-    "culture": "Manila Bay Sunrise Stories",
-    "category": "Hope",
+    "quoteText": "Do not fear death.",
+    "quoteTextEN": "Do not fear death.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "He wrote this in the last weeks of his life. It restates the resolve he says belongs to any Way.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "death",
+      "fear",
+      "courage"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "930",
-    "quoteText": "The quiet lantern wick invites healers to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet lantern wick invites healers to gather stories that keep hearts awake.",
-    "quoteDescription": "Jenna Brooks shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Jenna Brooks",
-    "culture": "Appalachian Hope Almanac",
-    "category": "Hope",
+    "quoteText": "Do not seek to possess either goods or fiefs for your old age.",
+    "quoteTextEN": "Do not seek to possess either goods or fiefs for your old age.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "Security in old age is not to be bought with lands or goods. He wanted a life not organised around accumulation.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "security",
+      "old age",
+      "possessions"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "931",
-    "quoteText": "The quiet lantern wick whispers to builders to carry light pockets for others.",
-    "quoteTextEN": "The quiet lantern wick whispers to builders to carry light pockets for others.",
-    "quoteDescription": "Asha Pillai shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Asha Pillai",
-    "culture": "Kerala Hope Lessons",
-    "category": "Hope",
+    "quoteText": "You may abandon your own body but you must preserve your honour.",
+    "quoteTextEN": "You may abandon your own body but you must preserve your honour.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "The body is expendable; honour is not. The precept ranks integrity above survival.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "honour",
+      "integrity",
+      "sacrifice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "932",
-    "quoteText": "The quiet lantern wick whispers to builders to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet lantern wick whispers to builders to sing until the dark forgets itself.",
-    "quoteDescription": "Balamani Devi shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Balamani Devi",
-    "culture": "Tamil Dawn Songs",
-    "category": "Hope",
+    "quoteText": "Never stray from the Way.",
+    "quoteTextEN": "Never stray from the Way.",
+    "quoteDescription": "One of the 21 precepts of the Dokkodo (The Way of Walking Alone), written by Musashi in 1645 shortly before his death.",
+    "quoteMeaningAnalysis": "The last of the 21 precepts. Everything before it describes what keeping to the Way requires.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "the Way",
+      "commitment",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Dokkodo (1645), via Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miyamoto_Musashi"
+      }
     ]
   },
   {
     "id": "933",
-    "quoteText": "The quiet lantern wick whispers to builders to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet lantern wick whispers to builders to plant tomorrow in resting soil.",
-    "quoteDescription": "Chloe Martin shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Chloe Martin",
-    "culture": "Nova Scotia Lighthouse Tales",
-    "category": "Hope",
+    "quoteText": "It does not matter how frequently something succeeds if failure is too costly to bear.",
+    "quoteTextEN": "It does not matter how frequently something succeeds if failure is too costly to bear.",
+    "quoteDescription": "From Fooled by Randomness (2001), on judging strategies by their worst outcome.",
+    "quoteMeaningAnalysis": "A strategy that wins ninety-nine times and ruins you on the hundredth is a bad strategy. Taleb moves the question from probability to the size of the loss, which is where survival is decided.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "risk",
+      "ruin",
+      "asymmetry"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Fooled by Randomness (2001)",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "934",
-    "quoteText": "The quiet lantern wick whispers to builders to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet lantern wick whispers to builders to fold promises into the winter coat.",
-    "quoteDescription": "Dmitri Sokolov shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Dmitri Sokolov",
-    "culture": "Siberian Aurora Notes",
-    "category": "Hope",
+    "quoteText": "Mild success can be explainable by skills and labor. Wild success is attributable to variance.",
+    "quoteTextEN": "Mild success can be explainable by skills and labor. Wild success is attributable to variance.",
+    "quoteDescription": "From Fooled by Randomness (2001), on how luck hides inside success stories.",
+    "quoteMeaningAnalysis": "Moderate results track effort, but the extreme winners are mostly the lucky tail of a large population. Studying them for lessons mistakes noise for method.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "luck",
+      "success",
+      "survivorship bias"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Fooled by Randomness (2001)",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "935",
-    "quoteText": "The quiet lantern wick whispers to builders to watch horizons even in rain.",
-    "quoteTextEN": "The quiet lantern wick whispers to builders to watch horizons even in rain.",
-    "quoteDescription": "Elsie Ncube shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Elsie Ncube",
-    "culture": "Zimbabwean Hope Teachings",
-    "category": "Hope",
+    "quoteText": "Probability is not about the odds, but about the belief in the existence of an alternative outcome, cause, or motive.",
+    "quoteTextEN": "Probability is not about the odds, but about the belief in the existence of an alternative outcome, cause, or motive.",
+    "quoteDescription": "From Fooled by Randomness (2001), on thinking in alternative histories.",
+    "quoteMeaningAnalysis": "Taleb treats probability as a habit of mind: keeping in view the worlds that could have happened. A trader who only sees the path that occurred cannot price the ones that did not.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "probability",
+      "alternative histories",
+      "judgment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Fooled by Randomness (2001)",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "936",
-    "quoteText": "The quiet lantern wick whispers to builders to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet lantern wick whispers to builders to gather stories that keep hearts awake.",
-    "quoteDescription": "Fatou Jallow shares a hope image where a lantern wick becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Fatou Jallow",
-    "culture": "Gambian River Stories",
-    "category": "Hope",
+    "quoteText": "We favor the visible, the embedded, the personal, the narrated, and the tangible; we scorn the abstract.",
+    "quoteTextEN": "We favor the visible, the embedded, the personal, the narrated, and the tangible; we scorn the abstract.",
+    "quoteDescription": "From Fooled by Randomness (2001), on the biases that distort risk perception.",
+    "quoteMeaningAnalysis": "A vivid anecdote beats a dull statistic in the mind every time. That preference makes people overreact to stories and underreact to abstract but real exposures.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Psychology",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "cognitive bias",
+      "narrative",
+      "risk perception"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Fooled by Randomness (2001)",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "937",
-    "quoteText": "The quiet choir echo reminds neighbors to carry light pockets for others.",
-    "quoteTextEN": "The quiet choir echo reminds neighbors to carry light pockets for others.",
-    "quoteDescription": "Gurpreet Singh shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Gurpreet Singh",
-    "culture": "Punjab Hope Traditions",
-    "category": "Hope",
+    "quoteText": "We tend to use knowledge as therapy.",
+    "quoteTextEN": "We tend to use knowledge as therapy.",
+    "quoteDescription": "From The Black Swan (2007), p. 69.",
+    "quoteMeaningAnalysis": "Gathering information often soothes anxiety more than it improves decisions. Taleb's jab is that the comfort is the product and the accuracy is incidental.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Psychology",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "knowledge",
+      "comfort",
+      "decision making"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Black Swan (2007), p. 69",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "938",
-    "quoteText": "The quiet choir echo reminds neighbors to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet choir echo reminds neighbors to sing until the dark forgets itself.",
-    "quoteDescription": "Hikari Ito shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Hikari Ito",
-    "culture": "Hokkaido Dawn Lore",
-    "category": "Hope",
+    "quoteText": "But it remains the case that you know what is wrong with a lot more confidence than you know what is right.",
+    "quoteTextEN": "But it remains the case that you know what is wrong with a lot more confidence than you know what is right.",
+    "quoteDescription": "From The Black Swan (2007), p. 58, on negative knowledge.",
+    "quoteMeaningAnalysis": "One counterexample disproves a rule, but no number of confirmations proves it. Knowledge by subtraction is therefore sturdier than knowledge by accumulation.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "falsification",
+      "epistemology",
+      "via negativa"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Black Swan (2007), p. 58",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "939",
-    "quoteText": "The quiet choir echo reminds neighbors to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet choir echo reminds neighbors to plant tomorrow in resting soil.",
-    "quoteDescription": "Isidro Molina shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Isidro Molina",
-    "culture": "Manila Bay Sunrise Stories",
-    "category": "Hope",
+    "quoteText": "Don't cross a river if it is four feet deep on average.",
+    "quoteTextEN": "Don't cross a river if it is four feet deep on average.",
+    "quoteDescription": "From The Black Swan (2007), p. 161.",
+    "quoteMeaningAnalysis": "An average hides the deep spot that drowns you. The line is a compact warning against summarising risk with a mean when the extremes are what kill.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "averages",
+      "risk",
+      "tails"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Black Swan (2007), p. 161",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "940",
-    "quoteText": "The quiet choir echo reminds neighbors to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet choir echo reminds neighbors to fold promises into the winter coat.",
-    "quoteDescription": "Jenna Brooks shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Jenna Brooks",
-    "culture": "Appalachian Hope Almanac",
-    "category": "Hope",
+    "quoteText": "Forecasting by bureaucrats tends to be used for anxiety relief rather than for adequate policy making.",
+    "quoteTextEN": "Forecasting by bureaucrats tends to be used for anxiety relief rather than for adequate policy making.",
+    "quoteDescription": "From The Black Swan (2007), p. 162.",
+    "quoteMeaningAnalysis": "Official forecasts give institutions the feeling of control, so they are produced whether or not they are accurate. Their function is emotional rather than predictive.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Politics",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "forecasting",
+      "bureaucracy",
+      "prediction"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Black Swan (2007), p. 162",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "941",
-    "quoteText": "The quiet choir echo reminds neighbors to watch horizons even in rain.",
-    "quoteTextEN": "The quiet choir echo reminds neighbors to watch horizons even in rain.",
-    "quoteDescription": "Asha Pillai shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Asha Pillai",
-    "culture": "Kerala Hope Lessons",
-    "category": "Hope",
+    "quoteText": "While in theory randomness is an intrinsic property, in practice, randomness is incomplete information.",
+    "quoteTextEN": "While in theory randomness is an intrinsic property, in practice, randomness is incomplete information.",
+    "quoteDescription": "From The Black Swan (2007), p. 198.",
+    "quoteMeaningAnalysis": "For decisions it does not matter whether the universe is truly random; what matters is what you do not know. Treating randomness as ignorance keeps the focus on your exposure to it.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "randomness",
+      "uncertainty",
+      "information"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Black Swan (2007), p. 198",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "942",
-    "quoteText": "The quiet choir echo reminds neighbors to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet choir echo reminds neighbors to gather stories that keep hearts awake.",
-    "quoteDescription": "Balamani Devi shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Balamani Devi",
-    "culture": "Tamil Dawn Songs",
-    "category": "Hope",
+    "quoteText": "Rank beliefs not according to their plausibility but by the harm they may cause.",
+    "quoteTextEN": "Rank beliefs not according to their plausibility but by the harm they may cause.",
+    "quoteDescription": "From The Black Swan (2007), p. 203.",
+    "quoteMeaningAnalysis": "A belief that is probably true but catastrophic if wrong deserves more caution than an unlikely one with trivial costs. Consequences, not likelihood, should set the priority.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "risk",
+      "beliefs",
+      "consequences"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Black Swan (2007), p. 203",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "943",
-    "quoteText": "The quiet choir echo asks survivors to carry light pockets for others.",
-    "quoteTextEN": "The quiet choir echo asks survivors to carry light pockets for others.",
-    "quoteDescription": "Chloe Martin shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Chloe Martin",
-    "culture": "Nova Scotia Lighthouse Tales",
-    "category": "Hope",
+    "quoteText": "It is the asymmetry of the bonus system that got us here.",
+    "quoteTextEN": "It is the asymmetry of the bonus system that got us here.",
+    "quoteDescription": "From 'Ten principles for a Black Swan-proof world', Financial Times, 7 April 2009.",
+    "quoteMeaningAnalysis": "Bankers collected bonuses on the upside while taxpayers absorbed the crash. Written after 2008, it pins the crisis on a payoff structure rather than on bad luck.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "incentives",
+      "2008 crisis",
+      "skin in the game"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Financial Times, 7 April 2009",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "944",
-    "quoteText": "The quiet choir echo asks survivors to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet choir echo asks survivors to sing until the dark forgets itself.",
-    "quoteDescription": "Dmitri Sokolov shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Dmitri Sokolov",
-    "culture": "Siberian Aurora Notes",
-    "category": "Hope",
+    "quoteText": "Only Ponzi schemes should depend on confidence.",
+    "quoteTextEN": "Only Ponzi schemes should depend on confidence.",
+    "quoteDescription": "From 'Ten principles for a Black Swan-proof world', Financial Times, 7 April 2009.",
+    "quoteMeaningAnalysis": "Governments were trying to restore 'confidence' after the crash. Taleb's point: a sound system works without anyone's faith in it, and one that needs faith is already broken.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "confidence",
+      "financial system",
+      "fragility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "Financial Times, 7 April 2009",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "945",
-    "quoteText": "The quiet choir echo asks survivors to plant tomorrow in resting soil.",
-    "quoteTextEN": "The quiet choir echo asks survivors to plant tomorrow in resting soil.",
-    "quoteDescription": "Elsie Ncube shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to plant tomorrow in resting soil.",
-    "author": "Elsie Ncube",
-    "culture": "Zimbabwean Hope Teachings",
-    "category": "Hope",
+    "quoteText": "Academia is to knowledge what prostitution is to love.",
+    "quoteTextEN": "Academia is to knowledge what prostitution is to love.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010), p. 4.",
+    "quoteMeaningAnalysis": "The provocation is that institutions can sell the form of a thing while losing its substance. Credentials and publications become a transaction that resembles knowledge.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "academia",
+      "aphorism",
+      "institutions"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Bed of Procrustes (2010), p. 4",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "946",
-    "quoteText": "The quiet choir echo asks survivors to fold promises into the winter coat.",
-    "quoteTextEN": "The quiet choir echo asks survivors to fold promises into the winter coat.",
-    "quoteDescription": "Fatou Jallow shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to fold promises into the winter coat.",
-    "author": "Fatou Jallow",
-    "culture": "Gambian River Stories",
-    "category": "Hope",
+    "quoteText": "In science you need to understand the world; in business you need others to misunderstand it.",
+    "quoteTextEN": "In science you need to understand the world; in business you need others to misunderstand it.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010), p. 4.",
+    "quoteMeaningAnalysis": "Profit often comes from an edge that others have not noticed, so a businessperson gains from public confusion. A scientist's reward runs the other way.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Strategy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "business",
+      "science",
+      "edge"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Bed of Procrustes (2010), p. 4",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "947",
-    "quoteText": "The quiet choir echo asks survivors to watch horizons even in rain.",
-    "quoteTextEN": "The quiet choir echo asks survivors to watch horizons even in rain.",
-    "quoteDescription": "Gurpreet Singh shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to watch horizons even in rain.",
-    "author": "Gurpreet Singh",
-    "culture": "Punjab Hope Traditions",
-    "category": "Hope",
+    "quoteText": "Procrastination is the soul rebelling against entrapment.",
+    "quoteTextEN": "Procrastination is the soul rebelling against entrapment.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010), p. 8.",
+    "quoteMeaningAnalysis": "Taleb reads delay as information: the work you keep avoiding may be work you should not be doing. It recasts a vice as a signal from an ignored instinct.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Psychology",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "procrastination",
+      "freedom",
+      "aphorism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Bed of Procrustes (2010), p. 8",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "948",
-    "quoteText": "The quiet choir echo asks survivors to gather stories that keep hearts awake.",
-    "quoteTextEN": "The quiet choir echo asks survivors to gather stories that keep hearts awake.",
-    "quoteDescription": "Hikari Ito shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to gather stories that keep hearts awake.",
-    "author": "Hikari Ito",
-    "culture": "Hokkaido Dawn Lore",
-    "category": "Hope",
+    "quoteText": "You are rich if and only if money you refuse tastes better than money you accept.",
+    "quoteTextEN": "You are rich if and only if money you refuse tastes better than money you accept.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010), p. 27.",
+    "quoteMeaningAnalysis": "Wealth here is the freedom to say no. Someone who still needs every offer is not rich, whatever the balance shows.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "wealth",
+      "independence",
+      "freedom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Bed of Procrustes (2010), p. 27",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "949",
-    "quoteText": "The quiet choir echo encourages dreamers to carry light pockets for others.",
-    "quoteTextEN": "The quiet choir echo encourages dreamers to carry light pockets for others.",
-    "quoteDescription": "Isidro Molina shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to carry light pockets for others.",
-    "author": "Isidro Molina",
-    "culture": "Manila Bay Sunrise Stories",
-    "category": "Hope",
+    "quoteText": "Mental clarity is the child of courage, not the other way around.",
+    "quoteTextEN": "Mental clarity is the child of courage, not the other way around.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010), p. 57.",
+    "quoteMeaningAnalysis": "People wait to see clearly before acting boldly. Taleb reverses the order: it is the willingness to face an unpleasant truth that lets you see it at all.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "courage",
+      "clarity",
+      "aphorism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Bed of Procrustes (2010), p. 57",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "950",
-    "quoteText": "The quiet choir echo encourages dreamers to sing until the dark forgets itself.",
-    "quoteTextEN": "The quiet choir echo encourages dreamers to sing until the dark forgets itself.",
-    "quoteDescription": "Jenna Brooks shares a hope image where a choir echo becomes a guide toward keeping light alive during uncertainty.",
-    "quoteMeaningAnalysis": "It suggests that hope is nurtured by action, memory, and imagination and urges us to sing until the dark forgets itself.",
-    "author": "Jenna Brooks",
-    "culture": "Appalachian Hope Almanac",
-    "category": "Hope",
+    "quoteText": "Intelligence consists in ignoring things that are irrelevant.",
+    "quoteTextEN": "Intelligence consists in ignoring things that are irrelevant.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010), p. 78.",
+    "quoteMeaningAnalysis": "More information is not more understanding. The skill is filtering, which is why noise-heavy inputs like daily news make people less sharp.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Psychology",
     "tags": [
-      "hope",
-      "optimism",
-      "perseverance"
+      "intelligence",
+      "attention",
+      "noise"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Hope",
-      "https://www.psychologytoday.com/us/basics/hope"
+      {
+        "title": "The Bed of Procrustes (2010), p. 78",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "951",
-    "quoteText": "The ancient story drum teaches the young to remember the price of every lesson.",
-    "quoteTextEN": "The ancient story drum teaches the young to remember the price of every lesson.",
-    "quoteDescription": "Kofi Boateng shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Kofi Boateng",
-    "culture": "Akan Wisdom Keeper",
-    "category": "Wisdom",
+    "quoteText": "I want to live happily in a world I don't understand.",
+    "quoteTextEN": "I want to live happily in a world I don't understand.",
+    "quoteDescription": "From the Prologue of Antifragile (2012), p. 4.",
+    "quoteMeaningAnalysis": "Taleb's program is not better prediction but arranging life so that what cannot be predicted does no harm, or helps. Understanding becomes optional once exposure is right.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "antifragility",
+      "uncertainty",
+      "happiness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 4",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "952",
-    "quoteText": "The ancient story drum teaches the young to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient story drum teaches the young to carry proverbs like spare bread.",
-    "quoteDescription": "Leah Cohen shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Leah Cohen",
-    "culture": "Jerusalem Story Circle",
-    "category": "Wisdom",
+    "quoteText": "Simplicity is not so simple to attain.",
+    "quoteTextEN": "Simplicity is not so simple to attain.",
+    "quoteDescription": "From Antifragile (2012), p. 11.",
+    "quoteMeaningAnalysis": "Removing the unnecessary takes more judgment than adding features or rules. The simple heuristic is the result of hard thinking, not a shortcut around it.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "simplicity",
+      "heuristics",
+      "via negativa"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 11",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "953",
-    "quoteText": "The ancient story drum teaches the young to honor pauses between the words.",
-    "quoteTextEN": "The ancient story drum teaches the young to honor pauses between the words.",
-    "quoteDescription": "Miriam al-Hassan shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Miriam al-Hassan",
-    "culture": "Baghdad Lorekeepers",
-    "category": "Wisdom",
+    "quoteText": "Modernity has replaced ethics with legalese.",
+    "quoteTextEN": "Modernity has replaced ethics with legalese.",
+    "quoteDescription": "From Antifragile (2012), p. 15.",
+    "quoteMeaningAnalysis": "When what is legal stands in for what is right, people optimise to the letter of the rule. Taleb sees this as one way risk is quietly transferred to others.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "ethics",
+      "law",
+      "modernity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 15",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "954",
-    "quoteText": "The ancient story drum teaches the young to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient story drum teaches the young to share memory like a guiding flame.",
-    "quoteDescription": "Nokuthula Dlamini shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Nokuthula Dlamini",
-    "culture": "Zulu Wisdom Fireside",
-    "category": "Wisdom",
+    "quoteText": "If you see fraud and do not say fraud, you are a fraud.",
+    "quoteTextEN": "If you see fraud and do not say fraud, you are a fraud.",
+    "quoteDescription": "From Antifragile (2012), p. 15.",
+    "quoteMeaningAnalysis": "Silence before wrongdoing is complicity in Taleb's moral code. It puts a personal cost on witnesses, not only on the perpetrator.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "ethics",
+      "courage",
+      "fraud"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 15",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "955",
-    "quoteText": "The ancient story drum teaches the young to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient story drum teaches the young to trace roots before reaching upward.",
-    "quoteDescription": "Orhan Demir shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Orhan Demir",
-    "culture": "Anatolian Counsel",
-    "category": "Wisdom",
+    "quoteText": "The fragile wants tranquility, the antifragile grows from disorder, and the robust doesn't care too much.",
+    "quoteTextEN": "The fragile wants tranquility, the antifragile grows from disorder, and the robust doesn't care too much.",
+    "quoteDescription": "From Antifragile (2012), p. 20, defining his triad.",
+    "quoteMeaningAnalysis": "The triad sorts anything by how it responds to volatility: harmed, indifferent or improved. The useful question about a system is which of the three it is.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "antifragility",
+      "fragility",
+      "robustness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 20",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "956",
-    "quoteText": "The ancient story drum teaches the young to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient story drum teaches the young to return gratitude to those unseen.",
-    "quoteDescription": "Petra Horváth shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Petra Horváth",
-    "culture": "Danube Story Keepers",
-    "category": "Wisdom",
+    "quoteText": "If humans fight the last war, nature fights the next one.",
+    "quoteTextEN": "If humans fight the last war, nature fights the next one.",
+    "quoteDescription": "From Antifragile (2012), p. 46, on overcompensation in biology.",
+    "quoteMeaningAnalysis": "Organisms respond to a stress by building more capacity than the stress required, preparing for a worse version. Institutions usually prepare only for the shock they already had.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "overcompensation",
+      "nature",
+      "preparedness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 46",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "957",
-    "quoteText": "The ancient story drum reminds the elders to remember the price of every lesson.",
-    "quoteTextEN": "The ancient story drum reminds the elders to remember the price of every lesson.",
-    "quoteDescription": "Qamar Suleiman shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Qamar Suleiman",
-    "culture": "Kurdish Tale Path",
-    "category": "Wisdom",
+    "quoteText": "Information is antifragile; it feeds more on attempts to harm it than it does on efforts to promote it.",
+    "quoteTextEN": "Information is antifragile; it feeds more on attempts to harm it than it does on efforts to promote it.",
+    "quoteDescription": "From Antifragile (2012), p. 49.",
+    "quoteMeaningAnalysis": "Banning a book or suing a critic spreads the message further. Suppression adds energy to information, the same way wind feeds a fire.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "information",
+      "censorship",
+      "antifragility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 49",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "958",
-    "quoteText": "The ancient story drum reminds the elders to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient story drum reminds the elders to carry proverbs like spare bread.",
-    "quoteDescription": "Rogelio Santos shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Rogelio Santos",
-    "culture": "Yucatan Council Lore",
-    "category": "Wisdom",
+    "quoteText": "Daily news and sugar confuse our system in the same manner.",
+    "quoteTextEN": "Daily news and sugar confuse our system in the same manner.",
+    "quoteDescription": "From Antifragile (2012), p. 127.",
+    "quoteMeaningAnalysis": "Both deliver frequent small doses that the body or mind was not built for. The analogy treats information diet as a health question.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Psychology",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "news",
+      "noise",
+      "health"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 127",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "959",
-    "quoteText": "The ancient story drum reminds the elders to honor pauses between the words.",
-    "quoteTextEN": "The ancient story drum reminds the elders to honor pauses between the words.",
-    "quoteDescription": "Saeed Rahimi shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Saeed Rahimi",
-    "culture": "Persian Courtyard Stories",
-    "category": "Wisdom",
+    "quoteText": "A man is honorable in proportion to the personal risks he takes for his opinion.",
+    "quoteTextEN": "A man is honorable in proportion to the personal risks he takes for his opinion.",
+    "quoteDescription": "From Antifragile (2012), p. 147.",
+    "quoteMeaningAnalysis": "An opinion that costs its holder nothing carries little weight. Taleb measures conviction by what someone stands to lose.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "honor",
+      "skin in the game",
+      "opinion"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Antifragile (2012), p. 147",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "960",
-    "quoteText": "The ancient story drum reminds the elders to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient story drum reminds the elders to share memory like a guiding flame.",
-    "quoteDescription": "Tala Azzam shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Tala Azzam",
-    "culture": "Levantine Wisdom Weavers",
-    "category": "Wisdom",
+    "quoteText": "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions.",
+    "quoteTextEN": "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions.",
+    "quoteDescription": "From Skin in the Game (2018), p. 12.",
+    "quoteMeaningAnalysis": "Layers of procedure let decisions be made by people who never bear their cost. Taleb defines bureaucracy by that missing feedback, not by its paperwork.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "bureaucracy",
+      "accountability",
+      "skin in the game"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Skin in the Game (2018), p. 12",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "961",
-    "quoteText": "The ancient story drum reminds the elders to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient story drum reminds the elders to trace roots before reaching upward.",
-    "quoteDescription": "Kofi Boateng shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Kofi Boateng",
-    "culture": "Akan Wisdom Keeper",
-    "category": "Wisdom",
+    "quoteText": "Avoid taking advice from someone who gives advice for a living, unless there is a penalty for their advice.",
+    "quoteTextEN": "Avoid taking advice from someone who gives advice for a living, unless there is a penalty for their advice.",
+    "quoteDescription": "From Skin in the Game (2018), p. 23.",
+    "quoteMeaningAnalysis": "A professional adviser is paid whether the advice works or not. Without a penalty, nothing filters out the bad advisers.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Investing",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "advice",
+      "incentives",
+      "accountability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Skin in the Game (2018), p. 23",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "962",
-    "quoteText": "The ancient story drum reminds the elders to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient story drum reminds the elders to return gratitude to those unseen.",
-    "quoteDescription": "Leah Cohen shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Leah Cohen",
-    "culture": "Jerusalem Story Circle",
-    "category": "Wisdom",
+    "quoteText": "Survival comes first, truth, understanding, and science later.",
+    "quoteTextEN": "Survival comes first, truth, understanding, and science later.",
+    "quoteDescription": "From Skin in the Game (2018), p. 214.",
+    "quoteMeaningAnalysis": "Rationality, for Taleb, is judged by whether behaviour lets you survive, not by whether its reasons are correct. A superstition that keeps people alive passes; an elegant theory that ruins them fails.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Philosophy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "survival",
+      "rationality",
+      "ruin"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Skin in the Game (2018), p. 214",
+        "url": "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
+      }
     ]
   },
   {
     "id": "963",
-    "quoteText": "The ancient story drum asks the scholars to remember the price of every lesson.",
-    "quoteTextEN": "The ancient story drum asks the scholars to remember the price of every lesson.",
-    "quoteDescription": "Miriam al-Hassan shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Miriam al-Hassan",
-    "culture": "Baghdad Lorekeepers",
-    "category": "Wisdom",
+    "quoteText": "How one lives is so far distant from how one ought to live, that he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation.",
+    "quoteTextEN": "How one lives is so far distant from how one ought to live, that he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation.",
+    "quoteDescription": "The Prince, Chapter XV, where Machiavelli announces he will describe politics as practised rather than as imagined.",
+    "quoteMeaningAnalysis": "This is the hinge of the whole book: advice built on ideal republics fails because the people you deal with do not live by the ideal. Machiavelli asks the reader to plan for observed behaviour.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "realism",
+      "ethics",
+      "power"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XV (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "964",
-    "quoteText": "The ancient story drum asks the scholars to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient story drum asks the scholars to carry proverbs like spare bread.",
-    "quoteDescription": "Nokuthula Dlamini shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Nokuthula Dlamini",
-    "culture": "Zulu Wisdom Fireside",
-    "category": "Wisdom",
+    "quoteText": "As the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure.",
+    "quoteTextEN": "As the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure.",
+    "quoteDescription": "The Prince, Chapter III, on why the Romans dealt with distant troubles early.",
+    "quoteMeaningAnalysis": "A disease metaphor for political risk: the cheap moment to act is the moment when the problem is barely visible. By the time everyone can see it, the remedy costs far more or no longer exists.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "foresight",
+      "risk",
+      "prevention"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter III (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "965",
-    "quoteText": "The ancient story drum asks the scholars to honor pauses between the words.",
-    "quoteTextEN": "The ancient story drum asks the scholars to honor pauses between the words.",
-    "quoteDescription": "Orhan Demir shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Orhan Demir",
-    "culture": "Anatolian Counsel",
-    "category": "Wisdom",
+    "quoteText": "War is not to be avoided, but is only to be put off to the advantage of others.",
+    "quoteTextEN": "War is not to be avoided, but is only to be put off to the advantage of others.",
+    "quoteDescription": "The Prince, Chapter III, praising Rome for fighting Philip and Antiochus in Greece rather than waiting for them in Italy.",
+    "quoteMeaningAnalysis": "Delay is presented as a choice with a beneficiary: postponing a conflict you cannot escape hands the initiative to the rival who is preparing meanwhile.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "war",
+      "timing",
+      "initiative"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter III (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "966",
-    "quoteText": "The ancient story drum asks the scholars to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient story drum asks the scholars to share memory like a guiding flame.",
-    "quoteDescription": "Petra Horváth shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Petra Horváth",
-    "culture": "Danube Story Keepers",
-    "category": "Wisdom",
+    "quoteText": "He who is the cause of another becoming powerful is ruined; because that predominancy has been brought about either by astuteness or else by force, and both are distrusted by him who has been raised to power.",
+    "quoteTextEN": "He who is the cause of another becoming powerful is ruined; because that predominancy has been brought about either by astuteness or else by force, and both are distrusted by him who has been raised to power.",
+    "quoteDescription": "The Prince, Chapter III, drawing a general rule from France helping the Church and Spain grow strong in Italy.",
+    "quoteMeaningAnalysis": "The kingmaker knows how the king was made, and the new ruler fears exactly that knowledge. Gratitude loses to the suspicion that the same skill could be turned against him.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "alliances",
+      "power",
+      "trust"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter III (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "967",
-    "quoteText": "The ancient story drum asks the scholars to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient story drum asks the scholars to trace roots before reaching upward.",
-    "quoteDescription": "Qamar Suleiman shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Qamar Suleiman",
-    "culture": "Kurdish Tale Path",
-    "category": "Wisdom",
+    "quoteText": "The innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new.",
+    "quoteTextEN": "The innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new.",
+    "quoteDescription": "The Prince, Chapter VI, continuing the observation that nothing is harder than introducing a new order of things.",
+    "quoteMeaningAnalysis": "The asymmetry is the point: losers from a change know exactly what they lose, while winners can only guess at what they might gain, so opposition is fierce and support is tepid.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "change",
+      "innovation",
+      "resistance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter VI (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "968",
-    "quoteText": "The ancient story drum asks the scholars to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient story drum asks the scholars to return gratitude to those unseen.",
-    "quoteDescription": "Rogelio Santos shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Rogelio Santos",
-    "culture": "Yucatan Council Lore",
-    "category": "Wisdom",
+    "quoteText": "All armed prophets have conquered, and the unarmed ones have been destroyed.",
+    "quoteTextEN": "All armed prophets have conquered, and the unarmed ones have been destroyed.",
+    "quoteDescription": "The Prince, Chapter VI, contrasting founders like Moses and Romulus with Savonarola.",
+    "quoteMeaningAnalysis": "Persuasion wins people for a day; Machiavelli argues a founder also needs the means to hold them when belief fades. Savonarola, preaching in Florence without force, is his warning case.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "force",
+      "leadership",
+      "founders"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter VI (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "969",
-    "quoteText": "The ancient story drum invites the pilgrims to remember the price of every lesson.",
-    "quoteTextEN": "The ancient story drum invites the pilgrims to remember the price of every lesson.",
-    "quoteDescription": "Saeed Rahimi shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Saeed Rahimi",
-    "culture": "Persian Courtyard Stories",
-    "category": "Wisdom",
+    "quoteText": "A wise prince ought to adopt such a course that his citizens will always in every sort and kind of circumstance have need of the state and of him, and then he will always find them faithful.",
+    "quoteTextEN": "A wise prince ought to adopt such a course that his citizens will always in every sort and kind of circumstance have need of the state and of him, and then he will always find them faithful.",
+    "quoteDescription": "The Prince, Chapter IX, closing the discussion of the civil principality.",
+    "quoteMeaningAnalysis": "Loyalty promised in calm times evaporates in a crisis. Machiavelli's answer is structural dependence: make the state indispensable to citizens' daily lives so their interest and their loyalty coincide.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "loyalty",
+      "institutions",
+      "citizens"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter IX (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "970",
-    "quoteText": "The ancient story drum invites the pilgrims to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient story drum invites the pilgrims to carry proverbs like spare bread.",
-    "quoteDescription": "Tala Azzam shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Tala Azzam",
-    "culture": "Levantine Wisdom Weavers",
-    "category": "Wisdom",
+    "quoteText": "Mercenaries and auxiliaries are useless and dangerous; and if one holds his state based on these arms, he will stand neither firm nor safe.",
+    "quoteTextEN": "Mercenaries and auxiliaries are useless and dangerous; and if one holds his state based on these arms, he will stand neither firm nor safe.",
+    "quoteDescription": "The Prince, Chapter XII, on the kinds of soldiery, written after Florence's long dependence on hired captains.",
+    "quoteMeaningAnalysis": "Hired force fights for pay, so it is valiant only when nothing is at stake. For Machiavelli a state that outsources its defence has outsourced its survival.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "dependency",
+      "mercenaries",
+      "self-reliance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "971",
-    "quoteText": "The ancient story drum invites the pilgrims to honor pauses between the words.",
-    "quoteTextEN": "The ancient story drum invites the pilgrims to honor pauses between the words.",
-    "quoteDescription": "Kofi Boateng shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Kofi Boateng",
-    "culture": "Akan Wisdom Keeper",
-    "category": "Wisdom",
+    "quoteText": "A prince ought to have no other aim or thought, nor select anything else for his study, than war and its rules and discipline.",
+    "quoteTextEN": "A prince ought to have no other aim or thought, nor select anything else for his study, than war and its rules and discipline.",
+    "quoteDescription": "The Prince, Chapter XIV, opening the chapter on what concerns a prince on the subject of war.",
+    "quoteMeaningAnalysis": "Machiavelli treats military competence as the ruler's core profession, the one skill that both keeps hereditary princes in place and lifts private men to power.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "discipline",
+      "preparation",
+      "war"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XIV (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "972",
-    "quoteText": "The ancient story drum invites the pilgrims to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient story drum invites the pilgrims to share memory like a guiding flame.",
-    "quoteDescription": "Leah Cohen shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Leah Cohen",
-    "culture": "Jerusalem Story Circle",
-    "category": "Wisdom",
+    "quoteText": "Men more quickly forget the death of their father than the loss of their patrimony.",
+    "quoteTextEN": "Men more quickly forget the death of their father than the loss of their patrimony.",
+    "quoteDescription": "The Prince, Chapter XVII, advising a prince above all to keep his hands off his subjects' property.",
+    "quoteMeaningAnalysis": "A deliberately shocking ranking of grievances: confiscation produces a lasting hatred that even executions do not. The practical rule is to leave property alone.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "property",
+      "resentment",
+      "human nature"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "973",
-    "quoteText": "The ancient story drum invites the pilgrims to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient story drum invites the pilgrims to trace roots before reaching upward.",
-    "quoteDescription": "Miriam al-Hassan shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Miriam al-Hassan",
-    "culture": "Baghdad Lorekeepers",
-    "category": "Wisdom",
+    "quoteText": "It is necessary to be a fox to discover the snares and a lion to terrify the wolves.",
+    "quoteTextEN": "It is necessary to be a fox to discover the snares and a lion to terrify the wolves.",
+    "quoteDescription": "The Prince, Chapter XVIII, on how princes should keep faith.",
+    "quoteMeaningAnalysis": "Each animal covers the other's blind spot: strength cannot see traps and cunning cannot repel attackers. The ruler who relies on only one, Machiavelli says, does not understand his trade.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "cunning",
+      "strength",
+      "adaptability"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "974",
-    "quoteText": "The ancient story drum invites the pilgrims to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient story drum invites the pilgrims to return gratitude to those unseen.",
-    "quoteDescription": "Nokuthula Dlamini shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Nokuthula Dlamini",
-    "culture": "Zulu Wisdom Fireside",
-    "category": "Wisdom",
+    "quoteText": "Those princes who have done great things have held good faith of little account, and have known how to circumvent the intellect of men by craft.",
+    "quoteTextEN": "Those princes who have done great things have held good faith of little account, and have known how to circumvent the intellect of men by craft.",
+    "quoteDescription": "The Prince, Chapter XVIII, the chapter that, by its own editor's note, gave more offence than any other.",
+    "quoteMeaningAnalysis": "Machiavelli concedes that keeping one's word is praiseworthy and then reports what experience showed in his Italy: the successful broke it. The sentence is description presented as a lesson.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "deception",
+      "promises",
+      "power"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "975",
-    "quoteText": "The ancient story drum encourages the stewards to remember the price of every lesson.",
-    "quoteTextEN": "The ancient story drum encourages the stewards to remember the price of every lesson.",
-    "quoteDescription": "Orhan Demir shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Orhan Demir",
-    "culture": "Anatolian Counsel",
-    "category": "Wisdom",
+    "quoteText": "Men are so simple, and so subject to present necessities, that he who seeks to deceive will always find someone who will allow himself to be deceived.",
+    "quoteTextEN": "Men are so simple, and so subject to present necessities, that he who seeks to deceive will always find someone who will allow himself to be deceived.",
+    "quoteDescription": "The Prince, Chapter XVIII, before the example of Pope Alexander VI.",
+    "quoteMeaningAnalysis": "Deception works, in this account, because people want what is offered right now and stop scrutinising. It is a claim about demand for being fooled, not only about the skill of the fooler.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Psychology",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "deception",
+      "gullibility",
+      "necessity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "976",
-    "quoteText": "The ancient story drum encourages the stewards to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient story drum encourages the stewards to carry proverbs like spare bread.",
-    "quoteDescription": "Petra Horváth shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Petra Horváth",
-    "culture": "Danube Story Keepers",
-    "category": "Wisdom",
+    "quoteText": "Men judge generally more by the eye than by the hand, because it belongs to everybody to see you, to few to come in touch with you.",
+    "quoteTextEN": "Men judge generally more by the eye than by the hand, because it belongs to everybody to see you, to few to come in touch with you.",
+    "quoteDescription": "The Prince, Chapter XVIII, on why the appearance of virtue matters more than its possession.",
+    "quoteMeaningAnalysis": "Reputation is formed at a distance by the many, while real character is known only to the few close enough to touch it. Public standing therefore rests on what is visible.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Psychology",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "perception",
+      "reputation",
+      "appearance"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "977",
-    "quoteText": "The ancient story drum encourages the stewards to honor pauses between the words.",
-    "quoteTextEN": "The ancient story drum encourages the stewards to honor pauses between the words.",
-    "quoteDescription": "Qamar Suleiman shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Qamar Suleiman",
-    "culture": "Kurdish Tale Path",
-    "category": "Wisdom",
+    "quoteText": "Every one sees what you appear to be, few really know what you are, and those few dare not oppose themselves to the opinion of the many.",
+    "quoteTextEN": "Every one sees what you appear to be, few really know what you are, and those few dare not oppose themselves to the opinion of the many.",
+    "quoteDescription": "The Prince, Chapter XVIII, immediately after the remark about judging by the eye.",
+    "quoteMeaningAnalysis": "The insiders who know the truth are outnumbered and stay silent, so the public image becomes the operative fact. Machiavelli sees image management as part of holding a state.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "image",
+      "public opinion",
+      "conformity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "978",
-    "quoteText": "The ancient story drum encourages the stewards to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient story drum encourages the stewards to share memory like a guiding flame.",
-    "quoteDescription": "Rogelio Santos shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Rogelio Santos",
-    "culture": "Yucatan Council Lore",
-    "category": "Wisdom",
+    "quoteText": "The vulgar are always taken by what a thing seems to be and by what comes of it; and in the world there are only the vulgar.",
+    "quoteTextEN": "The vulgar are always taken by what a thing seems to be and by what comes of it; and in the world there are only the vulgar.",
+    "quoteDescription": "The Prince, Chapter XVIII, on why a prince who conquers and holds his state will have his means judged honest.",
+    "quoteMeaningAnalysis": "Outcomes and appearances decide public judgement, and Machiavelli adds that the crowd is effectively the whole audience. A minority who look at means does not change the verdict.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "outcomes",
+      "judgement",
+      "crowds"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XVIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "979",
-    "quoteText": "The ancient story drum encourages the stewards to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient story drum encourages the stewards to trace roots before reaching upward.",
-    "quoteDescription": "Saeed Rahimi shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Saeed Rahimi",
-    "culture": "Persian Courtyard Stories",
-    "category": "Wisdom",
+    "quoteText": "Hatred is acquired as much by good works as by bad ones.",
+    "quoteTextEN": "Hatred is acquired as much by good works as by bad ones.",
+    "quoteDescription": "The Prince, Chapter XIX, using the emperor Pertinax, killed by soldiers who resented being made to live honestly.",
+    "quoteMeaningAnalysis": "Reform offends those who benefited from the old disorder. Machiavelli warns that doing right does not exempt a ruler from the enmity of whoever loses by it.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "reform",
+      "hatred",
+      "unintended consequences"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XIX (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "980",
-    "quoteText": "The ancient story drum encourages the stewards to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient story drum encourages the stewards to return gratitude to those unseen.",
-    "quoteDescription": "Tala Azzam shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Tala Azzam",
-    "culture": "Levantine Wisdom Weavers",
-    "category": "Wisdom",
+    "quoteText": "The best possible fortress is—not to be hated by the people.",
+    "quoteTextEN": "The best possible fortress is—not to be hated by the people.",
+    "quoteDescription": "The Prince, Chapter XX, weighing whether fortresses help or harm a prince.",
+    "quoteMeaningAnalysis": "Stone walls do not save a ruler his own people despise, since outsiders will always arm a rebellious populace. Popular consent is presented as the stronger defence.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "legitimacy",
+      "defence",
+      "consent"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XX (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "981",
-    "quoteText": "The ancient story drum whispers to the historians to remember the price of every lesson.",
-    "quoteTextEN": "The ancient story drum whispers to the historians to remember the price of every lesson.",
-    "quoteDescription": "Kofi Boateng shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Kofi Boateng",
-    "culture": "Akan Wisdom Keeper",
-    "category": "Wisdom",
+    "quoteText": "Nothing makes a prince so much esteemed as great enterprises and setting a fine example.",
+    "quoteTextEN": "Nothing makes a prince so much esteemed as great enterprises and setting a fine example.",
+    "quoteDescription": "The Prince, Chapter XXI, opening with Ferdinand of Aragon as the model of renown.",
+    "quoteMeaningAnalysis": "Esteem is earned by visible, ambitious action that keeps subjects watching and occupied. Ferdinand's chain of campaigns left his barons no time to plot.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "reputation",
+      "ambition",
+      "leadership"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXI (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "982",
-    "quoteText": "The ancient story drum whispers to the historians to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient story drum whispers to the historians to carry proverbs like spare bread.",
-    "quoteDescription": "Leah Cohen shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Leah Cohen",
-    "culture": "Jerusalem Story Circle",
-    "category": "Wisdom",
+    "quoteText": "There are three classes of intellects: one which comprehends by itself; another which appreciates what others comprehended; and a third which neither comprehends by itself nor by the showing of others; the first is the most excellent, the second is good, the third is useless.",
+    "quoteTextEN": "There are three classes of intellects: one which comprehends by itself; another which appreciates what others comprehended; and a third which neither comprehends by itself nor by the showing of others; the first is the most excellent, the second is good, the third is useless.",
+    "quoteDescription": "The Prince, Chapter XXII, on the secretaries of princes and Pandolfo Petrucci's minister Antonio da Venafro.",
+    "quoteMeaningAnalysis": "The middle class of mind is quietly rehabilitated: a ruler who cannot invent may still rule well if he recognises good judgement in others and can tell a good minister from a bad one.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Psychology",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "judgement",
+      "intelligence",
+      "advisers"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "983",
-    "quoteText": "The ancient story drum whispers to the historians to honor pauses between the words.",
-    "quoteTextEN": "The ancient story drum whispers to the historians to honor pauses between the words.",
-    "quoteDescription": "Miriam al-Hassan shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Miriam al-Hassan",
-    "culture": "Baghdad Lorekeepers",
-    "category": "Wisdom",
+    "quoteText": "There is no other way of guarding oneself from flatterers except letting men understand that to tell you the truth does not offend you.",
+    "quoteTextEN": "There is no other way of guarding oneself from flatterers except letting men understand that to tell you the truth does not offend you.",
+    "quoteDescription": "The Prince, Chapter XXIII, on how flatterers should be avoided.",
+    "quoteMeaningAnalysis": "Candour has to be made safe before it will appear. Machiavelli then limits the licence to a few chosen advisers, since unlimited frankness erodes respect.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "flattery",
+      "candour",
+      "advice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "984",
-    "quoteText": "The ancient story drum whispers to the historians to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient story drum whispers to the historians to share memory like a guiding flame.",
-    "quoteDescription": "Nokuthula Dlamini shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Nokuthula Dlamini",
-    "culture": "Zulu Wisdom Fireside",
-    "category": "Wisdom",
+    "quoteText": "A prince who is not wise himself will never take good advice, unless by chance he has yielded his affairs entirely to one person who happens to be a very prudent man.",
+    "quoteTextEN": "A prince who is not wise himself will never take good advice, unless by chance he has yielded his affairs entirely to one person who happens to be a very prudent man.",
+    "quoteDescription": "The Prince, Chapter XXIII, which Machiavelli calls an axiom that never fails.",
+    "quoteMeaningAnalysis": "Good counsel needs a competent listener to pick it out from bad counsel. The one exception, handing everything to a single wise minister, ends with that minister taking the state.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
+      "advice",
       "wisdom",
-      "reflection",
-      "experience"
+      "delegation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "985",
-    "quoteText": "The ancient story drum whispers to the historians to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient story drum whispers to the historians to trace roots before reaching upward.",
-    "quoteDescription": "Orhan Demir shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Orhan Demir",
-    "culture": "Anatolian Counsel",
-    "category": "Wisdom",
+    "quoteText": "Good counsels, whencesoever they come, are born of the wisdom of the prince, and not the wisdom of the prince from good counsels.",
+    "quoteTextEN": "Good counsels, whencesoever they come, are born of the wisdom of the prince, and not the wisdom of the prince from good counsels.",
+    "quoteDescription": "The Prince, Chapter XXIII, the closing sentence of the chapter on flatterers.",
+    "quoteMeaningAnalysis": "The chiasmus reverses the usual excuse that a leader is only as good as his advisers. Quality of advice is downstream of the judgement of the person choosing and weighing it.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "leadership",
+      "counsel",
+      "responsibility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXIII (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "986",
-    "quoteText": "The ancient story drum whispers to the historians to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient story drum whispers to the historians to return gratitude to those unseen.",
-    "quoteDescription": "Petra Horváth shares a wisdom image where a story drum becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Petra Horváth",
-    "culture": "Danube Story Keepers",
-    "category": "Wisdom",
+    "quoteText": "I compare her to one of those raging rivers, which when in flood overflows the plains, sweeping away trees and buildings, bearing away the soil from place to place.",
+    "quoteTextEN": "I compare her to one of those raging rivers, which when in flood overflows the plains, sweeping away trees and buildings, bearing away the soil from place to place.",
+    "quoteDescription": "The Prince, Chapter XXV, describing Fortune and how men may prepare dykes and banks in calm weather.",
+    "quoteMeaningAnalysis": "The flood image makes fortune violent but not unmanageable: the work is done before the storm, by building defences while the weather is fair.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "fortune",
+      "preparation",
+      "resilience"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXV (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "987",
-    "quoteText": "The ancient library fire teaches the young to remember the price of every lesson.",
-    "quoteTextEN": "The ancient library fire teaches the young to remember the price of every lesson.",
-    "quoteDescription": "Qamar Suleiman shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Qamar Suleiman",
-    "culture": "Kurdish Tale Path",
-    "category": "Wisdom",
+    "quoteText": "Had he changed his conduct with the times fortune would not have changed.",
+    "quoteTextEN": "Had he changed his conduct with the times fortune would not have changed.",
+    "quoteDescription": "The Prince, Chapter XXV, on the cautious man who cannot turn adventurous when the moment requires it.",
+    "quoteMeaningAnalysis": "Bad luck is often a fixed temperament meeting changed conditions. Machiavelli locates the failure in the inability to adapt, not in fortune itself.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "adaptation",
+      "temperament",
+      "fortune"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "The Prince, Chapter XXV (Marriott trans.)",
+        "url": "https://www.gutenberg.org/ebooks/1232"
+      }
     ]
   },
   {
     "id": "988",
-    "quoteText": "The ancient library fire teaches the young to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient library fire teaches the young to carry proverbs like spare bread.",
-    "quoteDescription": "Rogelio Santos shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Rogelio Santos",
-    "culture": "Yucatan Council Lore",
-    "category": "Wisdom",
+    "quoteText": "The jealous temper of mankind, ever more disposed to censure than to praise the work of others, has constantly made the pursuit of new methods and systems no less perilous than the search after unknown lands and seas.",
+    "quoteTextEN": "The jealous temper of mankind, ever more disposed to censure than to praise the work of others, has constantly made the pursuit of new methods and systems no less perilous than the search after unknown lands and seas.",
+    "quoteDescription": "Discourses on Livy, Preface to Book I, as Machiavelli introduces his untrodden path.",
+    "quoteMeaningAnalysis": "He compares intellectual novelty to voyages of discovery in his own age of navigators, with envious critics standing in for storms and reefs.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Philosophy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "innovation",
+      "criticism",
+      "envy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Preface (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "989",
-    "quoteText": "The ancient library fire teaches the young to honor pauses between the words.",
-    "quoteTextEN": "The ancient library fire teaches the young to honor pauses between the words.",
-    "quoteDescription": "Saeed Rahimi shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Saeed Rahimi",
-    "culture": "Persian Courtyard Stories",
-    "category": "Wisdom",
+    "quoteText": "All men are bad, and will always, when they have free field, give loose to their evil inclinations.",
+    "quoteTextEN": "All men are bad, and will always, when they have free field, give loose to their evil inclinations.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter III, on the assumption that lawgivers must make.",
+    "quoteMeaningAnalysis": "This is a design assumption for institutions rather than a verdict on every individual: laws should be built for the worst case, because hidden vices surface once opportunity appears.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "institutions",
+      "human nature",
+      "law"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter III (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "990",
-    "quoteText": "The ancient library fire teaches the young to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient library fire teaches the young to share memory like a guiding flame.",
-    "quoteDescription": "Tala Azzam shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Tala Azzam",
-    "culture": "Levantine Wisdom Weavers",
-    "category": "Wisdom",
+    "quoteText": "No well-ordered State ever strikes a balance between the services of its citizens and their misdeeds.",
+    "quoteTextEN": "No well-ordered State ever strikes a balance between the services of its citizens and their misdeeds.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter XXIV, on the trial of Horatius after he killed his sister.",
+    "quoteMeaningAnalysis": "Past heroics should not buy immunity. Machiavelli wants rewards and punishments kept on separate ledgers so that merit never becomes a licence.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "rule of law",
+      "accountability",
+      "merit"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter XXIV (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "991",
-    "quoteText": "The ancient library fire teaches the young to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient library fire teaches the young to trace roots before reaching upward.",
-    "quoteDescription": "Kofi Boateng shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Kofi Boateng",
-    "culture": "Akan Wisdom Keeper",
-    "category": "Wisdom",
+    "quoteText": "A kingdom without the fear of God must either fall to pieces, or must be maintained by the fear of some prince who supplies that influence not supplied by religion.",
+    "quoteTextEN": "A kingdom without the fear of God must either fall to pieces, or must be maintained by the fear of some prince who supplies that influence not supplied by religion.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter XI, on the religion of the Romans.",
+    "quoteMeaningAnalysis": "Machiavelli treats religion as civic infrastructure: some shared fear must restrain citizens, and a prince's fear dies with the prince, which makes it the weaker substitute.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "religion",
+      "order",
+      "institutions"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter XI (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "992",
-    "quoteText": "The ancient library fire teaches the young to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient library fire teaches the young to return gratitude to those unseen.",
-    "quoteDescription": "Leah Cohen shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Leah Cohen",
-    "culture": "Jerusalem Story Circle",
-    "category": "Wisdom",
+    "quoteText": "As good customs stand in need of good laws for their support, so laws, that they may be respected, stand in need of good customs.",
+    "quoteTextEN": "As good customs stand in need of good laws for their support, so laws, that they may be respected, stand in need of good customs.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter XVIII, on preserving a free government in a corrupt city.",
+    "quoteMeaningAnalysis": "Laws and habits hold each other up; neither can carry a society alone. Where custom is fully corrupted, he says, no statute will restrain it.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "law",
+      "custom",
+      "corruption"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter XVIII (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "993",
-    "quoteText": "The ancient library fire reminds the elders to remember the price of every lesson.",
-    "quoteTextEN": "The ancient library fire reminds the elders to remember the price of every lesson.",
-    "quoteDescription": "Miriam al-Hassan shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Miriam al-Hassan",
-    "culture": "Baghdad Lorekeepers",
-    "category": "Wisdom",
+    "quoteText": "Men, however, not knowing how to be wholly good or wholly bad, choose for themselves certain middle ways, which of all others are the most pernicious.",
+    "quoteTextEN": "Men, however, not knowing how to be wholly good or wholly bad, choose for themselves certain middle ways, which of all others are the most pernicious.",
+    "quoteDescription": "Discourses on Livy, Book I, end of Chapter XXVI, leading into Giovampagolo Baglioni's failure to seize Pope Julius II.",
+    "quoteMeaningAnalysis": "Half-measures are condemned as worse than either extreme because they carry the costs of both and the benefits of neither.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "half-measures",
+      "decisiveness",
+      "commitment"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter XXVI (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "994",
-    "quoteText": "The ancient library fire reminds the elders to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient library fire reminds the elders to carry proverbs like spare bread.",
-    "quoteDescription": "Nokuthula Dlamini shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Nokuthula Dlamini",
-    "culture": "Zulu Wisdom Fireside",
-    "category": "Wisdom",
+    "quoteText": "Though Men deceive themselves in Generalities, in Particulars they judge truly.",
+    "quoteTextEN": "Though Men deceive themselves in Generalities, in Particulars they judge truly.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter XLVII, title of the chapter on the Roman commons and the consulship.",
+    "quoteMeaningAnalysis": "Abstract slogans mislead crowds, but specific choices about specific people bring their judgement back to earth. The cure for a bad general opinion is to make people decide a concrete case.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Psychology",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "judgement",
+      "abstraction",
+      "decision-making"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter XLVII (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "995",
-    "quoteText": "The ancient library fire reminds the elders to honor pauses between the words.",
-    "quoteTextEN": "The ancient library fire reminds the elders to honor pauses between the words.",
-    "quoteDescription": "Orhan Demir shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to honor pauses between the words.",
-    "author": "Orhan Demir",
-    "culture": "Anatolian Counsel",
-    "category": "Wisdom",
+    "quoteText": "A people is more prudent, more stable, and of better judgment than a prince.",
+    "quoteTextEN": "A people is more prudent, more stable, and of better judgment than a prince.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter LVIII, arguing against Livy and the historians who call the multitude fickle.",
+    "quoteMeaningAnalysis": "The republican Machiavelli contradicts the stock image of the fickle crowd: a people bound by law, he argues, errs less than a prince who is equally unrestrained.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "republics",
+      "the people",
+      "judgement"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter LVIII (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "996",
-    "quoteText": "The ancient library fire reminds the elders to share memory like a guiding flame.",
-    "quoteTextEN": "The ancient library fire reminds the elders to share memory like a guiding flame.",
-    "quoteDescription": "Petra Horváth shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to share memory like a guiding flame.",
-    "author": "Petra Horváth",
-    "culture": "Danube Story Keepers",
-    "category": "Wisdom",
+    "quoteText": "Nor is it without reason that the voice of the people has been likened to the voice of God.",
+    "quoteTextEN": "Nor is it without reason that the voice of the people has been likened to the voice of God.",
+    "quoteDescription": "Discourses on Livy, Book I, Chapter LVIII, continuing his defence of popular judgement.",
+    "quoteMeaningAnalysis": "He grounds the proverb in observation: widely held beliefs about public affairs tend to come true, so collective opinion carries information worth respecting.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "public opinion",
+      "collective wisdom",
+      "democracy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book I, Chapter LVIII (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "997",
-    "quoteText": "The ancient library fire reminds the elders to trace roots before reaching upward.",
-    "quoteTextEN": "The ancient library fire reminds the elders to trace roots before reaching upward.",
-    "quoteDescription": "Qamar Suleiman shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to trace roots before reaching upward.",
-    "author": "Qamar Suleiman",
-    "culture": "Kurdish Tale Path",
-    "category": "Wisdom",
+    "quoteText": "Since the desires of men are insatiable, Nature prompting them to desire all things and Fortune permitting them to enjoy but few, there results a constant discontent in their minds.",
+    "quoteTextEN": "Since the desires of men are insatiable, Nature prompting them to desire all things and Fortune permitting them to enjoy but few, there results a constant discontent in their minds.",
+    "quoteDescription": "Discourses on Livy, Preface to Book II, on why men always praise past times.",
+    "quoteMeaningAnalysis": "Nostalgia is explained as a by-product of the gap between wanting and having. Discontent with the present is structural, not evidence that the past really was better.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Psychology",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "desire",
+      "nostalgia",
+      "discontent"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book II, Preface (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "998",
-    "quoteText": "The ancient library fire reminds the elders to return gratitude to those unseen.",
-    "quoteTextEN": "The ancient library fire reminds the elders to return gratitude to those unseen.",
-    "quoteDescription": "Rogelio Santos shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to return gratitude to those unseen.",
-    "author": "Rogelio Santos",
-    "culture": "Yucatan Council Lore",
-    "category": "Wisdom",
+    "quoteText": "Any man may begin a war at his pleasure, but cannot at his pleasure bring it to a close.",
+    "quoteTextEN": "Any man may begin a war at his pleasure, but cannot at his pleasure bring it to a close.",
+    "quoteDescription": "Discourses on Livy, Book II, Chapter X, before his argument about what really sustains a war.",
+    "quoteMeaningAnalysis": "Starting a conflict is a unilateral decision; ending it needs the enemy's agreement. A prince should therefore measure his strength honestly before beginning.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "war",
+      "irreversibility",
+      "planning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book II, Chapter X (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "999",
-    "quoteText": "The ancient library fire asks the scholars to remember the price of every lesson.",
-    "quoteTextEN": "The ancient library fire asks the scholars to remember the price of every lesson.",
-    "quoteDescription": "Saeed Rahimi shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to remember the price of every lesson.",
-    "author": "Saeed Rahimi",
-    "culture": "Persian Courtyard Stories",
-    "category": "Wisdom",
+    "quoteText": "Not gold but good soldiers constitute the sinews of war.",
+    "quoteTextEN": "Not gold but good soldiers constitute the sinews of war.",
+    "quoteDescription": "Discourses on Livy, Book II, Chapter X, titled 'That contrary to the vulgar opinion, Money is not the sinews of War'.",
+    "quoteMeaningAnalysis": "He rejects the classical commonplace that money wins wars, citing Venice losing its dominions with a full treasury. Capable people come first; money follows them.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "war",
+      "money",
+      "people"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Discourses on Livy, Book II, Chapter X (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
     ]
   },
   {
     "id": "1000",
-    "quoteText": "The ancient library fire asks the scholars to carry proverbs like spare bread.",
-    "quoteTextEN": "The ancient library fire asks the scholars to carry proverbs like spare bread.",
-    "quoteDescription": "Tala Azzam shares a wisdom image where a library fire becomes a guide toward listening to elders and ancestors.",
-    "quoteMeaningAnalysis": "It suggests that wisdom gathers from attentive listening and lived experience and urges us to carry proverbs like spare bread.",
-    "author": "Tala Azzam",
-    "culture": "Levantine Wisdom Weavers",
-    "category": "Wisdom",
+    "quoteText": "The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.",
+    "quoteTextEN": "The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.",
+    "quoteDescription": "Note A to her translation of Menabrea's Sketch of the Analytical Engine (1843).",
+    "quoteMeaningAnalysis": "Lovelace separates the rules for manipulating symbols from the numbers they happen to act on, an early statement of what would later be called computer science as its own discipline.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Science",
     "tags": [
-      "wisdom",
-      "reflection",
-      "experience"
+      "computing",
+      "abstraction",
+      "operations"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Wisdom",
-      "https://plato.stanford.edu/entries/wisdom/"
+      {
+        "title": "Sketch of the Analytical Engine, Note A (1843)",
+        "url": "https://www.fourmilab.ch/babbage/sketch.html"
+      }
     ]
   },
   {
@@ -27810,6 +28607,3121 @@ window.QUOTES_DATA = [
     "resources": [
       "https://en.wikipedia.org/wiki/Ai-Khanoum",
       "https://en.wikipedia.org/wiki/Delphic_maxims"
+    ]
+  },
+  {
+    "id": "1451",
+    "quoteText": "While gold by itself will not gain you good soldiers, good soldiers may readily get you gold.",
+    "quoteTextEN": "While gold by itself will not gain you good soldiers, good soldiers may readily get you gold.",
+    "quoteDescription": "Discourses on Livy, Book II, Chapter X, the earlier formulation of the same argument.",
+    "quoteMeaningAnalysis": "The causation runs one way: competence can acquire resources, while resources cannot reliably buy competence. Rome made war with iron, he adds, not with gold.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
+    "tags": [
+      "talent",
+      "resources",
+      "causation"
+    ],
+    "resources": [
+      {
+        "title": "Discourses on Livy, Book II, Chapter X (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
+    ]
+  },
+  {
+    "id": "1452",
+    "quoteText": "The way to renew them is, as I have said, to bring them back to their beginnings.",
+    "quoteTextEN": "The way to renew them is, as I have said, to bring them back to their beginnings.",
+    "quoteDescription": "Discourses on Livy, Book III, Chapter I, on how sects, commonwealths and kingdoms survive.",
+    "quoteMeaningAnalysis": "Institutions decay as their founding excellence wears off, so renewal means a return to the original principles that first gave them reputation and growth.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
+    "tags": [
+      "renewal",
+      "institutions",
+      "first principles"
+    ],
+    "resources": [
+      {
+        "title": "Discourses on Livy, Book III, Chapter I (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
+    ]
+  },
+  {
+    "id": "1453",
+    "quoteText": "The good or bad fortune of men depends on whether their methods of acting accord with the character of the times.",
+    "quoteTextEN": "The good or bad fortune of men depends on whether their methods of acting accord with the character of the times.",
+    "quoteDescription": "Discourses on Livy, Book III, Chapter IX, 'That to enjoy constant good Fortune we must change with the Times', using Fabius Maximus as the example.",
+    "quoteMeaningAnalysis": "Fabius's caution was right for Rome after Hannibal's victories and would have been wrong at other moments. Success is a fit between method and moment, not a property of the method.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
+    "tags": [
+      "timing",
+      "adaptation",
+      "context"
+    ],
+    "resources": [
+      {
+        "title": "Discourses on Livy, Book III, Chapter IX (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
+    ]
+  },
+  {
+    "id": "1454",
+    "quoteText": "It is men who give lustre to titles and not titles to men.",
+    "quoteTextEN": "It is men who give lustre to titles and not titles to men.",
+    "quoteDescription": "Discourses on Livy, Book III, Chapter XXXVIII, on how a captain should earn his soldiers' confidence.",
+    "quoteMeaningAnalysis": "Rank obtained by chance or intrigue costs reputation instead of adding to it. Authority comes from the person's conduct, and the title only displays it.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Politics",
+    "tags": [
+      "merit",
+      "authority",
+      "titles"
+    ],
+    "resources": [
+      {
+        "title": "Discourses on Livy, Book III, Chapter XXXVIII (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
+    ]
+  },
+  {
+    "id": "1455",
+    "quoteText": "He who would forecast what is about to happen should look to what has been; since all human events, whether present or to come, have their exact counterpart in the past.",
+    "quoteTextEN": "He who would forecast what is about to happen should look to what has been; since all human events, whether present or to come, have their exact counterpart in the past.",
+    "quoteDescription": "Discourses on Livy, Book III, Chapter XLIII, on men born in the same province keeping the same character.",
+    "quoteMeaningAnalysis": "The case for studying history rests on a constant human nature: because passions do not change, past episodes work as templates for future ones.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
+    "tags": [
+      "history",
+      "forecasting",
+      "patterns"
+    ],
+    "resources": [
+      {
+        "title": "Discourses on Livy, Book III, Chapter XLIII (Thomson trans.)",
+        "url": "https://www.gutenberg.org/ebooks/10827"
+      }
+    ]
+  },
+  {
+    "id": "1456",
+    "quoteText": "It's a kind of scientific integrity, a principle of scientific thought that corresponds to a kind of utter honesty—a kind of leaning over backwards.",
+    "quoteTextEN": "It's a kind of scientific integrity, a principle of scientific thought that corresponds to a kind of utter honesty—a kind of leaning over backwards.",
+    "quoteDescription": "From 'Cargo Cult Science', the 1974 Caltech commencement address, naming what cargo cult science lacks.",
+    "quoteMeaningAnalysis": "Feynman names the missing ingredient only after the airstrip story, and he defines it as a posture rather than a method. Leaning over backwards means the scientist pushes against his own preferred result, not merely avoids lying about it.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "integrity",
+      "honesty",
+      "method"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1457",
+    "quoteText": "If you're doing an experiment, you should report everything that you think might make it invalid—not only what you think is right about it.",
+    "quoteTextEN": "If you're doing an experiment, you should report everything that you think might make it invalid—not only what you think is right about it.",
+    "quoteDescription": "From 'Cargo Cult Science' (1974), the first concrete example he gives of scientific integrity.",
+    "quoteMeaningAnalysis": "The rule shifts the burden onto the author: the paper should carry its own strongest objections. Most reporting does the opposite and lists only the supporting evidence.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "experiment",
+      "reporting",
+      "integrity"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1458",
+    "quoteText": "They're doing everything right. The form is perfect. It looks exactly the way it looked before. But it doesn't work. No airplanes land.",
+    "quoteTextEN": "They're doing everything right. The form is perfect. It looks exactly the way it looked before. But it doesn't work. No airplanes land.",
+    "quoteDescription": "From 'Cargo Cult Science' (1974), describing South Sea islanders who built imitation runways and control huts after the war.",
+    "quoteMeaningAnalysis": "The image is of ritual copied without mechanism. Five short sentences take the reader from perfect form to zero result, which is the whole argument of the talk.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "cargo cult",
+      "imitation",
+      "form"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1459",
+    "quoteText": "So I call these things cargo cult science, because they follow all the apparent precepts and forms of scientific investigation, but they're missing something essential, because the planes don't land.",
+    "quoteTextEN": "So I call these things cargo cult science, because they follow all the apparent precepts and forms of scientific investigation, but they're missing something essential, because the planes don't land.",
+    "quoteDescription": "From 'Cargo Cult Science' (1974), where he coins the term.",
+    "quoteMeaningAnalysis": "He defines a pseudoscience by outcome, not by appearance. A field can have journals, statistics and controls and still be running a ritual if its predictions never arrive.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "pseudoscience",
+      "cargo cult",
+      "definition"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1460",
+    "quoteText": "After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that.",
+    "quoteTextEN": "After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that.",
+    "quoteDescription": "From 'Cargo Cult Science' (1974), immediately after 'The first principle is that you must not fool yourself'.",
+    "quoteMeaningAnalysis": "Feynman ranks the two kinds of honesty. Public honesty is the easy part; the hard discipline is the private one that comes first.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "self-deception",
+      "honesty"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1461",
+    "quoteText": "I'm talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to have when acting as a scientist.",
+    "quoteTextEN": "I'm talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to have when acting as a scientist.",
+    "quoteDescription": "From 'Cargo Cult Science' (1974), distinguishing scientific integrity from ordinary honesty.",
+    "quoteMeaningAnalysis": "Not lying is the floor. The extra duty is to volunteer the ways you might be wrong, which no ordinary social norm demands.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "integrity",
+      "error",
+      "responsibility"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1462",
+    "quoteText": "So I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity. May you have that freedom.",
+    "quoteTextEN": "So I have just one wish for you—the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity. May you have that freedom.",
+    "quoteDescription": "Closing words of the 'Cargo Cult Science' commencement address (1974).",
+    "quoteMeaningAnalysis": "He ends by admitting that integrity depends partly on circumstance: funding and rank can force a person to bend. The wish is for an environment, not for willpower.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "integrity",
+      "institutions",
+      "freedom"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1463",
+    "quoteText": "In fact, he discovered all the things you have to do to discover something about rats.",
+    "quoteTextEN": "In fact, he discovered all the things you have to do to discover something about rats.",
+    "quoteDescription": "From 'Cargo Cult Science' (1974), on the rat-maze experiments of a researcher named Young that later work ignored.",
+    "quoteMeaningAnalysis": "Young's real result was a list of controls, not a finding about rats. Feynman points out that the field did not cite him because nothing headline-worthy came out of it.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "controls",
+      "experiment design",
+      "psychology"
+    ],
+    "resources": [
+      {
+        "title": "Cargo Cult Science (Caltech commencement, 1974)",
+        "url": "https://people.cs.uchicago.edu/~ravenben/cargocult.html"
+      }
+    ]
+  },
+  {
+    "id": "1464",
+    "quoteText": "When playing Russian roulette the fact that the first shot got off safely is little comfort for the next.",
+    "quoteTextEN": "When playing Russian roulette the fact that the first shot got off safely is little comfort for the next.",
+    "quoteDescription": "From Feynman's Appendix F to the Rogers Commission report on the Challenger accident (1986), on O-ring erosion seen in earlier flights.",
+    "quoteMeaningAnalysis": "Past survival was being read as evidence of safety. The analogy makes plain that a lucky outcome says nothing about the odds of the next trial.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "risk",
+      "survivorship",
+      "Challenger"
+    ],
+    "resources": [
+      {
+        "title": "Rogers Commission Report, Vol. 2, Appendix F",
+        "url": "https://history.nasa.gov/rogersrep/v2appf.htm"
+      }
+    ]
+  },
+  {
+    "id": "1465",
+    "quoteText": "What is the cause of management's fantastic faith in the machinery?",
+    "quoteTextEN": "What is the cause of management's fantastic faith in the machinery?",
+    "quoteDescription": "From Appendix F of the Rogers Commission report (1986), after comparing engineers' and managers' failure estimates.",
+    "quoteMeaningAnalysis": "Management's 1-in-100,000 figure implied a launch a day for 300 years with one loss. Feynman frames the gap as a question about belief, not engineering.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "management",
+      "risk estimation",
+      "Challenger"
+    ],
+    "resources": [
+      {
+        "title": "Rogers Commission Report, Vol. 2, Appendix F",
+        "url": "https://history.nasa.gov/rogersrep/v2appf.htm"
+      }
+    ]
+  },
+  {
+    "id": "1466",
+    "quoteText": "The argument that the same risk was flown before without failure is often accepted as an argument for the safety of accepting it again.",
+    "quoteTextEN": "The argument that the same risk was flown before without failure is often accepted as an argument for the safety of accepting it again.",
+    "quoteDescription": "From Appendix F of the Rogers Commission report (1986), on Flight Readiness Reviews.",
+    "quoteMeaningAnalysis": "This is the mechanism later called normalization of deviance. Each successful flight lowered the bar for the next one.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "normalization of deviance",
+      "safety",
+      "reviews"
+    ],
+    "resources": [
+      {
+        "title": "Rogers Commission Report, Vol. 2, Appendix F",
+        "url": "https://history.nasa.gov/rogersrep/v2appf.htm"
+      }
+    ]
+  },
+  {
+    "id": "1467",
+    "quoteText": "The fact that this danger did not lead to a catastrophe before is no guarantee that it will not the next time, unless it is completely understood.",
+    "quoteTextEN": "The fact that this danger did not lead to a catastrophe before is no guarantee that it will not the next time, unless it is completely understood.",
+    "quoteDescription": "From Appendix F of the Rogers Commission report (1986), on the solid rocket booster joints.",
+    "quoteMeaningAnalysis": "The qualifier at the end is the point: only understanding the mechanism, not a clean record, licenses confidence.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "understanding",
+      "risk"
+    ],
+    "resources": [
+      {
+        "title": "Rogers Commission Report, Vol. 2, Appendix F",
+        "url": "https://history.nasa.gov/rogersrep/v2appf.htm"
+      }
+    ]
+  },
+  {
+    "id": "1468",
+    "quoteText": "NASA owes it to the citizens from whom it asks support to be frank, honest, and informative, so that these citizens can make the wisest decisions for the use of their limited resources.",
+    "quoteTextEN": "NASA owes it to the citizens from whom it asks support to be frank, honest, and informative, so that these citizens can make the wisest decisions for the use of their limited resources.",
+    "quoteDescription": "From the closing paragraph of Appendix F of the Rogers Commission report (1986).",
+    "quoteMeaningAnalysis": "Feynman ties honesty about risk to democratic accountability. Overselling the Shuttle deprived the public of the facts it needed to fund it wisely.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "accountability",
+      "public trust",
+      "honesty"
+    ],
+    "resources": [
+      {
+        "title": "Rogers Commission Report, Vol. 2, Appendix F",
+        "url": "https://history.nasa.gov/rogersrep/v2appf.htm"
+      }
+    ]
+  },
+  {
+    "id": "1469",
+    "quoteText": "The estimates range from roughly 1 in 100 to 1 in 100,000. The higher figures come from the working engineers, and the very low figures from management.",
+    "quoteTextEN": "The estimates range from roughly 1 in 100 to 1 in 100,000. The higher figures come from the working engineers, and the very low figures from management.",
+    "quoteDescription": "Opening of Appendix F, 'Personal Observations on the Reliability of the Shuttle' (1986).",
+    "quoteMeaningAnalysis": "A thousandfold disagreement inside one organisation is itself the finding. Distance from the hardware predicted optimism.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "probability",
+      "organisations",
+      "Challenger"
+    ],
+    "resources": [
+      {
+        "title": "Rogers Commission Report, Vol. 2, Appendix F",
+        "url": "https://history.nasa.gov/rogersrep/v2appf.htm"
+      }
+    ]
+  },
+  {
+    "id": "1470",
+    "quoteText": "So there is plenty of room at the bottom! Don't tell me about microfilm!",
+    "quoteTextEN": "So there is plenty of room at the bottom! Don't tell me about microfilm!",
+    "quoteDescription": "From 'There's Plenty of Room at the Bottom', Feynman's talk at the American Physical Society meeting at Caltech, December 1959.",
+    "quoteMeaningAnalysis": "He has just shown that all the world's books fit in a speck of dust. Dismissing microfilm signals that he means a different order of miniaturisation entirely.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "nanotechnology",
+      "miniaturisation"
+    ],
+    "resources": [
+      {
+        "title": "There's Plenty of Room at the Bottom (APS, Caltech, 1959)",
+        "url": "https://www.zyvex.com/nanotech/feynman.html"
+      }
+    ]
+  },
+  {
+    "id": "1471",
+    "quoteText": "The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom.",
+    "quoteTextEN": "The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom.",
+    "quoteDescription": "From 'There's Plenty of Room at the Bottom' (1959).",
+    "quoteMeaningAnalysis": "This sentence is often treated as the founding claim of nanotechnology. Feynman separates what physics forbids from what engineering has not yet done.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "nanotechnology",
+      "atoms",
+      "possibility"
+    ],
+    "resources": [
+      {
+        "title": "There's Plenty of Room at the Bottom (APS, Caltech, 1959)",
+        "url": "https://www.zyvex.com/nanotech/feynman.html"
+      }
+    ]
+  },
+  {
+    "id": "1472",
+    "quoteText": "Why cannot we write the entire 24 volumes of the Encyclopaedia Brittanica on the head of a pin?",
+    "quoteTextEN": "Why cannot we write the entire 24 volumes of the Encyclopaedia Brittanica on the head of a pin?",
+    "quoteDescription": "From 'There's Plenty of Room at the Bottom' (1959), the opening concrete challenge of the talk.",
+    "quoteMeaningAnalysis": "He turns a vague idea into an arithmetic problem: magnify a pinhead 25,000 times and it has the area of the encyclopedia's pages.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "information density",
+      "challenge"
+    ],
+    "resources": [
+      {
+        "title": "There's Plenty of Room at the Bottom (APS, Caltech, 1959)",
+        "url": "https://www.zyvex.com/nanotech/feynman.html"
+      }
+    ]
+  },
+  {
+    "id": "1473",
+    "quoteText": "It would be interesting in surgery if you could swallow the surgeon.",
+    "quoteTextEN": "It would be interesting in surgery if you could swallow the surgeon.",
+    "quoteDescription": "From 'There's Plenty of Room at the Bottom' (1959), reporting an idea of his friend Albert R. Hibbs.",
+    "quoteMeaningAnalysis": "The phrase anticipates medical micro-robots decades early. Feynman credits the idea to Hibbs while explaining why small machines would need to be largely automatic.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "medicine",
+      "micro-machines"
+    ],
+    "resources": [
+      {
+        "title": "There's Plenty of Room at the Bottom (APS, Caltech, 1959)",
+        "url": "https://www.zyvex.com/nanotech/feynman.html"
+      }
+    ]
+  },
+  {
+    "id": "1474",
+    "quoteText": "You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.",
+    "quoteTextEN": "You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.",
+    "quoteDescription": "From Surely You're Joking, Mr. Feynman! (1985), 'The Dignified Professor', on recovering from burnout at Cornell.",
+    "quoteMeaningAnalysis": "Feynman describes this as the thought that freed him to play with physics again. Other people's expectations are relocated as their error rather than his debt.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "expectations",
+      "burnout",
+      "freedom"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1475",
+    "quoteText": "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!",
+    "quoteTextEN": "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way—by rote or something. Their knowledge is so fragile!",
+    "quoteDescription": "From Surely You're Joking, Mr. Feynman! (1985), 'Who Stole the Door?'.",
+    "quoteMeaningAnalysis": "Rote knowledge breaks when the question is phrased differently. Fragility is his test for whether something was understood.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "learning",
+      "understanding",
+      "rote"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1476",
+    "quoteText": "I couldn't see how anyone could be educated by this self-propagating system in which people pass exams, and teach others to pass exams, but nobody knows anything.",
+    "quoteTextEN": "I couldn't see how anyone could be educated by this self-propagating system in which people pass exams, and teach others to pass exams, but nobody knows anything.",
+    "quoteDescription": "From Surely You're Joking, Mr. Feynman! (1985), 'O Americano, Outra Vez!', on physics teaching in Brazil.",
+    "quoteMeaningAnalysis": "He had found students who could recite definitions without recognising the phenomena they named. A system can reproduce itself indefinitely while transmitting nothing.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "education",
+      "exams"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1477",
+    "quoteText": "The electron is a theory we use; it is so useful in understanding the way nature works that we can almost call it real.",
+    "quoteTextEN": "The electron is a theory we use; it is so useful in understanding the way nature works that we can almost call it real.",
+    "quoteDescription": "From Surely You're Joking, Mr. Feynman! (1985), 'A Map of the Cat?'.",
+    "quoteMeaningAnalysis": "Feynman treats even the electron as a model judged by usefulness. 'Almost' is a deliberate hedge about what physics can claim to be real.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "models",
+      "realism"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1478",
+    "quoteText": "Have no respect whatsoever for authority; forget who said it and instead look what he starts with, where he ends up, and ask yourself, \"Is it reasonable?\"",
+    "quoteTextEN": "Have no respect whatsoever for authority; forget who said it and instead look what he starts with, where he ends up, and ask yourself, \"Is it reasonable?\"",
+    "quoteDescription": "From What Do You Care What Other People Think? (1988), describing a lesson from his father while doubting Descartes.",
+    "quoteMeaningAnalysis": "The method replaces the speaker with the argument's premises and conclusion. Reputation drops out of the evaluation.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "authority",
+      "reasoning",
+      "father"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1479",
+    "quoteText": "I learned very early the difference between knowing the name of something and knowing something.",
+    "quoteTextEN": "I learned very early the difference between knowing the name of something and knowing something.",
+    "quoteDescription": "From 'The Making of a Scientist' in What Do You Care What Other People Think? (1988), after his father's story about the bird.",
+    "quoteMeaningAnalysis": "Names in many languages tell you about people, not the bird. Feynman uses it to separate vocabulary from understanding.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "names",
+      "knowledge",
+      "childhood"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1480",
+    "quoteText": "I've already got the prize: the prize is the pleasure of finding the thing out, the kick in the discovery, the observation that other people use it. Those are the real things.",
+    "quoteTextEN": "I've already got the prize: the prize is the pleasure of finding the thing out, the kick in the discovery, the observation that other people use it. Those are the real things.",
+    "quoteDescription": "From the 1981 BBC Horizon interview 'The Pleasure of Finding Things Out', explaining that he does not like honours.",
+    "quoteMeaningAnalysis": "He counts the Nobel as secondary to the discovery itself and to its use by others. The quote gave the interview and later book their title.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "motivation",
+      "discovery",
+      "honours"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1481",
+    "quoteText": "I can live with doubt, and uncertainty, and not knowing. I think it's much more interesting to live not knowing than to have answers which might be wrong.",
+    "quoteTextEN": "I can live with doubt, and uncertainty, and not knowing. I think it's much more interesting to live not knowing than to have answers which might be wrong.",
+    "quoteDescription": "From the 1981 BBC Horizon interview 'The Pleasure of Finding Things Out'.",
+    "quoteMeaningAnalysis": "Uncertainty is presented as preferable to false certainty, not merely tolerable. It is a temperament as much as an epistemology.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "doubt",
+      "uncertainty"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1482",
+    "quoteText": "I don't feel frightened by not knowing things, by being lost in the mysterious universe without having any purpose—which is the way it really is, as far as I can tell.",
+    "quoteTextEN": "I don't feel frightened by not knowing things, by being lost in the mysterious universe without having any purpose—which is the way it really is, as far as I can tell.",
+    "quoteDescription": "From the 1981 BBC Horizon interview 'The Pleasure of Finding Things Out', on the question 'Why are we here?'.",
+    "quoteMeaningAnalysis": "Even his statement about purposelessness carries a hedge: 'as far as I can tell'. He applies the same doubt to his own atheism.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "meaning",
+      "fear",
+      "universe"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1483",
+    "quoteText": "The test of all knowledge is experiment. Experiment is the sole judge of scientific \"truth.\"",
+    "quoteTextEN": "The test of all knowledge is experiment. Experiment is the sole judge of scientific \"truth.\"",
+    "quoteDescription": "The Feynman Lectures on Physics, Vol. I, Lecture 1, 'Atoms in Motion', section 1-1.",
+    "quoteMeaningAnalysis": "The scare quotes around truth matter: experiment judges, but what it confirms is provisional and may be corrected later.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "experiment",
+      "truth"
+    ],
+    "resources": [
+      {
+        "title": "The Feynman Lectures on Physics (Caltech online edition)",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      },
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1484",
+    "quoteText": "All things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.",
+    "quoteTextEN": "All things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.",
+    "quoteDescription": "The Feynman Lectures on Physics, Vol. I, section 1-2, his answer to which one sentence should survive a cataclysm.",
+    "quoteMeaningAnalysis": "He chooses the atomic hypothesis because so much follows from it with a little thought. It is a lesson in compressing knowledge into its most generative form.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "atoms",
+      "compression",
+      "teaching"
+    ],
+    "resources": [
+      {
+        "title": "The Feynman Lectures on Physics (Caltech online edition)",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      },
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1485",
+    "quoteText": "The \"paradox\" is only a conflict between reality and your feeling of what reality \"ought to be.\"",
+    "quoteTextEN": "The \"paradox\" is only a conflict between reality and your feeling of what reality \"ought to be.\"",
+    "quoteDescription": "The Feynman Lectures on Physics, Vol. III, Lecture 18, 'Angular Momentum', section 18-3.",
+    "quoteMeaningAnalysis": "Quantum puzzles are relocated from nature to our expectations. The defect is in intuition, not in the world.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "paradox",
+      "quantum mechanics",
+      "intuition"
+    ],
+    "resources": [
+      {
+        "title": "The Feynman Lectures on Physics (Caltech online edition)",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      },
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1486",
+    "quoteText": "The same equations have the same solutions.",
+    "quoteTextEN": "The same equations have the same solutions.",
+    "quoteDescription": "The Feynman Lectures on Physics, Vol. II, Lecture 12, 'Electrostatic Analogs'.",
+    "quoteMeaningAnalysis": "Once two systems obey the same mathematics, solving one solves the other. Heat flow, membranes and electrostatics share answers for that reason.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "analogy",
+      "mathematics"
+    ],
+    "resources": [
+      {
+        "title": "The Feynman Lectures on Physics (Caltech online edition)",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      },
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1487",
+    "quoteText": "Whenever you see a sweeping statement that a tremendous amount can come from a very small number of assumptions, you always find that it is false.",
+    "quoteTextEN": "Whenever you see a sweeping statement that a tremendous amount can come from a very small number of assumptions, you always find that it is false.",
+    "quoteDescription": "The Feynman Lectures on Physics, Vol. II, Lecture 26, 'Lorentz Transformations of the Fields'.",
+    "quoteMeaningAnalysis": "He warns that elegant derivations usually hide implied assumptions. The economy is often an illusion created by what was left unsaid.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "assumptions",
+      "elegance"
+    ],
+    "resources": [
+      {
+        "title": "The Feynman Lectures on Physics (Caltech online edition)",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      },
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1488",
+    "quoteText": "Poets say science takes away from the beauty of the stars—mere globs of gas atoms. Nothing is \"mere\".",
+    "quoteTextEN": "Poets say science takes away from the beauty of the stars—mere globs of gas atoms. Nothing is \"mere\".",
+    "quoteDescription": "The Feynman Lectures on Physics, Vol. I, Lecture 3, footnote.",
+    "quoteMeaningAnalysis": "He rejects the idea that explanation diminishes wonder. Knowing what the stars are adds to what he sees on a desert night.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "beauty",
+      "wonder",
+      "poetry"
+    ],
+    "resources": [
+      {
+        "title": "The Feynman Lectures on Physics (Caltech online edition)",
+        "url": "https://www.feynmanlectures.caltech.edu/"
+      },
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1489",
+    "quoteText": "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.",
+    "quoteTextEN": "Nature uses only the longest threads to weave her patterns, so each small piece of her fabric reveals the organization of the entire tapestry.",
+    "quoteDescription": "From The Character of Physical Law (Messenger Lectures, Cornell, 1964), chapter 1, 'The Law of Gravitation'.",
+    "quoteMeaningAnalysis": "Because the same laws run through everything, a local detail can reveal a universal rule. Gravity on Earth and among galaxies is one thread.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "laws of nature",
+      "unity"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1490",
+    "quoteText": "Our imagination is stretched to the utmost, not, as in fiction, to imagine things which are not really there, but just to comprehend those things which are there.",
+    "quoteTextEN": "Our imagination is stretched to the utmost, not, as in fiction, to imagine things which are not really there, but just to comprehend those things which are there.",
+    "quoteDescription": "From The Character of Physical Law (1964), chapter 6, on quantum mechanics.",
+    "quoteMeaningAnalysis": "Science demands more imagination than fiction, but constrained imagination. The difficulty is accepting what is real, not inventing what is not.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "imagination",
+      "quantum mechanics"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1491",
+    "quoteText": "Every theoretical physicist who is any good knows six or seven different theoretical representations for exactly the same physics.",
+    "quoteTextEN": "Every theoretical physicist who is any good knows six or seven different theoretical representations for exactly the same physics.",
+    "quoteDescription": "From The Character of Physical Law (1964), chapter 7, 'Seeking New Laws'.",
+    "quoteMeaningAnalysis": "Equivalent formulations predict the same things but suggest different extensions. Keeping several in mind is how new laws get guessed.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "multiple models",
+      "theory"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1492",
+    "quoteText": "A very great deal more truth can become known than can be proven.",
+    "quoteTextEN": "A very great deal more truth can become known than can be proven.",
+    "quoteDescription": "From Feynman's Nobel Lecture, 'The Development of the Space-Time View of Quantum Electrodynamics', 11 December 1965.",
+    "quoteMeaningAnalysis": "He is defending heuristic and physical reasoning over rigorous proof. Much of QED was right long before it was mathematically justified.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "proof",
+      "intuition",
+      "truth"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1493",
+    "quoteText": "Some people say, \"How can you live without knowing?\" I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.",
+    "quoteTextEN": "Some people say, \"How can you live without knowing?\" I do not know what they mean. I always live without knowing. That is easy. How you get to know is what I want to know.",
+    "quoteDescription": "From The Meaning of It All (1963 Danz lectures, published 1998), lecture I, 'The Uncertainty of Science'.",
+    "quoteMeaningAnalysis": "He moves attention from possessing answers to the process of getting them. Not knowing is the normal state, not a crisis.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "uncertainty",
+      "inquiry"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1494",
+    "quoteText": "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy.",
+    "quoteTextEN": "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy.",
+    "quoteDescription": "From 'Simulating Physics with Computers', International Journal of Theoretical Physics 21 (1982).",
+    "quoteMeaningAnalysis": "This paper is a founding text of quantum computing. Simulating quantum systems on classical machines scales badly, so the computer itself should be quantum.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "quantum computing",
+      "simulation"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1495",
+    "quoteText": "The theory of quantum electrodynamics describes Nature as absurd from the point of view of common sense. And it agrees fully with experiment. So I hope you accept Nature as She is—absurd.",
+    "quoteTextEN": "The theory of quantum electrodynamics describes Nature as absurd from the point of view of common sense. And it agrees fully with experiment. So I hope you accept Nature as She is—absurd.",
+    "quoteDescription": "From QED: The Strange Theory of Light and Matter (1985), lecture 1.",
+    "quoteMeaningAnalysis": "Common sense loses to experiment. He asks the audience to give up the demand that nature be reasonable by human standards.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "QED",
+      "common sense",
+      "experiment"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1496",
+    "quoteText": "I don't know anything, but I do know that everything is interesting if you go into it deeply enough.",
+    "quoteTextEN": "I don't know anything, but I do know that everything is interesting if you go into it deeply enough.",
+    "quoteDescription": "From the Omni magazine interview 'The Smartest Man in the World' (1979).",
+    "quoteMeaningAnalysis": "Interest here is a property of depth, not of the subject. Any topic rewards enough persistence.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "curiosity",
+      "depth"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1497",
+    "quoteText": "Science alone of all the subjects contains within itself the lesson of the danger of belief in the infallibility of the greatest teachers of the preceding generation.",
+    "quoteTextEN": "Science alone of all the subjects contains within itself the lesson of the danger of belief in the infallibility of the greatest teachers of the preceding generation.",
+    "quoteDescription": "From 'What is Science?', address to the National Science Teachers Association (1966).",
+    "quoteMeaningAnalysis": "This is the longer form of his line about the ignorance of experts. Science is unusual in teaching students to overturn their teachers.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "authority",
+      "teaching",
+      "science"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1498",
+    "quoteText": "The most important thing I found out from [my father] is that if you asked any question and pursued it deeply enough, then at the end there was a glorious discovery of a general and beautiful kind.",
+    "quoteTextEN": "The most important thing I found out from [my father] is that if you asked any question and pursued it deeply enough, then at the end there was a glorious discovery of a general and beautiful kind.",
+    "quoteDescription": "From The Pleasure of Finding Things Out (1999 collection), p. 28.",
+    "quoteMeaningAnalysis": "His father taught a habit rather than facts: follow a question far enough and it opens onto something general.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "father",
+      "curiosity",
+      "discovery"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1499",
+    "quoteText": "I learned from her that the highest forms of understanding we can achieve are laughter and human compassion.",
+    "quoteTextEN": "I learned from her that the highest forms of understanding we can achieve are laughter and human compassion.",
+    "quoteDescription": "From 'The Making of a Scientist' in What Do You Care What Other People Think? (1988), about his mother.",
+    "quoteMeaningAnalysis": "Alongside his father's science he credits his mother with a different kind of understanding, ranking humour and compassion above it.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
+    "tags": [
+      "mother",
+      "humour",
+      "compassion"
+    ],
+    "resources": [
+      {
+        "title": "Wikiquote: Richard Feynman (sourced section)",
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      }
+    ]
+  },
+  {
+    "id": "1500",
+    "quoteText": "he knows nothing, and thinks that he knows; I neither know nor think that I know.",
+    "quoteTextEN": "he knows nothing, and thinks that he knows; I neither know nor think that I know.",
+    "quoteDescription": "Socrates in Plato's Apology (21d), describing his test of a politician reputed to be wise.",
+    "quoteMeaningAnalysis": "This is the authentic source of the slogan 'I know that I know nothing'. Socrates claims only a slight advantage: unlike the politician, he is not deceived about his own ignorance.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "ignorance",
+      "wisdom",
+      "self-knowledge"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 21d",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1501",
+    "quoteText": "I am that gadfly which God has attached to the state",
+    "quoteTextEN": "I am that gadfly which God has attached to the state",
+    "quoteDescription": "Plato, Apology (30e-31a), Socrates telling the jury what Athens loses by killing him.",
+    "quoteMeaningAnalysis": "Athens is a large sluggish horse and Socrates the insect that keeps it awake. The irritation he causes is offered as the service itself.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "gadfly",
+      "citizenship",
+      "criticism"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 30e",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1502",
+    "quoteText": "I would rather die having spoken after my manner, than speak in your manner and live.",
+    "quoteTextEN": "I would rather die having spoken after my manner, than speak in your manner and live.",
+    "quoteDescription": "Plato, Apology (38e), after the guilty verdict and the penalty vote.",
+    "quoteMeaningAnalysis": "Socrates refuses the usual courtroom tactics of tears and pleading. His integrity of speech is worth more to him than survival.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "integrity",
+      "death",
+      "courage"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 38e",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1503",
+    "quoteText": "The difficulty, my friends, is not to avoid death, but to avoid unrighteousness; for that runs faster than death.",
+    "quoteTextEN": "The difficulty, my friends, is not to avoid death, but to avoid unrighteousness; for that runs faster than death.",
+    "quoteDescription": "Plato, Apology (39a), addressing the jurors who condemned him.",
+    "quoteMeaningAnalysis": "Death is easy to escape by compromise; wrongdoing is the swifter pursuer. The old, slow Socrates has been caught by death, his quick accusers by wickedness.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "death",
+      "justice",
+      "integrity"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 39a",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1504",
+    "quoteText": "virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private.",
+    "quoteTextEN": "virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private.",
+    "quoteDescription": "Plato, Apology (30b), Socrates summarising what he urges on every Athenian.",
+    "quoteMeaningAnalysis": "Money is the downstream product, character the source. Reversing that order is what Socrates spends his life challenging.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "virtue",
+      "wealth",
+      "priorities"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 30b",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1505",
+    "quoteText": "a man who is good for anything ought not to calculate the chance of living or dying; he ought only to consider whether in doing anything he is doing right or wrong",
+    "quoteTextEN": "a man who is good for anything ought not to calculate the chance of living or dying; he ought only to consider whether in doing anything he is doing right or wrong",
+    "quoteDescription": "Plato, Apology (28b), answering a hypothetical critic who calls his way of life dangerous.",
+    "quoteMeaningAnalysis": "The only valid question about an action is whether it is right. Survival odds are struck from the decision entirely.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "ethics",
+      "courage",
+      "decision"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 28b",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1506",
+    "quoteText": "no evil can happen to a good man, either in life or after death.",
+    "quoteTextEN": "no evil can happen to a good man, either in life or after death.",
+    "quoteDescription": "Plato, Apology (41c-d), Socrates' closing words of comfort to the jurors who voted to acquit.",
+    "quoteMeaningAnalysis": "The only real harm is damage to the soul, which only the person can do to himself. On that view a good man is beyond the reach of any sentence.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "virtue",
+      "death",
+      "consolation"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 41d",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1507",
+    "quoteText": "the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown",
+    "quoteTextEN": "the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown",
+    "quoteDescription": "Plato, Apology (29a), explaining why he will not abandon philosophy out of fear.",
+    "quoteMeaningAnalysis": "Fearing death assumes we know it is bad, which nobody does. Fear here is recast as an intellectual error rather than a failure of nerve.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "death",
+      "fear",
+      "knowledge"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 29a",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1508",
+    "quoteText": "Men of Athens, I honour and love you; but I shall obey God rather than you",
+    "quoteTextEN": "Men of Athens, I honour and love you; but I shall obey God rather than you",
+    "quoteDescription": "Plato, Apology (29d), rejecting a hypothetical acquittal on condition that he stop philosophising.",
+    "quoteMeaningAnalysis": "Socrates puts his divine mission above the court's authority while still professing affection for his fellow citizens. It is a founding text for conscientious refusal.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "conscience",
+      "authority",
+      "philosophy"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Apology, Jowett trans., 29d",
+        "url": "https://www.gutenberg.org/ebooks/1656"
+      }
+    ]
+  },
+  {
+    "id": "1509",
+    "quoteText": "not life, but a good life, is to be chiefly valued",
+    "quoteTextEN": "not life, but a good life, is to be chiefly valued",
+    "quoteDescription": "Plato, Crito (48b), as Socrates weighs Crito's plan for him to escape prison.",
+    "quoteMeaningAnalysis": "Mere survival is not the goal; living well is. That principle decides the dialogue, since escaping unjustly would spoil the life worth keeping.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "good life",
+      "ethics",
+      "values"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Crito, Jowett trans., 48b",
+        "url": "https://www.gutenberg.org/ebooks/1657"
+      }
+    ]
+  },
+  {
+    "id": "1510",
+    "quoteText": "why, my dear Crito, should we care about the opinion of the many?",
+    "quoteTextEN": "why, my dear Crito, should we care about the opinion of the many?",
+    "quoteDescription": "Plato, Crito (44c), replying to Crito's worry about what people will say if he does not help Socrates escape.",
+    "quoteMeaningAnalysis": "Only the judgement of those who understand matters. Public reputation is dismissed as an unreliable guide to what is right.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "public opinion",
+      "reputation",
+      "judgement"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Crito, Jowett trans., 44c",
+        "url": "https://www.gutenberg.org/ebooks/1657"
+      }
+    ]
+  },
+  {
+    "id": "1511",
+    "quoteText": "I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best",
+    "quoteTextEN": "I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best",
+    "quoteDescription": "Plato, Crito (46b), before examining Crito's arguments for escape.",
+    "quoteMeaningAnalysis": "Socrates commits to following the best argument even when it leads to his own death. Emotion and pressure from friends do not get a vote.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "reason",
+      "argument",
+      "principle"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Crito, Jowett trans., 46b",
+        "url": "https://www.gutenberg.org/ebooks/1657"
+      }
+    ]
+  },
+  {
+    "id": "1512",
+    "quoteText": "I only wish it were so, Crito; and that the many could do the greatest evil; for then they would also be able to do the greatest good",
+    "quoteTextEN": "I only wish it were so, Crito; and that the many could do the greatest evil; for then they would also be able to do the greatest good",
+    "quoteDescription": "Plato, Crito (44d), answering Crito's claim that the crowd can do the greatest harm.",
+    "quoteMeaningAnalysis": "Real harm and real good both depend on wisdom, which the crowd lacks. Its power is random rather than great in either direction.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "crowds",
+      "power",
+      "wisdom"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Crito, Jowett trans., 44d",
+        "url": "https://www.gutenberg.org/ebooks/1657"
+      }
+    ]
+  },
+  {
+    "id": "1513",
+    "quoteText": "the true votary of philosophy is likely to be misunderstood by other men; they do not perceive that he is always pursuing death and dying",
+    "quoteTextEN": "the true votary of philosophy is likely to be misunderstood by other men; they do not perceive that he is always pursuing death and dying",
+    "quoteDescription": "Plato, Phaedo (64a), Socrates on his last day explaining why he is calm.",
+    "quoteMeaningAnalysis": "Philosophy trains the soul to detach from the body, which is what death completes. To outsiders this looks morbid; to Socrates it is a lifelong rehearsal.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "death",
+      "philosophy",
+      "soul"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Phaedo, Jowett trans., 64a",
+        "url": "https://www.gutenberg.org/ebooks/1658"
+      }
+    ]
+  },
+  {
+    "id": "1514",
+    "quoteText": "Lest we become misologists, he replied, no worse thing can happen to a man than this.",
+    "quoteTextEN": "Lest we become misologists, he replied, no worse thing can happen to a man than this.",
+    "quoteDescription": "Plato, Phaedo (89c-d), after objections leave the listeners doubting all argument.",
+    "quoteMeaningAnalysis": "Being let down by bad arguments can turn into hatred of reason itself, as being let down by people can turn into misanthropy. Socrates calls that the worst outcome of all.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "reason",
+      "argument",
+      "misology"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Phaedo, Jowett trans., 89d",
+        "url": "https://www.gutenberg.org/ebooks/1658"
+      }
+    ]
+  },
+  {
+    "id": "1515",
+    "quoteText": "Crito, I owe a cock to Asclepius; will you remember to pay the debt?",
+    "quoteTextEN": "Crito, I owe a cock to Asclepius; will you remember to pay the debt?",
+    "quoteDescription": "Plato, Phaedo (118a), the last words of Socrates as reported by Phaedo.",
+    "quoteMeaningAnalysis": "A sacrifice to the god of healing is a thank-offering for a cure. Many readers take it to mean that death cures the soul of its life in the body.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "last words",
+      "death",
+      "Asclepius"
+    ],
+    "resources": [
+      {
+        "title": "Plato, Phaedo, Jowett trans., 118a",
+        "url": "https://www.gutenberg.org/ebooks/1658"
+      }
+    ]
+  },
+  {
+    "id": "1516",
+    "quoteText": "Until philosophers are kings, or the kings and princes of this world have the spirit and power of philosophy, and political greatness and wisdom meet in one, and those commoner natures who pursue either to the exclusion of the other are compelled to stand aside, cities will never have rest from their evils",
+    "quoteTextEN": "Until philosophers are kings, or the kings and princes of this world have the spirit and power of philosophy, and political greatness and wisdom meet in one, and those commoner natures who pursue either to the exclusion of the other are compelled to stand aside, cities will never have rest from their evils",
+    "quoteDescription": "Plato, Republic, Book V (473d), the 'third wave' of paradox in the ideal-city argument.",
+    "quoteMeaningAnalysis": "Power and wisdom must be united in the same people before politics can be cured. Socrates expects ridicule for saying it, and says it anyway.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "philosopher kings",
+      "government",
+      "wisdom"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 473d",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1517",
+    "quoteText": "the beginning is the most important part of any work, especially in the case of a young and tender thing; for that is the time at which the character is being formed",
+    "quoteTextEN": "the beginning is the most important part of any work, especially in the case of a young and tender thing; for that is the time at which the character is being formed",
+    "quoteDescription": "Plato, Republic, Book II (377a-b), on the stories told to young children.",
+    "quoteMeaningAnalysis": "Early impressions set character, so the first stories a child hears matter most. The point justifies Socrates' controversial censorship of poets.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "education",
+      "childhood",
+      "beginnings"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 377a",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1518",
+    "quoteText": "justice will be admitted to be the having and doing what is a man's own, and belongs to him",
+    "quoteTextEN": "justice will be admitted to be the having and doing what is a man's own, and belongs to him",
+    "quoteDescription": "Plato, Republic, Book IV (433e-434a), the definition of justice in the city.",
+    "quoteMeaningAnalysis": "Justice is each part doing its proper work and keeping what is properly its own. The definition later carries over to the parts of the soul.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "justice",
+      "definition",
+      "order"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 433e",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1519",
+    "quoteText": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
+    "quoteTextEN": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
+    "quoteDescription": "Plato, Republic, Book VII (536e), on the education of the guardians.",
+    "quoteMeaningAnalysis": "Force can train muscle but not understanding. Socrates therefore wants early learning to feel like play, so the natural bent of each child shows.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "education",
+      "compulsion",
+      "learning"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 536e",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1520",
+    "quoteText": "the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst.",
+    "quoteTextEN": "the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst.",
+    "quoteDescription": "Plato, Republic, Book VII (520d), after the allegory of the cave.",
+    "quoteMeaningAnalysis": "Eagerness for office is treated as a warning sign. The best rulers have better things to do and govern as a duty, not a prize.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "leadership",
+      "power",
+      "ambition"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 520d",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1521",
+    "quoteText": "To them, I said, the truth would be literally nothing but the shadows of the images.",
+    "quoteTextEN": "To them, I said, the truth would be literally nothing but the shadows of the images.",
+    "quoteDescription": "Plato, Republic, Book VII (515c), within the allegory of the cave.",
+    "quoteMeaningAnalysis": "Prisoners who have only seen shadows take them for reality. The line pins down how completely a narrow experience can define what someone calls true.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "cave",
+      "perception",
+      "truth"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 515c",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1522",
+    "quoteText": "the excessive increase of anything often causes a reaction in the opposite direction",
+    "quoteTextEN": "the excessive increase of anything often causes a reaction in the opposite direction",
+    "quoteDescription": "Plato, Republic, Book VIII (563e), on how democracy declines into tyranny.",
+    "quoteMeaningAnalysis": "Socrates generalises from seasons and bodies to constitutions: extremes produce their opposites. Unlimited liberty breeds the conditions for servitude.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "excess",
+      "reaction",
+      "politics"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 563e",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1523",
+    "quoteText": "tyranny naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty",
+    "quoteTextEN": "tyranny naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme form of liberty",
+    "quoteDescription": "Plato, Republic, Book VIII (564a), continuing the account of constitutional decline.",
+    "quoteMeaningAnalysis": "When freedom is pushed to its limit, the people look for a champion who becomes a tyrant. A pointed warning, coming from an Athenian, about democracy's own failure mode.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "democracy",
+      "tyranny",
+      "liberty"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 564a",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1524",
+    "quoteText": "Are you not aware, I said, that the soul of man is immortal and imperishable?",
+    "quoteTextEN": "Are you not aware, I said, that the soul of man is immortal and imperishable?",
+    "quoteDescription": "Plato, Republic, Book X (608d), introducing the final argument of the work.",
+    "quoteMeaningAnalysis": "Glaucon is astonished at the claim. The immortality of the soul raises the stakes of justice beyond a single lifetime and leads into the myth of Er.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "soul",
+      "immortality",
+      "justice"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 608d",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1525",
+    "quoteText": "musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul",
+    "quoteTextEN": "musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul",
+    "quoteDescription": "Plato, Republic, Book III (401d), on education in music and poetry.",
+    "quoteMeaningAnalysis": "Rhythm and harmony shape character beneath the level of argument. For that reason Socrates treats the arts as central to education, not as decoration.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "music",
+      "education",
+      "character"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 401d",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1526",
+    "quoteText": "no one is willingly deceived in that which is the truest and highest part of himself, or about the truest and highest matters",
+    "quoteTextEN": "no one is willingly deceived in that which is the truest and highest part of himself, or about the truest and highest matters",
+    "quoteDescription": "Plato, Republic, Book II (382a-b), on the 'true lie'.",
+    "quoteMeaningAnalysis": "The lie in the soul, being wrong about what matters most, is the deception people dread above all. Socrates separates it from spoken falsehoods, which can sometimes be useful.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
+    "tags": [
+      "truth",
+      "deception",
+      "soul"
+    ],
+    "resources": [
+      {
+        "title": "Plato, The Republic, Jowett trans., 382a",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      }
+    ]
+  },
+  {
+    "id": "1527",
+    "quoteText": "Again, if the campaign is protracted, the resources of the State will not be equal to the strain.",
+    "quoteTextEN": "Again, if the campaign is protracted, the resources of the State will not be equal to the strain.",
+    "quoteDescription": "The Art of War, ch. 2 \"Waging War\", verse 3: On the economic cost of drawn-out campaigns. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A state can fund a short war; a long one drains the treasury faster than it refills. The constraint is logistics, not courage.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "logistics",
+      "cost",
+      "duration"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 2 §3 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1528",
+    "quoteText": "It is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on.",
+    "quoteTextEN": "It is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on.",
+    "quoteDescription": "The Art of War, ch. 2 \"Waging War\", verse 7: Why only those who know war's harm can wage it well. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Profit in war is computed net of its evils, so a general blind to the damage cannot judge the gain. Understanding the downside is the precondition for using the upside.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "risk",
+      "cost",
+      "judgment"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 2 §7 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1529",
+    "quoteText": "This is called, using the conquered foe to augment one’s own strength.",
+    "quoteTextEN": "This is called, using the conquered foe to augment one’s own strength.",
+    "quoteDescription": "The Art of War, ch. 2 \"Waging War\", verse 18: On absorbing captured chariots and prisoners into one's own army. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Captured resources are turned against their former owner, so every success also enlarges the winner. Victory compounds when spoils are put straight back to work.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "resources",
+      "compounding",
+      "spoils"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 2 §18 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1530",
+    "quoteText": "Thus it may be known that the leader of armies is the arbiter of the people’s fate, the man on whom it depends whether the nation shall be in peace or in peril.",
+    "quoteTextEN": "Thus it may be known that the leader of armies is the arbiter of the people’s fate, the man on whom it depends whether the nation shall be in peace or in peril.",
+    "quoteDescription": "The Art of War, ch. 2 \"Waging War\", verse 20: The close of the chapter on waging war. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Giles's version makes the general responsible for the whole nation, not just the army. Military competence is framed as a matter of public safety.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "leadership",
+      "responsibility",
+      "state"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 2 §20 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1531",
+    "quoteText": "Therefore the skilful leader subdues the enemy’s troops without any fighting; he captures their cities without laying siege to them; he overthrows their kingdom without lengthy operations in the field.",
+    "quoteTextEN": "Therefore the skilful leader subdues the enemy’s troops without any fighting; he captures their cities without laying siege to them; he overthrows their kingdom without lengthy operations in the field.",
+    "quoteDescription": "The Art of War, ch. 3 \"Attack By Stratagem\", verse 6: On winning without battle, siege or protracted campaign. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Three conquests are listed, each achieved without the costly method normally used. The skilful leader reaches the outcome while skipping the destruction that usually comes with it.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "victory",
+      "efficiency",
+      "diplomacy"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 3 §6 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1532",
+    "quoteText": "Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force.",
+    "quoteTextEN": "Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force.",
+    "quoteDescription": "The Art of War, ch. 3 \"Attack By Stratagem\", verse 10: On the limits of a small force's resistance. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Courage can delay a superior force but not defeat it. A weak side that insists on a stubborn fight only chooses how it loses.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "force ratio",
+      "realism",
+      "defeat"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 3 §10 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1533",
+    "quoteText": "Now the general is the bulwark of the State: if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak.",
+    "quoteTextEN": "Now the general is the bulwark of the State: if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak.",
+    "quoteDescription": "The Art of War, ch. 3 \"Attack By Stratagem\", verse 11: On the general's place in the state. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "The general is pictured as a defensive wall: gaps in his ability are gaps in the nation's defence. The state is only as strong as the person holding that post.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "leadership",
+      "state",
+      "competence"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 3 §11 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1534",
+    "quoteText": "But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away.",
+    "quoteTextEN": "But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away.",
+    "quoteDescription": "The Art of War, ch. 3 \"Attack By Stratagem\", verse 16: The consequence of a ruler meddling in army affairs. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Distrust inside the army invites outside enemies to act. Sun Tzu blames this anarchy on the sovereign who interferes, not on the soldiers.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "interference",
+      "trust",
+      "command"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 3 §16 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1535",
+    "quoteText": "Standing on the defensive indicates insufficient strength; attacking, a superabundance of strength.",
+    "quoteTextEN": "Standing on the defensive indicates insufficient strength; attacking, a superabundance of strength.",
+    "quoteDescription": "The Art of War, ch. 4 \"Tactical Dispositions\", verse 6: On what posture reveals about strength. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Defending signals a shortage and attacking signals a surplus, so each posture is matched to resources. Choosing the wrong one wastes either men or opportunity.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "defence",
+      "offence",
+      "strength"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 4 §6 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1536",
+    "quoteText": "Neither is it the acme of excellence if you fight and conquer and the whole Empire says, \"Well done!\"",
+    "quoteTextEN": "Neither is it the acme of excellence if you fight and conquer and the whole Empire says, \"Well done!\"",
+    "quoteDescription": "The Art of War, ch. 4 \"Tactical Dispositions\", verse 9: On the hollowness of popular acclaim in victory. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Wins the whole empire applauds were obvious enough for anyone to see coming. The highest skill is invisible to spectators.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "excellence",
+      "acclaim",
+      "mastery"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 4 §9 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1537",
+    "quoteText": "Hence his victories bring him neither reputation for wisdom nor credit for courage.",
+    "quoteTextEN": "Hence his victories bring him neither reputation for wisdom nor credit for courage.",
+    "quoteDescription": "The Art of War, ch. 4 \"Tactical Dispositions\", verse 12: On the quiet reputation of the truly skilful. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Because the expert wins before the fight looks hard, there is nothing dramatic to praise. Effortless success is mistaken for luck.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "reputation",
+      "mastery",
+      "invisibility"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 4 §12 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1538",
+    "quoteText": "Hence the skilful fighter puts himself into a position which makes defeat impossible, and does not miss the moment for defeating the enemy.",
+    "quoteTextEN": "Hence the skilful fighter puts himself into a position which makes defeat impossible, and does not miss the moment for defeating the enemy.",
+    "quoteDescription": "The Art of War, ch. 4 \"Tactical Dispositions\", verse 14: On making defeat impossible and seizing the moment. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Two halves of one discipline appear here: secure your own position, then strike when the enemy errs. Missing the moment wastes the security.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "timing",
+      "security",
+      "opportunity"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 4 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1539",
+    "quoteText": "The onrush of a conquering force is like the bursting of pent-up waters into a chasm a thousand fathoms deep.",
+    "quoteTextEN": "The onrush of a conquering force is like the bursting of pent-up waters into a chasm a thousand fathoms deep.",
+    "quoteDescription": "The Art of War, ch. 4 \"Tactical Dispositions\", verse 20: The closing image of the chapter on tactical dispositions. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Proper dispositions store force the way a dam stores water. When released, the momentum comes from preparation already made.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "momentum",
+      "preparation",
+      "force"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 4 §20 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1540",
+    "quoteText": "Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.",
+    "quoteTextEN": "Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 2: On commanding large armies. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Scale is handled through communication, not through a different art of fighting. Signals and signs let one will move many men.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "scale",
+      "communication",
+      "command"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §2 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1541",
+    "quoteText": "That the impact of your army may be like a grindstone dashed against an egg—this is effected by the science of weak points and strong.",
+    "quoteTextEN": "That the impact of your army may be like a grindstone dashed against an egg—this is effected by the science of weak points and strong.",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 4: On concentrating strength against weakness. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "The grindstone and the egg show a mismatch so total that the result is certain. Sun Tzu wants every engagement arranged to look like that.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "concentration",
+      "strength",
+      "weakness"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §4 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1542",
+    "quoteText": "Indirect tactics, efficiently applied, are inexhausible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away but to return once more.",
+    "quoteTextEN": "Indirect tactics, efficiently applied, are inexhausible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away but to return once more.",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 6: On the endless resource of indirect tactics. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Giles's text compares indirect methods to rivers, seasons and the sun and moon, all cycles that never run out. Surprise is renewable if one keeps recombining.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "indirect",
+      "creativity",
+      "cycles"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §6 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1543",
+    "quoteText": "There are not more than five primary colours (blue, yellow, red, white, and black), yet in combination they produce more hues than can ever be seen.",
+    "quoteTextEN": "There are not more than five primary colours (blue, yellow, red, white, and black), yet in combination they produce more hues than can ever be seen.",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 8: On combination from few elements. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Five colours make countless hues, as five notes make countless melodies. A small set of tactics, recombined, gives the enemy an infinite set to guard against.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "combination",
+      "variety",
+      "creativity"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §8 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1544",
+    "quoteText": "The direct and the indirect lead on to each other in turn. It is like moving in a circle—you never come to an end. Who can exhaust the possibilities of their combination?",
+    "quoteTextEN": "The direct and the indirect lead on to each other in turn. It is like moving in a circle—you never come to an end. Who can exhaust the possibilities of their combination?",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 11: On the circular interplay of direct and indirect. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Each method turns into the other, like moving round a circle with no end. The enemy cannot predict which is coming because the general himself keeps switching.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "direct",
+      "indirect",
+      "unpredictability"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §11 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1545",
+    "quoteText": "Therefore the good fighter will be terrible in his onset, and prompt in his decision.",
+    "quoteTextEN": "Therefore the good fighter will be terrible in his onset, and prompt in his decision.",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 14: On the character of the good fighter. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Terrible onset and prompt decision go together: force without speed of choice is wasted. The pair recalls the crossbow and trigger image of the same chapter.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "decisiveness",
+      "attack",
+      "energy"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1546",
+    "quoteText": "Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height.",
+    "quoteTextEN": "Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height.",
+    "quoteDescription": "The Art of War, ch. 5 \"Energy\", verse 23: The closing image of the chapter on energy. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A round stone at the top of a mountain needs only a push. The general's work is to place his men where the slope does the rest.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "momentum",
+      "position",
+      "energy"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 5 §23 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1547",
+    "quoteText": "By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near.",
+    "quoteTextEN": "By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 3: On controlling the enemy's movements. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Bait draws the enemy in and damage keeps him away; either way the general decides where the enemy goes. It is the practical meaning of imposing one's will.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "control",
+      "incentives",
+      "initiative"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §3 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1548",
+    "quoteText": "An army may march great distances without distress, if it marches through country where the enemy is not.",
+    "quoteTextEN": "An army may march great distances without distress, if it marches through country where the enemy is not.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 6: On marching through undefended country. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Distance is not the problem; resistance is. Choosing routes the enemy has left empty makes long marches cheap.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "route",
+      "avoidance",
+      "efficiency"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §6 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1549",
+    "quoteText": "Hence that general is skilful in attack whose opponent does not know what to defend; and he is skilful in defence whose opponent does not know what to attack.",
+    "quoteTextEN": "Hence that general is skilful in attack whose opponent does not know what to defend; and he is skilful in defence whose opponent does not know what to attack.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 8: On being unreadable in attack and defence. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Skill is measured by the opponent's confusion: he cannot tell what to protect or where to strike. Opacity becomes a weapon.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "secrecy",
+      "attack",
+      "defence"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §8 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1550",
+    "quoteText": "If we wish to fight, the enemy can be forced to an engagement even though he be sheltered behind a high rampart and a deep ditch. All we need do is attack some other place that he will be obliged to relieve.",
+    "quoteTextEN": "If we wish to fight, the enemy can be forced to an engagement even though he be sheltered behind a high rampart and a deep ditch. All we need do is attack some other place that he will be obliged to relieve.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 11: On forcing a sheltered enemy to fight. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A well-fortified enemy can still be pulled out by threatening something he must save. Attack the dependency, not the wall.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "leverage",
+      "indirect",
+      "fortification"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §11 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1551",
+    "quoteText": "If we do not wish to fight, we can prevent the enemy from engaging us even though the lines of our encampment be merely traced out on the ground. All we need do is to throw something odd and unaccountable in his way.",
+    "quoteTextEN": "If we do not wish to fight, we can prevent the enemy from engaging us even though the lines of our encampment be merely traced out on the ground. All we need do is to throw something odd and unaccountable in his way.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 12: On avoiding battle when one wishes to. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A camp marked only on the ground can deter attack if the enemy is confused by something strange. Uncertainty defends where walls do not exist.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "deterrence",
+      "confusion",
+      "defence"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §12 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1552",
+    "quoteText": "By discovering the enemy’s dispositions and remaining invisible ourselves, we can keep our forces concentrated, while the enemy’s must be divided.",
+    "quoteTextEN": "By discovering the enemy’s dispositions and remaining invisible ourselves, we can keep our forces concentrated, while the enemy’s must be divided.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 13: On seeing without being seen. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Knowing the enemy's dispositions while hiding one's own lets one side concentrate while the other spreads out to cover every possibility. Information asymmetry becomes numerical superiority.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "information",
+      "concentration",
+      "visibility"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §13 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1553",
+    "quoteText": "We can form a single united body, while the enemy must split up into fractions. Hence there will be a whole pitted against separate parts of a whole, which means that we shall be many to the enemy’s few.",
+    "quoteTextEN": "We can form a single united body, while the enemy must split up into fractions. Hence there will be a whole pitted against separate parts of a whole, which means that we shall be many to the enemy’s few.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 14: On whole against parts. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A united force facing a divided one becomes many against few even with equal totals. Local superiority is engineered, not given.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "concentration",
+      "division",
+      "superiority"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1554",
+    "quoteText": "For should the enemy strengthen his van, he will weaken his rear; should he strengthen his rear, he will weaken his van; should he strengthen his left, he will weaken his right; should he strengthen his right, he will weaken his left. If he sends reinforcements everywhere, he will everywhere be weak.",
+    "quoteTextEN": "For should the enemy strengthen his van, he will weaken his rear; should he strengthen his rear, he will weaken his van; should he strengthen his left, he will weaken his right; should he strengthen his right, he will weaken his left. If he sends reinforcements everywhere, he will everywhere be weak.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 17: On the cost of defending everywhere. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Every reinforcement weakens somewhere else, so a commander who covers all points is weak at all of them. The line is quoted far beyond war as an argument for focus.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "focus",
+      "priorities",
+      "trade-offs"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §17 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1555",
+    "quoteText": "Though the enemy be stronger in numbers, we may prevent him from fighting. Scheme so as to discover his plans and the likelihood of their success.",
+    "quoteTextEN": "Though the enemy be stronger in numbers, we may prevent him from fighting. Scheme so as to discover his plans and the likelihood of their success.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 22: On preventing a stronger enemy from fighting. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Numbers do not decide whether battle happens. Discovering his plans and their odds lets the weaker side choose not to be found.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "numbers",
+      "planning",
+      "intelligence"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §22 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1556",
+    "quoteText": "How victory may be produced for them out of the enemy’s own tactics—that is what the multitude cannot comprehend.",
+    "quoteTextEN": "How victory may be produced for them out of the enemy’s own tactics—that is what the multitude cannot comprehend.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 26: On victory drawn from the enemy's own tactics. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Ordinary observers see the outcome but not how the enemy's own moves were turned into the means of his defeat. Adaptation looks like magic from outside.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "adaptation",
+      "perception",
+      "victory"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §26 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1557",
+    "quoteText": "So in war, the way is to avoid what is strong and to strike at what is weak.",
+    "quoteTextEN": "So in war, the way is to avoid what is strong and to strike at what is weak.",
+    "quoteDescription": "The Art of War, ch. 6 \"Weak Points And Strong\", verse 30: The rule summarising the chapter on weak points and strong. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Sun Tzu compares this to water avoiding heights and flowing downward. Strength is not confronted; it is bypassed.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "weakness",
+      "strength",
+      "avoidance"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 6 §30 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1558",
+    "quoteText": "After that, comes tactical manœuvering, than which there is nothing more difficult.",
+    "quoteTextEN": "After that, comes tactical manœuvering, than which there is nothing more difficult.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 3: On the difficulty of manoeuvre. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "After assembling the army, getting it into the right place first is the hardest part. Most of war is movement, not combat.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "manoeuvre",
+      "difficulty",
+      "movement"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §3 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1559",
+    "quoteText": "Manœuvering with an army is advantageous; with an undisciplined multitude, most dangerous.",
+    "quoteTextEN": "Manœuvering with an army is advantageous; with an undisciplined multitude, most dangerous.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 5: On discipline as a precondition for manoeuvre. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "The same movement that helps a trained army can wreck a mob. Manoeuvre amplifies whatever discipline already exists.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "discipline",
+      "manoeuvre",
+      "risk"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §5 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1560",
+    "quoteText": "We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost.",
+    "quoteTextEN": "We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 11: On the dependence of an army on supply. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Three repetitions of \"it is lost\" make the point unarguable. An army cut off from its stores is defeated before the fight.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "supply",
+      "logistics",
+      "dependency"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §11 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1561",
+    "quoteText": "We are not fit to lead an army on the march unless we are familiar with the face of the country—its mountains and forests, its pitfalls and precipices, its marshes and swamps.",
+    "quoteTextEN": "We are not fit to lead an army on the march unless we are familiar with the face of the country—its mountains and forests, its pitfalls and precipices, its marshes and swamps.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 13: On knowing the terrain before marching. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Mountains, pitfalls and marshes are listed as the knowledge required to lead. Ignorance of ground cannot be compensated by courage.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "terrain",
+      "preparation",
+      "knowledge"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §13 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1562",
+    "quoteText": "We shall be unable to turn natural advantages to account unless we make use of local guides.",
+    "quoteTextEN": "We shall be unable to turn natural advantages to account unless we make use of local guides.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 14: On the use of local guides. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Natural advantages exist only for those who know where they are. Local knowledge is borrowed rather than discovered at cost.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "local knowledge",
+      "guides",
+      "advantage"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1563",
+    "quoteText": "In war, practise dissimulation, and you will succeed.",
+    "quoteTextEN": "In war, practise dissimulation, and you will succeed.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 15: On dissimulation in war. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Eight words of Giles's English sum up the role of concealment in manoeuvre. It restates the principle that all warfare is based on deception.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "deception",
+      "concealment",
+      "success"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §15 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1564",
+    "quoteText": "Whether to concentrate or to divide your troops, must be decided by circumstances.",
+    "quoteTextEN": "Whether to concentrate or to divide your troops, must be decided by circumstances.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 16: On concentration and division. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "There is no fixed rule for massing or splitting forces; the situation decides. Rigid doctrine is the error he warns against.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "flexibility",
+      "circumstances",
+      "forces"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §16 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1565",
+    "quoteText": "Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focussed on one particular point.",
+    "quoteTextEN": "Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focussed on one particular point.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 24: On signals in battle. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Drums and flags focus thousands of eyes and ears on one point. Coordination at scale depends on shared signals, not individual judgment.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "coordination",
+      "signals",
+      "communication"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §24 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1566",
+    "quoteText": "To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished:—this is the art of husbanding one’s strength.",
+    "quoteTextEN": "To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished:—this is the art of husbanding one’s strength.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 31: On husbanding one's strength. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Three contrasts define the art: near versus far, rested versus toiling, fed versus starving. Each is an advantage gained before the fight.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "energy",
+      "preparation",
+      "advantage"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §31 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1567",
+    "quoteText": "To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array:—this is the art of studying circumstances.",
+    "quoteTextEN": "To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array:—this is the art of studying circumstances.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 32: On studying circumstances. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Holding back from an orderly, confident army is presented as skill, not timidity. The moment to strike is chosen by the enemy's condition.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "patience",
+      "restraint",
+      "circumstances"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §32 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1568",
+    "quoteText": "It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill.",
+    "quoteTextEN": "It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 33: A rule about slopes. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Advancing uphill or meeting a downhill charge hands the enemy gravity as an ally. Terrain decides the direction of attack.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "terrain",
+      "attack",
+      "slope"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §33 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1569",
+    "quoteText": "Do not pursue an enemy who simulates flight; do not attack soldiers whose temper is keen.",
+    "quoteTextEN": "Do not pursue an enemy who simulates flight; do not attack soldiers whose temper is keen.",
+    "quoteDescription": "The Art of War, ch. 7 \"Manœuvering\", verse 34: On feigned flight and keen troops. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A retreating enemy may be leading pursuers into an ambush, and a fresh army should be left until its edge dulls. Both rules counsel against eagerness.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "ambush",
+      "patience",
+      "caution"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 7 §34 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1570",
+    "quoteText": "If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune.",
+    "quoteTextEN": "If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune.",
+    "quoteDescription": "The Art of War, ch. 8 \"Variation Of Tactics\", verse 9: On finding advantage in difficulty. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Readiness to take an advantage in the middle of trouble is how one escapes it. Bad moments still contain openings.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "adversity",
+      "opportunity",
+      "resilience"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 8 §9 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1571",
+    "quoteText": "When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.",
+    "quoteTextEN": "When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.",
+    "quoteDescription": "The Art of War, ch. 8 \"Variation Of Tactics\", verse 14: The close of the five dangerous faults of a general. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "When an army is destroyed, the cause is found in the general's character. Sun Tzu asks that these faults be meditated on, not merely listed.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "leadership",
+      "faults",
+      "character"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 8 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1572",
+    "quoteText": "The rising of birds in their flight is the sign of an ambuscade.",
+    "quoteTextEN": "The rising of birds in their flight is the sign of an ambuscade.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 22: On reading signs in the field. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Birds rising suddenly mean hidden men below. The general learns to read nature as an intelligence report.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "signs",
+      "ambush"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §22 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1573",
+    "quoteText": "When some are seen advancing and some retreating, it is a lure.",
+    "quoteTextEN": "When some are seen advancing and some retreating, it is a lure.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 28: On a mixed advance and retreat. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Disorderly movement may be designed to tempt pursuit. What looks like confusion can be a trap.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "deception",
+      "lure",
+      "observation"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §28 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1574",
+    "quoteText": "If the enemy sees an advantage to be gained and makes no effort to secure it, the soldiers are exhausted.",
+    "quoteTextEN": "If the enemy sees an advantage to be gained and makes no effort to secure it, the soldiers are exhausted.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 31: On an enemy who ignores an advantage. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "An army that fails to take an obvious gain is too tired to act. Inaction reveals condition.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "fatigue",
+      "signs",
+      "observation"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §31 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1575",
+    "quoteText": "If birds gather on any spot, it is unoccupied.",
+    "quoteTextEN": "If birds gather on any spot, it is unoccupied.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 32: On birds gathering. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Birds settle where no men are, so they mark an empty position. A simple observation can reveal an abandoned camp.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "observation",
+      "signs",
+      "reconnaissance"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §32 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1576",
+    "quoteText": "If there is disturbance in the camp, the general’s authority is weak. If the banners and flags are shifted about, sedition is afoot. If the officers are angry, it means that the men are weary.",
+    "quoteTextEN": "If there is disturbance in the camp, the general’s authority is weak. If the banners and flags are shifted about, sedition is afoot. If the officers are angry, it means that the men are weary.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 33: On signs of trouble in the enemy camp. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Disturbance, shifting banners and angry officers each point to a specific weakness. Morale shows on the surface for anyone watching.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "morale",
+      "signs",
+      "authority"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §33 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1577",
+    "quoteText": "To begin by bluster, but afterwards to take fright at the enemy’s numbers, shows a supreme lack of intelligence.",
+    "quoteTextEN": "To begin by bluster, but afterwards to take fright at the enemy’s numbers, shows a supreme lack of intelligence.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 37: On bluster followed by fright. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Threatening loudly and then flinching at numbers is the worst combination of misjudgment. It wastes credibility and reveals fear.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "bluster",
+      "judgment",
+      "fear"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §37 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1578",
+    "quoteText": "When envoys are sent with compliments in their mouths, it is a sign that the enemy wishes for a truce.",
+    "quoteTextEN": "When envoys are sent with compliments in their mouths, it is a sign that the enemy wishes for a truce.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 38: On envoys bearing compliments. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Flattery from the enemy means he wants a pause. Courtesy is read as a signal of need.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "diplomacy",
+      "signs",
+      "truce"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §38 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1579",
+    "quoteText": "If our troops are no more in number than the enemy, that is amply sufficient; it only means that no direct attack can be made.",
+    "quoteTextEN": "If our troops are no more in number than the enemy, that is amply sufficient; it only means that no direct attack can be made.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 40: On numerical parity. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Equal numbers are enough so long as one does not rely on a direct attack. Victory then depends on concentration and reading the enemy.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "numbers",
+      "parity",
+      "strategy"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §40 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1580",
+    "quoteText": "If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad.",
+    "quoteTextEN": "If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad.",
+    "quoteDescription": "The Art of War, ch. 9 \"The Army On The March\", verse 44: On enforcing commands in training. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Discipline in battle is built by consistency in training. Orders that are habitually obeyed become reflexes.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "discipline",
+      "training",
+      "consistency"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 9 §44 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1581",
+    "quoteText": "When the common soldiers are too strong and their officers too weak, the result is insubordination.",
+    "quoteTextEN": "When the common soldiers are too strong and their officers too weak, the result is insubordination.",
+    "quoteDescription": "The Art of War, ch. 10 \"Terrain\", verse 16: On insubordination. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Strong soldiers with weak officers produce disobedience. The calamity is caused by a failure of leadership, not of courage.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "insubordination",
+      "officers",
+      "leadership"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 10 §16 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1582",
+    "quoteText": "When a general, unable to estimate the enemy’s strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank, the result must be a rout.",
+    "quoteTextEN": "When a general, unable to estimate the enemy’s strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank, the result must be a rout.",
+    "quoteDescription": "The Art of War, ch. 10 \"Terrain\", verse 19: On the cause of a rout. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A rout comes from failing to estimate the enemy, mismatching forces and leaving the front without picked men. Sun Tzu lays it at the general's door.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "rout",
+      "estimation",
+      "command"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 10 §19 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1583",
+    "quoteText": "He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practises them, will surely be defeated.",
+    "quoteTextEN": "He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practises them, will surely be defeated.",
+    "quoteDescription": "The Art of War, ch. 10 \"Terrain\", verse 22: On knowing and practising the principles. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Knowledge must be put into practice; knowing alone does not win. Those who neither know nor practise are certain to lose.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "practice",
+      "knowledge",
+      "victory"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 10 §22 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1584",
+    "quoteText": "Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss.",
+    "quoteTextEN": "Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss.",
+    "quoteDescription": "The Art of War, ch. 10 \"Terrain\", verse 30: On the experienced soldier. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Experience shows as calm: never bewildered in motion, never at a loss after breaking camp. Preparation removes surprise from the soldier's side.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "experience",
+      "composure",
+      "preparation"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 10 §30 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1585",
+    "quoteText": "If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say: \"Begin by seizing something which your opponent holds dear; then he will be amenable to your will.",
+    "quoteTextEN": "If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say: \"Begin by seizing something which your opponent holds dear; then he will be amenable to your will.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 18: On meeting a large, orderly invading host. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Seizing what the enemy values most gives leverage that numbers cannot match. The strategy targets his priorities instead of his army.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "leverage",
+      "priorities",
+      "negotiation"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §18 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1586",
+    "quoteText": "How to make the best of both strong and weak—that is a question involving the proper use of ground.",
+    "quoteTextEN": "How to make the best of both strong and weak—that is a question involving the proper use of ground.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 33: On using both strong and weak troops. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Terrain is what lets mixed troops all be used well. The general fits men to ground.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "terrain",
+      "resources",
+      "deployment"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §33 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1587",
+    "quoteText": "Thus the skilful general conducts his army just as though he were leading a single man, willy-nilly, by the hand.",
+    "quoteTextEN": "Thus the skilful general conducts his army just as though he were leading a single man, willy-nilly, by the hand.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 34: On the unity of a well-led army. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "A whole army moves as if it were one man led by the hand. The image measures leadership by how little friction there is between command and action.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "unity",
+      "leadership",
+      "cohesion"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §34 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1588",
+    "quoteText": "He burns his boats and breaks his cooking-pots; like a shepherd driving a flock of sheep, he drives his men this way and that, and none knows whither he is going.",
+    "quoteTextEN": "He burns his boats and breaks his cooking-pots; like a shepherd driving a flock of sheep, he drives his men this way and that, and none knows whither he is going.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 39: On committing the army beyond retreat. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Burning boats and breaking pots removes every way back. The men fight hardest when there is nowhere to go.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "commitment",
+      "no retreat",
+      "resolve"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §39 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1589",
+    "quoteText": "For it is the soldier’s disposition to offer an obstinate resistance when surrounded, to fight hard when he cannot help himself, and to obey promptly when he has fallen into danger.",
+    "quoteTextEN": "For it is the soldier’s disposition to offer an obstinate resistance when surrounded, to fight hard when he cannot help himself, and to obey promptly when he has fallen into danger.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 51: On the soldier's disposition under threat. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Surrounded men resist, cornered men fight hard and endangered men obey. Sun Tzu uses this psychology deliberately.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "psychology",
+      "pressure",
+      "soldiers"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §51 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1590",
+    "quoteText": "Confront your soldiers with the deed itself; never let them know your design.",
+    "quoteTextEN": "Confront your soldiers with the deed itself; never let them know your design.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 57: On what to share with the troops. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Soldiers are given the task, not the plan. Secrecy protects the design and keeps the army focused on doing.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "secrecy",
+      "execution",
+      "command"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §57 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1591",
+    "quoteText": "If the enemy leaves a door open, you must rush in.",
+    "quoteTextEN": "If the enemy leaves a door open, you must rush in.",
+    "quoteDescription": "The Art of War, ch. 11 \"The Nine Situations\", verse 65: On exploiting an opening. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "When the enemy leaves an opening, hesitation wastes it. Speed in that moment matters more than caution.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "opportunity",
+      "speed",
+      "initiative"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 11 §65 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1592",
+    "quoteText": "Hence those who use fire as an aid to the attack show intelligence; those who use water as an aid to the attack gain an accession of strength.",
+    "quoteTextEN": "Hence those who use fire as an aid to the attack show intelligence; those who use water as an aid to the attack gain an accession of strength.",
+    "quoteDescription": "The Art of War, ch. 12 \"The Attack By Fire\", verse 13: On fire and water as aids to attack. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Fire calls for intelligence and water for strength, so each element suits a different kind of commander. Choosing between them is choosing which quality the situation needs.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "fire",
+      "water",
+      "methods"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 12 §13 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1593",
+    "quoteText": "By means of water, an enemy may be intercepted, but not robbed of all his belongings.",
+    "quoteTextEN": "By means of water, an enemy may be intercepted, but not robbed of all his belongings.",
+    "quoteDescription": "The Art of War, ch. 12 \"The Attack By Fire\", verse 14: On the limits of water as a weapon. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Flooding can cut an enemy off but does not destroy his stores. The tool fits isolation, not annihilation.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "water",
+      "limits",
+      "methods"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 12 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1594",
+    "quoteText": "Hence it is that with none in the whole army are more intimate relations to be maintained than with spies.",
+    "quoteTextEN": "Hence it is that with none in the whole army are more intimate relations to be maintained than with spies.",
+    "quoteDescription": "The Art of War, ch. 13 \"The Use Of Spies\", verse 14: On the general's relationship with spies. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "No one in the army is to be closer to the general than his spies. Intelligence is placed at the heart of command.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "intelligence",
+      "spies",
+      "trust"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 13 §14 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1595",
+    "quoteText": "Spies cannot be usefully employed without a certain intuitive sagacity.",
+    "quoteTextEN": "Spies cannot be usefully employed without a certain intuitive sagacity.",
+    "quoteDescription": "The Art of War, ch. 13 \"The Use Of Spies\", verse 15: On using spies. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Handling spies is not a procedure but an act of judgment. Without sagacity their work is wasted.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "intelligence",
+      "intuition",
+      "spies"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 13 §15 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1596",
+    "quoteText": "They cannot be properly managed without benevolence and straightforwardness.",
+    "quoteTextEN": "They cannot be properly managed without benevolence and straightforwardness.",
+    "quoteDescription": "The Art of War, ch. 13 \"The Use Of Spies\", verse 16: On managing spies. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Benevolence and straightforwardness are named as requirements for running agents. Even espionage depends on trust.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "trust",
+      "management",
+      "spies"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 13 §16 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1597",
+    "quoteText": "Without subtle ingenuity of mind, one cannot make certain of the truth of their reports.",
+    "quoteTextEN": "Without subtle ingenuity of mind, one cannot make certain of the truth of their reports.",
+    "quoteDescription": "The Art of War, ch. 13 \"The Use Of Spies\", verse 17: On verifying intelligence. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "Reports must be tested before they are believed. Subtle ingenuity is the filter between information and truth.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "verification",
+      "intelligence",
+      "judgment"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 13 §17 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
+    ]
+  },
+  {
+    "id": "1598",
+    "quoteText": "The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy.",
+    "quoteTextEN": "The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy.",
+    "quoteDescription": "The Art of War, ch. 13 \"The Use Of Spies\", verse 25: On the purpose of the five kinds of spies. Lionel Giles translation (1910).",
+    "quoteMeaningAnalysis": "The whole spy system serves one goal: knowledge of the enemy. The converted spy is singled out as the key source.",
+    "author": "Sun Tzu",
+    "culture": "Chinese (Classical)",
+    "category": "Strategy",
+    "tags": [
+      "intelligence",
+      "knowledge",
+      "spies"
+    ],
+    "resources": [
+      {
+        "title": "The Art of War, ch. 13 §25 (Giles trans.)",
+        "url": "https://www.gutenberg.org/ebooks/132"
+      }
     ]
   }
 ];
