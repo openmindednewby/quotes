@@ -9349,1788 +9349,1747 @@ window.QUOTES_DATA = [
   },
   {
     "id": "493",
-    "quoteText": "The whispering tidal pool asks the listeners to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering tidal pool asks the listeners to walk softly across borrowed earth.",
-    "quoteDescription": "Noor El-Baz shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Noor El-Baz",
-    "culture": "Sinai Desert Wisdom",
-    "category": "Nature",
+    "quoteText": "Πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει.",
+    "quoteTextEN": "All men by nature desire to know.",
+    "quoteDescription": "Opening line of Aristotle's Metaphysics, Book I (980a).",
+    "quoteMeaningAnalysis": "Curiosity is not a luxury but part of human nature; the drive to understand comes before any use it may serve.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "curiosity",
+      "knowledge",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://www.gutenberg.org/ebooks/8438",
+      "https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)"
     ]
   },
   {
     "id": "494",
-    "quoteText": "The whispering tidal pool asks the listeners to read the constellations of moss.",
-    "quoteTextEN": "The whispering tidal pool asks the listeners to read the constellations of moss.",
-    "quoteDescription": "Willow Hart shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Willow Hart",
-    "culture": "Pacific Northwest Teachings",
-    "category": "Nature",
+    "quoteText": "ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον.",
+    "quoteTextEN": "Man is by nature a political animal.",
+    "quoteDescription": "From Aristotle's Politics, Book I (1253a).",
+    "quoteMeaningAnalysis": "People only flourish inside a community; a life cut off from the city is either below or above the human.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "community",
+      "politics",
+      "human nature"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://www.gutenberg.org/ebooks/8438",
+      "https://en.wikipedia.org/wiki/Politics_(Aristotle)"
     ]
   },
   {
     "id": "495",
-    "quoteText": "The whispering tidal pool asks the listeners to taste rain before the drought arrives.",
-    "quoteTextEN": "The whispering tidal pool asks the listeners to taste rain before the drought arrives.",
-    "quoteDescription": "Gideon Maseko shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to taste rain before the drought arrives.",
-    "author": "Gideon Maseko",
-    "culture": "Zulu Land Stewardship",
-    "category": "Nature",
+    "quoteText": "μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ, οὐδὲ μία ἡμέρα.",
+    "quoteTextEN": "One swallow does not make a summer, nor does one fine day; similarly one day or brief time of happiness does not make a person entirely happy.",
+    "quoteDescription": "From the Nicomachean Ethics, Book I (1098a).",
+    "quoteMeaningAnalysis": "A good life is judged across its whole length, not by a single bright moment.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "happiness",
+      "patience",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://www.gutenberg.org/ebooks/8438"
     ]
   },
   {
     "id": "496",
-    "quoteText": "The whispering tidal pool asks the listeners to protect roots they will never see.",
-    "quoteTextEN": "The whispering tidal pool asks the listeners to protect roots they will never see.",
-    "quoteDescription": "Anahera Rangi shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to protect roots they will never see.",
-    "author": "Anahera Rangi",
-    "culture": "Maori Forest Lore",
-    "category": "Nature",
+    "quoteText": "For the things we have to learn before we can do them, we learn by doing them.",
+    "quoteTextEN": "For the things we have to learn before we can do them, we learn by doing them.",
+    "quoteDescription": "From the Nicomachean Ethics, Book II (1103a), on how virtues are acquired.",
+    "quoteMeaningAnalysis": "Skill and character are built through practice; you become brave by doing brave acts.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "practice",
+      "learning",
+      "habit"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://www.gutenberg.org/ebooks/8438"
     ]
   },
   {
     "id": "497",
-    "quoteText": "The whispering tidal pool asks the listeners to rest when the owls begin their rounds.",
-    "quoteTextEN": "The whispering tidal pool asks the listeners to rest when the owls begin their rounds.",
-    "quoteDescription": "Lorenzo Bianchi shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to rest when the owls begin their rounds.",
-    "author": "Lorenzo Bianchi",
-    "culture": "Dolomite Trail Reflections",
-    "category": "Nature",
+    "quoteText": "It is the mark of an educated man to look for precision in each class of things just so far as the nature of the subject admits.",
+    "quoteTextEN": "It is the mark of an educated man to look for precision in each class of things just so far as the nature of the subject admits.",
+    "quoteDescription": "From the Nicomachean Ethics, Book I (1094b), W. D. Ross translation.",
+    "quoteMeaningAnalysis": "Demand exactness where the subject allows it and no more; ethics cannot be measured like geometry.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "precision",
+      "education",
+      "judgement"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://www.gutenberg.org/ebooks/8438"
     ]
   },
   {
     "id": "498",
-    "quoteText": "The whispering tidal pool asks the listeners to hear the mountains breathing underneath.",
-    "quoteTextEN": "The whispering tidal pool asks the listeners to hear the mountains breathing underneath.",
-    "quoteDescription": "Sakura Fujimoto shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to hear the mountains breathing underneath.",
-    "author": "Sakura Fujimoto",
-    "culture": "Shinrin-yoku Tradition",
-    "category": "Nature",
+    "quoteText": "While both are dear, piety requires us to honour truth above our friends.",
+    "quoteTextEN": "While both are dear, piety requires us to honour truth above our friends.",
+    "quoteDescription": "From the Nicomachean Ethics, Book I (1096a), as Aristotle prepares to criticise Plato's theory of Forms.",
+    "quoteMeaningAnalysis": "Loyalty to people you admire must not outrank loyalty to the truth; the source of the later Latin 'amicus Plato, sed magis amica veritas'.",
+    "author": "Aristotle",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "truth",
+      "friendship",
+      "integrity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikiquote.org/wiki/Aristotle",
+      "https://www.gutenberg.org/ebooks/8438"
     ]
   },
   {
     "id": "499",
-    "quoteText": "The whispering tidal pool reminds children to walk softly across borrowed earth.",
-    "quoteTextEN": "The whispering tidal pool reminds children to walk softly across borrowed earth.",
-    "quoteDescription": "Yara Benali shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to walk softly across borrowed earth.",
-    "author": "Yara Benali",
-    "culture": "Atlas Mountain Lessons",
-    "category": "Nature",
+    "quoteText": "If you have a large big dataset and you train a very big neural network, then success is guaranteed.",
+    "quoteTextEN": "If you have a large big dataset and you train a very big neural network, then success is guaranteed.",
+    "quoteDescription": "Slide from Sutskever's NeurIPS 2014 talk presenting 'Sequence to Sequence Learning with Neural Networks'.",
+    "quoteMeaningAnalysis": "An early statement of the scaling bet: enough data and a large enough model beat hand-engineered cleverness.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "scaling",
+      "deep learning",
+      "data"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+      "https://arxiv.org/abs/1409.3215"
     ]
   },
   {
     "id": "500",
-    "quoteText": "The whispering tidal pool reminds children to read the constellations of moss.",
-    "quoteTextEN": "The whispering tidal pool reminds children to read the constellations of moss.",
-    "quoteDescription": "Mateo Salcedo shares a nature image where a tidal pool becomes a guide toward listening to the seasons and landscapes.",
-    "quoteMeaningAnalysis": "It suggests that the natural world teaches balance through its cycles and urges us to read the constellations of moss.",
-    "author": "Mateo Salcedo",
-    "culture": "Patagonian Wind Teachings",
-    "category": "Nature",
+    "quoteText": "It may be that today's large neural networks are slightly conscious.",
+    "quoteTextEN": "It may be that today's large neural networks are slightly conscious.",
+    "quoteDescription": "Post on X (Twitter) by Sutskever, February 2022.",
+    "quoteMeaningAnalysis": "A deliberately open-ended remark that started a public debate on whether machine consciousness is a question to take seriously.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "nature",
-      "ecology",
-      "balance"
+      "consciousness",
+      "neural networks",
+      "AI"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Nature",
-      "https://www.nationalgeographic.com/environment/article/environment"
+      "https://en.wikipedia.org/wiki/Ilya_Sutskever"
     ]
   },
   {
     "id": "501",
-    "quoteText": "The curious ink-stained notebook invites students to learn the names of their mistakes.",
-    "quoteTextEN": "The curious ink-stained notebook invites students to learn the names of their mistakes.",
-    "quoteDescription": "Farid Mansouri shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Farid Mansouri",
-    "culture": "Casablanca Study House",
-    "category": "Learning",
+    "quoteText": "Pre-training as we know it will unquestionably end.",
+    "quoteTextEN": "Pre-training as we know it will unquestionably end.",
+    "quoteDescription": "From Sutskever's NeurIPS 2024 Test of Time Award talk, December 2024.",
+    "quoteMeaningAnalysis": "Compute keeps growing but the supply of human-written data does not, so the recipe that built today's models has a limit.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "pre-training",
+      "scaling",
+      "future of AI"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikipedia.org/wiki/Ilya_Sutskever"
     ]
   },
   {
     "id": "502",
-    "quoteText": "The curious ink-stained notebook invites students to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious ink-stained notebook invites students to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Helena Ruiz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Helena Ruiz",
-    "culture": "Galician Learning Circle",
-    "category": "Learning",
+    "quoteText": "Data is the fossil fuel of AI. We have but one internet.",
+    "quoteTextEN": "Data is the fossil fuel of AI. We have but one internet.",
+    "quoteDescription": "From Sutskever's NeurIPS 2024 Test of Time Award talk, December 2024.",
+    "quoteMeaningAnalysis": "Training data is a finite resource that has already been largely extracted; progress must come from new sources or new methods.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "data",
+      "scarcity",
+      "AI"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikipedia.org/wiki/Ilya_Sutskever"
     ]
   },
   {
     "id": "503",
-    "quoteText": "The curious ink-stained notebook invites students to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious ink-stained notebook invites students to honor the teachers they cannot see.",
-    "quoteDescription": "Zhihao Lin shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Zhihao Lin",
-    "culture": "Guangzhou Scholar Tradition",
-    "category": "Learning",
+    "quoteText": "Superintelligence is within reach. Building safe superintelligence is the most important technical problem of our time.",
+    "quoteTextEN": "Superintelligence is within reach. Building safe superintelligence is the most important technical problem of our time.",
+    "quoteDescription": "Opening of the founding statement of Safe Superintelligence Inc., co-founded by Sutskever in June 2024.",
+    "quoteMeaningAnalysis": "Capability and safety are framed as one engineering problem, with safety placed first.",
+    "author": "Ilya Sutskever",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "safety",
+      "superintelligence",
+      "mission"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+      "https://ssi.inc"
     ]
   },
   {
     "id": "504",
-    "quoteText": "The curious ink-stained notebook invites students to listen to silence between the facts.",
-    "quoteTextEN": "The curious ink-stained notebook invites students to listen to silence between the facts.",
-    "quoteDescription": "Rashmi Kulkarni shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Rashmi Kulkarni",
-    "culture": "Pune Study Wisdom",
-    "category": "Learning",
+    "quoteText": "è molto più sicuro essere temuto che amato, quando si abbia a mancare dell'uno de' dua.",
+    "quoteTextEN": "It is much safer to be feared than loved, when, of the two, either must be dispensed with.",
+    "quoteDescription": "From The Prince, Chapter XVII (W. K. Marriott translation).",
+    "quoteMeaningAnalysis": "Love depends on the subject's goodwill, fear on the ruler's own power; Machiavelli adds that the prince must still avoid being hated.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "power",
+      "fear",
+      "leadership"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/1232",
+      "https://en.wikiquote.org/wiki/Niccol%C3%B2_Machiavelli"
     ]
   },
   {
     "id": "505",
-    "quoteText": "The curious ink-stained notebook invites students to trade certainty for better questions.",
-    "quoteTextEN": "The curious ink-stained notebook invites students to trade certainty for better questions.",
-    "quoteDescription": "Isabel Romero shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Isabel Romero",
-    "culture": "Andalusian Madrasa Lore",
-    "category": "Learning",
+    "quoteText": "li uomini si debbono o vezzeggiare o spegnere; perché si vendicano delle leggieri offese, delle gravi non possono.",
+    "quoteTextEN": "Men ought either to be well treated or crushed, because they can avenge themselves of lighter injuries, of more serious ones they cannot.",
+    "quoteDescription": "From The Prince, Chapter III.",
+    "quoteMeaningAnalysis": "Half-measures against an opponent create a wounded enemy; either win them over or remove their capacity to strike back.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "power",
+      "conflict",
+      "realism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/1232",
+      "https://en.wikiquote.org/wiki/Niccol%C3%B2_Machiavelli"
     ]
   },
   {
     "id": "506",
-    "quoteText": "The curious ink-stained notebook invites students to trace understanding through patient practice.",
-    "quoteTextEN": "The curious ink-stained notebook invites students to trace understanding through patient practice.",
-    "quoteDescription": "Oluwaseun Adeyemi shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "Oluwaseun Adeyemi",
-    "culture": "Yoruba Learning Path",
-    "category": "Learning",
+    "quoteText": "non è cosa più difficile a trattare, né più dubbia a riuscire, né più pericolosa a maneggiare, che farsi capo ad introdurre nuovi ordini.",
+    "quoteTextEN": "There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.",
+    "quoteDescription": "From The Prince, Chapter VI.",
+    "quoteMeaningAnalysis": "Reformers face fierce enemies among those who profit from the old order and only lukewarm allies among those who might profit from the new.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "change",
+      "innovation",
+      "leadership"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/1232",
+      "https://en.wikiquote.org/wiki/Niccol%C3%B2_Machiavelli"
     ]
   },
   {
     "id": "507",
-    "quoteText": "The curious ink-stained notebook reminds scholars to learn the names of their mistakes.",
-    "quoteTextEN": "The curious ink-stained notebook reminds scholars to learn the names of their mistakes.",
-    "quoteDescription": "Mikhail Petrov shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Mikhail Petrov",
-    "culture": "Siberian Academy Tales",
-    "category": "Learning",
+    "quoteText": "Fortune is the arbiter of one-half of our actions, but she still leaves us to direct the other half, or perhaps a little less.",
+    "quoteTextEN": "Fortune is the arbiter of one-half of our actions, but she still leaves us to direct the other half, or perhaps a little less.",
+    "quoteDescription": "From The Prince, Chapter XXV.",
+    "quoteMeaningAnalysis": "Luck is real but not total; prudence and preparation govern the share of events that is ours.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "fortune",
+      "agency",
+      "preparation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/1232",
+      "https://en.wikiquote.org/wiki/Niccol%C3%B2_Machiavelli"
     ]
   },
   {
     "id": "508",
-    "quoteText": "The curious ink-stained notebook reminds scholars to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious ink-stained notebook reminds scholars to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "June Park shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "June Park",
-    "culture": "Seoul Study Rooms",
-    "category": "Learning",
+    "quoteText": "The first opinion which one forms of a prince, and of his understanding, is by observing the men he has around him.",
+    "quoteTextEN": "The first opinion which one forms of a prince, and of his understanding, is by observing the men he has around him.",
+    "quoteDescription": "From The Prince, Chapter XXII, on the choice of ministers.",
+    "quoteMeaningAnalysis": "A leader's judgement shows most clearly in whom they choose to trust.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "leadership",
+      "advisers",
+      "judgement"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/1232",
+      "https://en.wikiquote.org/wiki/Niccol%C3%B2_Machiavelli"
     ]
   },
   {
     "id": "509",
-    "quoteText": "The curious ink-stained notebook reminds scholars to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious ink-stained notebook reminds scholars to honor the teachers they cannot see.",
-    "quoteDescription": "Luzviminda Cruz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Luzviminda Cruz",
-    "culture": "Filipino Learning Stories",
-    "category": "Learning",
+    "quoteText": "le iniurie si debbano fare tutte insieme, acciò che, assaporandosi meno, offendino meno: e' benefizii si debbano fare a poco a poco, acciò che si assaporino meglio.",
+    "quoteTextEN": "Injuries ought to be done all at one time, so that, being tasted less, they offend less; benefits ought to be given little by little, so that the flavour of them may last longer.",
+    "quoteDescription": "From The Prince, Chapter VIII.",
+    "quoteMeaningAnalysis": "People remember a slow sequence of favours and forget a single sharp blow sooner than a drawn-out one.",
+    "author": "Niccolò Machiavelli",
+    "culture": "Italian Renaissance",
+    "category": "Strategy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "power",
+      "timing",
+      "psychology"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/1232",
+      "https://en.wikiquote.org/wiki/Niccol%C3%B2_Machiavelli"
     ]
   },
   {
     "id": "510",
-    "quoteText": "The curious ink-stained notebook reminds scholars to listen to silence between the facts.",
-    "quoteTextEN": "The curious ink-stained notebook reminds scholars to listen to silence between the facts.",
-    "quoteDescription": "Haruto Abe shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Haruto Abe",
-    "culture": "Sendai Apprenticeship",
-    "category": "Learning",
+    "quoteText": "Nothing in life is as important as you think it is, while you are thinking about it.",
+    "quoteTextEN": "Nothing in life is as important as you think it is, while you are thinking about it.",
+    "quoteDescription": "From Thinking, Fast and Slow (2011), Chapter 38, on the focusing illusion.",
+    "quoteMeaningAnalysis": "Whatever holds our attention feels larger than it is; judging a life by one feature distorts the whole.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "attention",
+      "bias",
+      "happiness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011)"
     ]
   },
   {
     "id": "511",
-    "quoteText": "The curious ink-stained notebook reminds scholars to trade certainty for better questions.",
-    "quoteTextEN": "The curious ink-stained notebook reminds scholars to trade certainty for better questions.",
-    "quoteDescription": "Farid Mansouri shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Farid Mansouri",
-    "culture": "Casablanca Study House",
-    "category": "Learning",
+    "quoteText": "What you see is all there is.",
+    "quoteTextEN": "What you see is all there is.",
+    "quoteDescription": "From Thinking, Fast and Slow (2011), where Kahneman abbreviates it WYSIATI.",
+    "quoteMeaningAnalysis": "Fast intuitive thinking builds a confident story from the evidence at hand and ignores what is missing.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "bias",
+      "intuition",
+      "evidence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011)"
     ]
   },
   {
     "id": "512",
-    "quoteText": "The curious ink-stained notebook reminds scholars to trace understanding through patient practice.",
-    "quoteTextEN": "The curious ink-stained notebook reminds scholars to trace understanding through patient practice.",
-    "quoteDescription": "Helena Ruiz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "Helena Ruiz",
-    "culture": "Galician Learning Circle",
-    "category": "Learning",
+    "quoteText": "We can be blind to the obvious, and we are also blind to our blindness.",
+    "quoteTextEN": "We can be blind to the obvious, and we are also blind to our blindness.",
+    "quoteDescription": "From Thinking, Fast and Slow (2011), Chapter 1.",
+    "quoteMeaningAnalysis": "The deeper problem is not missing things but not knowing that we miss them.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "self-awareness",
+      "perception",
+      "bias"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011)"
     ]
   },
   {
     "id": "513",
-    "quoteText": "The curious ink-stained notebook encourages mentors to learn the names of their mistakes.",
-    "quoteTextEN": "The curious ink-stained notebook encourages mentors to learn the names of their mistakes.",
-    "quoteDescription": "Zhihao Lin shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Zhihao Lin",
-    "culture": "Guangzhou Scholar Tradition",
-    "category": "Learning",
+    "quoteText": "A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.",
+    "quoteTextEN": "A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.",
+    "quoteDescription": "From Thinking, Fast and Slow (2011), Chapter 5, on cognitive ease.",
+    "quoteMeaningAnalysis": "Repetition produces ease of processing, and the mind mistakes that ease for truth.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "misinformation",
+      "repetition",
+      "bias"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011)"
     ]
   },
   {
     "id": "514",
-    "quoteText": "The curious ink-stained notebook encourages mentors to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious ink-stained notebook encourages mentors to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Rashmi Kulkarni shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Rashmi Kulkarni",
-    "culture": "Pune Study Wisdom",
-    "category": "Learning",
+    "quoteText": "Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.",
+    "quoteTextEN": "Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.",
+    "quoteDescription": "From Thinking, Fast and Slow (2011), Chapter 19, on the illusion of understanding.",
+    "quoteMeaningAnalysis": "Coherent hindsight stories make the world look predictable only because we leave out what we do not know.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "ignorance",
+      "hindsight",
+      "certainty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011)"
     ]
   },
   {
     "id": "515",
-    "quoteText": "The curious ink-stained notebook encourages mentors to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious ink-stained notebook encourages mentors to honor the teachers they cannot see.",
-    "quoteDescription": "Isabel Romero shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Isabel Romero",
-    "culture": "Andalusian Madrasa Lore",
-    "category": "Learning",
+    "quoteText": "Losses loom larger than gains.",
+    "quoteTextEN": "Losses loom larger than gains.",
+    "quoteDescription": "From Kahneman and Tversky, 'Prospect Theory: An Analysis of Decision under Risk', Econometrica (1979).",
+    "quoteMeaningAnalysis": "The pain of losing is felt more strongly than the pleasure of an equal gain, which shapes choices under risk.",
+    "author": "Daniel Kahneman",
+    "culture": "Modern (Psychology)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "loss aversion",
+      "risk",
+      "economics"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011)",
+      "https://doi.org/10.2307/1914185"
     ]
   },
   {
     "id": "516",
-    "quoteText": "The curious ink-stained notebook encourages mentors to listen to silence between the facts.",
-    "quoteTextEN": "The curious ink-stained notebook encourages mentors to listen to silence between the facts.",
-    "quoteDescription": "Oluwaseun Adeyemi shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Oluwaseun Adeyemi",
-    "culture": "Yoruba Learning Path",
-    "category": "Learning",
+    "quoteText": "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up.",
+    "quoteTextEN": "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up.",
+    "quoteDescription": "From Munger's commencement address at the USC Gould School of Law, May 2007.",
+    "quoteMeaningAnalysis": "Steady compounding of knowledge beats raw talent over a lifetime.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Decision-Making",
     "tags": [
       "learning",
-      "curiosity",
+      "compounding",
       "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Peter D. Kaufman (ed.), Poor Charlie's Almanack (2005)"
     ]
   },
   {
     "id": "517",
-    "quoteText": "The curious ink-stained notebook encourages mentors to trade certainty for better questions.",
-    "quoteTextEN": "The curious ink-stained notebook encourages mentors to trade certainty for better questions.",
-    "quoteDescription": "Mikhail Petrov shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Mikhail Petrov",
-    "culture": "Siberian Academy Tales",
-    "category": "Learning",
+    "quoteText": "Never, ever, think about something else when you should be thinking about the power of incentives.",
+    "quoteTextEN": "Never, ever, think about something else when you should be thinking about the power of incentives.",
+    "quoteDescription": "From Munger's talk 'The Psychology of Human Misjudgment' (Harvard, 1995).",
+    "quoteMeaningAnalysis": "Behaviour follows reward structures more reliably than it follows stated intentions.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "incentives",
+      "psychology",
+      "behaviour"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Peter D. Kaufman (ed.), Poor Charlie's Almanack (2005)"
     ]
   },
   {
     "id": "518",
-    "quoteText": "The curious ink-stained notebook encourages mentors to trace understanding through patient practice.",
-    "quoteTextEN": "The curious ink-stained notebook encourages mentors to trace understanding through patient practice.",
-    "quoteDescription": "June Park shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "June Park",
-    "culture": "Seoul Study Rooms",
-    "category": "Learning",
+    "quoteText": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
+    "quoteTextEN": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
+    "quoteDescription": "Quoted in Poor Charlie's Almanack (2005).",
+    "quoteMeaningAnalysis": "Avoiding big errors compounds as surely as brilliance does, and is far easier to repeat.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "mistakes",
+      "discipline",
+      "investing"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Peter D. Kaufman (ed.), Poor Charlie's Almanack (2005)"
     ]
   },
   {
     "id": "519",
-    "quoteText": "The curious ink-stained notebook asks apprentices to learn the names of their mistakes.",
-    "quoteTextEN": "The curious ink-stained notebook asks apprentices to learn the names of their mistakes.",
-    "quoteDescription": "Luzviminda Cruz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Luzviminda Cruz",
-    "culture": "Filipino Learning Stories",
-    "category": "Learning",
+    "quoteText": "You've got to have models in your head. And you've got to array your experience, both vicarious and direct, on this latticework of models.",
+    "quoteTextEN": "You've got to have models in your head. And you've got to array your experience, both vicarious and direct, on this latticework of models.",
+    "quoteDescription": "From 'A Lesson on Elementary, Worldly Wisdom', talk at USC Marshall School of Business, 1994.",
+    "quoteMeaningAnalysis": "Isolated facts are useless; understanding comes from a web of mental models drawn from many disciplines.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "mental models",
+      "wisdom",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Peter D. Kaufman (ed.), Poor Charlie's Almanack (2005)"
     ]
   },
   {
     "id": "520",
-    "quoteText": "The curious ink-stained notebook asks apprentices to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious ink-stained notebook asks apprentices to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Haruto Abe shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Haruto Abe",
-    "culture": "Sendai Apprenticeship",
-    "category": "Learning",
+    "quoteText": "All I want to know is where I'm going to die, so I'll never go there.",
+    "quoteTextEN": "All I want to know is where I'm going to die, so I'll never go there.",
+    "quoteDescription": "A rustic's wish Munger repeated often, including in his 1986 Harvard School commencement speech, to illustrate inversion.",
+    "quoteMeaningAnalysis": "Solve problems backwards: work out what would guarantee failure, then avoid it.",
+    "author": "Charlie Munger",
+    "culture": "Modern (Investing)",
+    "category": "Decision-Making",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "inversion",
+      "humour",
+      "thinking"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "Peter D. Kaufman (ed.), Poor Charlie's Almanack (2005)"
     ]
   },
   {
     "id": "521",
-    "quoteText": "The curious ink-stained notebook asks apprentices to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious ink-stained notebook asks apprentices to honor the teachers they cannot see.",
-    "quoteDescription": "Farid Mansouri shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Farid Mansouri",
-    "culture": "Casablanca Study House",
-    "category": "Learning",
+    "quoteText": "The first principle is that you must not fool yourself, and you are the easiest person to fool.",
+    "quoteTextEN": "The first principle is that you must not fool yourself, and you are the easiest person to fool.",
+    "quoteDescription": "From 'Cargo Cult Science', Feynman's Caltech commencement address, 1974.",
+    "quoteMeaningAnalysis": "Scientific integrity starts with distrusting the conclusions you most want to be true.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "integrity",
+      "science",
+      "self-deception"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Richard_Feynman",
+      "https://calteches.library.caltech.edu/51/2/CargoCult.htm"
     ]
   },
   {
     "id": "522",
-    "quoteText": "The curious ink-stained notebook asks apprentices to listen to silence between the facts.",
-    "quoteTextEN": "The curious ink-stained notebook asks apprentices to listen to silence between the facts.",
-    "quoteDescription": "Helena Ruiz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Helena Ruiz",
-    "culture": "Galician Learning Circle",
-    "category": "Learning",
+    "quoteText": "What I cannot create, I do not understand.",
+    "quoteTextEN": "What I cannot create, I do not understand.",
+    "quoteDescription": "Written on Feynman's Caltech blackboard at the time of his death in 1988.",
+    "quoteMeaningAnalysis": "Real understanding means being able to rebuild the thing from first principles yourself.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "understanding",
+      "first principles",
+      "learning"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Richard_Feynman"
     ]
   },
   {
     "id": "523",
-    "quoteText": "The curious ink-stained notebook asks apprentices to trade certainty for better questions.",
-    "quoteTextEN": "The curious ink-stained notebook asks apprentices to trade certainty for better questions.",
-    "quoteDescription": "Zhihao Lin shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Zhihao Lin",
-    "culture": "Guangzhou Scholar Tradition",
-    "category": "Learning",
+    "quoteText": "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.",
+    "quoteTextEN": "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.",
+    "quoteDescription": "Closing line of Feynman's Appendix F to the Rogers Commission report on the Challenger disaster, 1986.",
+    "quoteMeaningAnalysis": "Management optimism does not change physics; engineering must answer to the facts.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "engineering",
+      "honesty",
+      "risk"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Richard_Feynman"
     ]
   },
   {
     "id": "524",
-    "quoteText": "The curious ink-stained notebook asks apprentices to trace understanding through patient practice.",
-    "quoteTextEN": "The curious ink-stained notebook asks apprentices to trace understanding through patient practice.",
-    "quoteDescription": "Rashmi Kulkarni shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "Rashmi Kulkarni",
-    "culture": "Pune Study Wisdom",
-    "category": "Learning",
+    "quoteText": "I think I can safely say that nobody understands quantum mechanics.",
+    "quoteTextEN": "I think I can safely say that nobody understands quantum mechanics.",
+    "quoteDescription": "From The Character of Physical Law, Feynman's Messenger Lectures at Cornell, 1964.",
+    "quoteMeaningAnalysis": "One can calculate with a theory perfectly well while its picture of reality stays deeply strange.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "physics",
+      "humility",
+      "mystery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Richard_Feynman"
     ]
   },
   {
     "id": "525",
-    "quoteText": "The curious ink-stained notebook nudges sages to learn the names of their mistakes.",
-    "quoteTextEN": "The curious ink-stained notebook nudges sages to learn the names of their mistakes.",
-    "quoteDescription": "Isabel Romero shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Isabel Romero",
-    "culture": "Andalusian Madrasa Lore",
-    "category": "Learning",
+    "quoteText": "If it disagrees with experiment it is wrong. In that simple statement is the key to science.",
+    "quoteTextEN": "If it disagrees with experiment it is wrong. In that simple statement is the key to science.",
+    "quoteDescription": "From The Character of Physical Law (1964 lectures), on the scientific method.",
+    "quoteMeaningAnalysis": "No theory is protected by its elegance or its author; experiment is the final judge.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "science",
+      "experiment",
+      "evidence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Richard_Feynman"
     ]
   },
   {
     "id": "526",
-    "quoteText": "The curious ink-stained notebook nudges sages to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious ink-stained notebook nudges sages to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Oluwaseun Adeyemi shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Oluwaseun Adeyemi",
-    "culture": "Yoruba Learning Path",
-    "category": "Learning",
+    "quoteText": "Science is the belief in the ignorance of experts.",
+    "quoteTextEN": "Science is the belief in the ignorance of experts.",
+    "quoteDescription": "From 'What is Science?', Feynman's address to the National Science Teachers Association, 1966.",
+    "quoteMeaningAnalysis": "Authority is not evidence; science checks claims rather than trusting whoever makes them.",
+    "author": "Richard Feynman",
+    "culture": "Modern (Physics)",
+    "category": "Science",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "science",
+      "authority",
+      "scepticism"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Richard_Feynman"
     ]
   },
   {
     "id": "527",
-    "quoteText": "The curious ink-stained notebook nudges sages to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious ink-stained notebook nudges sages to honor the teachers they cannot see.",
-    "quoteDescription": "Mikhail Petrov shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Mikhail Petrov",
-    "culture": "Siberian Academy Tales",
-    "category": "Learning",
+    "quoteText": "If it were necessary either to do or to suffer wrong, I should choose to suffer rather than do.",
+    "quoteTextEN": "If it were necessary either to do or to suffer wrong, I should choose to suffer rather than do.",
+    "quoteDescription": "Socrates to Polus in Plato's Gorgias (469c).",
+    "quoteMeaningAnalysis": "Doing injustice harms the soul of the one who does it, which Socrates held to be worse than any harm suffered.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "justice",
+      "ethics",
+      "integrity"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/author/93",
+      "https://en.wikiquote.org/wiki/Socrates"
     ]
   },
   {
     "id": "528",
-    "quoteText": "The curious ink-stained notebook nudges sages to listen to silence between the facts.",
-    "quoteTextEN": "The curious ink-stained notebook nudges sages to listen to silence between the facts.",
-    "quoteDescription": "June Park shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "June Park",
-    "culture": "Seoul Study Rooms",
-    "category": "Learning",
+    "quoteText": "None of the wise men considers that anybody ever willingly errs or willingly does base and evil deeds.",
+    "quoteTextEN": "None of the wise men considers that anybody ever willingly errs or willingly does base and evil deeds.",
+    "quoteDescription": "Socrates in Plato's Protagoras (345d-e).",
+    "quoteMeaningAnalysis": "Wrongdoing comes from ignorance of the good, so the cure for vice is knowledge.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "virtue",
+      "knowledge",
+      "ethics"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/author/93",
+      "https://en.wikiquote.org/wiki/Socrates"
     ]
   },
   {
     "id": "529",
-    "quoteText": "The curious ink-stained notebook nudges sages to trade certainty for better questions.",
-    "quoteTextEN": "The curious ink-stained notebook nudges sages to trade certainty for better questions.",
-    "quoteDescription": "Luzviminda Cruz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Luzviminda Cruz",
-    "culture": "Filipino Learning Stories",
-    "category": "Learning",
+    "quoteText": "Are you not ashamed of heaping up the greatest amount of money and honour and reputation, and caring so little about wisdom and truth and the greatest improvement of the soul?",
+    "quoteTextEN": "Are you not ashamed of heaping up the greatest amount of money and honour and reputation, and caring so little about wisdom and truth and the greatest improvement of the soul?",
+    "quoteDescription": "Socrates addressing the Athenian jury in Plato's Apology (29d-e), Jowett translation.",
+    "quoteMeaningAnalysis": "Wealth and status are poor priorities next to the care of one's own character.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "values",
+      "wisdom",
+      "soul"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/author/93",
+      "https://en.wikiquote.org/wiki/Socrates"
     ]
   },
   {
     "id": "530",
-    "quoteText": "The curious ink-stained notebook nudges sages to trace understanding through patient practice.",
-    "quoteTextEN": "The curious ink-stained notebook nudges sages to trace understanding through patient practice.",
-    "quoteDescription": "Haruto Abe shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "Haruto Abe",
-    "culture": "Sendai Apprenticeship",
-    "category": "Learning",
+    "quoteText": "The hour of departure has arrived, and we go our ways, I to die, and you to live. Which is better God only knows.",
+    "quoteTextEN": "The hour of departure has arrived, and we go our ways, I to die, and you to live. Which is better God only knows.",
+    "quoteDescription": "Closing words of Plato's Apology (42a), after the death sentence.",
+    "quoteMeaningAnalysis": "Socrates meets death with calm uncertainty rather than fear, refusing to claim knowledge he lacks.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "death",
+      "courage",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/author/93",
+      "https://en.wikiquote.org/wiki/Socrates"
     ]
   },
   {
     "id": "531",
-    "quoteText": "The curious ink-stained notebook teaches travelers to learn the names of their mistakes.",
-    "quoteTextEN": "The curious ink-stained notebook teaches travelers to learn the names of their mistakes.",
-    "quoteDescription": "Farid Mansouri shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Farid Mansouri",
-    "culture": "Casablanca Study House",
-    "category": "Learning",
+    "quoteText": "We ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him.",
+    "quoteTextEN": "We ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him.",
+    "quoteDescription": "Socrates to Crito in Plato's Crito (49c), Jowett translation.",
+    "quoteMeaningAnalysis": "Retaliation is still wrongdoing; an injury received does not license an injury given.",
+    "author": "Socrates",
+    "culture": "Ancient Greek",
+    "category": "Philosophy",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "justice",
+      "forgiveness",
+      "ethics"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/author/93",
+      "https://en.wikiquote.org/wiki/Socrates"
     ]
   },
   {
     "id": "532",
-    "quoteText": "The curious ink-stained notebook teaches travelers to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious ink-stained notebook teaches travelers to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Helena Ruiz shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Helena Ruiz",
-    "culture": "Galician Learning Circle",
-    "category": "Learning",
+    "quoteText": "Wind extinguishes a candle and energizes fire.",
+    "quoteTextEN": "Wind extinguishes a candle and energizes fire.",
+    "quoteDescription": "From the prologue of Antifragile: Things That Gain from Disorder (2012).",
+    "quoteMeaningAnalysis": "The same stress that destroys fragile things strengthens antifragile ones; the aim is to be the fire.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Risk & Uncertainty",
     "tags": [
-      "learning",
-      "curiosity",
+      "antifragility",
+      "stress",
       "growth"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
     ]
   },
   {
     "id": "533",
-    "quoteText": "The curious ink-stained notebook teaches travelers to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious ink-stained notebook teaches travelers to honor the teachers they cannot see.",
-    "quoteDescription": "Zhihao Lin shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Zhihao Lin",
-    "culture": "Guangzhou Scholar Tradition",
-    "category": "Learning",
+    "quoteText": "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better.",
+    "quoteTextEN": "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better.",
+    "quoteDescription": "From Antifragile: Things That Gain from Disorder (2012).",
+    "quoteMeaningAnalysis": "Taleb names a third category beyond fragile and robust: systems that improve because of volatility.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Risk & Uncertainty",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "antifragility",
+      "resilience",
+      "risk"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
     ]
   },
   {
     "id": "534",
-    "quoteText": "The curious ink-stained notebook teaches travelers to listen to silence between the facts.",
-    "quoteTextEN": "The curious ink-stained notebook teaches travelers to listen to silence between the facts.",
-    "quoteDescription": "Rashmi Kulkarni shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Rashmi Kulkarni",
-    "culture": "Pune Study Wisdom",
-    "category": "Learning",
+    "quoteText": "Don't tell me what you think, tell me what you have in your portfolio.",
+    "quoteTextEN": "Don't tell me what you think, tell me what you have in your portfolio.",
+    "quoteDescription": "From Skin in the Game: Hidden Asymmetries in Daily Life (2018).",
+    "quoteMeaningAnalysis": "Opinions are cheap; what people risk on their beliefs reveals what they really believe.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Risk & Uncertainty",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "skin in the game",
+      "honesty",
+      "incentives"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
     ]
   },
   {
     "id": "535",
-    "quoteText": "The curious ink-stained notebook teaches travelers to trade certainty for better questions.",
-    "quoteTextEN": "The curious ink-stained notebook teaches travelers to trade certainty for better questions.",
-    "quoteDescription": "Isabel Romero shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Isabel Romero",
-    "culture": "Andalusian Madrasa Lore",
-    "category": "Learning",
+    "quoteText": "Missing a train is only painful if you run after it!",
+    "quoteTextEN": "Missing a train is only painful if you run after it!",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010).",
+    "quoteMeaningAnalysis": "Much suffering comes from chasing what we have already decided we must have.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Risk & Uncertainty",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "aphorism",
+      "desire",
+      "freedom"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
     ]
   },
   {
     "id": "536",
-    "quoteText": "The curious ink-stained notebook teaches travelers to trace understanding through patient practice.",
-    "quoteTextEN": "The curious ink-stained notebook teaches travelers to trace understanding through patient practice.",
-    "quoteDescription": "Oluwaseun Adeyemi shares a learning image where a ink-stained notebook becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "Oluwaseun Adeyemi",
-    "culture": "Yoruba Learning Path",
-    "category": "Learning",
+    "quoteText": "The three most harmful addictions are heroin, carbohydrates, and a monthly salary.",
+    "quoteTextEN": "The three most harmful addictions are heroin, carbohydrates, and a monthly salary.",
+    "quoteDescription": "Aphorism from The Bed of Procrustes (2010).",
+    "quoteMeaningAnalysis": "A steady wage can trap people in dependency as surely as any chemical habit.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Risk & Uncertainty",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "aphorism",
+      "freedom",
+      "work"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
     ]
   },
   {
     "id": "537",
-    "quoteText": "The curious clay tablet invites students to learn the names of their mistakes.",
-    "quoteTextEN": "The curious clay tablet invites students to learn the names of their mistakes.",
-    "quoteDescription": "Mikhail Petrov shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Mikhail Petrov",
-    "culture": "Siberian Academy Tales",
-    "category": "Learning",
+    "quoteText": "The inability to predict outliers implies the inability to predict the course of history.",
+    "quoteTextEN": "The inability to predict outliers implies the inability to predict the course of history.",
+    "quoteDescription": "From the prologue of The Black Swan: The Impact of the Highly Improbable (2007).",
+    "quoteMeaningAnalysis": "Rare, extreme events drive history, so forecasts that ignore them miss what matters most.",
+    "author": "Nassim Nicholas Taleb",
+    "culture": "Modern (Risk)",
+    "category": "Risk & Uncertainty",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "black swan",
+      "prediction",
+      "uncertainty"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Nassim_Nicholas_Taleb"
     ]
   },
   {
     "id": "538",
-    "quoteText": "The curious clay tablet invites students to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious clay tablet invites students to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "June Park shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "June Park",
-    "culture": "Seoul Study Rooms",
-    "category": "Learning",
+    "quoteText": "上善若水。",
+    "quoteTextEN": "The highest good is like water.",
+    "quoteDescription": "From the Tao Te Ching, Chapter 8.",
+    "quoteMeaningAnalysis": "Water nourishes all things without competing and settles in low places others disdain; that is the model of virtue.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "water",
+      "humility",
+      "virtue"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://ctext.org/dao-de-jing",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "539",
-    "quoteText": "The curious clay tablet invites students to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious clay tablet invites students to honor the teachers they cannot see.",
-    "quoteDescription": "Luzviminda Cruz shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Luzviminda Cruz",
-    "culture": "Filipino Learning Stories",
-    "category": "Learning",
+    "quoteText": "知者不言，言者不知。",
+    "quoteTextEN": "Those who know do not speak; those who speak do not know.",
+    "quoteDescription": "From the Tao Te Ching, Chapter 56.",
+    "quoteMeaningAnalysis": "Deep understanding of the Tao resists explanation; loud certainty is a sign of shallow knowledge.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "silence",
+      "knowledge",
+      "humility"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://ctext.org/dao-de-jing",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "540",
-    "quoteText": "The curious clay tablet invites students to listen to silence between the facts.",
-    "quoteTextEN": "The curious clay tablet invites students to listen to silence between the facts.",
-    "quoteDescription": "Haruto Abe shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Haruto Abe",
-    "culture": "Sendai Apprenticeship",
-    "category": "Learning",
+    "quoteText": "天下莫柔弱於水，而攻堅強者莫之能勝。",
+    "quoteTextEN": "Nothing in the world is softer and weaker than water, yet for attacking the hard and strong nothing can surpass it.",
+    "quoteDescription": "From the Tao Te Ching, Chapter 78.",
+    "quoteMeaningAnalysis": "Yielding persistence overcomes rigid force in the end.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "water",
+      "softness",
+      "persistence"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://ctext.org/dao-de-jing",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "541",
-    "quoteText": "The curious clay tablet invites students to trade certainty for better questions.",
-    "quoteTextEN": "The curious clay tablet invites students to trade certainty for better questions.",
-    "quoteDescription": "Farid Mansouri shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Farid Mansouri",
-    "culture": "Casablanca Study House",
-    "category": "Learning",
+    "quoteText": "三十輻共一轂，當其無，有車之用。",
+    "quoteTextEN": "Thirty spokes share one hub; it is the empty space at the centre that makes the cart useful.",
+    "quoteDescription": "From the Tao Te Ching, Chapter 11.",
+    "quoteMeaningAnalysis": "Emptiness is not absence but function; what is not there makes what is there usable.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "emptiness",
+      "usefulness",
+      "design"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://ctext.org/dao-de-jing",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "542",
-    "quoteText": "The curious clay tablet invites students to trace understanding through patient practice.",
-    "quoteTextEN": "The curious clay tablet invites students to trace understanding through patient practice.",
-    "quoteDescription": "Helena Ruiz shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "Helena Ruiz",
-    "culture": "Galician Learning Circle",
-    "category": "Learning",
+    "quoteText": "治大國若烹小鮮。",
+    "quoteTextEN": "Governing a large state is like cooking a small fish.",
+    "quoteDescription": "From the Tao Te Ching, Chapter 60.",
+    "quoteMeaningAnalysis": "Too much stirring breaks a small fish apart; a large state also suffers from constant interference.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "governance",
+      "restraint",
+      "leadership"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://ctext.org/dao-de-jing",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "543",
-    "quoteText": "The curious clay tablet reminds scholars to learn the names of their mistakes.",
-    "quoteTextEN": "The curious clay tablet reminds scholars to learn the names of their mistakes.",
-    "quoteDescription": "Zhihao Lin shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Zhihao Lin",
-    "culture": "Guangzhou Scholar Tradition",
-    "category": "Learning",
+    "quoteText": "道可道，非常道。",
+    "quoteTextEN": "The Tao that can be told is not the eternal Tao.",
+    "quoteDescription": "Opening line of the Tao Te Ching, Chapter 1.",
+    "quoteMeaningAnalysis": "The ultimate reality exceeds any words or concepts used to describe it.",
+    "author": "Lao Tzu",
+    "culture": "Chinese",
+    "category": "Taoism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "tao",
+      "language",
+      "mystery"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://ctext.org/dao-de-jing",
+      "https://en.wikipedia.org/wiki/Tao_Te_Ching"
     ]
   },
   {
     "id": "544",
-    "quoteText": "The curious clay tablet reminds scholars to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious clay tablet reminds scholars to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Rashmi Kulkarni shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Rashmi Kulkarni",
-    "culture": "Pune Study Wisdom",
-    "category": "Learning",
+    "quoteText": "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
+    "quoteTextEN": "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
+    "quoteDescription": "From the Meditations, Book II.1 (George Long translation).",
+    "quoteMeaningAnalysis": "Expecting difficult people in advance removes the shock and lets you answer them without anger.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "preparation",
+      "patience",
+      "people"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/2680",
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius"
     ]
   },
   {
     "id": "545",
-    "quoteText": "The curious clay tablet reminds scholars to honor the teachers they cannot see.",
-    "quoteTextEN": "The curious clay tablet reminds scholars to honor the teachers they cannot see.",
-    "quoteDescription": "Isabel Romero shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to honor the teachers they cannot see.",
-    "author": "Isabel Romero",
-    "culture": "Andalusian Madrasa Lore",
-    "category": "Learning",
+    "quoteText": "ὁ κόσμος ἀλλοίωσις, ὁ βίος ὑπόληψις.",
+    "quoteTextEN": "The universe is transformation: life is opinion.",
+    "quoteDescription": "From the Meditations, Book IV.3 (George Long translation).",
+    "quoteMeaningAnalysis": "Everything changes, and how we experience life depends on the judgements we make about it.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "change",
+      "perception",
+      "judgement"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/2680",
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius"
     ]
   },
   {
     "id": "546",
-    "quoteText": "The curious clay tablet reminds scholars to listen to silence between the facts.",
-    "quoteTextEN": "The curious clay tablet reminds scholars to listen to silence between the facts.",
-    "quoteDescription": "Oluwaseun Adeyemi shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to listen to silence between the facts.",
-    "author": "Oluwaseun Adeyemi",
-    "culture": "Yoruba Learning Path",
-    "category": "Learning",
+    "quoteText": "That which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road.",
+    "quoteTextEN": "That which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road.",
+    "quoteDescription": "From the Meditations, Book V.20 (George Long translation).",
+    "quoteMeaningAnalysis": "An obstacle can become the material for virtue; the impediment to action advances action.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "obstacles",
+      "resilience",
+      "action"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/2680",
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius"
     ]
   },
   {
     "id": "547",
-    "quoteText": "The curious clay tablet reminds scholars to trade certainty for better questions.",
-    "quoteTextEN": "The curious clay tablet reminds scholars to trade certainty for better questions.",
-    "quoteDescription": "Mikhail Petrov shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trade certainty for better questions.",
-    "author": "Mikhail Petrov",
-    "culture": "Siberian Academy Tales",
-    "category": "Learning",
+    "quoteText": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
+    "quoteTextEN": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
+    "quoteDescription": "From the Meditations, Book VII.59 (George Long translation).",
+    "quoteMeaningAnalysis": "The source of goodness is internal and renewable, but it needs continual effort to reach.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "inner life",
+      "virtue",
+      "effort"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/2680",
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius"
     ]
   },
   {
     "id": "548",
-    "quoteText": "The curious clay tablet reminds scholars to trace understanding through patient practice.",
-    "quoteTextEN": "The curious clay tablet reminds scholars to trace understanding through patient practice.",
-    "quoteDescription": "June Park shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to trace understanding through patient practice.",
-    "author": "June Park",
-    "culture": "Seoul Study Rooms",
-    "category": "Learning",
+    "quoteText": "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good.",
+    "quoteTextEN": "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good.",
+    "quoteDescription": "From the Meditations, Book IV.17 (George Long translation).",
+    "quoteMeaningAnalysis": "Mortality is a reason to act well now rather than postpone it.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "mortality",
+      "urgency",
+      "goodness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/2680",
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius"
     ]
   },
   {
     "id": "549",
-    "quoteText": "The curious clay tablet encourages mentors to learn the names of their mistakes.",
-    "quoteTextEN": "The curious clay tablet encourages mentors to learn the names of their mistakes.",
-    "quoteDescription": "Luzviminda Cruz shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to learn the names of their mistakes.",
-    "author": "Luzviminda Cruz",
-    "culture": "Filipino Learning Stories",
-    "category": "Learning",
+    "quoteText": "Take care that thou art not made into a Caesar, that thou art not dyed with this dye.",
+    "quoteTextEN": "Take care that thou art not made into a Caesar, that thou art not dyed with this dye.",
+    "quoteDescription": "From the Meditations, Book VI.30 (George Long translation).",
+    "quoteMeaningAnalysis": "The emperor warns himself not to let power and position corrupt his character.",
+    "author": "Marcus Aurelius",
+    "culture": "Roman",
+    "category": "Stoicism",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "power",
+      "humility",
+      "character"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://www.gutenberg.org/ebooks/2680",
+      "https://en.wikiquote.org/wiki/Marcus_Aurelius"
     ]
   },
   {
     "id": "550",
-    "quoteText": "The curious clay tablet encourages mentors to rewrite the lesson when dawn shifts.",
-    "quoteTextEN": "The curious clay tablet encourages mentors to rewrite the lesson when dawn shifts.",
-    "quoteDescription": "Haruto Abe shares a learning image where a clay tablet becomes a guide toward approaching knowledge with open questions.",
-    "quoteMeaningAnalysis": "It suggests that learning unfolds when curiosity meets humility and urges us to rewrite the lesson when dawn shifts.",
-    "author": "Haruto Abe",
-    "culture": "Sendai Apprenticeship",
-    "category": "Learning",
+    "quoteText": "Talk is cheap. Show me the code.",
+    "quoteTextEN": "Talk is cheap. Show me the code.",
+    "quoteDescription": "Torvalds on the Linux kernel mailing list, 25 August 2000.",
+    "quoteMeaningAnalysis": "Proposals are judged by working implementations, not by argument.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "learning",
-      "curiosity",
-      "growth"
+      "code",
+      "pragmatism",
+      "open source"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Lifelong_learning",
-      "https://www.edutopia.org/article/importance-curiosity"
+      "https://en.wikiquote.org/wiki/Linus_Torvalds",
+      "https://lkml.org/lkml/2000/8/25/132"
     ]
   },
   {
     "id": "551",
-    "quoteText": "The measured water clock reminds pilgrims to tend the present like a slow garden.",
-    "quoteTextEN": "The measured water clock reminds pilgrims to tend the present like a slow garden.",
-    "quoteDescription": "Nia Thompson shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Nia Thompson",
-    "culture": "Gullah-Geechee Timekeepers",
-    "category": "Time",
+    "quoteText": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+    "quoteTextEN": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+    "quoteDescription": "Torvalds on the Git mailing list, 2006, explaining Git's design.",
+    "quoteMeaningAnalysis": "Get the data model right and the code follows; get it wrong and no amount of clever code saves it.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "data structures",
+      "design",
+      "programming"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Linus_Torvalds"
     ]
   },
   {
     "id": "552",
-    "quoteText": "The measured water clock reminds pilgrims to harvest patience before ambition.",
-    "quoteTextEN": "The measured water clock reminds pilgrims to harvest patience before ambition.",
-    "quoteDescription": "Ousmane Diallo shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Ousmane Diallo",
-    "culture": "Sahel Story Hour",
-    "category": "Time",
+    "quoteText": "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.",
+    "quoteTextEN": "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.",
+    "quoteDescription": "From Torvalds' announcement of what became Linux, posted to comp.os.minix on 25 August 1991.",
+    "quoteMeaningAnalysis": "One of the largest software projects in history began as a modestly described hobby.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "beginnings",
+      "humility",
+      "open source"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Linus_Torvalds"
     ]
   },
   {
     "id": "553",
-    "quoteText": "The measured water clock reminds pilgrims to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured water clock reminds pilgrims to savor pauses between heartbeat drums.",
-    "quoteDescription": "Lotte Schneider shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Lotte Schneider",
-    "culture": "Black Forest Clockmakers",
-    "category": "Time",
+    "quoteText": "Only wimps use tape backup: real men just upload their important stuff on ftp, and let the rest of the world mirror it ;)",
+    "quoteTextEN": "Only wimps use tape backup: real men just upload their important stuff on ftp, and let the rest of the world mirror it ;)",
+    "quoteDescription": "Torvalds on the linux-kernel mailing list, 1996.",
+    "quoteMeaningAnalysis": "A joke that captures the open-source idea: publish widely and the world becomes your backup.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "humour",
+      "backup",
+      "open source"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Linus_Torvalds"
     ]
   },
   {
     "id": "554",
-    "quoteText": "The measured water clock reminds pilgrims to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured water clock reminds pilgrims to trust the rhythm of unfinished work.",
-    "quoteDescription": "Aiko Yamashita shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Aiko Yamashita",
-    "culture": "Kyoto Temple Bells",
-    "category": "Time",
+    "quoteText": "We do not break userspace!",
+    "quoteTextEN": "We do not break userspace!",
+    "quoteDescription": "Torvalds on the Linux kernel mailing list, December 2012, rejecting a change that broke user programs.",
+    "quoteMeaningAnalysis": "Backward compatibility for users outranks the kernel developers' convenience.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "compatibility",
+      "users",
+      "engineering"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Linus_Torvalds"
     ]
   },
   {
     "id": "555",
-    "quoteText": "The measured water clock reminds pilgrims to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured water clock reminds pilgrims to measure journeys by the companions kept.",
-    "quoteDescription": "Mateus Oliveira shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Mateus Oliveira",
-    "culture": "Lisbon Tide Charts",
-    "category": "Time",
+    "quoteText": "If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.",
+    "quoteTextEN": "If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.",
+    "quoteDescription": "From the Linux kernel coding style document (Documentation/process/coding-style.rst).",
+    "quoteMeaningAnalysis": "Deep nesting signals a function doing too much; restructure instead of indenting.",
+    "author": "Linus Torvalds",
+    "culture": "Modern (Software)",
+    "category": "Software Engineering",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "code style",
+      "simplicity",
+      "programming"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Linus_Torvalds",
+      "https://www.kernel.org/doc/html/latest/process/coding-style.html"
     ]
   },
   {
     "id": "556",
-    "quoteText": "The measured water clock reminds pilgrims to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured water clock reminds pilgrims to let endings ripen into new beginnings.",
-    "quoteDescription": "Abena Owusu shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Abena Owusu",
-    "culture": "Akan Calendar Wisdom",
-    "category": "Time",
+    "quoteText": "The hottest new programming language is English.",
+    "quoteTextEN": "The hottest new programming language is English.",
+    "quoteDescription": "Post on X (Twitter) by Karpathy, January 2023.",
+    "quoteMeaningAnalysis": "With large language models, natural-language instructions become a way to program computers.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "LLMs",
+      "programming",
+      "language"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://karpathy.github.io/"
     ]
   },
   {
     "id": "557",
-    "quoteText": "The measured water clock teaches caretakers to tend the present like a slow garden.",
-    "quoteTextEN": "The measured water clock teaches caretakers to tend the present like a slow garden.",
-    "quoteDescription": "Levi Stern shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Levi Stern",
-    "culture": "Kibbutz Orchard Lessons",
-    "category": "Time",
+    "quoteText": "Neural networks are not just another classifier, they represent the beginning of a fundamental shift in how we develop software. They are Software 2.0.",
+    "quoteTextEN": "Neural networks are not just another classifier, they represent the beginning of a fundamental shift in how we develop software. They are Software 2.0.",
+    "quoteDescription": "From Karpathy's essay 'Software 2.0', November 2017.",
+    "quoteMeaningAnalysis": "Instead of writing rules by hand, we specify goals and data and let optimisation write the program.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "software 2.0",
+      "neural networks",
+      "programming"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://karpathy.github.io/",
+      "https://karpathy.medium.com/software-2-0-a64152b37c35"
     ]
   },
   {
     "id": "558",
-    "quoteText": "The measured water clock teaches caretakers to harvest patience before ambition.",
-    "quoteTextEN": "The measured water clock teaches caretakers to harvest patience before ambition.",
-    "quoteDescription": "Selam Tesfaye shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Selam Tesfaye",
-    "culture": "Eritrean Coffee Ceremonies",
-    "category": "Time",
+    "quoteText": "Neural net training is a leaky abstraction.",
+    "quoteTextEN": "Neural net training is a leaky abstraction.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "Libraries make training look plug-and-play, but you must understand what happens underneath to make it work.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "deep learning",
+      "abstraction",
+      "craft"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://karpathy.github.io/",
+      "https://karpathy.github.io/2019/04/25/recipe/"
     ]
   },
   {
     "id": "559",
-    "quoteText": "The measured water clock teaches caretakers to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured water clock teaches caretakers to savor pauses between heartbeat drums.",
-    "quoteDescription": "Ibrahim Ghali shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Ibrahim Ghali",
-    "culture": "Oasis Caravan Chronicle",
-    "category": "Time",
+    "quoteText": "Neural net training fails silently.",
+    "quoteTextEN": "Neural net training fails silently.",
+    "quoteDescription": "From Karpathy's blog post 'A Recipe for Training Neural Networks', April 2019.",
+    "quoteMeaningAnalysis": "A misconfigured network usually still trains, just worse, so bugs hide unless you inspect everything.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "debugging",
+      "deep learning",
+      "rigour"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://karpathy.github.io/",
+      "https://karpathy.github.io/2019/04/25/recipe/"
     ]
   },
   {
     "id": "560",
-    "quoteText": "The measured water clock teaches caretakers to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured water clock teaches caretakers to trust the rhythm of unfinished work.",
-    "quoteDescription": "Juniper Hayes shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Juniper Hayes",
-    "culture": "Cascadian Seasonal Notes",
-    "category": "Time",
+    "quoteText": "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.",
+    "quoteTextEN": "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.",
+    "quoteDescription": "Post on X (Twitter) by Karpathy, February 2025, coining the term.",
+    "quoteMeaningAnalysis": "Names a style of building software by directing an AI model and accepting its output without reading the code.",
+    "author": "Andrej Karpathy",
+    "culture": "Modern (AI)",
+    "category": "Artificial Intelligence",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "vibe coding",
+      "AI",
+      "programming"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://karpathy.github.io/"
     ]
   },
   {
     "id": "561",
-    "quoteText": "The measured water clock teaches caretakers to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured water clock teaches caretakers to measure journeys by the companions kept.",
-    "quoteDescription": "Nia Thompson shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Nia Thompson",
-    "culture": "Gullah-Geechee Timekeepers",
-    "category": "Time",
+    "quoteText": "A system is an interconnected set of elements that is coherently organized in a way that achieves something.",
+    "quoteTextEN": "A system is an interconnected set of elements that is coherently organized in a way that achieves something.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), Chapter 1.",
+    "quoteMeaningAnalysis": "A system is defined by elements, interconnections and a purpose, not by its parts alone.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "systems",
+      "definition",
+      "structure"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "Donella H. Meadows, Thinking in Systems: A Primer (Chelsea Green, 2008)",
+      "https://donellameadows.org/archives/dancing-with-systems/"
     ]
   },
   {
     "id": "562",
-    "quoteText": "The measured water clock teaches caretakers to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured water clock teaches caretakers to let endings ripen into new beginnings.",
-    "quoteDescription": "Ousmane Diallo shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Ousmane Diallo",
-    "culture": "Sahel Story Hour",
-    "category": "Time",
+    "quoteText": "We can't control systems or figure them out. But we can dance with them!",
+    "quoteTextEN": "We can't control systems or figure them out. But we can dance with them!",
+    "quoteDescription": "From Meadows' essay 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "Complex systems resist command; the skilful response is attentive, adaptive participation.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "systems",
+      "humility",
+      "adaptation"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "Donella H. Meadows, Thinking in Systems: A Primer (Chelsea Green, 2008)",
+      "https://donellameadows.org/archives/dancing-with-systems/"
     ]
   },
   {
     "id": "563",
-    "quoteText": "The measured water clock invites gardeners to tend the present like a slow garden.",
-    "quoteTextEN": "The measured water clock invites gardeners to tend the present like a slow garden.",
-    "quoteDescription": "Lotte Schneider shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Lotte Schneider",
-    "culture": "Black Forest Clockmakers",
-    "category": "Time",
+    "quoteText": "Remember, always, that everything you know, and everything everyone knows, is only a model.",
+    "quoteTextEN": "Remember, always, that everything you know, and everything everyone knows, is only a model.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), Chapter 7.",
+    "quoteMeaningAnalysis": "Every mental model simplifies the world; hold yours openly and test it against reality.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "models",
+      "humility",
+      "knowledge"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "Donella H. Meadows, Thinking in Systems: A Primer (Chelsea Green, 2008)",
+      "https://donellameadows.org/archives/dancing-with-systems/"
     ]
   },
   {
     "id": "564",
-    "quoteText": "The measured water clock invites gardeners to harvest patience before ambition.",
-    "quoteTextEN": "The measured water clock invites gardeners to harvest patience before ambition.",
-    "quoteDescription": "Aiko Yamashita shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Aiko Yamashita",
-    "culture": "Kyoto Temple Bells",
-    "category": "Time",
+    "quoteText": "Pay attention to what is important, not just what is quantifiable.",
+    "quoteTextEN": "Pay attention to what is important, not just what is quantifiable.",
+    "quoteDescription": "From Meadows' essay 'Dancing with Systems' (2001).",
+    "quoteMeaningAnalysis": "What is easy to measure crowds out what matters; quality deserves attention even when it resists numbers.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "measurement",
+      "values",
+      "attention"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "Donella H. Meadows, Thinking in Systems: A Primer (Chelsea Green, 2008)",
+      "https://donellameadows.org/archives/dancing-with-systems/"
     ]
   },
   {
     "id": "565",
-    "quoteText": "The measured water clock invites gardeners to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured water clock invites gardeners to savor pauses between heartbeat drums.",
-    "quoteDescription": "Mateus Oliveira shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Mateus Oliveira",
-    "culture": "Lisbon Tide Charts",
-    "category": "Time",
+    "quoteText": "The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system's behavior.",
+    "quoteTextEN": "The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system's behavior.",
+    "quoteDescription": "From Thinking in Systems: A Primer (2008), Chapter 1.",
+    "quoteMeaningAnalysis": "To understand a system, watch what it actually does rather than what it claims to aim for.",
+    "author": "Donella Meadows",
+    "culture": "Modern (Systems)",
+    "category": "Systems Thinking",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "purpose",
+      "systems",
+      "behaviour"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "Donella H. Meadows, Thinking in Systems: A Primer (Chelsea Green, 2008)",
+      "https://donellameadows.org/archives/dancing-with-systems/"
     ]
   },
   {
     "id": "566",
-    "quoteText": "The measured water clock invites gardeners to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured water clock invites gardeners to trust the rhythm of unfinished work.",
-    "quoteDescription": "Abena Owusu shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Abena Owusu",
-    "culture": "Akan Calendar Wisdom",
-    "category": "Time",
+    "quoteText": "我事において後悔をせず。",
+    "quoteTextEN": "Do not regret what you have done.",
+    "quoteDescription": "One of the 21 precepts of the Dokkōdō, written by Musashi in 1645, shortly before his death.",
+    "quoteMeaningAnalysis": "Act with full commitment and let the past go; regret consumes the attention the present needs.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "regret",
+      "commitment",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D"
     ]
   },
   {
     "id": "567",
-    "quoteText": "The measured water clock invites gardeners to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured water clock invites gardeners to measure journeys by the companions kept.",
-    "quoteDescription": "Levi Stern shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Levi Stern",
-    "culture": "Kibbutz Orchard Lessons",
-    "category": "Time",
+    "quoteText": "仏神は貴し仏神をたのまず。",
+    "quoteTextEN": "Respect Buddha and the gods without counting on their help.",
+    "quoteDescription": "One of the 21 precepts of the Dokkōdō (1645).",
+    "quoteMeaningAnalysis": "Reverence is proper, but outcomes depend on your own effort.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "self-reliance",
+      "respect",
+      "discipline"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D"
     ]
   },
   {
     "id": "568",
-    "quoteText": "The measured water clock invites gardeners to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured water clock invites gardeners to let endings ripen into new beginnings.",
-    "quoteDescription": "Selam Tesfaye shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Selam Tesfaye",
-    "culture": "Eritrean Coffee Ceremonies",
-    "category": "Time",
+    "quoteText": "If you know the Way broadly you will see it in everything.",
+    "quoteTextEN": "If you know the Way broadly you will see it in everything.",
+    "quoteDescription": "From The Book of Five Rings (Go Rin no Sho, c. 1645), the Ground Book (Victor Harris translation).",
+    "quoteMeaningAnalysis": "Mastery of one discipline, understood deeply, reveals the principles shared by all.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "mastery",
+      "strategy",
+      "the way"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D"
     ]
   },
   {
     "id": "569",
-    "quoteText": "The measured water clock asks elders to tend the present like a slow garden.",
-    "quoteTextEN": "The measured water clock asks elders to tend the present like a slow garden.",
-    "quoteDescription": "Ibrahim Ghali shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Ibrahim Ghali",
-    "culture": "Oasis Caravan Chronicle",
-    "category": "Time",
+    "quoteText": "You should not have a favourite weapon. To become over-familiar with one weapon is as much a fault as not knowing it sufficiently well.",
+    "quoteTextEN": "You should not have a favourite weapon. To become over-familiar with one weapon is as much a fault as not knowing it sufficiently well.",
+    "quoteDescription": "From The Book of Five Rings, the Ground Book (Victor Harris translation).",
+    "quoteMeaningAnalysis": "Attachment to one tool narrows your options; fit the tool to the situation.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "adaptability",
+      "tools",
+      "strategy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D"
     ]
   },
   {
     "id": "570",
-    "quoteText": "The measured water clock asks elders to harvest patience before ambition.",
-    "quoteTextEN": "The measured water clock asks elders to harvest patience before ambition.",
-    "quoteDescription": "Juniper Hayes shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Juniper Hayes",
-    "culture": "Cascadian Seasonal Notes",
-    "category": "Time",
+    "quoteText": "観の目つよく、見の目よわく。",
+    "quoteTextEN": "Perception is strong and sight weak.",
+    "quoteDescription": "From The Book of Five Rings, the Water Book, on the gaze in combat.",
+    "quoteMeaningAnalysis": "Take in the whole situation and its intent rather than fixating on surface movements.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "perception",
+      "awareness",
+      "strategy"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D"
     ]
   },
   {
     "id": "571",
-    "quoteText": "The measured water clock asks elders to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured water clock asks elders to savor pauses between heartbeat drums.",
-    "quoteDescription": "Nia Thompson shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Nia Thompson",
-    "culture": "Gullah-Geechee Timekeepers",
-    "category": "Time",
+    "quoteText": "Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.",
+    "quoteTextEN": "Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.",
+    "quoteDescription": "From The Book of Five Rings, the Water Book (Victor Harris translation).",
+    "quoteMeaningAnalysis": "Daily self-improvement comes first; superiority over others is its by-product.",
+    "author": "Miyamoto Musashi",
+    "culture": "Japanese",
+    "category": "Strategy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "self-improvement",
+      "discipline",
+      "practice"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikipedia.org/wiki/The_Book_of_Five_Rings",
+      "https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D"
     ]
   },
   {
     "id": "572",
-    "quoteText": "The measured water clock asks elders to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured water clock asks elders to trust the rhythm of unfinished work.",
-    "quoteDescription": "Ousmane Diallo shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Ousmane Diallo",
-    "culture": "Sahel Story Hour",
-    "category": "Time",
+    "quoteText": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+    "quoteTextEN": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+    "quoteDescription": "From The Wisdom of Insecurity (1951).",
+    "quoteMeaningAnalysis": "Resisting change only adds suffering; understanding comes from participating in it.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "change",
+      "acceptance",
+      "flow"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Alan_Watts"
     ]
   },
   {
     "id": "573",
-    "quoteText": "The measured water clock asks elders to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured water clock asks elders to measure journeys by the companions kept.",
-    "quoteDescription": "Lotte Schneider shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Lotte Schneider",
-    "culture": "Black Forest Clockmakers",
-    "category": "Time",
+    "quoteText": "The desire for security and the feeling of insecurity are the same thing. To hold your breath is to lose your breath.",
+    "quoteTextEN": "The desire for security and the feeling of insecurity are the same thing. To hold your breath is to lose your breath.",
+    "quoteDescription": "From The Wisdom of Insecurity (1951).",
+    "quoteMeaningAnalysis": "Clinging to safety is itself the anxiety it tries to escape.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "security",
+      "anxiety",
+      "letting go"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Alan_Watts"
     ]
   },
   {
     "id": "574",
-    "quoteText": "The measured water clock asks elders to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured water clock asks elders to let endings ripen into new beginnings.",
-    "quoteDescription": "Aiko Yamashita shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Aiko Yamashita",
-    "culture": "Kyoto Temple Bells",
-    "category": "Time",
+    "quoteText": "If I want to be secure, that is, protected from the flux of life, I am wanting to be separate from life.",
+    "quoteTextEN": "If I want to be secure, that is, protected from the flux of life, I am wanting to be separate from life.",
+    "quoteDescription": "From The Wisdom of Insecurity (1951).",
+    "quoteMeaningAnalysis": "Total protection from change would mean being cut off from life, which is change.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "security",
+      "life",
+      "flux"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Alan_Watts"
     ]
   },
   {
     "id": "575",
-    "quoteText": "The measured water clock encourages artists to tend the present like a slow garden.",
-    "quoteTextEN": "The measured water clock encourages artists to tend the present like a slow garden.",
-    "quoteDescription": "Mateus Oliveira shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Mateus Oliveira",
-    "culture": "Lisbon Tide Charts",
-    "category": "Time",
+    "quoteText": "Tomorrow and plans for tomorrow can have no significance at all unless you are in full contact with the reality of the present, since it is in the present and only in the present that you live.",
+    "quoteTextEN": "Tomorrow and plans for tomorrow can have no significance at all unless you are in full contact with the reality of the present, since it is in the present and only in the present that you live.",
+    "quoteDescription": "From The Wisdom of Insecurity (1951).",
+    "quoteMeaningAnalysis": "Planning has value only for someone actually present to live the future when it arrives.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "time",
-      "patience",
+      "present moment",
+      "planning",
       "mindfulness"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Alan_Watts"
     ]
   },
   {
     "id": "576",
-    "quoteText": "The measured water clock encourages artists to harvest patience before ambition.",
-    "quoteTextEN": "The measured water clock encourages artists to harvest patience before ambition.",
-    "quoteDescription": "Abena Owusu shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Abena Owusu",
-    "culture": "Akan Calendar Wisdom",
-    "category": "Time",
+    "quoteText": "We do not 'come into' this world; we come out of it, as leaves from a tree.",
+    "quoteTextEN": "We do not 'come into' this world; we come out of it, as leaves from a tree.",
+    "quoteDescription": "From The Book: On the Taboo Against Knowing Who You Are (1966).",
+    "quoteMeaningAnalysis": "Humans are not visitors to nature but expressions of it.",
+    "author": "Alan Watts",
+    "culture": "Modern (Philosophy)",
+    "category": "Philosophy",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "nature",
+      "identity",
+      "belonging"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://en.wikiquote.org/wiki/Alan_Watts"
     ]
   },
   {
     "id": "577",
-    "quoteText": "The measured water clock encourages artists to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured water clock encourages artists to savor pauses between heartbeat drums.",
-    "quoteDescription": "Levi Stern shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Levi Stern",
-    "culture": "Kibbutz Orchard Lessons",
-    "category": "Time",
+    "quoteText": "The Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
+    "quoteTextEN": "The Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
+    "quoteDescription": "From Lovelace's Note A to her translation of Menabrea's 'Sketch of the Analytical Engine' (1843).",
+    "quoteMeaningAnalysis": "Computation is pattern-making; a machine that manipulates symbols can produce more than numbers.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Computing",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "computing",
+      "patterns",
+      "imagination"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.fourmilab.ch/babbage/sketch.html"
     ]
   },
   {
     "id": "578",
-    "quoteText": "The measured water clock encourages artists to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured water clock encourages artists to trust the rhythm of unfinished work.",
-    "quoteDescription": "Selam Tesfaye shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Selam Tesfaye",
-    "culture": "Eritrean Coffee Ceremonies",
-    "category": "Time",
+    "quoteText": "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.",
+    "quoteTextEN": "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.",
+    "quoteDescription": "From Lovelace's Note G (1843).",
+    "quoteMeaningAnalysis": "Machines carry out instructions; originality lies with whoever writes them, an argument later answered by Turing as 'Lady Lovelace's objection'.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Computing",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "computing",
+      "creativity",
+      "AI"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.fourmilab.ch/babbage/sketch.html"
     ]
   },
   {
     "id": "579",
-    "quoteText": "The measured water clock encourages artists to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured water clock encourages artists to measure journeys by the companions kept.",
-    "quoteDescription": "Ibrahim Ghali shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Ibrahim Ghali",
-    "culture": "Oasis Caravan Chronicle",
-    "category": "Time",
+    "quoteText": "The engine might compose elaborate and scientific pieces of music of any degree of complexity or extent.",
+    "quoteTextEN": "The engine might compose elaborate and scientific pieces of music of any degree of complexity or extent.",
+    "quoteDescription": "From Lovelace's Note A (1843), on symbols that could stand for musical pitch.",
+    "quoteMeaningAnalysis": "If any domain can be expressed in symbols, a general-purpose machine can work in it, music included.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Computing",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "computing",
+      "music",
+      "vision"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.fourmilab.ch/babbage/sketch.html"
     ]
   },
   {
     "id": "580",
-    "quoteText": "The measured water clock encourages artists to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured water clock encourages artists to let endings ripen into new beginnings.",
-    "quoteDescription": "Juniper Hayes shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Juniper Hayes",
-    "culture": "Cascadian Seasonal Notes",
-    "category": "Time",
+    "quoteText": "One essential object is to choose that arrangement which shall tend to reduce to a minimum the time necessary for completing the calculation.",
+    "quoteTextEN": "One essential object is to choose that arrangement which shall tend to reduce to a minimum the time necessary for completing the calculation.",
+    "quoteDescription": "From Lovelace's Note D (1843), on ordering the engine's operations.",
+    "quoteMeaningAnalysis": "An early statement of algorithmic efficiency: the order of steps determines the cost of a computation.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Computing",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "algorithms",
+      "efficiency",
+      "computing"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.fourmilab.ch/babbage/sketch.html"
     ]
   },
   {
     "id": "581",
-    "quoteText": "The measured water clock whispers to dreamers to tend the present like a slow garden.",
-    "quoteTextEN": "The measured water clock whispers to dreamers to tend the present like a slow garden.",
-    "quoteDescription": "Nia Thompson shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to tend the present like a slow garden.",
-    "author": "Nia Thompson",
-    "culture": "Gullah-Geechee Timekeepers",
-    "category": "Time",
+    "quoteText": "Imagination is the Discovering Faculty, pre-eminently.",
+    "quoteTextEN": "Imagination is the Discovering Faculty, pre-eminently.",
+    "quoteDescription": "From Lovelace's essay 'The Discovering Faculty' (1841), reproduced in Betty A. Toole, Ada, the Enchantress of Numbers.",
+    "quoteMeaningAnalysis": "Science advances through imagination that sees what is not yet visible.",
+    "author": "Ada Lovelace",
+    "culture": "Victorian England",
+    "category": "Computing",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "imagination",
+      "discovery",
+      "science"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.fourmilab.ch/babbage/sketch.html",
+      "Betty A. Toole, Ada, the Enchantress of Numbers (Strawberry Press, 1992)"
     ]
   },
   {
     "id": "582",
-    "quoteText": "The measured water clock whispers to dreamers to harvest patience before ambition.",
-    "quoteTextEN": "The measured water clock whispers to dreamers to harvest patience before ambition.",
-    "quoteDescription": "Ousmane Diallo shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to harvest patience before ambition.",
-    "author": "Ousmane Diallo",
-    "culture": "Sahel Story Hour",
-    "category": "Time",
+    "quoteText": "Weniger, aber besser.",
+    "quoteTextEN": "Less, but better.",
+    "quoteDescription": "Rams' design motto and the title of his 1995 book.",
+    "quoteMeaningAnalysis": "Strip away the inessential so that what remains can be done well.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "minimalism",
+      "design",
+      "quality"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.vitsoe.com/gb/about/good-design",
+      "Dieter Rams, Weniger, aber besser / Less but Better (1995)"
     ]
   },
   {
     "id": "583",
-    "quoteText": "The measured water clock whispers to dreamers to savor pauses between heartbeat drums.",
-    "quoteTextEN": "The measured water clock whispers to dreamers to savor pauses between heartbeat drums.",
-    "quoteDescription": "Lotte Schneider shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to savor pauses between heartbeat drums.",
-    "author": "Lotte Schneider",
-    "culture": "Black Forest Clockmakers",
-    "category": "Time",
+    "quoteText": "Gutes Design ist so wenig Design wie möglich.",
+    "quoteTextEN": "Good design is as little design as possible.",
+    "quoteDescription": "The tenth of Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Design should concentrate on the essential and not burden a product with the non-essential.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "minimalism",
+      "simplicity",
+      "design"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.vitsoe.com/gb/about/good-design"
     ]
   },
   {
     "id": "584",
-    "quoteText": "The measured water clock whispers to dreamers to trust the rhythm of unfinished work.",
-    "quoteTextEN": "The measured water clock whispers to dreamers to trust the rhythm of unfinished work.",
-    "quoteDescription": "Aiko Yamashita shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to trust the rhythm of unfinished work.",
-    "author": "Aiko Yamashita",
-    "culture": "Kyoto Temple Bells",
-    "category": "Time",
+    "quoteText": "Gutes Design ist ehrlich.",
+    "quoteTextEN": "Good design is honest.",
+    "quoteDescription": "One of Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "A product should not appear more innovative, powerful or valuable than it is, nor manipulate the buyer.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "honesty",
+      "ethics",
+      "design"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.vitsoe.com/gb/about/good-design"
     ]
   },
   {
     "id": "585",
-    "quoteText": "The measured water clock whispers to dreamers to measure journeys by the companions kept.",
-    "quoteTextEN": "The measured water clock whispers to dreamers to measure journeys by the companions kept.",
-    "quoteDescription": "Mateus Oliveira shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to measure journeys by the companions kept.",
-    "author": "Mateus Oliveira",
-    "culture": "Lisbon Tide Charts",
-    "category": "Time",
+    "quoteText": "Gutes Design ist langlebig.",
+    "quoteTextEN": "Good design is long-lasting.",
+    "quoteDescription": "One of Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "Avoid fashion so products stay useful and appreciated for years, against a throwaway culture.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "durability",
+      "sustainability",
+      "design"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.vitsoe.com/gb/about/good-design"
     ]
   },
   {
     "id": "586",
-    "quoteText": "The measured water clock whispers to dreamers to let endings ripen into new beginnings.",
-    "quoteTextEN": "The measured water clock whispers to dreamers to let endings ripen into new beginnings.",
-    "quoteDescription": "Abena Owusu shares a time image where a water clock becomes a guide toward honoring cycles and seasons.",
-    "quoteMeaningAnalysis": "It suggests that time rewards those who move with intention and patience and urges us to let endings ripen into new beginnings.",
-    "author": "Abena Owusu",
-    "culture": "Akan Calendar Wisdom",
-    "category": "Time",
+    "quoteText": "Gutes Design macht ein Produkt verständlich.",
+    "quoteTextEN": "Good design makes a product understandable.",
+    "quoteDescription": "One of Rams' ten principles for good design.",
+    "quoteMeaningAnalysis": "A well-designed product explains its own use, ideally without words.",
+    "author": "Dieter Rams",
+    "culture": "German",
+    "category": "Design",
     "tags": [
-      "time",
-      "patience",
-      "mindfulness"
+      "clarity",
+      "usability",
+      "design"
     ],
     "resources": [
-      "https://en.wikipedia.org/wiki/Time_management",
-      "https://www.psychologytoday.com/us/basics/time"
+      "https://www.vitsoe.com/gb/about/good-design"
     ]
   },
   {
