@@ -5,7 +5,6 @@ const quoteMetaEl = document.getElementById('quoteMeta');
 
 const displayDuration = 8000; // time quote stays visible
 const transitionDuration = 600; // fade-out duration before switching
-const bundledQuotes = Array.isArray(window.QUOTES_DATA) ? window.QUOTES_DATA : null;
 let cycleTimer = null;
 let quotes = [];
 let currentIndex = 0;
@@ -16,13 +15,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuotes() {
   try {
-    const latestQuotes = await fetchLatestQuotes();
-    const dataToUse = Array.isArray(latestQuotes) && latestQuotes.length > 0
-      ? latestQuotes
-      : bundledQuotes;
+    const dataToUse = await fetchLatestQuotes() || await fetchQuotes('quotes-data.js', {});
 
     if (!dataToUse || dataToUse.length === 0) {
-      throw new Error('The bundled quote dataset is unavailable.');
+      throw new Error('The quote dataset is unavailable.');
     }
 
     initializeQuotes(dataToUse);
@@ -39,10 +35,13 @@ async function loadQuotes() {
   }
 }
 
-async function fetchLatestQuotes() {
+function fetchLatestQuotes() {
+  return fetchQuotes(`quotes-data.js?refresh=${Date.now()}`, { cache: 'no-store' });
+}
+
+async function fetchQuotes(url, options) {
   try {
-    const cacheBustingUrl = `quotes-data.js?refresh=${Date.now()}`;
-    const response = await fetch(cacheBustingUrl, { cache: 'no-store', credentials: 'same-origin' });
+    const response = await fetch(url, { ...options, credentials: 'same-origin' });
 
     if (!response.ok) {
       throw new Error(`Failed to fetch latest quotes dataset: ${response.status}`);
@@ -56,7 +55,7 @@ async function fetchLatestQuotes() {
       return extractedQuotes;
     }
   } catch (error) {
-    console.warn('Falling back to bundled quotes dataset.', error);
+    console.warn('Quotes dataset fetch failed.', error);
   }
 
   return null;
